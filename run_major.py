@@ -61,6 +61,7 @@ for iteration in range(5):
     #pdb.set_trace()
             torch.save(ooa_failed_cases,'ooa_failed_cases_{0}.pt'.format(experiment_name))
             torch.save(im_failed_cases,'im_failed_cases_{0}.pt'.format(experiment_name))
+            ooa_data=torch.load('ooa_failed_cases_{0}.pt'.format(experiment_name))+torch.load('im_failed_cases_{0}.pt'.format(experiment_name))
         instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'','nli',experiment_name+'_'+str(iteration),'Medical',data_num=20)
     else:
         ooa_data=torch.load('ooa_failed_cases_{0}_{1}.pt'.format(experiment_name,iteration-1))+torch.load('im_failed_cases_{0}_{1}.pt'.format(experiment_name,iteration-1))
