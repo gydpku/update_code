@@ -105,43 +105,47 @@ for iteration in range(2,5):
         torch.save(names_valid,'{0}_names_valid.pt'.format(experiment_name+'_'+str(iteration)))
     pdb.set_trace()
     
-
-    model_paths = [os.path.join(output_path, model_name+'_model') for model_name in names]
-    valid_performance=[]
-    ooa_failed_cases, im_failed_cases, correct_cases=process_nli_validation_batch_major(global_best_model_path, valid_data,seed=False, iteration=100) 
-    prev_performance=len(correct_cases)/len(valid_data) #len(c_test)/(len(c_test)+len(f_test))
-    for model_path in model_paths:
-        #f_test,c_test=valid_results_collect(model_path, valid_data, 'nli')
-        ooa_failed_cases, im_failed_cases, correct_cases=process_nli_validation_batch_major(model_path, valid_data,seed=False, iteration=100)
-        valid_performance.append(len(correct_cases)/len(valid_data)) #len(c_test)/(len(c_test)+len(f_test)))
-    max_valid_performance=max(valid_performance)
-    max_index=valid_performance.index(max_valid_performance)
-    cur_best_path=model_paths[max_index]
-    if max_valid_performance>=prev_performance:
+    try:
+        global_best_model_path=torch.load('global_best_model_path_{0}_{1}.pt'.format(experiment_name,iteration))
+        global_best_data_name=torch.load('global_best_data_name_{0}_{1}.pt'.format(experiment_name,iteration))
+        cur_best_path=torch.load('cur_best_path_{0}_{1}.pt'.format(experiment_name,iteration))
+    except:
+        model_paths = [os.path.join(output_path, model_name+'_model') for model_name in names]
+        valid_performance=[]
+        ooa_failed_cases, im_failed_cases, correct_cases=process_nli_validation_batch_major(global_best_model_path, valid_data,seed=False, iteration=100) 
+        prev_performance=len(correct_cases)/len(valid_data) #len(c_test)/(len(c_test)+len(f_test))
+        for model_path in model_paths:
+            #f_test,c_test=valid_results_collect(model_path, valid_data, 'nli')
+            ooa_failed_cases, im_failed_cases, correct_cases=process_nli_validation_batch_major(model_path, valid_data,seed=False, iteration=100)
+            valid_performance.append(len(correct_cases)/len(valid_data)) #len(c_test)/(len(c_test)+len(f_test)))
+        max_valid_performance=max(valid_performance)
         max_index=valid_performance.index(max_valid_performance)
-        global_best_model_path=model_paths[max_index]
-        for key in names_dataset:
-            if key in model_paths[max_index]:
-                global_best_data_name=names_dataset[key]
-                break
-        remove_previous_folders(experiment_name,iteration)
-        print('Update sucessfully!',max_valid_performance,prev_performance,global_best_model_path,global_best_data_name,valid_performance)
-    f_test,c_test=valid_results_collect(global_best_model_path, test_examples, 'nli')
-    avg_test_acc=len(c_test)/(len(c_test)+len(f_test))
-    print(len(c_test)/(len(c_test)+len(f_test)),'avg_acc')
-    torch.save(global_best_model_path,'global_best_model_path_{0}_{1}.pt'.format(experiment_name,iteration))
-    torch.save(global_best_data_name,'global_best_data_name_{0}_{1}.pt'.format(experiment_name,iteration))
-    torch.save(cur_best_path,'cur_best_path_{0}_{1}.pt'.format(experiment_name,iteration))
-    logging.info("Logging important variables:")
-    logging.info(f"Iteration {iteration}: max_valid_performance = {max_valid_performance}")
-    logging.info(f"Iteration {iteration}: prev_performance = {prev_performance}")
-    logging.info(f"Iteration {iteration}: global_best_model_path = {global_best_model_path}")
-    logging.info(f"Iteration {iteration}: cur_best_path = {cur_best_path}")
-    logging.info(f"Iteration {iteration}: global_best_data_name = {global_best_data_name}")
-    logging.info(f"Iteration {iteration}: valid_performance = {valid_performance}")
-    logging.info(f"Iteration {iteration}: names = {names}")
-    logging.info(f"Iteration {iteration}: names_dataset = {names_dataset}")
-    logging.info(f"Iteration {iteration}: avg_test_acc = {avg_test_acc}")
+        cur_best_path=model_paths[max_index]
+        if max_valid_performance>=prev_performance:
+            max_index=valid_performance.index(max_valid_performance)
+            global_best_model_path=model_paths[max_index]
+            for key in names_dataset:
+                if key in model_paths[max_index]:
+                    global_best_data_name=names_dataset[key]
+                    break
+            remove_previous_folders(experiment_name,iteration)
+            print('Update sucessfully!',max_valid_performance,prev_performance,global_best_model_path,global_best_data_name,valid_performance)
+        f_test,c_test=valid_results_collect(global_best_model_path, test_examples, 'nli')
+        avg_test_acc=len(c_test)/(len(c_test)+len(f_test))
+        print(len(c_test)/(len(c_test)+len(f_test)),'avg_acc')
+        torch.save(global_best_model_path,'global_best_model_path_{0}_{1}.pt'.format(experiment_name,iteration))
+        torch.save(global_best_data_name,'global_best_data_name_{0}_{1}.pt'.format(experiment_name,iteration))
+        torch.save(cur_best_path,'cur_best_path_{0}_{1}.pt'.format(experiment_name,iteration))
+        logging.info("Logging important variables:")
+        logging.info(f"Iteration {iteration}: max_valid_performance = {max_valid_performance}")
+        logging.info(f"Iteration {iteration}: prev_performance = {prev_performance}")
+        logging.info(f"Iteration {iteration}: global_best_model_path = {global_best_model_path}")
+        logging.info(f"Iteration {iteration}: cur_best_path = {cur_best_path}")
+        logging.info(f"Iteration {iteration}: global_best_data_name = {global_best_data_name}")
+        logging.info(f"Iteration {iteration}: valid_performance = {valid_performance}")
+        logging.info(f"Iteration {iteration}: names = {names}")
+        logging.info(f"Iteration {iteration}: names_dataset = {names_dataset}")
+        logging.info(f"Iteration {iteration}: avg_test_acc = {avg_test_acc}")
     #search_name=experiment_name+'_'+str(iteration)+'all_mix_test'
     #best_path=bayesian_search(names,names_valid,task='nli') #find_best_combination(model_path,test_examples,test_examples, search_name,seed=False,task='nli')
     #pdb.set_trace() #best_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/no_task_2_model' #print(best_path) #   best_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/weights_0.04260.18050.00600.08370.12520.10700.01660.02640.19610.2160' #'/dccstor/obsidian_llm/yiduo/summary/src/weights_0.17930.75890.02520.35220.52630.44980.06980.11100.82460.9085'
