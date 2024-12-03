@@ -49,7 +49,7 @@ def remove_folder(path):
         print(f"Directory '{path}' has been removed.")
     else:
         print(f"Directory '{path}' does not exist.")
-for iteration in range(5):
+for iteration in range(2,5):
     if iteration==0:
         global_best_model_path=initial_model_path
         global_best_data_name=initial_data_path
@@ -144,7 +144,7 @@ for iteration in range(5):
     logging.info(f"Iteration {iteration}: avg_test_acc = {avg_test_acc}")
     #search_name=experiment_name+'_'+str(iteration)+'all_mix_test'
     #best_path=bayesian_search(names,names_valid,task='nli') #find_best_combination(model_path,test_examples,test_examples, search_name,seed=False,task='nli')
-    pdb.set_trace() #best_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/no_task_2_model' #print(best_path) #   best_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/weights_0.04260.18050.00600.08370.12520.10700.01660.02640.19610.2160' #'/dccstor/obsidian_llm/yiduo/summary/src/weights_0.17930.75890.02520.35220.52630.44980.06980.11100.82460.9085'
+    #pdb.set_trace() #best_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/no_task_2_model' #print(best_path) #   best_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/weights_0.04260.18050.00600.08370.12520.10700.01660.02640.19610.2160' #'/dccstor/obsidian_llm/yiduo/summary/src/weights_0.17930.75890.02520.35220.52630.44980.06980.11100.82460.9085'
     ooa_failed_cases, im_failed_cases, correct_cases=process_nli_validation_batch_major(global_best_model_path, valid_data,seed=False, iteration=100)
     #pdb.set_trace()
     torch.save(ooa_failed_cases,'ooa_failed_cases_{0}_{1}.pt'.format(experiment_name,iteration))
