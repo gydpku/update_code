@@ -17,8 +17,8 @@ import os
 import shutil
 from model_eval import process_validation_batch_major,valid_results_collect
 from auto_finetune import train_model,train_status_check
-
-experiment_name='baseline'
+print('Starting')
+experiment_name='baseline_random_2'
 output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
 cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
 model='LLama3-8B'
@@ -26,6 +26,7 @@ base_model_path='/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
 task_name='GSM8k'
 train_seed=2024
 task_instruction='You are given a word problem involving basic arithmetic, algebra, or geometry. Your task is to carefully read the problem and provide a step-by-step solution, ensuring that all intermediate steps are shown clearly.'
+
 def load_task_dataset(dataset_name,valid_num=100):
     if dataset_name=='MedNLI':
         test_examples=[]
@@ -37,7 +38,9 @@ def load_task_dataset(dataset_name,valid_num=100):
         domain='Medical'
     if dataset_name=='GSM8k':
         test_examples=[]
+        print('dataset downloading')
         dataset=load_dataset('openai/gsm8k','main',cache_dir='/dccstor/obsidian_llm/yiduo')
+        print('valid and train split')
         for id in range(len(dataset['test'])):test_examples.append({'Input':dataset['test'][id]['question'],'Output':dataset['test'][id]['answer']})
         valid_data=[] 
         for id in range(len(dataset['train'])):valid_data.append({'Input':dataset['train'][id]['question'],'Output':dataset['train'][id]['answer']}) #torch.load('{0}_demo.pt'.format(args.task))
@@ -59,13 +62,19 @@ def remove_folder(path):
         print(f"Directory '{path}' does not exist.")
 test_examples,valid_data,domain=load_task_dataset(task_name,100)
 valid_acc=[0]
-for data_num in [1000,2000,3000,4000,5000,6000,7000,8000,9000,10000]:
-    store_name='Synthetic_initial_'+task_name
-    data=data_sample_pattern(task_instruction,domain,data_num,store_name,'',demo_examples=valid_data,temperature=0.7,task_name=task_name,neg_sample=True,pattern=False,iteration_number=1,sample_demo_num=3,passage_num=10000,valid_num=100,types=None)
+best_valid_acc=0
+best_model_path=''
+best_data_path=''
+print('start finding')
+
+for data_num in [3000,4000,5000,6000,7000,8000,9000,10000]:
+    store_name='Synthetic_initial_'+task_name+experiment_name
+    print('sampling: ',data_num)
+    data=data_sample_pattern(task_instruction,domain,data_num,store_name,'',demo_examples=valid_data,temperature=0.7,task_name=task_name,neg_sample=True,pattern=False,voting=True,iteration_number=1,sample_demo_num=3,passage_num=10000,valid_num=100,types=None)
     data=[example for example in data if example]
-    dataset_name='dataset_'+task_name+'_'+str(data_num)
+    dataset_name='dataset_'+task_name+'_'+str(data_num)+experiment_name
     clean_and_collect_dataset(data,'',dataset_name)
-    cur_output_path=os.path.join(output_path,task_name+'_'+str(data_num)+'_model') #name+'_model')
+    cur_output_path=os.path.join(output_path,task_name+experiment_name+'_'+str(data_num)+'_model') #name+'_model')
     failed_times=0
     while not train_status_check(cur_output_path):
         train_model(os.path.join(cur_path,dataset_name),base_model_path,cur_output_path,seed=train_seed)
@@ -78,15 +87,17 @@ for data_num in [1000,2000,3000,4000,5000,6000,7000,8000,9000,10000]:
     print('We have finished training the model ',cur_output_path)
     ooa_failed_cases, im_failed_cases, correct_cases=process_validation_batch_major(cur_output_path, valid_data,task=task_name,seed=False, iteration=100)
     valid_acc.append(len(correct_cases)/(len(correct_cases)+len(ooa_failed_cases)+len(im_failed_cases)))
+    if valid_acc[-1]>best_valid_acc:
+        best_valid_acc=valid_acc[-1]
+        best_model_path=cur_output_path
+        best_data_path=os.path.join(cur_path,dataset_name)
     print('cur_acc is ',valid_acc[-1])
     torch.save(ooa_failed_cases,'ooa_failed_cases_{0}.pt'.format(experiment_name))
     torch.save(im_failed_cases,'im_failed_cases_{0}.pt'.format(experiment_name))
-    if len(valid_acc)>=2:
-        if valid_acc[-1]-valid_acc[-2]<0.02:
-            initial_model_path=cur_output_path
-            initial_data_path=os.path.join(cur_path,dataset_name)
-            print('We have found the best model and data at the initial training, and break the loop, the best valid accuracy is',valid_acc[-1],'at',data_num,'data')
-            break
+
+initial_model_path=best_model_path
+initial_data_path=best_data_path
+print('The best valid accuracy is',best_valid_acc,'at',data_num,'data',initial_model_path,initial_data_path)
 pdb.set_trace()
 print(initial_model_path,initial_data_path) 
 # Configure logging
@@ -182,7 +193,7 @@ for iteration in range(5):
         #global_best_model_path
         model_paths = [os.path.join(output_path, model_name+'_model') for model_name in names]
         model_paths.append(global_best_model_path)
-        best_path,best_performance=bayesian_search(model_paths,task='nli')
+        best_path,best_performance=bayesian_search(model_paths,exp_name=experiment_name,task='nli') #,exp_name=experiment_name)
         global_best_model_path=best_path
         f_test,c_test=valid_results_collect(global_best_model_path, test_examples, task_name)
         avg_test_acc=len(c_test)/(len(c_test)+len(f_test))
