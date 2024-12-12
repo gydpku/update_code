@@ -1,48 +1,56 @@
 import json
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
-model_name="/dccstor/obsidian_llm/yiduo/models--Qwen--QwQ-32B-Preview"
+
 #model = AutoModelForCausalLM.from_pretrained(
 #        model_name,
 #        torch_dtype="auto",
 #        device_map="auto"
 #    )
 #tokenizer = AutoTokenizer.from_pretrained(model_name)
-def generate_response(model,tokenizer,prompt,model_name="/dccstor/obsidian_llm/yiduo/models--Qwen--QwQ-32B-Preview",temperature=0.2, max_new_tokens=2048):
+def generate_response(prompt,solution_num=32,model_name="/dccstor/obsidian_llm/yiduo/models--Qwen--QwQ-32B-Preview",temperature=0.2, max_new_tokens=2048):
     # Load model and tokenizer
 
     # Prepare chat messages
-    messages = [
-        {"role": "system", "content": "You are a helpful and harmless assistant. You are Qwen developed by Alibaba. You should think step-by-step."},
-        {"role": "user", "content": prompt}
-    ]
-
-    # Format the messages using the tokenizer's chat template
-    text = tokenizer.apply_chat_template(
-        messages,
-        tokenize=False,
-        add_generation_prompt=True
+    model = AutoModelForCausalLM.from_pretrained(
+        model_name,
+        torch_dtype="auto",
+        device_map="auto"
     )
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    solutions=[]
+    for i in range(solution_num):
+        messages = [
+            {"role": "system", "content": "You are a helpful and harmless assistant. You are Qwen developed by Alibaba. You should think step-by-step."},
+            {"role": "user", "content": prompt}
+        ]
 
-    # Tokenize the input text
-    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
+        # Format the messages using the tokenizer's chat template
+        text = tokenizer.apply_chat_template(
+            messages,
+            tokenize=False,
+            add_generation_prompt=True
+        )
 
-    # Generate the response
-    generated_ids = model.generate(
-        **model_inputs,
-        max_new_tokens=max_new_tokens,
-        temperature=temperature
-    )
+        # Tokenize the input text
+        model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
 
-    # Extract the generated response (excluding the input tokens)
-    generated_ids = [
-        output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-    ]
+        # Generate the response
+        generated_ids = model.generate(
+            **model_inputs,
+            max_new_tokens=max_new_tokens,
+            temperature=temperature
+        )
 
-    # Decode the response into text
-    response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+        # Extract the generated response (excluding the input tokens)
+        generated_ids = [
+            output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+        ]
 
-    return response
+        # Decode the response into text
+        response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+        solutions.append(response)
+    return solutions
 
 # Example usage
 #model_name = "/dccstor/obsidian_llm/yiduo/models--Qwen--QwQ-32B-Preview"
@@ -94,43 +102,32 @@ def simple_process_a1_a2_a3_data(a1_data,a2_data,a3_data):
 
 def collect_simple_solutions(a1_prompts_answers,a2_prompts_answers,a3_prompts_answers,solution_nums=32,temperature=0.2):
     a1_prompts_answers_with_solutions=[]
-    print('Loading model...')
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype="auto",
-        device_map="auto"
-    )
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+   # print('Loading model...')
+   
     print('Processing prompts...')
     for data in a1_prompts_answers:
         prompt=data['Input']
-        solutions=[]
-        for i in range(solution_nums):
-            print('a1',i)
-            solution=generate_response(model,tokenizer,prompt,temperature=temperature)
-            solutions.append(solution)
+        print('a1',data['Input'],data['Output'],data['COT_Output'],'\n')
+        solutions=generate_response(prompt,solution_num=solution_nums,temperature=temperature)
+        print(solutions)
         data['Solutions']=solutions
         data['Temperature']=temperature
         a1_prompts_answers_with_solutions.append(data)
     a2_prompts_answers_with_solutions=[]
     for data in a2_prompts_answers:
         prompt=data['Input']
-        solutions=[]
-        for i in range(solution_nums):
-            print('a2',i)
-            solution=generate_response(model,tokenizer,prompt,temperature=temperature)
-            solutions.append(solution)
+        print('a2',data['Input'],data['Output'],data['COT_Output'],'\n')
+        solutions=generate_response(prompt,solution_num=solution_nums,temperature=temperature)
+        print(solutions)
         data['Solutions']=solutions
         data['Temperature']=temperature
         a2_prompts_answers_with_solutions.append(data)
     a3_prompts_answers_with_solutions=[]
     for data in a3_prompts_answers:
         prompt=data['Input']
-        solutions=[]
-        for i in range(solution_nums):
-            print('a3',i)
-            solution=generate_response(model,tokenizer,prompt,temperature=temperature)
-            solutions.append(solution)
+        print('a3',data['Input'],data['Output'],data['COT_Output'],'\n')
+        solutions=generate_response(prompt,solution_num=solution_nums,temperature=temperature)
+        print(solutions)
         data['Solutions']=solutions
         data['Temperature']=temperature
         a3_prompts_answers_with_solutions.append(data)
@@ -139,12 +136,13 @@ def collect_simple_solutions(a1_prompts_answers,a2_prompts_answers,a3_prompts_an
 import os
 path='/dccstor/obsidian_llm/yiduo'
 temperature=0.2
+solution_nums=32
 print('Loading data...')
 a1_data,a2_data,a3_data=load_a1_a2_a3_data()
 print('Simple prompting...')
 a1_prompts_answers,a2_prompts_answers,a3_prompts_answers=simple_process_a1_a2_a3_data(a1_data,a2_data,a3_data)
 print('Solution generating...')
-a1_prompts_answers_with_solutions,a2_prompts_answers_with_solutions,a3_prompts_answers_with_solutions=collect_simple_solutions(a1_prompts_answers,a2_prompts_answers,a3_prompts_answers,solution_nums=32,temperature=temperature)
+a1_prompts_answers_with_solutions,a2_prompts_answers_with_solutions,a3_prompts_answers_with_solutions=collect_simple_solutions(a1_prompts_answers,a2_prompts_answers,a3_prompts_answers,solution_nums=solution_nums,temperature=temperature)
 print('Writing file')
 with open(os.path.join(path,'a1_prompts_answers_with_solutions_{0}.jsonl'.format(temperature)),'w') as f:
     for data in a1_prompts_answers_with_solutions:
