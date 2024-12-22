@@ -18,7 +18,7 @@ from model_eval import process_validation_batch_major,valid_results_collect,proc
 import logging
 import os
 import shutil
-experiment_name='instruct_baseline_logiqa'
+experiment_name='instruct_baseline_logiqa_2'
 output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
 cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
 model='LLama3-8B'
@@ -75,7 +75,7 @@ def remove_folder(path):
         print(f"Directory '{path}' does not exist.")
 test_examples,valid_data,domain=load_task_dataset(task_name,100)  
 valid_data=valid_data[:100]
-initial_model_path='/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/MedNLIbaseline_40001e-6_model'
+initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/LogiQAbaseline_logiqa_30001e-6_model'
 initial_data_path='dataset_LogiQA_3000baseline_logiqa'
 learning_rate=1e-6
 # Configure logging
@@ -205,9 +205,6 @@ for iteration in range(5):
         torch.save(names_keys,'{0}_names_keys.pt'.format(experiment_name+'_'+str(iteration)))
     print('Training models for iteration ',iteration)
     for name in names:
-        output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
-        cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
-        base_model_path='/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
         model_output_path=os.path.join(output_path,name+'_model')
         failed_times=0
         while not train_status_check(model_output_path):
@@ -237,7 +234,7 @@ for iteration in range(5):
         group_best_paths_acc=[]
         for dataset_name in model_groups.keys():
             model_group=model_groups[dataset_name]
-            best_path,best_performance=bayesian_search(model_group,exp_name=experiment_name,task=task_name)
+            best_path,best_performance=bayesian_search(model_group,exp_name=experiment_name,task=task_name,valid_data=valid_data)
             group_best_paths_acc.append((best_path,best_performance,dataset_name))
         group_best_paths_acc.sort(key=lambda x:x[1],reverse=True)
         cur_best_model_path=group_best_paths_acc[0][0]

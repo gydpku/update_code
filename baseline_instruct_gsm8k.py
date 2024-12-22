@@ -99,7 +99,7 @@ def remove_folder(path):
         print(f"Directory '{path}' has been removed.")
     else:
         print(f"Directory '{path}' does not exist.")
-for iteration in range(5):
+for iteration in range(1):
     print('Generating data for iteration ',iteration)
     if iteration==0:
         global_best_model_path=initial_model_path
@@ -109,12 +109,12 @@ for iteration in range(5):
         try:
             ooa_data=torch.load('ooa_failed_cases_{0}.pt'.format(experiment_name))+torch.load('im_failed_cases_{0}.pt'.format(experiment_name))
         except:
-            ooa_failed_cases, im_failed_cases, correct_cases=process_validation_batch_major(global_best_model_path, valid_data,task=task_name,seed=False, iteration=100)  
+            ooa_failed_cases, im_failed_cases, correct_cases=process_validation_batch_major(global_best_model_path, valid_data,task=task_name,seed=False, iteration=10)  
             torch.save(ooa_failed_cases,'ooa_failed_cases_{0}.pt'.format(experiment_name))
             torch.save(im_failed_cases,'im_failed_cases_{0}.pt'.format(experiment_name))
             ooa_data=torch.load('ooa_failed_cases_{0}.pt'.format(experiment_name))+torch.load('im_failed_cases_{0}.pt'.format(experiment_name))
         global_best_performance=1-len(ooa_data)/(len(valid_data))
-        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'','nli',experiment_name+'_'+str(iteration),'Medical',data_num=20)
+        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'',task_name,experiment_name+'_'+str(iteration),domain,data_num=20)
     else:
         ooa_failed_cases=torch.load('ooa_failed_cases_{0}_{1}.pt'.format(experiment_name,iteration-1))
         im_failed_cases=torch.load('im_failed_cases_{0}_{1}.pt'.format(experiment_name,iteration-1))
@@ -130,8 +130,9 @@ for iteration in range(5):
         global_best_group=torch.load('global_best_group_{0}_{1}.pt'.format(experiment_name,iteration-1))
 
         #global_best_data_name=torch.load('global_best_data_name_{0}_{1}.pt'.format(experiment_name,iteration-1))
-        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'','nli',experiment_name+'_'+str(iteration),'Medical',data_num=20,previous_gradients=previous_gradients)
+        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'',task_name,experiment_name+'_'+str(iteration),domain,data_num=20,previous_gradients=previous_gradients)
      #    pdb.set_trace()
+    pdb.set_trace()    
     keys=[key for key in instructions_data.keys()]
     global_best_data=load_from_disk(global_best_dataset_path)
     #global_filter
@@ -141,11 +142,13 @@ for iteration in range(5):
                 new_data.append({'Input':item['instruction'],'Output':item['output']})
             return new_data
     global_best_data=transform_from_low_to_up(global_best_data)
-    global_data_count=process_validation_batch_count(global_best_model_path, global_best_data,task=task_name,seed=False, iteration=100)
+    '''
+    global_data_count=process_validation_batch_count(global_best_model_path, global_best_data,task=task_name,seed=False, iteration=10)
     scores=[item[1] for item in global_data_count]
     median=np.median(scores)
     global_data_count.sort(key=lambda x:abs(x[1]-median))
     global_best_data=[item[0] for item in global_data_count]
+    '''
     print('Constructing training data for iteration ',iteration)
     names_keys={}
     try:
@@ -160,7 +163,9 @@ for iteration in range(5):
         names_dataset={}
         for key in keys:
             examples=instructions_data[key][2]
-            data=[example for example in examples if example]
+ #           from generate_data import majority_voting
+#            pdb.set_trace()
+            data=[{'input':example['input'][example['input'].find('INPUT')+len('INPUT'):],'output':example['output'].replace("Let's think step by step.\n\n",'').replace('\n\nThe final answer is','####')} for example in examples if example]
             def transform_from_low_to_up(data):
                 new_data=[]
                 for item in data:
@@ -173,7 +178,7 @@ for iteration in range(5):
                 return new_data
 
             data=transform_from_low_to_up(data)
-            data_count=process_validation_batch_count(initial_model_path, data,task=task_name,seed=False, iteration=100)
+            data_count=process_validation_batch_count(initial_model_path, data,task=task_name,seed=False, iteration=10)
             scores=[item[1] for item in data_count]
             median=np.median(scores)
             data_count.sort(key=lambda x:abs(x[1]-median))
@@ -188,14 +193,14 @@ for iteration in range(5):
             names_keys[name]=key
             names_valid[name]=instructions_data[key][1]
             for num in [100,300,500]:
-                cur_data=transform_from_up_to_low(global_best_data[:-num])
+                cur_data=transform_from_up_to_low(global_best_data)
                 cur_data.extend(data[:num])
-                #cur_data=transform_from_up_to_low(cur_data)
+                #majority_votingcur_data=transform_from_up_to_low(cur_data)
                 clean_and_collect_dataset(cur_data,'',experiment_name+name+'_'+str(iteration)+'_'+str(num))
                 #key_dataset=load_from_disk(name)
                 #dataset_concat=concatenate_datasets([global_best_data,key_dataset])
                 #dataset_concat.save_to_disk(experiment_name+name+'_'+str(iteration)+'_'+str(num))
-                print(experiment_name+name+'_'+str(iteration)+'_'+str(num))
+                print(experiment_name+name+'_'+str(iteration)+'_'+str(num),len(cur_data))
                 names.append(experiment_name+name+'_'+str(iteration)+'_'+str(num))
                 names_dataset[name+'_'+str(iteration)+'_'+str(num)]=experiment_name+name+'_'+str(iteration)+'_'+str(num)
         print("Now train your model on these datasets and collect the validation results,save their names! as {0}_names.pt".format(experiment_name+'_'+str(iteration)))
@@ -203,6 +208,7 @@ for iteration in range(5):
         torch.save(names_dataset,'{0}_names_dataset.pt'.format(experiment_name+'_'+str(iteration)))
         torch.save(names_valid,'{0}_names_valid.pt'.format(experiment_name+'_'+str(iteration)))
         torch.save(names_keys,'{0}_names_keys.pt'.format(experiment_name+'_'+str(iteration)))
+    pdb.set_trace()
     print('Training models for iteration ',iteration)
     for name in names:
         model_output_path=os.path.join(output_path,name+'_model')
@@ -224,6 +230,25 @@ for iteration in range(5):
         #global_best_model_path
 
         model_paths = [os.path.join(output_path, model_name+'_model') for model_name in names]
+        model_paths.extend(global_best_group)
+        paths_score=[] #{}
+        for path in model_paths:
+            f_test,c_test=valid_results_collect(path,test_examples, task_name)
+            f_valid,c_valid=valid_results_collect(path,valid_data, task_name)
+            paths_score.append((len(c_test)/len(test_examples),len(c_valid)/len(valid_data),str(path))) #,path)
+        print("path",paths_score)
+        win_paths=[path[2] for path in paths_score if path[1]>=paths_score[-1][1]]
+        best_path,best_performance=bayesian_search(model_paths,exp_name=experiment_name,task=task_name,valid_data=test_examples)
+        f_test,c_test=valid_results_collect(best_path, test_examples, task_name)
+        avg_test_acc=len(c_test)/(len(c_test)+len(f_test))
+        print(len(c_test)/(len(c_test)+len(f_test)),'avg_acc')
+        print("win_paths",win_paths)
+        if len(win_paths)>1:
+            best_path,best_performance=bayesian_search(win_paths,exp_name=experiment_name,task=task_name,valid_data=test_examples)
+            f_test,c_test=valid_results_collect(best_path, test_examples, task_name)
+            avg_test_acc=len(c_test)/(len(c_test)+len(f_test))
+            print(len(c_test)/(len(c_test)+len(f_test)),'win_avg_acc')
+        pdb.set_trace()
         dataset_names=list(set([name.split('_')[0] for name in names_dataset.keys()]))
         model_groups={}
         
@@ -234,7 +259,7 @@ for iteration in range(5):
         group_best_paths_acc=[]
         for dataset_name in model_groups.keys():
             model_group=model_groups[dataset_name]
-            best_path,best_performance=bayesian_search(model_group,exp_name=experiment_name,task=task_name)
+            best_path,best_performance=bayesian_search(model_group,exp_name=experiment_name,task=task_name,valid_data=valid_data)
             group_best_paths_acc.append((best_path,best_performance,dataset_name))
         group_best_paths_acc.sort(key=lambda x:x[1],reverse=True)
         cur_best_model_path=group_best_paths_acc[0][0]
