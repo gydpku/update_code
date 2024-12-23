@@ -1,6 +1,6 @@
 import pdb
 from statistics import mode
-from utils import extract_answer_prediction_nli
+from model_eval import extract_answer_prediction_nli,extract_answer_prediction_gsm8k,extract_answer_prediction_logiqa
 from batch_inference import batch_inference
 from reward_prompt_selection import best_example_selection
 from func_timeout import func_timeout, FunctionTimedOut
@@ -40,6 +40,8 @@ Try you best to ensure that the input and output you generate are distinct from 
 """
 
 def example_check(new_example,obj_passage=None):
+        if not new_example:
+            return
         new_example=new_example[new_example.find('{'):new_example.rfind('}')+1]
         try:
             new_example=extract_examples(new_example)[0]
@@ -122,14 +124,14 @@ def label_transform(label):
         return 'entailment'
     if label==2:
         return 'contradiction'
-def cot_check_fill(demo_examples):
+def cot_check_fill(demo_examples,task_name=''):
     first_example=demo_examples[0]
     demo_cot_examples=[]
     prompt='Does the example has the specific solution (step by step) to get its final output? Directly output yes or no.'
     prompt+='Example:{0}'.format(first_example)
     cot_status=query_azure_openai_chatgpt_chat(prompt)
 #    pdb.set_trace()
-    if 'yes' in cot_status.lower():
+    if 'yes' in cot_status.lower() or 'gsm8k' in task_name.lower():
         return demo_examples
     else:
         for example in demo_examples:
@@ -139,37 +141,75 @@ def cot_check_fill(demo_examples):
             demo_cot_examples.append({'Input':example['Input'],'Output':cot_solution})
 
         return demo_cot_examples
-def data_sample_pattern(instruction,domain,num,store_name,reward_prompt,temperature=0.7,task_name='nli',neg_sample=True,pattern=False,iteration_number=1,sample_demo_num=3,passage_num=5000,valid_num=100,types=None):
+def data_sample_pattern(instruction,domain,num,store_name,reward_prompt,demo_examples,temperature=0.7,task_name='nli',neg_sample=True,voting=False,pattern=False,iteration_number=1,sample_demo_num=3,passage_num=5000,valid_num=100,types=None):
     task_instruction=instruction
+    print('load_cot_data...')
     try:
         demo_cot_examples=torch.load('{0}_demo.pt'.format(task_name))
     except:
         demo_cot_examples=cot_check_fill(demo_examples)
         torch.save(demo_cot_examples,'{0}_demo.pt'.format(task_name))
+#    pdb.set_trace()
+    print('load passage ...')
     try:
         passages=torch.load('{0}.pt'.format(domain)) #'medical_passages_sub.pt')
     except:
         passages=prompt_domain_find_wikipassage(domain,passage_num)
         torch.save(passages,'{0}.pt'.format(domain)) #'medical_passages_sub.pt')
+#    pdb.set_trace()
     passages=list(set(passages))
-    #try:
-    #    synthetic_examples=torch.load('{0}.pt'.format(store_name))
-    #except:
-    #    synthetic_examples=[]
-    #start=len(synthetic_examples)
+    print(demo_cot_examples[0],'\n')
+#    print(demo_examples[0],'\n')
+    print('passages',len(passages))
+    print('store_name','{0}.pt'.format(store_name))
+#    
+    try:
+        synthetic_examples=torch.load('{0}.pt'.format(store_name))
+    except:
+        synthetic_examples=[]
+    start=len(synthetic_examples)
+#    pdb.set_trace()
+    print('start with',start,'end with',num+3)
+    if start>num:
+        return synthetic_examples[:num]
+#    pdb.set_trace()
     prompts=[]
-    for num_id in range(0,num+3):
+    for num_id in range(start,num+3):
         
         sample_size = 1 # random.randint(1,5)
         sampled_objects = passages[num_id]
         sampled_demo_examples=random.sample(demo_cot_examples, sample_demo_num)
         prompts.append(aug_few_shot_prompt_pattern_generate(sampled_demo_examples,task_instruction,sampled_objects,reward_prompt,neg_sample=neg_sample))   
+#    pdb.set_trace()
     results=batch_inference(prompts,temperature=0.7)
+    #pdb.set_trace()
     try:
-        return [example_check(result) for result in results][:num] #examples=[example_check(result) for result in results][:num]
+        new_examples=[example for example in (example_check(result) for result in results) if example]
+        if voting:
+            vot_examples=[]
+            for example_id,example in enumerate(new_examples):
+                print(example_id)
+                short_output,random_output,long_output=majority_voting(example,task_name)
+                vot_examples.append({'input':example['input'],'output':random_output})
+            new_examples=vot_examples
+        synthetic_examples.extend(new_examples) #[example for example in (example_check(result) for result in results) if example])
+        torch.save(synthetic_examples,'{0}.pt'.format(store_name))
+        return synthetic_examples[:num] #[example_check(result) for result in results][:num] #examples=[example_check(result) for result in results][:num]
     except:
+       
         results=batch_inference(prompts,temperature=0.7)
-        return [example_check(result) for result in results][:num] #examples=[example_check(result) for result in results][:num]
+        new_examples=[example for example in (example_check(result) for result in results) if example]
+        if voting:
+            vot_examples=[]
+            for example_id,example in enumerate(new_examples): 
+                print(example_id) #for example in new_examples:
+                short_output,random_output,long_output=majority_voting(example,task_name)
+                vot_examples.append({'input':example['input'],'output':random_output})
+            new_examples=vot_examples
+        synthetic_examples.extend(new_examples)
+        #synthetic_examples.extend([example for example in (example_check(result) for result in results) if example]) #synthetic_examples.extend([example_check(result) for result in results])                                │···························································································
+        torch.save(synthetic_examples,'{0}.pt'.format(store_name))
+        return synthetic_examples[:num] #[example_check(result) for result in results][:num] #examples=[example_check(result) for result in results][:num]
     short_examples=[]
     random_examples=[]
     long_examples=[]
@@ -186,13 +226,23 @@ def data_sample_pattern(instruction,domain,num,store_name,reward_prompt,temperat
         #example['output'=majority_voting(example)
 #        pdb.set_trace()
     return short_examples,random_examples,long_examples
-def majority_voting(example,n=4):
+def majority_voting(example,task_name,n=4):
     input=example['input']
     output=example['output']
-    prompt="You should give an output to the query and use 'The final answer is xxx' to end your output."+input+"Let's think step by step."
+    if 'nli' in task_name.lower():
+        prompt="You should give an output to the query and use 'The final answer is xxx' to end your output."+input+"Let's think step by step."
+    elif 'gsm8k' in task_name.lower():
+        prompt="You should give an output to the query and use '### final answer' to end your output."+input+"Let's think step by step."
+    else:
+        prompt="You should give an output to the query and use 'The final answer is xxx' to end your output."+input+"Let's think step by step."
     responses=query_azure_openai_chatgpt_chat(prompt,temperature=0.7,n=n)
     responses.append(output) 
-    answers=[extract_answer_prediction_nli(response) for response in responses]
+    if 'nli' in task_name.lower():
+        answers=[extract_answer_prediction_nli(response) for response in responses]
+    elif 'gsm8k' in task_name.lower():
+        answers=[extract_answer_prediction_gsm8k(response) for response in responses]
+    elif 'logiqa' in task_name.lower():
+        answers=[extract_answer_prediction_logiqa(response) for response in responses]
     mode_value = mode(answers)
     mode_ids = [index for index, value in enumerate(answers) if value == mode_value]
     selected_response=[(responses[index],len(responses[index])) for index in mode_ids]
@@ -410,7 +460,7 @@ def extract_example(text):
             return examples  # return empty list if no 'output' or 'Output' found
         
         new_example = {
-            'input': input.replace(':', '').replace('{', '').replace('"', '').replace('\n', '').strip(),
+            'input': input.replace('{', '').replace('"', '').replace('\n', '').strip(),
             'output': output.replace(':', '').replace('"', '').replace('}', '').replace('\n', '').strip()
         }
         examples.append(new_example)
@@ -440,6 +490,6 @@ def extract_examples(text):
         else:
             continue
             pdb.set_trace()
-        new_example={'input':input.replace(':','').replace('{','').replace('"','').replace('\n','').strip(),'output':output.replace(':','').replace('"','').replace('}','').replace('\\n','').replace('\n','').strip()}
+        new_example={'input':input.replace('{','').replace('"','').replace('\n','').strip(),'output':output.replace(':','').replace('"','').replace('}','').replace('\\n','\n').replace('\\', ' ').strip()}
         examples.append(new_example)
     return examples
