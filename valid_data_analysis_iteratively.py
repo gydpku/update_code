@@ -84,6 +84,7 @@ def generate_pattern_prompt(
         And these patterns should cover all cases.
         """
     
+    
     #data driven
     # Add cases
     case_text=''
@@ -96,9 +97,10 @@ def generate_pattern_prompt(
 #    pdb.set_trace()
     refine_prompt="""These previous characteristic can not capture the characteristic of these cases fully. You can analyze and direcly output features of these cases that are important but ignored by previous characteristics directly.
     previous characteristic:{0} cases:{1}""".format(previous_analysis,case_text)
-    analysis=query_azure_openai_chatgpt_chat(refine_prompt)
+    #analysis=query_azure_openai_chatgpt_chat(refine_prompt)
     
     if previous_analysis:
+        analysis=query_azure_openai_chatgpt_chat(refine_prompt)
         prompt += f"""Here are some considered data characteristic:
         {previous_analysis}. 
         You should generate new characteristic patterns that are different from them.
@@ -355,9 +357,11 @@ def data_type_analysis(
         
         # Generate pattern analysis
         pattern_prompt = generate_pattern_prompt(case_analysis, task_instruction, num_pattern=3, previous_analysis=previous_analysis)
+        pdb.set_trace()
         characteristic_analysis = query_azure_openai_chatgpt_chat(pattern_prompt, temperature=0.0)
 #        pdb.set_trace()
         characteristic_dict = characteristic_analysis_to_dict(characteristic_analysis, data_group, is_num=False)
+        #pdb.set_trace()
         return characteristic_dict
         '''
         #pdb.set_trace()
