@@ -18,11 +18,11 @@ from model_eval import process_validation_batch_major,valid_results_collect,proc
 import logging
 import os
 import shutil
-experiment_name='instruct_baseline_gsm8k'
+experiment_name='instruct_baseline_gsm8k_3.1'
 output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
 cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
 model='LLama3-8B'
-base_model_path='/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
+base_model_path='/dccstor/obsidian_llm/yiduo/Llama-3.1-8B-Instruct' #'/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
 task_name='GSM8k'
 train_seed=2024
 task_instruction='You are given a word problem involving basic arithmetic, algebra, or geometry. Your task is to carefully read the problem and provide a step-by-step solution, ensuring that all intermediate steps are shown clearly.'
@@ -75,8 +75,8 @@ def remove_folder(path):
         print(f"Directory '{path}' does not exist.")
 test_examples,valid_data,domain=load_task_dataset(task_name,100)  
 valid_data=valid_data[:100]
-initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_40001e-6_model'
-initial_data_path='dataset_GSM8k_4000baseline_random_2' #'dataset_LogiQA_3000baseline_logiqa'
+initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_20001e-6_model' #GSM8kgsm_baseline_10_20001e-6_model' #'/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_40001e-6_model'
+initial_data_path='dataset_GSM8k_2000baseline_random_2' #dataset_GSM8k_4000baseline_random_2' #'dataset_LogiQA_3000baseline_logiqa'
 learning_rate=1e-6
 # Configure logging
 logging.basicConfig(
@@ -132,7 +132,6 @@ for iteration in range(1):
         #global_best_data_name=torch.load('global_best_data_name_{0}_{1}.pt'.format(experiment_name,iteration-1))
         instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'',task_name,experiment_name+'_'+str(iteration),domain,data_num=20,previous_gradients=previous_gradients)
      #    pdb.set_trace()
-    pdb.set_trace()    
     keys=[key for key in instructions_data.keys()]
     global_best_data=load_from_disk(global_best_dataset_path)
     #global_filter
@@ -208,7 +207,6 @@ for iteration in range(1):
         torch.save(names_dataset,'{0}_names_dataset.pt'.format(experiment_name+'_'+str(iteration)))
         torch.save(names_valid,'{0}_names_valid.pt'.format(experiment_name+'_'+str(iteration)))
         torch.save(names_keys,'{0}_names_keys.pt'.format(experiment_name+'_'+str(iteration)))
-    pdb.set_trace()
     print('Training models for iteration ',iteration)
     for name in names:
         model_output_path=os.path.join(output_path,name+'_model')
@@ -236,15 +234,15 @@ for iteration in range(1):
             f_test,c_test=valid_results_collect(path,test_examples, task_name)
             f_valid,c_valid=valid_results_collect(path,valid_data, task_name)
             paths_score.append((len(c_test)/len(test_examples),len(c_valid)/len(valid_data),str(path))) #,path)
-        print("path",paths_score)
+        print("path_score",paths_score)
         win_paths=[path[2] for path in paths_score if path[1]>=paths_score[-1][1]]
-        best_path,best_performance=bayesian_search(model_paths,exp_name=experiment_name,task=task_name,valid_data=test_examples)
+        best_path,best_performance=bayesian_search(model_paths,exp_name=experiment_name,base_model_path=base_model_path,task=task_name,valid_data=test_examples)
         f_test,c_test=valid_results_collect(best_path, test_examples, task_name)
         avg_test_acc=len(c_test)/(len(c_test)+len(f_test))
         print(len(c_test)/(len(c_test)+len(f_test)),'avg_acc')
         print("win_paths",win_paths)
         if len(win_paths)>1:
-            best_path,best_performance=bayesian_search(win_paths,exp_name=experiment_name,task=task_name,valid_data=test_examples)
+            best_path,best_performance=bayesian_search(win_paths,exp_name=experiment_name,base_model_path=base_model_path,task=task_name,valid_data=test_examples)
             f_test,c_test=valid_results_collect(best_path, test_examples, task_name)
             avg_test_acc=len(c_test)/(len(c_test)+len(f_test))
             print(len(c_test)/(len(c_test)+len(f_test)),'win_avg_acc')
