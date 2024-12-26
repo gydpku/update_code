@@ -3,6 +3,7 @@ from batch_inference import batch_inference
 from openai_call import query_azure_openai_chatgpt_chat
 from generate_data import data_sample,data_sample_pattern
 import torch
+import os
 import re
 import random
 import pdb
@@ -68,10 +69,8 @@ A higher score means more similarity.
         #prompts_2.append(prompt_template.format(characteristic_or_instruction, demo_sample, sample))
     
     results = batch_inference(prompts, temperature=0.0)
-#    pdb.set_trace()
     # Extract just 'A' or 'B' from responses
     results = [extract_float(r) for r in results] #'True' if r and 'True' in r else 'False' if r else 'N/A' for r in results]
-    #pdb.set_trace() 
     return sum([1-result for result in results]) if is_discriminative else sum(results)
 #    results_1 = ['A' if 'A' in r else 'B' for r in results_1]
  #   results_2 = ['A' if 'A' in r else 'B' for r in results_2]
@@ -81,22 +80,26 @@ A higher score means more similarity.
     #expected_pattern = 'False' if is_discriminative else 'True'
     #pdb.set_trace()
     #return sum(1 for r in results if r == expected_pattern)
-def generate_data(char_instruction, reward_prompt, domain, data_num, store_name, task_name):
+def generate_data(char_instruction, reward_prompt, domain,demo_examples, data_num, store_name, task_name):
     """Helper function to generate data and store it"""
+    # generate_data(char_instruction,reward_prompt, domain,ground_data, data_num, store_name, task_name)
     data = []
     while len(data) < data_num:
+        store_name_cur=store_name + str(random.randint(10**14, 10**15 - 1))
         new_data = data_sample_pattern(
-        char_instruction, domain, data_num-len(data),
-        store_name + str(random.randint(10**14, 10**15 - 1)),
-        reward_prompt, task_name,
+        char_instruction, domain,data_num-len(data),
+        store_name_cur,
+        reward_prompt, demo_examples,task_name=task_name,
         pattern=True, neg_sample=False
     )
+
+        if os.path.exists('{0}.pt'.format(store_name_cur)): # + str(random.randint(10**14, 10**15 - 1)))):
+            os.remove('{0}.pt'.format(store_name_cur)) # + str(random.randint(10**14, 10**15 - 1))))
     # Filter out None values directly when extending data
         data.extend([item for item in new_data if item is not None])
-    return data[:data_num] #pdb.set_trace()
     #data=data_sample_pattern(char_instruction,domain,data_num,store_name+str(random.randint(10**14,10**15-1)),reward_prompt,task_name,pattern=True,neg_sample=False)
 #    pdb.set_trace() 
-    #return data
+    return data
 def process_characteristics_and_instructions(
     characteristic_dict: dict,
     ground_data: list,
@@ -193,8 +196,12 @@ def sample_other_key_data(data_dict,obj_key,data_num):
     for key in data_dict:
         if key!=obj_key:
             for instruction in data_dict[key]:
-                other_key_data.extend(data_dict[key][instruction])
-    random_sample_data=random.sample(other_key_data,data_num)
+                if data_dict[key][instruction]:
+                    other_key_data.extend(data_dict[key][instruction])
+    try:
+        random_sample_data=random.sample(other_key_data,data_num)
+    except:
+        pdb.set_trace()
     return random_sample_data
 def generate_generative_instructions(characteristic_dict,task_instruction,reward_prompt,domain,data_num,store_name,task_name,prompt_num=50,previous_instructions=None):
             char_data_instructions={}
@@ -206,9 +213,9 @@ def generate_generative_instructions(characteristic_dict,task_instruction,reward
                 else:
                     char_instructions = generation_instruction_generation(characteristic,ground_data, task_instruction,prompt_num=prompt_num)
                 for char_instruction in char_instructions:
-                    data = generate_data(char_instruction,reward_prompt, domain, data_num, store_name, task_name)
+                    #pdb.set_trace()
+                    data = generate_data(char_instruction,reward_prompt, domain,ground_data, data_num, store_name, task_name)
                     char_data_instructions[characteristic][char_instruction]=data
-#                    pdb.set_trace()
             return char_data_instructions
 def optimize_generative_instructions(char_data_instructions,characteristic_dict,data_num,discriminative_instructions):     
         ooa_instructions_data={}
@@ -222,11 +229,9 @@ def optimize_generative_instructions(char_data_instructions,characteristic_dict,
             for char_instruction in char_data_instructions[characteristic]:
                 positve_score=evaluate_instructions(char_data_instructions[characteristic][char_instruction],valid_ground_data,discriminative_instructions[characteristic],is_discriminative=False)
                 negative_score=evaluate_instructions(char_data_instructions[characteristic][char_instruction],other_key_data,discriminative_instructions[characteristic],is_discriminative=False)
-#                pdb.set_trace()
                 instructions_scores.append((char_instruction,positve_score/(positve_score+negative_score)))
             instructions_scores.sort(key=lambda x:x[1],reverse=True)
             best_instruction=instructions_scores[0][0]
-#            pdb.set_trace()
             ooa_instructions_data[characteristic]=(best_instruction,ground_data,char_data_instructions[characteristic][best_instruction])
         return ooa_instructions_data
 def generate_and_optimize_discriminative_instructions(ooa_instructions_data,characteristic_dict,task_instruction):
@@ -242,7 +247,6 @@ def generate_and_optimize_discriminative_instructions(ooa_instructions_data,char
             discriminative_instructions[characteristic]=best_discriminative_instruction
         return discriminative_instructions
 def run_ooa_instruction_optimization(ooa_data,task_instruction,reward_prompt,task_name,store_name,domain,data_num=20,previous_gradients=None):
-#    pdb.set_trace() 
     try:
    
         characteristic_dict=torch.load(store_name+"_characteristic_dict.pt")
@@ -251,10 +255,11 @@ def run_ooa_instruction_optimization(ooa_data,task_instruction,reward_prompt,tas
     except: 
 #        aaa=torch.load('ooa_constrast_3_r_characteristic_dict.pt')
  #       keys_text=[key for key in aaa.keys()]
+#        pdb.set_trace()
         characteristic_dict=data_type_analysis(ooa_data,task_instruction,previous_analysis=previous_gradients) #,previous_analysis=keys_text)
 #        pdb.set_trace()
         torch.save(characteristic_dict, store_name+"_characteristic_dict.pt")
- #   store_name+='refine' #    pdb.set_trace()
+    #pdb.set_trace()
     try:
         ooa_instructions_data=torch.load(store_name+"_ooa_instructions_data_t_3.pt")
     except:
@@ -273,7 +278,6 @@ def run_ooa_instruction_optimization(ooa_data,task_instruction,reward_prompt,tas
             else:
                 char_data_instructions=generate_generative_instructions(characteristic_dict,task_instruction,reward_prompt,domain,data_num,store_name,task_name,prompt_num=50)
             torch.save(char_data_instructions,store_name+'char_data_instructions_t_3_{0}.pt'.format(iteration))
-#            pdb.set_trace()
             #print(iteration)
             ooa_instructions_data=optimize_generative_instructions(char_data_instructions,characteristic_dict,data_num,discriminative_instructions)
             previous_instructions={}
@@ -287,14 +291,15 @@ def run_ooa_instruction_optimization(ooa_data,task_instruction,reward_prompt,tas
             print(iteration,previous_instructions) #pdb.set_trace() #ooa_instructions_data[characteristic]=(best_discriminative_instruction,ooa_instructions_data[characteristic][1],ooa_instructions_data[characteristic][2])
         data_num=50
         char_data_instructions=generate_generative_instructions(characteristic_dict,task_instruction,reward_prompt,domain,data_num,store_name,task_name,prompt_num=5,previous_instructions=previous_instructions)
-        #pdb.set_trace()    
         ooa_instructions_data=optimize_generative_instructions(char_data_instructions,characteristic_dict,data_num,discriminative_instructions)
         torch.save(ooa_instructions_data, store_name+"_ooa_instructions_data_t_3.pt")
  #       pdb.set_trace() 
         for char in ooa_instructions_data:
             char_instruction=ooa_instructions_data[char][0]
-            ooa_instructions_data[char][2].extend(generate_data(char_instruction, '', domain, 450, store_name, task_name))
+            ground_data=[data[0] for data in characteristic_dict[char]]
+            ooa_instructions_data[char][2].extend(generate_data(char_instruction, '', domain,ground_data, 450, store_name, task_name))
         torch.save(ooa_instructions_data, store_name+"_ooa_instructions_data_t_3.pt")
+    #pdb.set_trace()
     return ooa_instructions_data
 
 
