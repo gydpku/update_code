@@ -12,6 +12,7 @@ import time
 import re
 import copy
 from collections import Counter
+from vllm import LLM, SamplingParams
 def extract_answer(text):
     matches = re.findall(r'\b[A-D]\b', text)
     if matches:
@@ -71,11 +72,8 @@ def simple_process_a1_a2_a3_data(a1_data,a2_data,a3_data):
     return a1_prompts_answers,a2_prompts_answers,a3_prompts_answers
 def initialize_model_and_tokenizer(model_name):
     print("Loading model and tokenizer...")
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype="auto",
-        device_map="auto"
-    )
+    model=LLM(model=model_name,gpu_memory_utilization=0.95,max_model_len=8192)
+    
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     return model, tokenizer
 def random_sample(demos,num=4):
@@ -109,6 +107,7 @@ def do_simple_inference(prompt, model, tokenizer, temperature=0.2, max_new_token
     text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
     # Tokenize input text
+    
     model_inputs = tokenizer(text, return_tensors="pt", truncation=True).to(model.device)
 
     # Generate response
@@ -131,7 +130,7 @@ def generate_response(prompt, model, tokenizer,demos, solution_num=32, temperatu
     messages = [
         [
             {"role": "system", "content": "You are a helpful and harmless assistant. You are Qwen developed by Alibaba. You should think step-by-step."},
-            {"role": "user", "content": prompt+random_sample(demos,num=1)}
+            {"role": "user", "content": prompt}
         ]
         for _ in range(solution_num)
     ]
@@ -147,19 +146,15 @@ def generate_response(prompt, model, tokenizer,demos, solution_num=32, temperatu
         ]
 
         # Tokenize all texts in one batch
-        model_inputs = tokenizer(texts, return_tensors="pt", padding=True, truncation=True).to(model.device)
-
+        sampling_params = SamplingParams(temperature=0.7, top_p=0.95,max_tokens=2048)
+        outputs = model.generate(texts, sampling_params)
         print('Generating responses in batch')
-        generated_ids = model.generate(
-            **model_inputs,
-            max_new_tokens=max_new_tokens,
-            temperature=temperature
-        )
+        responses=[]
+        for output in outputs:
+            generated_text = output.outputs[0].text
+            responses.append(generated_text)
 
-        # Decode responses in batch
-        responses = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
-        torch.cuda.empty_cache()
-       
+        print('solutions',responses)
     
     except Exception as e:
         print(f"Error occurred during generation: {e}")
@@ -167,7 +162,6 @@ def generate_response(prompt, model, tokenizer,demos, solution_num=32, temperatu
 
     end_time = time.time()
     print('Time taken:', end_time - start_time)
-#    pdb.set_trace()
     return responses
 # Generate response function
 # Data processing and solution generation
@@ -238,9 +232,9 @@ def collect_simple_solutions(a1_prompts_answers, a2_prompts_answers, a3_prompts_
 if __name__ == "__main__":
     path = '/dccstor/obsidian_llm/yiduo'
     temperature = 0.7
-    solution_nums = 64
+    solution_nums = 128
     model_name = "/dccstor/obsidian_llm/yiduo/models--Qwen--QwQ-32B-Preview"
-    type='in_context_major_64'
+    type='in_context_major_128'
     print("Initializing model and tokenizer...")
     model, tokenizer = initialize_model_and_tokenizer(model_name)
 
