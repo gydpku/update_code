@@ -1,5 +1,3 @@
-
-
 from ooa_instruction_optimization_constrast_t_3 import run_ooa_instruction_optimization #,run_ooa_instruction_optimization_loop
 task_instruction="The task is to generate medical inference data based on the provided medical passage."
 from valid_data_analysis import data_type_analysis
@@ -11,22 +9,26 @@ from openai_call import query_azure_openai_chatgpt_chat
 import pdb
 from datasets import concatenate_datasets
 from datasets import load_from_disk
-from generate_data import clean_and_collect_dataset,data_sample_pattern
+from generate_data import clean_and_collect_dataset,data_sample_pattern,data_sample_pattern_document
 import logging
 import os
 import shutil
 from model_eval import process_validation_batch_major,valid_results_collect
 from auto_finetune import train_model,train_status_check
 print('Starting')
-experiment_name='baseline_random_2'
+experiment_name='gsm_baseline_12' #'mednli_baseline_12' #'gsm_baseline_12' #'baseline_random_2'
 output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
 cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
 model='LLama3-8B'
-base_model_path='/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
-task_name='GSM8k'
+base_model_path='/dccstor/obsidian_llm/yiduo/Llama-3.1-8B-Instruct' #'/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
+task_name='GSM8k' #'MedNLI' #'GSM8k'
 train_seed=2024
+if 'gsm8k' in task_name.lower():
+    is_voting=True
+else:
+    is_voting=False
 task_instruction='You are given a word problem involving basic arithmetic, algebra, or geometry. Your task is to carefully read the problem and provide a step-by-step solution, ensuring that all intermediate steps are shown clearly.'
-
+#task_instruction='The domain is Medical. The TASK: Please classify the relationship between the given premise and hypothesis into one of the following labels: entailment, contradiction, or neutral.'
 def load_task_dataset(dataset_name,valid_num=100):
     if dataset_name=='MedNLI':
         test_examples=[]
@@ -63,21 +65,23 @@ def remove_folder(path):
 test_examples,valid_data,domain=load_task_dataset(task_name,100)
 valid_acc=[0]
 best_valid_acc=0
-best_model_path=''
-best_data_path=''
+#ooa_failed_cases, im_failed_cases, correct_cases=process_validation_batch_major(base_model_path, valid_data,task=task_name,seed=False, iteration=1)
+#pdb.set_trace()
+#best_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_2000_model'
+#best_data_path='/dccstor/obsidian_llm/yiduo/summary/src/dataset_GSM8k_2000baseline_random_2' #'GSM8kbaseline_random_2_3000_model'
 print('start finding')
-
-for data_num in [3000,4000,5000,6000,7000,8000,9000,10000]:
+test_acc=[]
+for data_num in [1000,2000,3000,4000]: #,5000,6000,7000,8000,9000,10000]:
     store_name='Synthetic_initial_'+task_name+experiment_name
     print('sampling: ',data_num)
-    data=data_sample_pattern(task_instruction,domain,data_num,store_name,'',demo_examples=valid_data,temperature=0.7,task_name=task_name,neg_sample=True,pattern=False,voting=True,iteration_number=1,sample_demo_num=3,passage_num=10000,valid_num=100,types=None)
+    data=data_sample_pattern(task_instruction,domain,data_num,store_name,'',demo_examples=valid_data,temperature=0.7,task_name=task_name,neg_sample=True,pattern=False,voting=is_voting,iteration_number=1,sample_demo_num=3,passage_num=10000,valid_num=100,types=None)
     data=[example for example in data if example]
     dataset_name='dataset_'+task_name+'_'+str(data_num)+experiment_name
     clean_and_collect_dataset(data,'',dataset_name)
-    cur_output_path=os.path.join(output_path,task_name+experiment_name+'_'+str(data_num)+'_model') #name+'_model')
+    cur_output_path=os.path.join(output_path,task_name+experiment_name+'_'+str(data_num)+'1e-6_model') #name+'_model')
     failed_times=0
     while not train_status_check(cur_output_path):
-        train_model(os.path.join(cur_path,dataset_name),base_model_path,cur_output_path,seed=train_seed)
+        train_model(os.path.join(cur_path,dataset_name),base_model_path,cur_output_path,seed=train_seed,learning_rate=1e-6)
         if not train_status_check(cur_output_path):
             remove_folder(cur_output_path)   
             failed_times+=1
@@ -85,21 +89,27 @@ for data_num in [3000,4000,5000,6000,7000,8000,9000,10000]:
             if failed_times>3:
                 pdb.set_trace()
     print('We have finished training the model ',cur_output_path)
-    ooa_failed_cases, im_failed_cases, correct_cases=process_validation_batch_major(cur_output_path, valid_data,task=task_name,seed=False, iteration=100)
-    valid_acc.append(len(correct_cases)/(len(correct_cases)+len(ooa_failed_cases)+len(im_failed_cases)))
-    if valid_acc[-1]>best_valid_acc:
-        best_valid_acc=valid_acc[-1]
-        best_model_path=cur_output_path
-        best_data_path=os.path.join(cur_path,dataset_name)
-    print('cur_acc is ',valid_acc[-1])
-    torch.save(ooa_failed_cases,'ooa_failed_cases_{0}.pt'.format(experiment_name))
-    torch.save(im_failed_cases,'im_failed_cases_{0}.pt'.format(experiment_name))
-
+#    ooa_failed_cases, im_failed_cases, correct_cases=process_validation_batch_major(cur_output_path, valid_data,task=task_name,seed=False, iteration=100)
+ #   valid_acc.append(len(correct_cases)/(len(correct_cases)+len(ooa_failed_cases)+len(im_failed_cases)))
+    f_test,c_test=valid_results_collect(cur_output_path, test_examples, task_name)
+    test_acc.append(len(c_test)/len(test_examples)) #  if valid_acc[-1]>best_valid_acc:
+  #      best_valid_acc=valid_acc[-1]
+  #      best_model_path=cur_output_path
+  #      best_data_path=os.path.join(cur_path,dataset_name)
+    print('cur_acc is ',valid_acc[-1], 'test_acc is', len(c_test)/len(test_examples))
+    #pdb.set_trace() #    torch.save(ooa_failed_cases,'ooa_failed_cases_{0}.pt'.format(experiment_name))
+ #   torch.save(im_failed_cases,'im_failed_cases_{0}.pt'.format(experiment_name))
+pdb.set_trace()
 initial_model_path=best_model_path
 initial_data_path=best_data_path
 print('The best valid accuracy is',best_valid_acc,'at',data_num,'data',initial_model_path,initial_data_path)
 pdb.set_trace()
-print(initial_model_path,initial_data_path) 
+
+initial_model_path=best_model_path
+initial_data_path=best_data_path
+#best_model_path=
+#best_data_path=
+#print(initial_model_path,initial_data_path) 
 # Configure logging
 
 def remove_previous_folders(experiment_name,iteration):
