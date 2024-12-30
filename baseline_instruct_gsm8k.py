@@ -18,9 +18,10 @@ from model_eval import process_validation_batch_major,valid_results_collect,proc
 import logging
 import os
 import shutil
-experiment_name='instruct_baseline_gsm8k_3.1'
+experiment_name='instruct_baseline_gsm8k_3.1_doc_rate_0.3'
 output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
 cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
+rate=0.3
 model='LLama3-8B'
 base_model_path='/dccstor/obsidian_llm/yiduo/Llama-3.1-8B-Instruct' #'/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
 task_name='GSM8k'
@@ -75,8 +76,8 @@ def remove_folder(path):
         print(f"Directory '{path}' does not exist.")
 test_examples,valid_data,domain=load_task_dataset(task_name,100)  
 valid_data=valid_data[:100]
-initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_20001e-6_model' #GSM8kgsm_baseline_10_20001e-6_model' #'/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_40001e-6_model'
-initial_data_path='dataset_GSM8k_2000baseline_random_2' #dataset_GSM8k_4000baseline_random_2' #'dataset_LogiQA_3000baseline_logiqa'
+initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kgsm_baseline_12_30001e-6_model' #'/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_20001e-6_model' #GSM8kgsm_baseline_10_20001e-6_model' #'/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_40001e-6_model'
+initial_data_path='dataset_GSM8k_3000gsm_baseline_12' #'dataset_GSM8k_2000baseline_random_2' #dataset_GSM8k_4000baseline_random_2' #'dataset_LogiQA_3000baseline_logiqa'
 learning_rate=1e-6
 # Configure logging
 logging.basicConfig(
@@ -114,7 +115,8 @@ for iteration in range(1):
             torch.save(im_failed_cases,'im_failed_cases_{0}.pt'.format(experiment_name))
             ooa_data=torch.load('ooa_failed_cases_{0}.pt'.format(experiment_name))+torch.load('im_failed_cases_{0}.pt'.format(experiment_name))
         global_best_performance=1-len(ooa_data)/(len(valid_data))
-        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'',task_name,experiment_name+'_'+str(iteration),domain,data_num=20)
+        global_best_data=load_from_disk(global_best_dataset_path)
+        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'',task_name,experiment_name+'_'+str(iteration),domain,max_data_num=int(len(global_best_data)*rate),data_num=20)
     else:
         ooa_failed_cases=torch.load('ooa_failed_cases_{0}_{1}.pt'.format(experiment_name,iteration-1))
         im_failed_cases=torch.load('im_failed_cases_{0}_{1}.pt'.format(experiment_name,iteration-1))
@@ -128,12 +130,12 @@ for iteration in range(1):
         global_best_model_path=torch.load('global_best_model_path_{0}_{1}.pt'.format(experiment_name,iteration-1))
         global_best_performance=torch.load('global_best_performance_{0}_{1}.pt'.format(experiment_name,iteration-1))
         global_best_group=torch.load('global_best_group_{0}_{1}.pt'.format(experiment_name,iteration-1))
-
+        global_best_data=load_from_disk(global_best_dataset_path)
         #global_best_data_name=torch.load('global_best_data_name_{0}_{1}.pt'.format(experiment_name,iteration-1))
-        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'',task_name,experiment_name+'_'+str(iteration),domain,data_num=20,previous_gradients=previous_gradients)
-     #    pdb.set_trace()
+        instructions_data=run_ooa_instruction_optimization(ooa_data,task_instruction,'',task_name,experiment_name+'_'+str(iteration),domain,max_data_num=int(len(global_best_data)*rate),data_num=20,previous_gradients=previous_gradients)
+#    pdb.set_trace()
     keys=[key for key in instructions_data.keys()]
-    global_best_data=load_from_disk(global_best_dataset_path)
+    #global_best_data=load_from_disk(global_best_dataset_path)
     #global_filter
     def transform_from_low_to_up(data):
             new_data=[]
@@ -191,7 +193,7 @@ for iteration in range(1):
             name=query_azure_openai_chatgpt_chat(prompt)
             names_keys[name]=key
             names_valid[name]=instructions_data[key][1]
-            for num in [100,300,500]:
+            for num in [int((rate/3)*len(global_best_data)),int((rate*2/3)*len(global_best_data)),int(rate*len(global_best_data))]: #for num in [int(len(data)*(1/3)),int(len(data)*(2/3)),len(data)]:
                 cur_data=transform_from_up_to_low(global_best_data)
                 cur_data.extend(data[:num])
                 #majority_votingcur_data=transform_from_up_to_low(cur_data)
