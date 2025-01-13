@@ -4,11 +4,15 @@ from model_eval import extract_answer_prediction_nli,extract_answer_prediction_g
 from batch_inference import batch_inference
 from reward_prompt_selection import best_example_selection
 from func_timeout import func_timeout, FunctionTimedOut
+from utils.common import jsonl_generator
+from BM25_retriever import search_relevant_documents
 import signal
 from collect_data import prompt_domain_find_wikipassage
 from eval import evaluate_score,evaluate_score_reason,evaluate_score_self
 #from generate_data import extract_example
 #from generate_data import multiple_examples_extraction
+import os
+from documental_retrieve import retrieve_documents
 import random
 import json
 from datasets import Dataset,DatasetDict
@@ -141,6 +145,83 @@ def cot_check_fill(demo_examples,task_name=''):
             demo_cot_examples.append({'Input':example['Input'],'Output':cot_solution})
 
         return demo_cot_examples
+def data_sample_pattern_document(instruction,domain,num,store_name,reward_prompt,demo_examples,temperature=0.7,task_name='nli',neg_sample=True,voting=False,pattern=False,iteration_number=1,sample_demo_num=3,passage_num=5000,valid_num=100,types=None):
+    task_instruction=instruction
+    print('load_cot_data...')
+    try:
+        demo_cot_examples=torch.load('{0}_demo.pt'.format(task_name))
+    except:
+        demo_cot_examples=cot_check_fill(demo_examples)
+        torch.save(demo_cot_examples,'{0}_demo.pt'.format(task_name))
+#    pdb.set_trace()
+    print('load passage ...')
+    demo_file_path='./{0}_demo.jsonl'.format(task_name)
+    if not os.path.exists(demo_file_path):
+        with open(demo_file_path,'w') as file:
+            for item in demo_cot_examples:
+                file.write(json.dumps(item) + '\n')
+    passage_file_path='./{0}_passage.jsonl'.format(task_name)
+    if not os.path.exists(passage_file_path):
+        retrieve_documents(num_samples_to_retrieve=passage_num,saving_path=passage_file_path)
+    passages = [passage['text'] for passage in jsonl_generator(passage_file_path, return_string=False)]
+    if len(passages)<passage_num:
+        retrieve_documents(num_samples_to_retrieve=passage_num,saving_path=passage_file_path)
+        passages = [passage['text'] for passage in jsonl_generator(passage_file_path, return_string=False)]
+    #pdb.set_trace()
+    passages=list(set(passages))
+    print(demo_cot_examples[0],'\n')
+#    print(demo_examples[0],'\n')
+    print('passages',len(passages))
+    print('store_name','{0}.pt'.format(store_name))
+#    
+    try:
+        synthetic_examples=torch.load('{0}.pt'.format(store_name))
+    except:
+        synthetic_examples=[]
+    start=len(synthetic_examples)
+#    pdb.set_trace()
+    print('start with',start,'end with',num+3)
+    if start>num:
+        return synthetic_examples[:num]
+#    pdb.set_trace()
+    prompts=[]
+    for num_id in range(start,num+3):
+        
+        sample_size = 1 # random.randint(1,5)
+        sampled_objects = passages[num_id]
+        sampled_demo_examples=random.sample(demo_cot_examples, sample_demo_num)
+        prompts.append(aug_few_shot_prompt_pattern_generate(sampled_demo_examples,task_instruction,sampled_objects,reward_prompt,neg_sample=neg_sample))   
+#    pdb.set_trace()
+    results=batch_inference(prompts,temperature=0.7)
+    #pdb.set_trace()
+    voting=True
+    try:
+        new_examples=[example for example in (example_check(result) for result in results) if example]
+        if voting:
+            vot_examples=[]
+            for example_id,example in enumerate(new_examples):
+                print(example_id)
+                short_output,random_output,long_output=majority_voting(example,task_name)
+                vot_examples.append({'input':example['input'],'output':random_output})
+            new_examples=vot_examples
+        synthetic_examples.extend(new_examples) #[example for example in (example_check(result) for result in results) if example])
+        torch.save(synthetic_examples,'{0}.pt'.format(store_name))
+        return synthetic_examples[:num] #[example_check(result) for result in results][:num] #examples=[example_check(result) for result in results][:num]
+    except:
+       
+        results=batch_inference(prompts,temperature=0.7)
+        new_examples=[example for example in (example_check(result) for result in results) if example]
+        if voting:
+            vot_examples=[]
+            for example_id,example in enumerate(new_examples): 
+                print(example_id) #for example in new_examples:
+                short_output,random_output,long_output=majority_voting(example,task_name)
+                vot_examples.append({'input':example['input'],'output':random_output})
+            new_examples=vot_examples
+        synthetic_examples.extend(new_examples)
+        #synthetic_examples.extend([example for example in (example_check(result) for result in results) if example]) #synthetic_examples.extend([example_check(result) for result in results])                                │···························································································
+        torch.save(synthetic_examples,'{0}.pt'.format(store_name))
+        return synthetic_examples[:num]
 def data_sample_pattern(instruction,domain,num,store_name,reward_prompt,demo_examples,temperature=0.7,task_name='nli',neg_sample=True,voting=False,pattern=False,iteration_number=1,sample_demo_num=3,passage_num=5000,valid_num=100,types=None):
     task_instruction=instruction
     print('load_cot_data...')
@@ -154,12 +235,12 @@ def data_sample_pattern(instruction,domain,num,store_name,reward_prompt,demo_exa
     try:
         passages=torch.load('{0}.pt'.format(domain)) #'medical_passages_sub.pt')
     except:
-        passages=prompt_domain_find_wikipassage(domain,passage_num)
+        passages=search_relevant_documents(domain,top_k=10000) #prompt_domain_find_wikipassage(domain,passage_num)
         torch.save(passages,'{0}.pt'.format(domain)) #'medical_passages_sub.pt')
 #    pdb.set_trace()
     passages=list(set(passages))
     print(demo_cot_examples[0],'\n')
-#    print(demo_examples[0],'\n')
+    voting=True #    print(demo_examples[0],'\n')
     print('passages',len(passages))
     print('store_name','{0}.pt'.format(store_name))
 #    
@@ -209,23 +290,7 @@ def data_sample_pattern(instruction,domain,num,store_name,reward_prompt,demo_exa
         synthetic_examples.extend(new_examples)
         #synthetic_examples.extend([example for example in (example_check(result) for result in results) if example]) #synthetic_examples.extend([example_check(result) for result in results])                                │···························································································
         torch.save(synthetic_examples,'{0}.pt'.format(store_name))
-        return synthetic_examples[:num] #[example_check(result) for result in results][:num] #examples=[example_check(result) for result in results][:num]
-    short_examples=[]
-    random_examples=[]
-    long_examples=[]
-    for example_id,example in enumerate(examples):
-        if not example:
-            continue  #        pdb.set_trace()
-        if example_id%100==0:
-            print('We have done {0} examples.'.format(example_id))
-        input=example['input']
-        short_output,random_output,long_output=majority_voting(example)
-        short_examples.append({'input':input,'output':short_output})
-        random_examples.append({'input':input,'output':random_output})
-        long_examples.append({'input':input,'output':long_output})
-        #example['output'=majority_voting(example)
-#        pdb.set_trace()
-    return short_examples,random_examples,long_examples
+        return synthetic_examples[:num] 
 def majority_voting(example,task_name,n=4):
     input=example['input']
     output=example['output']
@@ -422,7 +487,11 @@ def clean_and_collect_dataset(examples,instruction,name):
         datas=[eval(ele[ele.find('{'):ele.find('}')+1]) for ele in examples]
     else:
         datas=examples
-    train_data=[{'instruction':instruction+' '+clean_input(data['input']),'output':clean_output(data['output'])} for data in datas]
+    #pdb.set_trace()
+    try:
+        train_data=[{'instruction':instruction+' '+clean_input(item[list(item.keys())[0]]),'output':clean_output(item[list(item.keys())[1]])} for item in datas]
+    except:
+        pdb.set_trace()
     dataset=Dataset.from_dict({key: [str(dic[key]) for dic in train_data] for key in train_data[0]})
 #    dataset_dict = DatasetDict({'train': dataset})
     dataset=dataset.shuffle(seed=2022)
