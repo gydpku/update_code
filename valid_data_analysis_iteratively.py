@@ -72,10 +72,27 @@ def generate_challenge_prompts(
 def generate_pattern_prompt(
     case_analysis: List[str],
     task_instruction: str,
-    num_pattern: int = 3,
     previous_analysis: Optional[str] = None
 ) -> str:
     """Generate prompt for pattern analysis."""
+    import pdb
+#    pdb.set_trace()
+    number_prompt="""Here are some case analysis of the challenging characteristic of the task data.
+    You need to decide the number of main data characteristic patterns to cover all challenge and diffculty among these cases.
+    Each pattern should be different from each other (exclusive) and should cover cases as more as possible.
+    Directly output the minimum number of patterns to cover all cases, following with your answer.
+    """
+ #   pdb.set_trace()
+    case_text=''
+    for case_id, case in enumerate(case_analysis):
+        case_text+=f"Case {case_id}:{case}\n"
+    number_prompt+=f"cases:{case_text}"
+  #  pdb.set_trace()
+    number_analysis=query_azure_openai_chatgpt_chat(number_prompt, temperature=0.0)
+    import re
+    extract_number=re.findall(r'\d+',number_analysis)
+    num_pattern=min(int(extract_number[0]),3)
+    import pdb
     prompt = f"""
         Here are some case analysis of the challenging characteristic of the task data.
         You need to induce {num_pattern} main data characteristic patterns from these case analysis in general.
@@ -84,12 +101,8 @@ def generate_pattern_prompt(
         And these patterns should cover all cases.
         """
     
-    
     #data driven
     # Add cases
-    case_text=''
-    for case_id, case in enumerate(case_analysis):
-        case_text+=f"Case {case_id}:{case}\n"
     for case_id, case in enumerate(case_analysis):
         prompt += f"Case {case_id}:{case}\n"
     
@@ -179,7 +192,7 @@ def process_case_analysis(challenge_prompts,temperature=0.2):
 
 def get_initial_characteristics(case_analysis, task_instruction, previous_analysis_text,data_group,temperature=0.2):
     """Generate initial characteristic analysis."""
-    pattern_prompt = generate_pattern_prompt(case_analysis, task_instruction, num_pattern=6, previous_analysis=previous_analysis_text)
+    pattern_prompt = generate_pattern_prompt(case_analysis, task_instruction, previous_analysis=previous_analysis_text)
     characteristic_analysis = query_azure_openai_chatgpt_chat(pattern_prompt, temperature=temperature)
     return characteristic_analysis_to_dict(characteristic_analysis, data_group, is_num=True)
 
@@ -328,7 +341,7 @@ def data_type_analysis(
         # Generate and process data characteristics
         data_prompts = generate_data_prompts(data_group, task_instruction)
         data_chars = batch_inference(data_prompts, temperature=0.0)
-   #     pdb.set_trace()
+#        pdb.set_trace()
         previous_analysis_text=''
         if previous_analysis:
             previous_analysis_text=''
@@ -337,7 +350,7 @@ def data_type_analysis(
             challenge_prompts = generate_challenge_prompts(data_chars, data_group, task_instruction, previous_analysis_text)
         else:
             challenge_prompts = generate_challenge_prompts(data_chars, data_group, task_instruction)
-#        pdb.set_trace()
+ #       pdb.set_trace()
         #characteristics=new_first(challenge_prompts,task_instruction,previous_analysis_text,previous_analysis,data_group,iteration=5,graident_number=3)
 #        pdb.set_trace()
        # return characteristics   
@@ -354,9 +367,9 @@ def data_type_analysis(
         '''
         # Process case analysis
         case_analysis = [' '.join(analysis.lower().split('characteristic:')[1::2]) for analysis in challenge_analysis]
-        
+  #      pdb.set_trace()        
         # Generate pattern analysis
-        pattern_prompt = generate_pattern_prompt(case_analysis, task_instruction, num_pattern=3, previous_analysis=previous_analysis)
+        pattern_prompt = generate_pattern_prompt(case_analysis, task_instruction, previous_analysis=previous_analysis)
         pdb.set_trace()
         characteristic_analysis = query_azure_openai_chatgpt_chat(pattern_prompt, temperature=0.0)
 #        pdb.set_trace()
