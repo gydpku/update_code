@@ -18,15 +18,15 @@ from model_eval import process_validation_batch_major,valid_results_collect,proc
 import logging
 import os
 import shutil
-experiment_name='instruct_baseline_gsm8k_3.1_doc_rate_0.1' #'instruct_baseline_gsm8k_3.1_rate_0.1'
+experiment_name='instruct_baseline_logiqa_3.1_rate_0.3'
 output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
 cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
 rate=0.3
 model='LLama3-8B'
-base_model_path='/dccstor/obsidian_llm/yiduo/Llama-3.1-8B-Instruct' #'/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
-task_name='GSM8k'
+base_model_path='/dccstor/obsidian_llm/yiduo/Llama-3.1-8B-Instruct' #'/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yi$
+task_name='LogiQA' #'MedNLI'
 train_seed=2024
-task_instruction='You are given a word problem involving basic arithmetic, algebra, or geometry. Your task is to carefully read the problem and provide a step-by-step solution, ensuring that all intermediate steps are shown clearly.'
+task_instruction='You should answer logical reasoning questions accurately based on the provided context.'
 #LogiQAbaseline_logiqa
 def load_task_dataset(dataset_name,valid_num=100):
     if dataset_name=='MedNLI':
@@ -76,8 +76,11 @@ def remove_folder(path):
         print(f"Directory '{path}' does not exist.")
 test_examples,valid_data,domain=load_task_dataset(task_name,100)  
 valid_data=valid_data[:100]
-initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_20001e-6_model' #GSM8kgsm_baseline_10_20001e-6_model' #'/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_40001e-6_model'
-initial_data_path='dataset_GSM8k_2000baseline_random_2' #dataset_GSM8k_4000baseline_random_2' #'dataset_LogiQA_3000baseline_logiqa'
+initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/LogiQAbaseline_logiqa_15_20001e-6_model' #MedNLImednli_baseline_12_20$
+initial_data_path='dataset_LogiQA_2000baseline_logiqa_15'
+learning_rate=1e-6
+#initial_model_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_20001e-6_model' #GSM8kgsm_baseline_10_20001e-6_model' #'/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/GSM8kbaseline_random_2_40001e-6_model'
+#initial_data_path='dataset_GSM8k_2000baseline_random_2' #dataset_GSM8k_4000baseline_random_2' #'dataset_LogiQA_3000baseline_logiqa'
 learning_rate=1e-6
 # Configure logging
 logging.basicConfig(
@@ -100,7 +103,7 @@ def remove_folder(path):
         print(f"Directory '{path}' has been removed.")
     else:
         print(f"Directory '{path}' does not exist.")
-for iteration in range(1,2):
+for iteration in range(1,5):
     print('Generating data for iteration ',iteration)
     if iteration==0:
         global_best_model_path=initial_model_path
