@@ -11,18 +11,19 @@ from openai_call import query_azure_openai_chatgpt_chat
 import pdb
 from datasets import concatenate_datasets
 from datasets import load_from_disk
-from generate_data import clean_and_collect_dataset,data_sample_pattern
+from generate_data import clean_and_collect_dataset,data_sample_pattern,data_sample_pattern_document
 import logging
 import os
 import shutil
+#data_sample_pattern_document
 from model_eval import process_validation_batch_major,valid_results_collect
 from auto_finetune import train_model,train_status_check
 print('Starting')
-experiment_name='baseline_logiqa'
+experiment_name='baseline_logiqa_15' #_no_vote'
 output_path='/dccstor/obsidian_llm/yiduo/copy_v2/finetuned_models/'
 cur_path='/dccstor/obsidian_llm/yiduo/summary/src/'
 model='LLama3-8B'
-base_model_path='/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
+base_model_path='/dccstor/obsidian_llm/yiduo/Llama-3.1-8B-Instruct' #base_model_path='/dccstor/obsidian_llm/yiduo/llama-3-instruct' #'/dccstor/obsidian_llm/yiduo/h100_data/llama-3-8b'
 task_name='LogiQA'
 train_seed=2024
 task_instruction='You should answer logical reasoning questions accurately based on the provided context.' #'You are given a word problem involving basic arithmetic, algebra, or geometry. Your task is to carefully read the problem and provide a step-by-step solution, ensuring that all intermediate steps are shown clearly.'
@@ -80,8 +81,8 @@ best_model_path=''
 best_data_path=''
 print('start finding')
 
-for data_num in [2000,3000,4000,5000,6000,7000,8000,9000,10000]:
-    store_name='Synthetic_initial_'+task_name+experiment_name
+for data_num in [4000,5000]: #,6000,7000,8000,9000,10000]:
+    store_name='Synthetic_initial_'+task_name+experiment_name # 'Synthetic_initial_LogiQAbaseline_logiqa' #'Synthetic_initial_'+task_name+experiment_name
     print('sampling: ',data_num)
     data=data_sample_pattern(task_instruction,domain,data_num,store_name,'',demo_examples=valid_data,temperature=0.7,task_name=task_name,neg_sample=True,pattern=False,voting=True,iteration_number=1,sample_demo_num=3,passage_num=10000,valid_num=100,types=None)
     data=[example for example in data if example]
@@ -105,7 +106,9 @@ for data_num in [2000,3000,4000,5000,6000,7000,8000,9000,10000]:
         best_valid_acc=valid_acc[-1]
         best_model_path=cur_output_path
         best_data_path=os.path.join(cur_path,dataset_name)
+    pdb.set_trace()
     print('cur_acc is ',valid_acc[-1],'test_acc is', len(c_test)/len(test_examples))
+    #pdb.set_trace()
     torch.save(ooa_failed_cases,'ooa_failed_cases_{0}.pt'.format(experiment_name))
     torch.save(im_failed_cases,'im_failed_cases_{0}.pt'.format(experiment_name))
 
