@@ -1,0 +1,29 @@
+
+(1)根尖孔和侧副根管孔是牙髓血运的供应通道, 也是牙髓和牙周组织的交通渠道, 同时还是牙髓或牙周组织感染互相传播的途径; 根尖狭窄作为生理屏障, 限制根管内的感染刺激物穿出根尖孔侵犯根尖周组织。
+
+(2)髓室各解剖结构的位置和变化, 对临床实施牙体治疗和牙冠修复产生直接的影响, 如对龋齿的充填治疗和活髓牙的牙冠预备, 均需熟悉髓腔各部位的解剖形态和位置, 以免造成意外露髓等医源性损伤。
+
+(3)在牙髓治疗过程中, 更需牢牢掌握髓腔尤其是根管系统的解剖形态以及生理、病理的变化, 还要掌握各种可能存在的解剖变异。从开髓进入髓腔, 到定位各根管口, 从疏通各细弯的根管到确定根尖部的操作止点, 从根管预备, 到根管充填, 髓腔的各个结构无不关乎各步治疗操作能否顺利实施到位。如髓室顶和髓角的位置可影响开髓进入；髓壁和髓底可影响定位根管口；根管的数目、粗细、走行和弯曲程度均可影响根管器械的使用和操作效果。不了解髓腔解剖,可能会导致各种操作缺陷或并发症的出现, 如髓壁或根管壁穿孔、根管器械断离等; 根尖狭窄是确定根管工作长度的根尖止点 (apical stop) 位置, 根管内的预备、冲洗、消毒、充填等操作均不能逾越这一生理界限, 以免造成根尖周组织的医源性损伤。
+
+
+
+图 14-17 右下第一磨牙和第二磨牙根尖 $\mathbf{X}$ 线片
+
+(4)在行桩核冠修复中, 桩道预备对根管解剖知识的要求也很高, 不熟悉解剖, 可发生髓壁或根管壁的穿孔, 甚至导致患牙丧失。
+
+(5) 临床工作中, 对髓腔形貌的了解可通过三种途径: ① 熟练掌握牙齿和髓腔的解剖知识, 面对患牙, 头脑中应能反映出髓腔在牙面上的透视影像以及牙齿和根管的基本解剖数据 (表 14-1)。② 拍摄 $\mathrm{X}$ 线片,在根尖 $\mathrm{X}$ 线片上可显示髓室和根管的形态、分布、走向 (图 14-17)。但 $\mathrm{X}$ 线像是将三位形貌压缩为二维的图
+
+表 14-1 恒牙牙根及根管的基本解剖数据
+
+<table><thead><tr><th colspan="2" rowspan="2"/><th colspan="3">牙齿长度(mm)</th><th colspan="4">根管类型</th><th rowspan="2">侧枝根管 构成比</th><th rowspan="2">根尖分歧 构成比</th><th colspan="6">牙根弯曲方向构成比</th></tr><tr><th>平均 长度</th><th>最大 长度</th><th>最小 长度</th><th>1-1</th><th>2-1</th><th>2-2</th><th>3-3</th><th>直</th><th>远中弯</th><th>近中弯</th><th>颊向弯</th><th>舌向弯</th><th>双弯</th></tr></thead><tr><td colspan="2">上颌中切牙</td><td>23.3</td><td>25.6</td><td>21.0</td><td>100.0%</td><td/><td/><td/><td>23.0%</td><td>13%</td><td>75%</td><td>8%</td><td>4%</td><td>9%</td><td>4%</td><td/></tr><tr><td colspan="2">上颌侧切牙</td><td>22.8</td><td>25.1</td><td>21.5</td><td>99.9%</td><td/><td/><td/><td>10.0%</td><td>12%</td><td>30%</td><td>53%</td><td>3%</td><td>4%</td><td/><td>6%</td></tr><tr><td colspan="2">下颌中切牙</td><td>21.5</td><td>23.4</td><td>19.6</td><td>70.1%</td><td>23.4%</td><td>6.5%</td><td/><td>5.2%</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan="2">下颌侧切牙</td><td>22.4</td><td>24.6</td><td>20.2</td><td>56.9%</td><td>14.7%</td><td>29.4%</td><td/><td>13.9%</td><td/><td>60%</td><td>23%</td><td>0</td><td>13%</td><td>0</td><td/></tr><tr><td>上颌尖牙</td><td/><td>26.0</td><td>28.9</td><td>23.1</td><td>100.0%</td><td/><td/><td/><td>24.0%</td><td>8%</td><td>39%</td><td>32%</td><td>0</td><td>13%</td><td>7%</td><td>7%</td></tr><tr><td>下颌尖牙</td><td/><td>25.2</td><td>27.5</td><td>22.9</td><td>94.0%</td><td/><td>6.0 %</td><td/><td>9.5%</td><td/><td>68%</td><td>20%</td><td>1%</td><td>7%</td><td>0</td><td>2%</td></tr><tr><td rowspan="2">上颌第一前磨牙</td><td rowspan="3">颊根 腭根</td><td rowspan="2">21.8</td><td rowspan="2">23.8</td><td rowspan="2">18.8</td><td rowspan="2">9.0%</td><td rowspan="2">13.0%</td><td rowspan="2">72.0%</td><td rowspan="2">6.0%</td><td/><td/><td>28%</td><td>14%</td><td>0</td><td>14%</td><td>36%</td><td>8%</td></tr><tr><td/><td/><td>45%</td><td>14%</td><td>0</td><td>28%</td><td>9%</td><td>0</td></tr><tr><td>上颌第二前磨牙</td><td>21.0</td><td>23.0</td><td>19.0</td><td>75.0%</td><td/><td>24.0%</td><td>1.0%</td><td/><td/><td>9.5%</td><td>27%</td><td>1.6%</td><td>12.73%</td><td>4%</td><td>20.6%</td></tr><tr><td>下颌第一前磨牙</td><td/><td>22.1</td><td>24.1</td><td>20.1</td><td>73.5%</td><td>6.5%</td><td>19.5%</td><td>0.5%</td><td/><td/><td>48%</td><td>35%</td><td>0</td><td>2%</td><td>7%</td><td>7.8%</td></tr><tr><td colspan="2">下颌第二前磨牙</td><td>21.4</td><td>23.7</td><td>19.1</td><td>${85.5}\%$</td><td>1.5%</td><td>11.5%</td><td>0.5%</td><td/><td/><td>39%</td><td>40%</td><td>0</td><td>${10}\%$</td><td>3%</td><td>7%</td></tr><tr><td rowspan="3">上颌第一磨牙</td><td>近中颊根</td><td>19.9</td><td>21.6</td><td>18.2</td><td>41.1%</td><td>40.0%</td><td>18.9%</td><td/><td/><td/><td>21%</td><td>78%</td><td>0</td><td>0</td><td>0</td><td>1%</td></tr><tr><td>远中颊根</td><td>19.4</td><td>21.2</td><td>17.6</td><td/><td/><td/><td/><td/><td/><td>54%</td><td>17%</td><td>19%</td><td>0</td><td>0</td><td>10%</td></tr><tr><td>腭根</td><td>20.6</td><td>22.5</td><td>17.6</td><td/><td/><td/><td/><td/><td/><td>40%</td><td>$1\%$</td><td>4%</td><td>55%</td><td>0</td><td>0</td></tr><tr><td rowspan="3">上颌第二磨牙</td><td>近中颊根</td><td>20.2</td><td>22.2</td><td>18.2</td><td>63%</td><td>13%</td><td>24%</td><td/><td/><td/><td>22%</td><td>54%</td><td>0</td><td/><td/><td/></tr><tr><td>远中颊根</td><td>19.4</td><td>21.3</td><td>17.5</td><td/><td/><td/><td/><td/><td/><td>54%</td><td/><td>17%</td><td/><td/><td/></tr><tr><td>腭根</td><td>20.8</td><td>22.6</td><td>19.0</td><td/><td/><td/><td/><td/><td/><td>63%</td><td>0</td><td>0</td><td>37%</td><td>0</td><td/></tr><tr><td rowspan="2">下颌第一磨牙</td><td>近中根</td><td>20.9</td><td>22.7</td><td>19.1</td><td/><td>40.5%</td><td>59.5%</td><td/><td/><td/><td>16.9%</td><td>84%</td><td>0</td><td>0</td><td>0</td><td/></tr><tr><td>远中根</td><td>20.9</td><td>22.6</td><td>19.2</td><td>71.1%</td><td>17.8%</td><td>11.1%</td><td/><td/><td/><td>74%</td><td>21%</td><td>5%</td><td>0</td><td>0</td><td/></tr><tr><td rowspan="2">下颌第二磨牙</td><td>近中根</td><td>20.9</td><td>22.6</td><td>19.2</td><td>13%</td><td>49%</td><td>38%</td><td/><td/><td/><td>27%</td><td>61%</td><td>0</td><td>4%</td><td>0</td><td>7%</td></tr><tr><td>远中根</td><td>20.8</td><td>22.6</td><td>19.0</td><td>92%</td><td>5%</td><td>3%</td><td/><td/><td/><td>58%</td><td>18%</td><td>10%</td><td>4%</td><td>0</td><td>6%</td></tr></table>
+
+数据引自 Ingle JI, Bakland LK, eds. Endodontics. 5th ed. Hamilton: BC Decker, 2002: 405 % 570
+
+像, 只能反映近远中向的画面 (矢状面), 且会有重叠影像, 从而导致许多信息的丧失。牙科锥形束 CT (CBCT) 可从三个维度展示牙齿、髓腔和牙周骨组织的形貌, 越来越得到临床医生的青睐, 成为疾病诊断和疗效判断的有效工具。③ 牙髓治疗中, 进入髓腔后通过直视髓室底形貌和根管口的分布 (图 14-18), 可直观了解局部的解剖信息, 应用手术显微镜可以看清髓腔内的情况。
+
+
+
+图 14-18 全口各牙位髓腔颈部横断面根管口分布总览
+
+a 上牙列; b 下牙列
+

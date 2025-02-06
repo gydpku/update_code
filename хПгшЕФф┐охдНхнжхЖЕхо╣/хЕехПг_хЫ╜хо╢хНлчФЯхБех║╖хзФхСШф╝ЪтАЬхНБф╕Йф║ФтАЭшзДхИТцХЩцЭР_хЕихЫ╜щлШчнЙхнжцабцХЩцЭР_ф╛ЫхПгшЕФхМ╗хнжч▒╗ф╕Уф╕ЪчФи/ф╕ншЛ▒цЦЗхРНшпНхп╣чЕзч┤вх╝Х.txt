@@ -1,0 +1,473 @@
+
+1 320腭突 palatine process 87 腭腺 palatine gland 128 腭咽弓 palatopharyngeal arch 173 腭咽肌 palatopharyngeus 113,116,174 腭中缝 midpalatal suture 87 腭皱襞 palatal rugae 172 耳大神经 greater auricular nerve 162 耳后动脉 posterior auricular artery 132 耳后淋巴结 retroauricular lymph nodes 141 耳颞神经 auriculotemporal nerve 154 耳屏 tragus 182 二腹肌 digastric 117 二腹肌窝 digastric fossa 91F发音 pronunciation 9,257 发育沟 developmental groove 20 反𬌗 cross bite 76 副根管 accessory root canal 50 副沟 supplemental groove 20 副腮腺 accessory part of parotid gland 124 副神经 accessory nerve 161 副神经淋巴结 companion lymph nodes of accessory nerve 144 覆𬌗 overbite 75 覆盖 overjet 75G.钙化期 calcification 13 感觉 sensation 260 感觉阈值 sensation threshold 261 感受器 sensory receptor 260 膈神经 phrenic nerve 163 根干 root trunk of tooth 7 根管 root canal 47 根管侧支 lateral canal 50 根管口 root canal orifice 47 根管系统 root canal system 47 根尖分叉 apical furcation 50 根尖分歧 apical ramification 50 根尖孔 apical foramen 7 沟 groove 20 鼓索 chorda tympani 156 固有口腔 oral cavity proper 167 关节结节 articular eminence 97,99 关节囊 articular capsule 102 关节盘 articular disc 100
+
+C 形根管 C-shaped root canal 57
+
+Langer 皮肤裂线 Langer cleavage lines 188
+
+Spee 曲线 curve of Spee 69
+
+Wilson 曲线 curve of Wilson 69
+
+B
+
+板障静脉 diploic vein 138
+
+半透明度 transluence parameter 60
+
+半透明性 transluence 61
+
+饱和度 chroma 60
+
+鼻背 dorsum nasi 182
+
+鼻背动脉 dorsal nasal artery 187
+
+鼻唇沟 nasolabial sulcus 182
+
+鼻底 base of the nose 182
+
+鼻腭神经 nasopalatine nerve 153
+
+鼻根 radix nasi 182
+
+鼻根点 nasion 183
+
+鼻骨 nasal bones 93
+
+鼻尖 apex nasi 182
+
+鼻尖点 pronasale 183
+
+鼻孔 nostril 182
+
+鼻面沟 nasofacial sulcus 182
+
+鼻气道阻力 nasal airway resistance, NAR 268
+
+鼻切迹 nasal notch 86
+
+鼻下点 subnasale 183
+
+鼻小柱 columella nasi 182
+
+鼻翼 alae nasi 182
+
+鼻翼点 alare 183
+
+鼻翼耳屏线 Camper's line, Ala-tragus line 79
+
+闭颌反射 jaw-closing reflex 228
+
+边缘嵴 marginal ridge 19
+
+边缘运动 border movement 231
+
+表情肌 mimetic muscles 105
+
+补偿曲线 compensating curve 69 部位记录法 quadrant coding method 10
+
+侧方运动 lateral movement 230 侧副管 lateral accessory canal 49 侧副孔 lateral accessory foramen 51 垂直肌链 vertical chain 121 垂直距离 vertical dimension 81 唇 lips 168 唇红 vermilion 169,182 唇红缘 vermilion border 169,182 唇面 labial surface 15 唇面沟 labiofacial sulcus 182 唇系带 frenum of upper and lower lip 167 唇腺 labial gland 128 错𬌗 malocclusion 78D大唾液腺 major salivary gland 123 导血管 emissary veins 212 镫骨肌神经 stapedial nerve 156 点角 point angle 17 点隙 pit 21 蝶腭动脉 sphenopalatine artery 133,192 蝶骨 sphenoid bone 95 蝶下颌韧带 sphenomandibular ligament 102 动力性皱纹线 dynamic wrinkles 188 对刃𬌗 edge to edge bite 76E额蝶突 frontal process 87 额纹 frontal wrinkles 188 腭 palate 171 腭扁桃体 palatine tonsils 173 腭垂 uvula 173 腭垂肌 musculus uvulae 114,174 腭大孔 greater palatine foramen 88,172 腭帆提肌 levator veli palatini 113,173 腭帆张肌 tensor veli palatini 113,173 腭骨 palatine bones 94 腭降动脉 descending palatine artery 133,192 腭面 palatal surface 15 腭前神经 anterior palatine nerve 153 腭舌弓 palatoglossal arch 173 腭舌肌 palatoglossus 113,174 腭神经 palatine nerve 153 腭升动脉 ascending palatine artery 131
+
+关节窝 articular fossa 97
+
+管间吻合 intercanal anastomoses 49
+
+国际牙科联合会系统 Federation Dentaire International system, FDI 9
+
+H
+
+𬌗 occlusion 70
+
+𬌗垂直距离 vertical dimension of occlusion, VDO 81
+
+𬌗力 biting force or bite force 244
+
+𬌗面 occlusal surface 15
+
+𬌗平面 occlusal plane 67
+
+颌位 mandibular position 79
+
+恒牙 permanent teeth 8
+
+恒牙列 permanent dentition 65
+
+横嵴 transverse ridge 19
+
+喉返神经 recurrent laryngeal nerve 161
+
+后退接触𬌗 retruded contact occlusion, RCO 80
+
+后退接触位 retruded contact position, RCP 80
+
+后退运动 retruding movement 230
+
+后牙 posterior teeth 9
+
+滑车上动脉 supratrochlear artery 187
+
+环状软骨 cricoid cartilage 197
+
+喙突 coracoid process 91
+
+混合牙列 mixed dentition 66
+
+J
+
+肌电图 electromyogram, EMG 246
+
+畸形中央尖 abnormal central cusp 31
+
+棘孔 foramen spinosum 214
+
+嵴 ridge 19
+
+颊 cheeks 170
+
+颊肌 buccinator 110
+
+颊间隙 buccal space 194
+
+颊面 buccal surface 15
+
+颊神经 buccal nerve 154
+
+颊系带 buccal frenum 168
+
+颊腺 buccal gland 128
+
+颊支 buccal branches 158
+
+颊脂垫 buccal fat pad 168,170
+
+甲状颈干 thyrocervical trunk 134
+
+甲状软骨 thyroid cartilage 197
+
+甲状舌骨肌 thyrohyoid 119
+
+甲状腺上动脉 superior thyroid artery 130
+
+甲状腺下动脉 inferior thyroid artery 134
+
+尖牙 canine 8
+
+尖牙保护𬌗 cuspid protected occlusion 83
+
+尖牙窝 canine fossa 87 中英文名词对照索引尖牙支柱肩胛舌骨肌睑裂降口角肌降下唇肌铰链运动接触区结节解剖牙根解剖牙冠近颊沟近颊三角沟近中沟近中三角窝茎乳孔茎突茎突舌骨肌茎突舌肌茎突下颌韧带茎突咽肌颈动脉窦颈动脉窦支颈动脉鞘颈动脉体颈二腹肌淋巴结颈横动脉颈嵴颈肩胛舌骨肌淋巴结颈交感干颈静脉孔颈阔肌颈淋巴干颈内动脉颈内静脉颈内静脉二腹肌淋巴结颈内静脉肩胛舌骨肌淋巴结颈袢颈前静脉颈前浅淋巴结颈浅筋膜颈浅淋巴结颈深筋膜颈深淋巴结颈深上淋巴结颈深下淋巴结颈外动脉324
+
+canine buttress 89
+
+omohyoid 119
+
+palpebral fissure 182
+
+depressor anguli oris 108
+
+depressor labii inferioris 109
+
+hinge movement 104
+
+contact area 16
+
+tubercle 19
+
+anatomical root 7
+
+anatomical crown 7
+
+mesiobuccal development groove 29
+
+mesiobuccal triangular development groove 29
+
+mesial marginal groove 27
+
+mesial triangular fossa 28
+
+stylomastoid foramen 98
+
+styloid process 98
+
+stylohyoid 118
+
+styloglossus 113
+
+stylomandibular ligament 102
+
+stylopharyngeus 116
+
+carotid sinus 129
+
+carotid sinus branch 160
+
+carotid sheath 198
+
+carotid body 129
+
+jugulo-digastric lymph nodes 144
+
+transverse cervical artery 134,205
+
+cervical ridge 20
+
+jugulo-omohyoid lymph nodes 144
+
+cervical sympathetic trunk 164
+
+jugular foramen 214
+
+platysma 116
+
+jugular lymph trunk 146
+
+internal carotid artery 134
+
+internal jugular vein 138
+
+jugulodigastric lymph nodes 202
+
+juguloomohyoid lymph node 204
+
+ansa cervicalis 163
+
+anterior jugular vein 137
+
+superficial anterior cervical lymph nodes 199
+
+superficial cervical fascia 197
+
+superficial cervical lymph nodes 142
+
+deep cervical fascia 198
+
+deep cervical lymph nodes 142
+
+superior deep cervical lymph nodes 144
+
+inferior deep cervical lymph nodes 144
+
+external carotid artery 130
+
+颈外静脉 external jugular vein 137 颈缘或颈线 cervical line 7 颈支 cervical branch 158 颈总动脉 common carotid artery 129 咀嚼活动 masticatory movement 237 咀嚼肌 masticatory muscle 110 咀嚼肌力 masticatory muscle force 244 咀嚼效率 masticatory efficiency 241 咀嚼周期 chewing cycle 239 菌状乳头 fungiform papillae 176K开𬌗 open bite 76 开颌反射 jaw-opening reflex 228 颏唇沟 mentolabial sulcus 182 颏动脉 mental artery 187 颏肌 mentalis 109 颏结节 mental tubercles 90 颏颈角 mentocervical angle 185 颏孔 mental foramen 90,182 颏前点 pogonion 183 颏上点 supramental 183 颏舌骨肌 geniohyoid 118 颏舌肌 genioglossus 112 颏神经 mental nerve 155 颏下点 menton 183 颏下动脉 submental artery 131 颏下间隙 submental space 207 颏下淋巴结 submental lymph nodes 143 髁突 mandibular condyle, condylar process 92,99 髁突颈部 condyle neck 92 口颌系统肌链 stomatognathic system muscular chain 121 口呼吸 mouth breathing 268 口角 angle of mouth 182 口裂 oral fissure 182 口轮匝肌 orbiculars oris 109 口腔 oral cavity 167 口腔前庭 oral vestibule 167 眶耳平面 Frankfort Horizontal plane 79 眶上动脉 supraorbital artery 187 眶上裂 supraorbital fissure, superior orbital fissure 96,214 眶下动脉 infraorbital artery 133 眶下沟 infraorbital groove 87 眶下管 infraorbital canal 86 眶下间隙 infraorbital space 194 眶下孔 infraorbital foramen 86,182 $\mathbf{Q}$ 中英文名词对照索引326中央文名词对照索引颧小肌 zygomaticus minor 107 颧牙槽嵴 zygomatico-alveolar ridge 87 颧支 zygomatic branches 157R人中 philtrum 169,182 人中嵴 philtrum crest 182 乳光性 opalescence, OP 59,61 乳尖牙 deciduous canine 41 乳磨牙 deciduous molar 42 乳切牙 deciduous incisor 40 乳突 mastoid process 97 乳牙 deciduous teeth 8 乳牙列 deciduous dentition 66 乳牙髓腔 pulp cavity of deciduous teeth 58 软腭 soft palate 173S腮腺 parotid gland 123 腮腺管 parotid duct 124 腮腺管乳头 papilla of parotid duct 168 腮腺间隙 parotid space 195 腮腺淋巴结 parotid lymph nodes 141 腮腺浅淋巴结 superficial parotid lymph nodes 141 腮腺鞘 parotid capsule 124 腮腺深淋巴结 deep parotid lymph nodes 142 腮腺咬肌筋膜 parotideomasseteric fascia 189 三叉神经 trigeminal nerve 151 三叉神经节 trigeminal ganglion 151 三叉神经压迹 trigeminal impression 214 三角嵴 triangular ridge 19 色度 chromaticity, $\mathrm{{CH}}$ 61 上唇动脉 superior labial artery 131 上颌侧切牙 maxillary lateral incisor 23 上颌第二磨牙 maxillary second molar 33 上颌第二前磨牙 maxillary second premolar 29 上颌第二乳磨牙 maxillary second deciduous molar 43 上颌第三磨牙 maxillary third molar 34 上颌第一磨牙 maxillary first molar 31 上颌第一前磨牙 maxillary first premolar 27 上颌第一乳磨牙 maxillary first deciduous molar 42 上颌动脉 maxillary artery 132 上颌窦 maxillary sinus 88 上颌骨 maxilla 86 上颌尖牙 maxillary canine 25 上颌结节 maxillary tuberosity 87328上颌静脉 maxillary vein 137 上颌乳侧切牙 maxillary deciduous lateral incisor 40 上颌乳尖牙 maxillary deciduous canine 41 上颌乳中切牙 maxillary deciduous central incisor 40 上颌神经 maxillary nerve 152 上颌体 maxillary body 86 上颌中切牙 maxillary central incisor 22 上颏棘 upper genial tubercles 90 上牙槽后动脉 posterior superior alveolar artery 133 上牙槽后神经 posterior superior alveolar nerve 153 上牙槽前神经 anterior superior alveolar nerve 153 上牙槽中神经 middle superior alveolar nerve 153 舌 tongue 175 舌动脉 lingual artery 130 舌骨 hyoid bone 98 舌骨上肌群 suprahyoid muscles 117 舌骨舌肌 hyoglossus 113 舌骨下肌群 infrahyoid muscles 119 舌肌 linguales 112 舌隆突 cingulum 18 舌面 lingual surface 15 否内肌 intrinsic muscles 112 舌深动脉 deep lingual artery 131 舌神经 lingual nerve 155 舌神经 lingual nerve 175 舌外肌 extrinsic muscles 112 舌下襞 sublingual fold 127 舌下动脉 sublingual artery 130,175 舌下间隙 sublingual space 195 舌下区 sublingual region 174 舌下肉阜 sublingual caruncle 126 舌下神经 hypoglossal nerve 161 舌下神经管 hypoglossal canal 214 舌下腺 sublingual gland 127,175 舌下腺大管 Bartholin duct 127 舌下腺窝 sublingual fossa 91 舌腺 lingual gland 128 舌咽神经 glossopharyngeal nerve 159 深覆𬌗 deep bite 76 深覆盖 deep overjet 76 神经反射 nervous reflex 228 生长期 development 13 生长叶 lobe 21 声带 vocal cords 257 视神经管 optic canal 214 双侧平衡𬌗 bilateral balanced occlusion 83 水平颌反射 horizontal jaw reflexes 229 水平肌链 horizontal chain 121 吮吸 sucking 252 丝状乳头 filiform papillae 176 髓角 pulp horn 47 髓腔 pulp cavity 8,47 髓室 pulp chamber 47 髓室壁 wall of pulp chamber 47 髓室底 floor of pulp chamber 47 髓室顶 roof of pulp chamber 47 锁骨上淋巴结 superior clavicular lymph nodes 144 锁骨下动脉 subclavian artery 134 锁骨下静脉 subclavian vein 138T提口角肌 levator anguli oris 108 提上唇鼻翼肌 levator labii superioris alaeque nasi 108 提上唇肌 levator labii superioris 108 通用编号系统 universal numbering system 12 头皮 scalp 211 吞咽 deglutition, swallowing 253 唾液 saliva 255W外斜线 external oblique line 90 外形高点 height of contour 17 外展隙 embrasures 46 外眦 lateral angle of eye 182 味觉出汗综合征 Frey's Syndrome 125 味觉阈值 taste threshold 266 窝 fossa 20X息止𬌗间隙 freeway space 81 膝神经节 geniculate ganglion 156 下唇动脉 inferior labial artery 131 下颌侧切牙 mandibular lateral incisor 24 下颌第二磨牙 mandibular second molar 36 下颌第二乳磨牙 mandibular second deciduous molar 43 下颌第三磨牙 mandibular third molar 37 下颌第一磨牙 mandibular first molar 34 下颌第一前磨牙 mandibular first premolar 29 下颌第一乳磨牙 mandibular first deciduous molar 43 下颌反射 jaw reflex 228 下颌骨 mandible 90 下颌管 mandibular canal 92 下颌后静脉
+
+眶下神经 infraorbital nerve 153L肋颈干 costocervical trunk 134 裂 fissure 20 邻面 proximal surface 15 临床牙根 clinical root 7 临床牙冠 clinical crown 7 鳞部 squama of temporal bone 96 颅后窝 posterior cranial fossa 214 颅前窝 anterior cranial fossa 213 颅中窝 middle cranial fossa 213 卵圆孔 foramen ovale 214 轮廓乳头 vallate papillae 176M眉间点 glabella 183 眉间纹 glabellar wrinkles 188 萌出期 eruption 13 迷走神经 vagus nerve 160 面部表情 facial expression 270 面动脉 facial artery 131 面横动脉 transverse facial artery 133 面静脉 facial vein 135 面淋巴结 facial lymph nodes 142 面神经 facial nerve 156 面总静脉 common facial vein 137 明度 value 61 磨耗 attrition 250 磨损 abrasion 250 磨牙 molar 9 磨牙后垫 retromolar pad 168 磨牙后三角 retromolar triangle 168 磨牙后腺 retromolar gland 128N脑膜中动脉 middle meningeal artery 133 内耳门 internal acoustic pore 214 内斜线 internal oblique line 90 内眦 medial angle of eye 182 内眦动脉 angular artery 131 颞顶肌 temporoparietalis 107 颞骨 temporal bone 96 颞骨关节面 articular surfaces of temporal bone 98 颞肌 temporalis 110 颞间隙 temporal space 195
+
+颞浅动脉 superficial temporal artery 133 颞浅静脉 superficial temporal vein 136 颞深神经 deep temporal nerves 15496temporomandibular joint, TMJ 98 glenoid fossa 98 temporomandibular ligament 102 颞下间隙 infratemporal space 195 颞下面 infratemporal surface 87 temporal branches 1570呕吐 vomitP盘 - 髁关节 disc-condyle joint 盘 - 颞关节 disc-temporal joint 破裂孔 foramen lacerumQ牵张反射 stretch reflex 前鼻棘 anterior nasal spine sentinel nodes incisor liability87 172 87 19 140zygomatic bones zygomaticofacial foramen zygomaticotemporal suture 94 zygomatic nerve zygomatic process zygomatic buttress
+
+retromandibular vein 137
+
+mandibular canine 26
+
+mandibular angle 90,91
+
+mandibular foramen 91
+
+mandibular deciduous lateral incisor 41
+
+mandibular deciduous canine 41
+
+mandibular deciduous central incisor 40
+
+mylohyoid groove 91
+
+mylohyoid 118
+
+mylohyoid nerve 155
+
+mylohyoid line 90
+
+mandibular nerve 154
+
+mandibular body 90
+
+mandibular fossa 102
+
+submandibular space 206
+
+submandibular lymph nodes 143
+
+Submandibular gland 126
+
+duct of submandibular gland, Wharton duct, submandibular duct 126,175
+
+capsule of submandibular gland 126
+
+submandibular fossa 91
+
+mandibular lingula 91
+
+jaw-unloading reflex 229
+
+mandibular notch 91
+
+marginal mandibular branch or branches 158
+
+mandibular ramus 91
+
+mandibular central incisor 24
+
+mandibular postural position, MPP 81
+
+lower genial tubercles 90
+
+inferior alveolar artery 133
+
+inferior alveolar nerve 155
+
+line angle 16
+
+minor salivary gland 123,128
+
+risorius 107
+
+oblique ridge 19
+
+transverse groove of the oblique ridge 33
+
+inclined surface 21
+
+thoracic duct 146
+
+sternothyroid 119
+
+sternohyoid 119
+
+sternocleidomastoid 117
+
+rest position 81
+
+Y
+
+dentin 8
+
+alveolar ridge 88
+
+interdental septa 88
+
+下颌尖牙下颌角下颌孔下颌乳侧切牙下颌乳尖牙下颌乳中切牙下颌舌骨沟下颌舌骨肌下颌舌骨肌神经下颌舌骨线下颌神经下颌体下颌窝下颌下间隙下颌下淋巴结下颌下腺下颌下腺管下颌下腺鞘下颌下腺窝下颌小舌下颌卸载反射下颌乙状切迹下颌缘支下颌支下颌中切牙下颌姿势位下颏棘下牙槽动脉下牙槽神经线角小唾液腺笑肌斜嵴斜嵴横沟斜面胸导管胸骨甲状肌胸骨舌骨肌胸锁乳突肌休息位牙本质牙槽嵴牙槽间隔牙槽突牙槽窝牙根牙根间隔牙弓牙骨质牙冠牙尖牙尖嵴牙尖交错𬌗牙尖交错位牙颈牙列牙髓牙体三等分牙体长轴牙位牙龈牙釉质牙周潜力咽鼓管咽肌咽后间隙咽门咽旁间隙咽上缩肌咽升动脉咽下缩肌咽中缩肌言语岩大神经眼静脉眼轮匝肌眼神经咬合咬合力咬肌咬肌间隙咬肌神经叶状乳头翼丛翼点翼腭管翼腭神经翼钩翼静脉丛翼内肌翼内肌神经 medial pterygoid nerve 154 翼突 pterygoid process 96 翼突上颌缝 pterygomaxillary suture 96 翼突支柱 pterygoid buttress 89 翼外肌 lateral pterygoid 111 翼外肌神经 lateral pterygoid nerve 154 翼下颌间隙 pterygomandibular space 194 翼下颌韧带 pterygomandibular ligament 171 翼下颌皱襞 pterygomandibular fold 168 荧光性 fluorescence, FL 60,61 硬腭 hard palate 171 右淋巴导管 right lymph duct 146 釉牙骨质界 cementoenamel junction 8 圆孔 foramen rotundum 96,214 远颊沟 distobuccal development groove 29 远颊三角沟 distobuccal triangular development groove 29 远中三角窝 distal triangular fossa 28Z长正中 long centric 81 枕动脉 occipital artery 131 枕额肌 occipitofrontalis 106 枕淋巴结 occipital lymph nodes 141 正中𬌗 centric occlusion, CO 74 正中𬌗位 centric occlusion position, COP 80 正中关系 centric relation, CR 82 正中关系𬌗 .8 centric relation occlusion, CRO 82 正中关系位 centric relation position, CRP 82 中线 median line 16 中央尖 central cusp 31 重力性皱纹线 gravitation wrinkles 188 轴嵴 axial ridge 20 皱眉肌 corrugator supercilii 107 椎动脉 vertebral artery 134 椎前筋膜 prevertebral fascia 198 姿态肌链 postural chain 122 组牙功能𬌗 group functional occlusion 83 最大𬌗力 maximal biting force 245 最大牙尖交错位 maximal intercuspal position, MIP 80
+
+
+
+彩图 1 口腔
+
+
+
+彩图 2 头面部浅层解剖
+
+
+
+彩图 3 面侧深区
+
+
+
+彩图 4 头面部蜂窝组织间隙
+
+
+
+彩图 5 颈部浅层解剖
+
+
+
+彩图 6 颈部深层解剖 (1)
+
+
+
+彩图 7 颈部深层解剖 (2)
+
+
+
+彩图 8 颈部深层解剖 (3)
+
+alveolar process 87
+
+alveoli or tooth sockets 88
+
+dental root 7
+
+interradicular septa 88
+
+dental arch 65
+
+cementum 7
+
+dental crown 7
+
+dental cusp 18
+
+cusp ridge 19
+
+intercuspal occlusion, ICO 74
+
+intercuspal position, ICP 79
+
+dental cervix 7
+
+dentition 65
+
+dental pulp 8
+
+division into thirds 17
+
+long axis 16
+
+tooth position 80
+
+gums 171
+
+enamel 7
+
+periodontal potential 245
+
+salpingopharyngeus 116
+
+retropharyngeal space 207
+
+fauces 173
+
+parapharyngeal space 207
+
+superior constrictor of pharynx 115
+
+ascending pharyngeal artery 130
+
+inferior constrictor of pharynx 115
+
+middle constrictor of pharynx 115
+
+speech 9,257
+
+greater petrosal nerve 156
+
+ophthalmic vein 138
+
+orbicularis oculi 107
+
+ophthalmic nerve 152
+
+articulation 70
+
+bite force 243
+
+masseter 110
+
+masseteric space 194
+
+masseteric nerve 154
+
+foliate papillae 176
+
+pterygoid plexus 136
+
+pterion 213
+
+pterygopalatine canal 87
+
+pterygopalatine nerve 152
+
+pterygoid hamulus 96,172
+
+pterygoid venous plexus 136
+
+medial pterygoid 111
+

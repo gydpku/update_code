@@ -1,0 +1,7 @@
+
+1. 制取光学印模的扫描仪, 以 3 Shape 公司的为例, 标准配制如下: 扫描枪、扫描头、保护头、POD 底座、普通校准头、彩色校准头、头套、数据转换器、互联网电缆、Usb 数据线、 Usb 密钥和软件 $\mathrm{u}$ 盘等。
+
+2. 目前常用的口内数字化印模技术的扫描系统性能特点
+
+<table><tr><td>口内扫描系统</td><td>公司</td><td>工作原理</td><td>光源</td><td>喷粉要求</td></tr><tr><td>CEREC AC Bluecam</td><td>Sirona,德国</td><td>基于三角法的光学三维测量 技术</td><td>短波蓝光, 单色 光源</td><td>隔湿喷粉</td></tr><tr><td>CEREC AC Omnicam</td><td>Sirona,德国</td><td>基于三角法的光学三维测量 技术</td><td>蓝光</td><td>无需</td></tr><tr><td>Lava C.O.S</td><td>3M ESPE,美国</td><td>主动波阵面采样技术</td><td>脉冲式可见蓝光</td><td>需喷粉</td></tr><tr><td>True Definition Scanner</td><td>3M ESPE,美国</td><td>主动波阵面采样技术</td><td>脉冲式可见蓝光</td><td>需喷粉</td></tr><tr><td>iTero</td><td>Align Technology,美国</td><td>激光平行共聚焦显微成像技术</td><td>红色激光</td><td>无需</td></tr><tr><td>E4D</td><td>D4D Technolgies LLC, 美国</td><td>光学相干断层扫描测量技术 ＋共聚焦显微成像技术</td><td>激光</td><td>无需</td></tr><tr><td>TRIOS</td><td>3 Shape A/S,丹麦</td><td>超快光学分割技术＋共聚焦 显微成像技术</td><td>不对外公布</td><td>无需</td></tr></table>
+

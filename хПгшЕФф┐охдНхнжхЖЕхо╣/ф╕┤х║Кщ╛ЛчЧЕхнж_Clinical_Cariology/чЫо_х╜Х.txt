@@ -1,0 +1,751 @@
+
+第一章 概论
+
+Introduction $\cdot  1$
+
+第一节 龋病学简介
+
+Brief of cariology .1
+
+一、龋病 1
+
+二、龋病学 .2
+
+三、龋病学涉及的领域 .2
+
+第二节 龋病的历史
+
+History of the dental caries
+
+disease -3
+
+一、人类历史上龋病的发病情况 3
+
+二、人类对龋病的早期记载 - 4
+
+三、古人对龋病治疗的尝试 4
+
+四、现代龋病治疗及预防方法在西方
+
+国家的萌芽 5
+
+第三节 龋病的流行特征与临床特点
+
+Epidemical and clinical
+
+characteristics of dental caries
+
+一、龋病在人群中的流行特点 6
+
+二、龋病的临床特点 $\cdot  7$
+
+三、龋病对人类健康和社会生活的危害...8
+
+四、强化龋病防控体系的建设 - 8
+
+第四节 龋病研究概览
+
+Overview of current caries
+
+research .9
+
+一、病原学的研究 .9
+
+二、发病机制的研究 10
+
+三、预防和治疗技术的研究 10
+
+小结
+
+Summary 11
+
+第二章 牙的发育与组织结构
+
+Development and histology of the
+
+tooth 12
+
+第一节 牙的发育
+
+Development of the tooth 12
+
+一、牙胚的形成 12
+
+二、牙胚的分化 13
+
+三、牙体组织的形成 15
+
+四、牙根的发育 16
+
+五、牙的萌出与替换 17
+
+第二节 牙釉质
+
+Enamel 18
+
+一、牙釉质发生 18
+
+二、牙釉质的组织结构 19
+
+三、牙釉质的理化特性 22
+
+第三节 牙本质
+
+Dentin 23
+
+一、牙本质发生 23
+
+二、牙本质的组织结构 24
+
+三、牙本质的理化特性 26
+
+第四节 牙骨质
+
+Cementum 27
+
+一、牙骨质发生 27
+
+二、牙骨质的组织结构 28
+
+三、牙骨质的理化及生物学特性 28
+
+第五节 牙髓
+
+Dental pulp 29
+
+一、牙髓的发育 29
+
+二、牙髓的组织结构 29
+
+小结
+
+Summary 31
+
+名词术语
+
+Definition and terminology 31
+
+第三章 牙的口腔生态环境
+
+Teeth and its oral ecological
+
+environment 32
+
+第一节 唾液
+
+Saliva 32
+
+一、唾液分泌量 32
+
+二、唾液成分 34
+
+三、唾液与龋病 38
+
+四、唾液功能及其临床应用 38
+
+第二节 口腔常驻微生物
+
+The resident oral microflora 39
+
+一、细菌 40
+
+二、真菌 45
+
+三、支原体、病毒和原虫 46
+
+第三节 口腔微生物群落的生态特性
+
+Ecological properties of oral
+
+microbial community 46
+
+一、口腔微环境中生物膜脱落与
+
+定植的动态平衡 47
+
+二、口腔不同生境的微生物特性 48
+
+三、影响口腔不同生境微生物群落
+
+特性的因素 49
+
+小结
+
+Summary 51
+
+名词术语
+
+Definition and terminology 51
+
+第四章 龋病病因学理论
+
+Etiology of dental caries 52
+
+第一节 化学细菌学说
+
+Chemico-bacterial theory 52
+
+一、化学细菌学说的萌芽 52
+
+二、化学细菌学说的确立 52
+
+三、化学细菌学说的局限性 53
+
+四、化学细菌学说的完善 53
+
+第二节 其他龋病病因学说
+
+Other theories on the etiology of
+
+dental caries 54
+
+一、蛋白溶解学说 54
+
+二、蛋白溶解-螯合学说 54
+
+三、其他早期学说 55
+
+第三节 现代龋病病因学理论
+
+Contemporary theories of the
+
+development of dental caries 56
+
+一、细菌和牙菌斑 57
+
+二、食物 57
+
+三、宿主 58
+
+四、时间 59
+
+小结
+
+Summary 60
+
+名词术语
+
+Definition and terminology 60
+
+第五章 龋病微生物学和发病机制
+
+Microbiology and mechanisms of
+
+dental caries 61
+
+第一节 致龋微生物的特点
+
+Properties of cariogenic
+
+microorganisms 61
+
+一、牙面的黏附与定植 62
+
+二、糖转运代谢产酸 62
+
+三、耐酸性 62
+
+四、合成细胞内和细胞外多糖 62
+
+第二节 致龋微生物的种类及其致龋特性
+
+Cariogenic microorganism species
+
+and their virulence properties ... 63
+
+一、链球菌属 63
+
+二、乳杆菌属 68
+
+三、放线菌属 69
+
+四、其他口腔细菌 69
+
+第三节 牙菌斑与牙菌斑液
+
+Dental plaque and dental plaque
+
+fluid 70
+
+一、牙菌斑 70
+
+二、牙菌斑液 73
+
+第四节 饮食中的糖对龋病形成的作用
+
+The role of diet sugar in dental
+
+caries 74
+
+一、牙菌斑中糖代谢与龋的形成 75
+
+二、糖的种类和性状对牙菌斑
+
+产酸性和龋的影响 76
+
+三、摄糖方式和时间对龋的影响 76
+
+第五节 龋形成的动力学过程
+
+Dynamics of dental caries 78
+
+一、牙硬组织的脱矿机制 78
+
+二、摄糖产酸与脱矿过程 79
+
+三、唾液和牙菌斑对酸的清除作用与
+
+再矿化过程 80
+
+四、早期龋与龋洞的形成 81
+
+五、龋形成的多因素特征 83
+
+小结
+
+Summary 84
+
+名词术语
+
+Definition and terminology 84
+
+第六章 龋病病理学
+
+Pathology of dental caries 85
+
+第一节 龋病的形态学研究方法
+
+Histologic methods for dental
+
+caries research 85
+
+一、龋病标本制作方法 85
+
+二、透射光显微镜 86
+
+三、偏光显微镜 86
+
+四、显微放射摄影 86
+
+五、电子显微镜 86
+
+第二节 牙釉质龋
+
+Enamel caries 87
+
+一、平滑面龋 88
+
+二、窝沟龋 94
+
+第三节 牙本质龋和牙骨质龋
+
+Dentin caries and cementum
+
+caries 94
+
+一、牙本质龋 94
+
+二、牙骨质龋 97
+
+第四节 牙髓-牙本质复合体对龋的反应
+
+Reactions of pulp-dentin complex
+
+to dental caries 98
+
+一、牙髓-牙本质复合体的生物学
+
+特性 98
+
+二、牙髓-牙本质复合体对龋的早期
+
+反应 99
+
+三、龋与牙髓炎 99
+
+小结
+
+Summary 100
+
+名词术语
+
+Definition and terminology 100
+
+第七章 龋病的临床表现与诊断
+
+Clinical manifestation and
+
+diagnosis of dental caries 102
+
+第一节 龋齿的基本临床特征
+
+Essential manifestation of dental
+
+caries
+
+一、临床表现 102
+
+二、龋好发牙齿和好发部位 104
+
+第二节 龋病的临床分类
+
+Clinical classification of dental
+
+caries 105
+
+一、根据病变侵入牙齿的深度分类 106
+
+二、根据病变发生的解剖部位分类 107
+
+三、根据病变的进展速度分类 107
+
+四、根据致龋的特殊因素分类 108
+
+五、根据病变的发生与既往牙体治疗
+
+关系的分类 109
+
+六、龋病分类和诊断术语的演变 109
+
+第三节 龋齿的临床检查和龋损组织识别
+
+Clinical examination of decayed tooth
+
+and detection of caries lesion ... 111
+
+一、龋齿常规检查方法 112
+
+二、龋齿辅助检查方法 112
+
+三、龋的特殊检查方法 114
+
+四、牙本质龋损中感染组织的临床
+
+识别 116
+
+第四节 龋齿的临床诊断
+
+Dental caries diagnosis 117
+
+一、早期釉质龋 117
+
+二、浅龋 118
+
+三、中龋 118
+
+四、深龋 118
+
+五、继发龋 118
+
+六、猛性龋 119
+
+七、静止龋 119
+
+第五节 龋齿的鉴别诊断
+
+Differential diagnosis of dental
+
+caries 119
+
+一、浅、中龋的鉴别诊断 119
+
+二、深龋的鉴别诊断 120
+
+小结 ·121
+
+Summary -121
+
+名词术语
+
+Definition and terminology 121
+
+第八章 龋病的临床处理策略
+
+Clinical treatment strategy of
+
+dental caries 123
+
+102
+
+第一节 控制龋的发展
+
+Control of carious progress -123
+
+一、口腔护理措施 123
+
+二、诊断与病因分析 124
+
+三、制订并实施 “防一控一修复”
+
+一体化的治疗计划 125
+
+第二节 龋损牙体修复的原则
+
+Principles of dental restoration of
+
+carious teeth · 126
+
+一、生物学考虑 126
+
+二、美学和功能的考虑 126
+
+三、固位和抗力的考虑 126
+
+四、修复材料的选择 127
+
+第三节 龋病风险评估
+
+Caries risk assessment 127
+
+一、龋病风险评估的目的 127
+
+二、龋病风险评估的方法 127
+
+第四节 口腔疾病治疗中的龋病管理
+
+Caries management in dental
+
+treatment 129
+
+一、口腔疾病治疗中龋病管理的
+
+必要性 129
+
+二、口腔疾病治疗中龋病管理的
+
+途径和方法 130
+
+三、口腔疾病治疗中龋病管理的
+
+实施方案 132
+
+小结
+
+Summary 134
+
+名词术语
+
+Definition and terminology 134
+
+第九章 儿童和青少年龋病及其治疗特点
+
+Dental caries in child and
+
+adolescent and treatment 135
+
+第一节 乳牙龋和年轻恒牙龋的特点
+
+Characteristics of dental caries
+
+in deciduous and immature
+
+teeth -135
+
+一、乳牙龋 135
+
+二、年轻恒牙龋 139
+
+第二节 儿童和青少年龋病的治疗
+
+Treatment for dental caries in child
+
+and adolescent 140
+
+一、控制龋进展的策略与措施 140
+
+二、治疗方法 142
+
+第三节 儿童和青少年龋病的临床管理
+
+The management of dental caries in
+
+child and adolescent 146
+
+一、风险评估 146
+
+二、管理措施 148
+
+小结
+
+Summary 153
+
+名词术语
+
+Definition and terminology ·153
+
+第十章 龋病的流行病学
+
+Epidemiology of dental caries $\cdots {155}$
+
+第一节 龋病流行病学调查方法和指标
+
+Methods and diagnosis criteria
+
+of oral health survey for dental
+
+caries 155
+
+一、龋病流行病学调查方法 155
+
+二、龋病流行病学调查诊断标准 158
+
+三、龋病的测量指标 164
+
+第二节 龋病的流行状况和流行趋势
+
+Epidemic characteristics and
+
+trends of dental caries -167
+
+一、全球龋病的流行状况和流行
+
+趋势 167
+
+二、中国龋病的流行状况和流行
+
+趋势 170
+
+第三节 影响龋病流行的因素
+
+Factors related to the distribution of
+
+dental caries 177
+
+一、社会人口和经济学背景因素 177
+
+二、氟化物的摄入 178
+
+三、饮食习惯 178
+
+四、口腔卫生习惯 178
+
+五、其他因素 179
+
+小结
+
+Summary · 179
+
+第十一章 龋病的预防
+
+Prevention of dental caries 180
+
+第一节 龋病的预防措施
+
+Measures of dental caries
+
+prevention 180
+
+一、菌斑控制 180
+
+二、饮食控制 182
+
+三、增强特殊人群牙齿抵抗力 182
+
+四、定期口腔检查 183
+
+第二节 社区群体龋病预防
+
+Prevention of dental caries in
+
+community 183
+
+一、龋病的三级预防 183
+
+二、口腔健康促进 184
+
+三、高危人群的龋病预防 185
+
+四、龋病综合防治模式 187
+
+第三节 窝沟封闭
+
+Pit and fissure sealing 188
+
+一、窝沟封闭的防龋原理 188
+
+二、窝沟封闭剂的构成与发展 190
+
+三、窝沟封闭的适应证与非适应证
+
+四、窝沟封闭的操作步骤 192
+
+五、窝沟封闭的效果评价 193
+
+第四节 预防性树脂充填
+
+Preventive resin restoration 194
+
+一、预防性树脂充填的原理 194
+
+二、预防性树脂充填的适应证与
+
+禁忌证 194
+
+三、预防性树脂充填的操作步骤 195
+
+四、预防性树脂充填的效果 195
+
+小结
+
+Summary -196
+
+名词术语
+
+Definition and terminology 196
+
+第十二章 氟化物防龋
+
+Fluoride in caries prevention… 198
+
+第一节 氟化物与人体健康
+
+Fluoride and human health -198
+
+一、人体对氟的摄入与代谢 198
+
+二、氟对牙齿矿化的影响 200
+
+三、过量摄入氟对人体健康的影响..200
+
+第二节 氟化物防龋的机制
+
+Anticaries mechanism
+
+of fluoride 204
+
+一、牙釉质结合氟与龋的关系 204
+
+二、氟对龋病形成动力学过程的影响 204
+
+三、口腔液中氟的来源 205
+
+四、氟化物对细菌的作用 -206
+
+第三节 氟化物防龋的应用
+
+Application of fluoride in caries
+
+prevention -207
+
+一、全身应用氟化物 208
+
+二、局部应用氟化物 -210
+
+三、氟化物防龋的注意事项 -214
+
+小结
+
+Summary -216
+
+名词术语
+
+Definition and terminology -217
+
+中英文专业词汇索引 -218
+
+主要参考文献 221
+
+<table><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td>的 $f\left( x\right)  = \frac{\sin \left( x\right)  - \sin \left( x\right) }{\sin \left( x\right) }$ , $\frac{1}{2}$ 是一个</td><td/></tr><tr><td/><td/></tr><tr><td/><td>A: $= {e}^{i\left( {{\omega t} - \omega }\right) t}$ B: $= {e}^{i\omega t}$ B: $= {e}^{i\omega t}$ C:</td></tr><tr><td>_____y_____,_____r_____</td><td/></tr><tr><td>B: C: D: E: E: E:</td><td/></tr><tr><td/><td>。 1。因此, $f = f\left( x\right)$ 是一个 $f\left( x\right)  = \frac{f\left( x\right) }{f\left( x\right) }$ 的一个</td></tr><tr><td>B:</td><td>。 這</td></tr><tr><td>(,2.2.1.1); (,2.2.1.1); (,2.3.1.1</td><td>。B: C: D: E: E: E: 問題: 下列哪</td></tr><tr><td/><td/></tr><tr><td>證據: A: 本品的生物是 B: 本品的生物是 C: 中藥是 D:</td><td>-ha falto de la realizer de la catale de la catale de la prime</td></tr><tr><td>of the $P\left( {x = 1}\right)  = \frac{1}{2}$ -matrix of the primary matrix</td><td>$\left\{  \begin{matrix} {{x}_{1} + {x}_{2} = 2{x}_{1} + {x}_{3}} \\  {{y}_{1} + {y}_{2} = 2{y}_{1} + {y}_{3}} \\  {{z}_{1} + {z}_{2} = 2{z}_{1} + {z}_{3}} \\  {{x}_{2} + {x}_{3} = 2{x}_{1} + {x}_{2} + {x}_{3}} \\  {{y}_{2} + {y}_{3} = 2{y}_{1} + {y}_{2} + {y}_{3}} \\  {{z}_{3} + {z}_{1} + {z}_{2} + {z}_{3} + {z}_{4}} \\  {{x}_{4} + {x}_{4} = 2{x}_{1} + {x}_{4} + {x}_{3} + {x}_{4}} \\  {{y}_{3} + {y}_{4} = 2{y}_{1} + {y}_{4} + {y}_{3} + {y}_{4} + {y}_{5}} \end{matrix}\right.$</td></tr><tr><td>, $f\left( x\right)  = f\left( x\right)$ , $f\left( x\right)  = f\left( x\right)$ , $\frac{x}{2} = \frac{1}{2}$ , in the</td><td/></tr><tr><td>A: 小便,小便便便,便便便</td><td/></tr><tr><td>[頁]卷,冊....[5656]698,</td><td>the property of the study of the property</td></tr><tr><td>的 $f\left( x\right)  = \frac{1}{2}{\int }_{0}^{x}{e}^{-t}\;{dt}$ 是一个</td><td>...</td></tr><tr><td/><td>de la de la de la de la de la de la de la de la de la de la de la de la la</td></tr><tr><td/><td/></tr><tr><td>The result of the presence of the presence of the presence of the presence of the presence of the presence of the presence of the presence of the presence of the presence.</td><td/></tr><tr><td/><td/></tr><tr><td/><td>AUCHA</td></tr><tr><td/><td/></tr><tr><td>the result of the results of the primary problem is the primary problem.</td><td/></tr><tr><td>se inte</td><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr></table>
+
+第一章 概 论 Introduction
+

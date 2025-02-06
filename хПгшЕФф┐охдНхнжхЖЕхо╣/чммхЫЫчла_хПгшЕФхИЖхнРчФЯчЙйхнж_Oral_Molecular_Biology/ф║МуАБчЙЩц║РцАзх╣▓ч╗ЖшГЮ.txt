@@ -1,0 +1,3 @@
+
+在牙胚发育形成特定组织的过程中,会产生一系列牙源性组织特异性干细胞,如牙髓干细胞(dental pulp stem cell, DPSC)、牙周膜干细胞(periodontal membrane stem cell, PDLSC)、 脱落乳牙牙髓干细胞(stem cell from human exfoliated deciduous teeth, SHED)、牙根尖乳头干细胞(stem cell from apical papilla, SCAP)和牙囊前体细胞(dental follicle progenitor cell, DFPC )。这些牙源性干细胞或前体细胞表达多种骨髓间充质干细胞细胞表面标记分子 (如 STRO-1、CD105、CD73 和 CD106 等),不表达造血干细胞标志物(如 CD11b、CD45 和 CD34 等 )。与骨髓间充质干细胞类似,牙源性干细胞具备分化为至少三种不同细胞的能力——成骨或成牙细胞、脂肪细胞(adipocyte)和成神经细胞。区别于骨髓间充质干细胞,牙源性干细胞更多地表现为牙向分化 ( odontogenic differentiation ), 而不是骨向分化 ( osteogenic differentiation)。下面我们重点介绍这几种细胞。
+

@@ -1,0 +1,21 @@
+
+随着颌骨的不断生长发育,牙胚上出现钙盐沉积、基质变硬,牙胚逐渐钙化 (calcification)。乳牙大约在胚胎第 4~5 个月开始钙化,这个过程要持续到出生后 3 或 4 年。 在这期间乳牙根逐渐生成。
+
+出生后不久,恒牙开始钙化并持续 ${12} \sim  {15}$ 年,直到第三磨牙牙根钙化完成。
+
+
+
+各乳牙、恒牙的发育时间见表 4-1、表 4-2。
+
+表 4-1 乳牙发育时间表
+
+<table><tr><td/><td>牙齿名称</td><td>硬组织开始形成 (胎龄,月)</td><td>出生时釉质量</td><td>釉质形成 (年龄,月)</td><td>萌出 (年龄,月)</td><td>牙根形成 (年龄,岁)</td></tr><tr><td rowspan="5">上颌</td><td>乳中切牙</td><td>4</td><td>$5/6$</td><td>$1\frac{1}{2}$</td><td>$7\frac{1}{2}$</td><td>$1\frac{1}{2}$</td></tr><tr><td>乳侧切牙</td><td>$4\frac{1}{2}$</td><td>2/3</td><td>$2\frac{1}{2}$</td><td>9</td><td>2</td></tr><tr><td>乳尖牙</td><td>5</td><td>$1/3$</td><td>9</td><td>18</td><td>$3\frac{1}{4}$</td></tr><tr><td>第一乳磨牙</td><td>5</td><td>牙尖融合</td><td>6</td><td>14</td><td>$2\frac{1}{2}$</td></tr><tr><td>第二乳磨牙</td><td>6</td><td>孤立的牙尖</td><td>11</td><td>24</td><td>3</td></tr><tr><td rowspan="5">下颌</td><td>乳中切牙</td><td>4</td><td>$3/5$</td><td>$2\frac{1}{2}$</td><td>6</td><td>$1\frac{1}{2}$</td></tr><tr><td>乳侧切牙</td><td>$4\frac{1}{2}$</td><td>3/5</td><td>3</td><td>10</td><td>$1\frac{1}{2}$</td></tr><tr><td>乳尖牙</td><td>5</td><td>1/3</td><td>9</td><td>16</td><td>$3\frac{1}{4}$</td></tr><tr><td>第一乳磨牙</td><td>5</td><td>牙尖融合</td><td>$5\frac{1}{2}$</td><td>12</td><td>$2\frac{1}{4}$</td></tr><tr><td>第二乳磨牙</td><td>6</td><td>孤立的牙尖</td><td>10</td><td>20</td><td>3</td></tr></table>
+
+(Lunt 和 Law, 1974)
+
+表 4-2 恒牙发育时间表
+
+<table><tr><td/><td>牙齿名称</td><td>硬组织开始形成</td><td>釉质形成(岁)</td><td>萌出(岁)</td><td>牙根形成(岁)</td><td/></tr><tr><td rowspan="8">颌</td><td>中切牙</td><td>$3 \sim  4$ 月</td><td>$4 \sim  5$</td><td>$7 \sim  8$</td><td>10</td><td/></tr><tr><td>侧切牙</td><td>10 ~ 12 月</td><td>4 ~ 5</td><td>$8 \sim  9$</td><td>11</td><td/></tr><tr><td>尖牙</td><td>4 ~ 5 月</td><td>$6 \sim  7$</td><td>${11} \sim  {12}$</td><td>13 ~ 15</td><td/></tr><tr><td>第一前磨牙</td><td>$1\frac{1}{2} \sim  1\frac{3}{4}$ 岁</td><td>$5 \sim  6$</td><td>${10} \sim  {11}$</td><td>${12} \sim  {13}$</td><td/></tr><tr><td>第二前磨牙</td><td>$2 \sim  2\frac{1}{4}$ 岁</td><td>$6 \sim  7$</td><td>10 ~12</td><td>${12} \sim  {14}$</td><td/></tr><tr><td>第一磨牙</td><td>出生时</td><td>$2\frac{1}{2} \sim  3$</td><td>$6 \sim  7$</td><td>$9 \sim  {10}$</td><td/></tr><tr><td>第二磨牙</td><td>$2\frac{1}{2} \sim  3$ 岁</td><td>$7 \sim  8$</td><td>${12} \sim  {13}$</td><td>${14} \sim  {16}$</td><td/></tr><tr><td>第三磨牙</td><td>$7 \sim  9$ 岁</td><td>${12} \sim  {16}$</td><td>${17} \sim  {21}$</td><td>18 ~ 25</td><td/></tr><tr><td rowspan="8">颌</td><td>中切牙</td><td>$3 \sim  4$ 月</td><td>$4 \sim  5$</td><td>6 ~7</td><td>9</td><td/></tr><tr><td>侧切牙</td><td>$3 \sim  4$ 月</td><td>$4 \sim  5$</td><td>$7 \sim  8$</td><td>10</td><td/></tr><tr><td>尖牙</td><td>4 ~5 月</td><td>6 ~ 7</td><td>$9 \sim  {10}$</td><td>${12} \sim  {14}$</td><td/></tr><tr><td>第一前磨牙</td><td>$1\frac{3}{4} \sim  2$ 岁</td><td>5 ~6</td><td>10 ~ 12</td><td>${12} \sim  {13}$</td><td/></tr><tr><td>第二前磨牙</td><td>$2\frac{1}{4} \sim  2\frac{1}{2}$ 岁</td><td>6 ~7</td><td>${11} \sim  {12}$</td><td>${13} \sim  {14}$</td><td/></tr><tr><td>第一磨牙</td><td>出生时</td><td>$2\frac{1}{2} \sim  3$</td><td>$6 \sim  7$</td><td>$9 \sim  {10}$</td><td/></tr><tr><td>第二磨牙</td><td>$2\frac{1}{2} \sim  3$ 岁</td><td>$7 \sim  8$</td><td>${11} \sim  {13}$</td><td>${14} \sim  {15}$</td><td/></tr><tr><td>第三磨牙</td><td>8 ~10 岁</td><td>${12} \sim  {16}$</td><td>${17} \sim  {21}$</td><td>18 ~ 25</td><td/></tr></table>
+
+( Logan 和 Kronfeld 1933 年原作, McCall 和 Schour 1940 年修改 )
+

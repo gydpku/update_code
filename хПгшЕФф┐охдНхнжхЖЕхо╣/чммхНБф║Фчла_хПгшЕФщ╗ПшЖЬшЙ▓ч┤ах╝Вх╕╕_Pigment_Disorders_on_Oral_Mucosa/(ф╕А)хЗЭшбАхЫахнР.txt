@@ -1,0 +1,7 @@
+
+目前已知直接参与人体凝血过程的主要凝血因子见表 16-1。
+
+表 16-1 凝血因子的命名及其部分特性
+
+<table><tr><td>凝血 因子</td><td>同义名</td><td>合成场所</td><td>血浆浓度 ( mg% )</td><td>衍生物</td><td>功能</td><td/></tr><tr><td>I</td><td>纤维蛋白原(fibrinogen)</td><td>肝</td><td>200 ~ 400</td><td>纤维蛋白</td><td>形成凝胶</td><td/></tr><tr><td>II</td><td>凝血酶原(prothrombin)</td><td>肝</td><td>10 ~ 15</td><td>凝血酶</td><td>蛋白酶</td><td/></tr><tr><td>III</td><td>组织凝血激酶(tissue thromboplastin)</td><td>各组织细胞</td><td/><td/><td>辅助因子</td><td/></tr><tr><td>IV</td><td>钙离子(calcium Ion)</td><td/><td/><td/><td>辅助因子</td><td/></tr><tr><td>V</td><td>前加速素(proaccelerin)</td><td>肝</td><td>5 ~ 10</td><td>IV ( V a )</td><td>辅助因子</td><td/></tr><tr><td>VII</td><td>血清凝血活酶前转变素(proconvertin)</td><td>肝</td><td>0.4 ~ 0.7</td><td>VII a</td><td>蛋白酶</td><td/></tr><tr><td>VIII</td><td>抗血友病因子(antihemophilic factor, AHF)</td><td>以肝为主</td><td>15 ~ 20</td><td>VIII a</td><td>辅助因子</td><td/></tr><tr><td>IX</td><td>血浆凝血激酶(plasma thromboplastin com- ponent, PTC )</td><td>肝</td><td>$3 \sim  5$</td><td>IX a</td><td>蛋白酶</td><td/></tr><tr><td>X</td><td>斯图亚特因子(Stuart-Prower factor)</td><td>肝</td><td>$5 \sim  {10}$</td><td>$\mathrm{X}$ a</td><td>蛋白酶</td><td/></tr><tr><td>XI</td><td>血浆凝血活酶前质(plasma throm-boplastin antecedent, PTA)</td><td>肝及网状内 皮系统</td><td>0.5 ~ 0.9</td><td>$\mathrm{{XIa}}$</td><td>蛋白酶</td><td/></tr></table>
+

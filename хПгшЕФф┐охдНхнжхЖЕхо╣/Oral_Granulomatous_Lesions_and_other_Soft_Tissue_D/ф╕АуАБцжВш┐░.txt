@@ -1,0 +1,99 @@
+
+唾液腺肿瘤包括发生于唾液腺实质和间充质的所有肿瘤。本章主要讨论唾液腺的原发性上皮性肿瘤。唾液腺的肿瘤是口腔颌面部很有特色的肿瘤,组织学类型繁多 (表 16-1),临床表现多种多样,生物学行为差异大,是口腔医学面临的重要课题之一。
+
+---
+
+															表 16-1 WHO 唾液腺肿瘤组织学分类(2017)
+
+恶性肿瘤(malignant epithelial tumors)
+
+	黏液表皮样癌(mucoepidermoid carcinoma)8430/3
+
+	腺样囊性癌(adenoid cystic carcinoma)8200/3
+
+	腺泡细胞癌(acinic cell carcinoma)8550/3
+
+	多形性腺癌(polymorphous adenocarcinoma)8525/3
+
+	透明细胞癌(clear cell carcinoma)8310/3
+
+	基底细胞腺癌(basal cell adenocarcinoma)8147/3
+
+	导管内癌(intraductal carcinoma)8500/2
+
+	非特异性腺癌(adenocarcinoma, not otherwise specified) 8140/3
+
+	唾液腺导管癌(salivary duct carcinoma)8500/3
+
+	肌上皮癌(myoepithelial carcinoma)8982/3
+
+	上皮-肌上皮癌(epithelial-myoepithelial carcinoma)8562/3
+
+	癌在多形性腺瘤中(carcinoma ex pleomorphic adenoma)8941/3
+
+	分泌性癌(sebaceous carcinoma)8410/3
+
+	皮脂腺癌(sebaceous carcinoma)8410/3
+
+	癌肉瘤 (carcinosarcoma) 8980/3
+
+	低分化癌 (poorly differentiated carcinoma)
+
+		未分化癌(undifferentiated carcinoma)8020/3
+
+		大细胞癌(large cell carcinoma)8013/3
+
+		小细胞癌(small cell carcinoma)8041/3
+
+	淋巴上皮癌(lymphoepithelial carcinoma)8082/3
+
+	鳞状细胞癌(squamous cell carcinoma)8070/3
+
+	嗜酸细胞癌(oncocytic carcinoma)8290/3
+
+	恶性潜能待定(uncertain malignant potential)
+
+	成涎细胞瘤 (sialoblastoma) 8974/1
+
+良性肿瘤(benign epithelial tumors)
+
+	多形性腺瘤(pleomorphic adenoma)8940/0
+
+	肌上皮瘤(myoepithelioma)8982/0
+
+	基底细胞腺瘤 ( basal cell adenoma ) 8147/0
+
+	沃辛瘤 (Warthin tumour) 8561/0
+
+	嗜酸细胞腺瘤(oncocytoma)8290/0
+
+	淋巴腺瘤(lymphadenoma)8563/0
+
+---
+
+囊腺瘤(cystadenoma)8440/0
+
+乳头状唾液腺瘤(sialadenoma papilliferum)8406/0
+
+导管乳头状瘤(ductal papillomas)8503/0
+
+皮脂腺瘤(sebaceous adenoma)8410/0
+
+管状腺瘤及其他导管腺瘤(canalicular adenoma and other ductal adenomas)8149/0
+
+良性软组织病变(benign soft tissue lesions)
+
+血管瘤(haemangioma)9120/0
+
+脂肪瘤(lipoma)8850/0
+
+结节性筋膜炎 (nodular fasciitis) 8850/0
+
+淋巴、血液肿瘤(haematolymphoid tumors)
+
+黏膜相关淋巴组织结外边缘区 B 细胞淋巴瘤(extranodal marginal zone B-cell lymphoma)9699/3
+
+注:肿瘤名称后的编码为肿瘤学国际疾病分类编码 [ International Classification of Diseases for Oncology(ICD-O)\{4041\} ]； 肿瘤名称为医学系统化命名 [ systematized nomenclature of medicine ( http://snomed.org )]
+
+生物学行为编码为:“/0” 代表良性肿瘤；“/1” 代表交界性或行为不明的肿瘤；“/2” 代表原位癌及高级别上皮内瘤变；“/3” 代表恶性肿瘤
+

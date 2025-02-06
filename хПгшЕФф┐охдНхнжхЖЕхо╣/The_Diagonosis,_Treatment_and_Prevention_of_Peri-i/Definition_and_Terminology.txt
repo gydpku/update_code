@@ -1,0 +1,13 @@
+
+口内扫描技术 (intraoral scan technique): Obtaining three-dimensional contour of the oral tissue via optical scanning ( visible light or laser beam ). The optical scanning procedure record object utilizing so-called field sampling, which is then captured and digitized via digital sensors.
+
+计算机辅助设计-计算机辅助制造 (computer-aided design-computer-aided manufacturing, CAD-CAM): Intended object (e.g., crown, prosthesis, surgical guide, virtual wax-up) is designed and fabricated by following digital workflow: Intended object is virtually designed in the dedicated software ( CAD software ) based on the digital data. Thereafter, the CAD data is imported into CAM software, where the planned treatment or production of the intended object is performed by either the subtractive or the additive manufacturing technique.
+
+双扫描技术 (dual scan technique): The dual scan technique is characterized by the fact that both the patient wearing the radiographic guide and the radiographic guide alone, need to be separately digitalized by means of (CB) CT scanning. The two scans are matched, by using the presence of fiducial markers in the radiographic guide.
+
+静态导板引导下的种植外科手术 (static guided implant surgery): For static guide implant surgery, a surgical template is used that transfers the virtual implant position from computed tomography data to the surgical site. These templates are produced by CAD/CAM technology, such as stereolithography, or manually in a dental laboratory ( using mechanical positioning devices or drilling machines)
+
+动态导航引导下的种植外科手术 (dynamic guided implant surgery): Dynamic guided implant surgery is referred to computer-navigated surgery. The position of the instruments in the surgical area is constantly displayed on a screen with a three-dimensional image of the patient. In this way, the system allows real-time transfer of the preoperative planning and visual feedback on the screen.
+
+(崔宏燕 邸 萍)
+

@@ -1,0 +1,13 @@
+
+- 球附着体系统 (ball attachment system)。
+
+- 杆附着体系统 (bar attachment system)。
+
+- 自固位附着体系统 (Locator attachment system)。
+
+- 磁性附着体系统 (magnet attachment system)。
+
+- 套筒冠附着体系统 (telescopic coping attachment system)。
+
+临床上, 通常按照对种植体固位式覆盖义齿的支持方式分类附着体系统。
+

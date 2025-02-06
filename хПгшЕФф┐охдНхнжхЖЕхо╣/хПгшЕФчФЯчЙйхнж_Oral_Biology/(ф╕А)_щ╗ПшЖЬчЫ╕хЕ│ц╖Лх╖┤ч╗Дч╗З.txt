@@ -1,0 +1,7 @@
+
+黏膜相关淋巴组织(MALT)也称黏膜免疫系统(mucosal immune system, MIS),指广泛分布于消化道、呼吸道及泌尿生殖道黏膜固有层的淋巴组织。机体的 1/2 淋巴组织存在于 MALT。MALT 的主要功能是参与黏膜表面获得性免疫应答；产生分泌型 IgA ( SIgA ),是黏膜局部抵御病原微生物感染的主要机制。
+
+MALT 可分为器官型 MALT(organized MALT, O-MALT)和弥散型 MALT(diffuse MALT, D-MALT ) 两类。淋巴细胞集中分布,形成淋巴滤泡结构的称为 O-MALT。肠道的 O-MALT 又称皮氏小结 (Perye's patch)。皮氏小结以初级淋巴滤泡 (primary follicle) 为核心, 滤泡内以 B 细胞为主,还有巨噬细胞(macrophage)、树突细胞(dendritic cell, DC)和少量 T 细胞。皮氏小结只有输出淋巴管,而没有输入淋巴管。抗原成分经皮氏小结上方上皮细胞的胞饮作用转移至体内,传输给小结内的巨噬细胞或树突细胞,激活辅助性 $\mathrm{T}$ 细胞(helper $\mathrm{T}$ cell, Th),再由 $\mathrm{{Th}}$ 细胞活化 $\mathrm{B}$ 细胞,产生并分泌可溶性免疫球蛋白 $\mathrm{A}$ (immunoglobulin $\mathrm{A}$ , IgA)。可溶性IgA经 J链组装,成为二聚体 IgA,与上皮细胞表面 Poly-Ig 受体结合进入上皮细胞,在上皮细胞内结合分泌片后成为SIgA,分泌于小肠黏膜表面。DMALT 是指黏膜固有层中分布广泛而分散的淋巴细胞、浆细胞(plasma cell)以及自然杀伤细胞(natural killer, NK)等。
+
+口腔 MALT 主要是指口腔黏膜固有层的 D-MALT,上皮层内散在的淋巴细胞及朗格汉斯细胞(Langerhans cell)也参与其中。舌根部、软腭及牙龈的 MALT 最为丰富。在抗原刺激下,口腔 MALT 趋于活跃,黏膜固有层内淋巴细胞增生,在上皮下形成淋巴滤泡结构,即可称为 O-MALT。
+

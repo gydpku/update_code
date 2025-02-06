@@ -1,0 +1,3 @@
+
+鼻测压计 (rhinmanometry) 测量呼吸时气流的阻力。根据流体力学原理, 气流的阻力是在一定时间内把一定体积的空气推倒一定距离所需的压力, 利用经鼻压降描记仪、流速描记仪, 同时测得经鼻压降及呼吸气流速度, 二者之比即为鼻阻力。1987 年 Beckingham 等用此法测得的双侧鼻腔总阻力正常范围为 ${0.2} \sim  {0.55}\mathrm{{kPa}}\left( {{2.06} \sim  {5.15}\mathrm{{cm}}{\mathrm{H}}_{2}\mathrm{O}}\right) /\mathrm{L}/\mathrm{s}$ 。正常儿童 NAR 的正常范围在 1.96 $\sim  {5.26}{\mathrm{{cmH}}}_{2}\mathrm{O}/\mathrm{L}/\mathrm{s}$ ,腺样体肥大儿童的总 NAR 较同龄儿童明显增高。
+

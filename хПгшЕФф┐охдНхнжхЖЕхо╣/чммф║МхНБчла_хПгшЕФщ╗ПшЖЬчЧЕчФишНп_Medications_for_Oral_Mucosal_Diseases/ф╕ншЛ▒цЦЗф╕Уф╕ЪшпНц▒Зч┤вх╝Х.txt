@@ -1,0 +1,517 @@
+
+$\mathbf{A}$
+
+阿米替林(amitriptyline) 242
+
+阿莫西林(amoxicillin) 64, 211
+
+阿莫西林克拉维酸钾(amoxicillin and clavulanate pot-
+
+assium) 70, 211
+
+阿普唑仑(alprazolam) 111
+
+阿奇霉素(azithromycin) 72
+
+阿司匹林(aspirin) 101
+
+阿替卡因(articaine) 90
+
+阿昔洛韦(aciclovir) 233
+
+艾司唑仑(estazolam) 110
+
+氨茶碱(aminophylline) 168
+
+氨基葡萄糖(glucosamine) 240
+
+氨甲环酸(tranexamic acid) 116
+
+氨来呫诺(amlexanox) 236
+
+胺碘酮(amiodarone) 165
+
+奥硝唑(ornidazole) 78B靶浓度(target concentration) 50 白芍总苷(total glucosides of paeony) 224 半衰期(half life, ${t}_{1/2}$ ) 48 倍他米松(betamethasone) 127 苯酚(phenol) 142 苯海拉明(diphenhydramine) 170 变态反应(allergic reaction) 17 表观分布容积 (apparent volume of distribution, ${V}_{\mathrm{d}}$ )48
+
+玻璃酸钠(sodium hyaluronate) 241
+
+博来霉素(bleomycin) 177
+
+布洛芬(ibuprofen) 103
+
+C
+
+残髓炎(residual pulpitis) 201
+
+草酸钾(potassium oxalate) 194
+
+重组人干扰素(recombinant human interferon) 136
+
+处方(prescription) 9
+
+次氯酸钠(sodium hypochlorite) 148, 203
+
+醋酸氯己定溶液(chlorhexidine acetate solution) 214D代谢(metabolism) 47
+
+地喹氯铵(dequalinium chloride) 154, 235
+
+地塞米松(dexamethasone) 127, 169
+
+地西泮(diazepam) 110, 172
+
+地佐辛(dezocine) 100
+
+碘仿(iodoform) 149, 206
+
+碘甘油(iodine glycerin) 215
+
+碘海醇(iohexol) 244
+
+碘化油(iodinated oil) 243
+
+丁卡因(tetracaine) 93
+
+丁香酚(eugenol) 144
+
+毒性反应(toxic reaction) 17
+
+多巴胺(dopamine) 161
+
+多聚甲醛(paraformaldehyde) 145
+
+多柔比星(doxorubicin) 176
+
+多沙普仑(doxapram) 168
+
+多西环素(doxycycline) 71, 211, 213
+
+多向耐药性(pleiotropic drug resistance) 175
+
+多药耐药性(multidrug resistance, MDR) 175
+
+$\mathbf{F}$
+
+泛影葡胺(meglumine diatrizoate) 243
+
+防腐药(antiseptics) 139
+
+防龋药(anti-carious agent) 189
+
+非甾体抗炎药 (nonsteroidal anti-inflammatory drug,
+
+NSAID ) 95
+
+分布 (distribution) 46
+
+芬太尼(fentanyl) 97
+
+呋塞米(furosemide) 166
+
+氟化钠(sodium fluoride) 190
+
+氟化钠甘油(sodium glycerine fluoride) 194
+
+氟化亚锡(stannous fluoride) 191
+
+氟康唑(fluconazole) 79, 221
+
+氟尿嘧啶(fluorouracil) 180
+
+负荷量 (loading dose) 50
+
+复方苯佐卡因凝胶(compound benzocaine gel) 234
+
+复方甘菊利多卡因凝胶(compound chamomile and
+
+lidocaine hydrochloride gel ) 233 复方氯己定地塞米松膜(compound chlorhexidine and
+
+dexamethasone pellicles ) 237
+
+复方硼砂含漱液(compound borax solution) 232
+
+复合脱敏剂(compound desensitizer) 195
+
+副作用(side effect) 17
+
+$\mathbf{G}$
+
+盖髓剂(pulp capping agent) 198
+
+盖髓术(pulp capping) 198
+
+高锰酸钾(potassium permanganate) 151
+
+根管冲洗剂(root canal irrigant) 203
+
+根管消毒剂(root canal disinfectant) 203
+
+根管治疗(root canal therapy, RCT) 202
+
+根管治疗药(root canal therapy agents) 202
+
+过硼酸钠(sodium perborate) 197
+
+过氧化脲(carbamide peroxide) 197
+
+过氧化氢(hydrogen peroxide) 196, 204
+
+过氧化氢溶液(hydrogen peroxide solution) 150, 214,
+
+215
+
+H
+
+红霉素(erythromycin) 72
+
+后遗效应(residual effect) 17
+
+环孢素(ciclosporin) 131
+
+环丙沙星(ciprofloxacin) 76
+
+环磷酰胺(cyclophosphamide) 134, 178
+
+活髓牙漂白术(vital bleaching technique) 196
+
+$\mathbf{J}$
+
+急性牙髓炎(acute pulpitis) 201
+
+剂型(dosage form) 6
+
+继发反应(secondary reaction) 17
+
+家庭漂白术( in-home bleaching technique ) 196
+
+甲氨蝶呤(methotrexate) 133,181
+
+甲酚(cresol) 143
+
+甲哌卡因(mepivacaine) 91
+
+甲泼尼龙 (甲基强的松龙)(methylprednisolone) 126
+
+甲醛甲酚溶液(formocresol solution(FC) 201
+
+甲醛溶液(formaldehyde solution) 144
+
+甲硝唑(metronidazole) 77, 212
+
+甲硝唑棒(metronidazole stick) 216
+
+间羟胺(metaraminol) 162
+
+碱性品红(basic fuchsin) 246
+
+局部麻醉药( local anesthetics) 86
+
+聚桂醇(lauromacrogol) 247
+
+聚维酮碘(povidone iodine) 149, 231
+
+聚维酮碘溶液(povidone iodine solution) 215
+
+菌斑显示剂(plaque disclosing agent) 245
+
+$\mathbf{K}$
+
+卡马西平(carbamazepine) 106
+
+抗焦虑药(anti-anxiety drugs) 109
+
+抗菌药物(antibacterial agents) 61
+
+抗生素(antibiotic) 63
+
+抗牙本质敏感药(anti-dentin sensitive drugs) 194
+
+抗肿瘤药(antitumor drugs) 174
+
+壳聚糖(chitosan, CS) 193
+
+可复性牙髓炎(reversible pulpitis) 201
+
+克林霉素(clindamycin) 73, 211
+
+口腔药物学(oral pharmacology) 3
+
+矿物三氧化物聚合物(mineral trioxide aggregate, MTA)
+
+200
+
+L
+
+利多卡因(lidocaine) 89, 164
+
+硫唑嘌呤(azathioprine) 133
+
+氯己定(chlorhexidine) 152, 204, 229
+
+罗红霉素(roxithromycin) 73, 212
+
+洛贝林(lobeline) 168
+
+洛索洛芬(loxoprofen) 104
+
+$\mathbf{M}$
+
+麻醉性镇痛药(narcotic analgesic) 95
+
+吗啡(morphine) 96
+
+慢性闭锁性牙髓炎(chronic closed pulpitis) 201
+
+慢性溃疡性牙髓炎(chronic ulcerative pulpitis) 201
+
+慢性牙髓炎(chronic pulpitis) 201
+
+慢性增生性牙髓炎(chronic hyperplastic pulpitis) 201
+
+美罗培南(meropenem) 69
+
+美洛昔康(meloxicam) 105
+
+美索巴莫(methocarbamol) 241
+
+咪达唑仑(midazolam) 112
+
+米诺环素(minocycline) 71
+
+免疫调节药(immunomodulatory drugs) 130
+
+免疫抑制药(immunosuppressive drugs) 130
+
+免疫增强药(immunopotentiating drugs) 135
+
+莫西沙星(moxifloxacin) 76
+
+$\mathbf{N}$
+
+内源性着色牙(intrinsic discoloration of teeth) 196
+
+尼可刹米( nikethamide ) 167
+
+尼妥珠单抗(nimotuzumab) 183
+
+逆行性牙髓炎(retrograde pulpitis) 201
+
+凝血酶(thrombin) 116
+
+$\mathbf{P}$
+
+P- 糖蛋白(P-glycoprotein) 175
+
+排泄(excretion) 47
+
+硼砂( borax ) 147
+
+平阳霉素(bleomycin A5) 182
+
+泼尼松(prednisone) 126, 221
+
+泼尼松龙 / 氢化泼尼松(prednisolone/hydroprednisone)
+
+125
+
+葡萄糖酸钙(calcium gluconate) 170
+
+普鲁卡因(procaine) 92
+
+普罗帕酮(propafenone) 164
+
+$\mathbf{Q}$
+
+羟氯喹(hydroxychloroquine) 222
+
+青霉素 G(penicillin G) 64 氢化可的松(皮质醇)(hydrocortisone) 125 氢氧化钙(calcium hydroxide) 147, 198, 205 清除率(clearance, CL) 49 庆大霉素(gentamycin) 70 曲安奈德(triamcinolone acetonide) 128, 233 龋病(dental caries) 189 去甲肾上腺素(noradrenaline) 160 去乙酰毛花苷(deslanoside) 163R溶菌酶(lysozyme) 236 乳酸依沙吖啶溶液(ethacridine lactate solution) 230 瑞芬太尼(remifentanil) 99$S$沙利度胺(thalidomide) 223 蛇毒血凝酶(hemocoagulase) 117 麝香草酚(thymol) 143 肾上腺素(adrenaline) 160 生物利用度(bioavailability, $F$ ) 49 生物转化(biotransformation) 47 首过消除(first pass elimination) 45 首剂效应(first dose effect) 17 舒芬太尼(sufentanil) 99 双氯芬酸钠(diclofenac sodium) 103 顺铂(cisplatin) 179 四碘荧光素钠(sodium tetraiodofluorescein) 245 四环素类(tetracyclines) 217 酸性磷酸氟(acidulated phosphate fluoride(APF) 192 索拉非尼(sorafenib) 184$\mathbf{T}$他克莫司(tacrolimus) 132, 232 碳酸氢钠(sodium bicarbonate) 147, 171, 230 糖皮质激素(glucocorticoid, GC) 119 特比萘芬(terbinafine) 80 特异质反应(idiosyncratic reaction) 17 替硝唑(tinidazole) 77, 212 停药综合征(withdrawal syndrome) 17 头孢吡肟(cefepime) 67 头孢呋辛(cefuroxime) 66 头孢匹罗(cefpirome) 67 头孢曲松(ceftriaxone) 66 头孢西丁(cefoxitin) 68 头孢唑林(cefazolin) 65W
+
+外源性着色牙(extrinsic discoloration of teeth) 196
+
+万古霉素(vancomycin) 74
+
+维拉帕米 (verapamil) 165
+
+维生素 A(vitamin A) 225
+
+维生素 ${B}_{1}$ (vitamin ${B}_{1}$ ) 225
+
+维生素 ${\mathrm{B}}_{12}$ (vitamin ${\mathrm{B}}_{12}$ ) 226
+
+维生素 ${B}_{2}$ (vitamin ${B}_{2}$ ) 225
+
+维生素 C(vitamin C) 226
+
+无髓牙漂白术(non-vital bleaching technique) 196
+
+戊二醛(glutaraldehyde) 146, 202
+
+$\mathbf{X}$
+
+西吡氯铵(cetylpyridinium chloride) 153, 231
+
+西吡氯铵溶液(cetylpyridinium chloride solution) 215
+
+西地碘(cydiodine) 234
+
+西司他丁(cilastatin) 68
+
+吸收(absorption) 45
+
+吸收性明胶海绵(absorbable gelatin sponge) 117
+
+消毒药(disinfectants) 139
+
+硝卡芥(nitrocaphane) 178
+
+硝酸甘油(nitroglycerin) 166
+
+硝酸钾(potassium nitrate) 195
+
+胸腺素(thymosin) 135
+
+血药浓度-时间曲线下面积 (area under the concentration-
+
+time, AUC) 49
+
+Y
+
+牙本质敏感症(过敏性牙本质)(dentin sensitivity) 194
+
+牙髓(pulp) 198
+
+牙髓切断术(pulpotomy) 201
+
+牙髓切断术药(pulpotomy agents) 201
+
+牙髓失活剂(pulp devitalizer) 207
+
+牙髓炎(pulpitis) 201
+
+牙周塞治剂(periodontal dressing) 218
+
+亚胺培南(imipenem) 68
+
+盐酸米诺环素软膏 ( minocycline hydrochloride ointment)
+
+216
+
+氧化锌丁香油(zinc oxide eugenol, ZOE) 200
+
+药品不良反应(adverse drug reaction, ADR) 15
+
+药品不良事件(adverse drug event, ADE) 15
+
+药物变态反应性口炎 (allergic medicamentous stomatitis)
+
+22
+
+药物代谢动力学(pharmacokinetics, PK) 45
+
+药物临床试验(drug clinical trial) 33
+
+药物临床试验质量管理规范(good clinical practice,
+
+GCP) 33
+
+药物依赖性(drug dependence) 17
+
+药源性疾病(drug-induced diseases, DID) 21
+
+药源性牙龈增生(drug-induced gingival hyperplasia)
+
+22
+
+伊曲康唑(itraconazole) 79
+
+依沙吖啶(ethacridine) 154
+
+乙醇(alcohol) 141
+
+乙二胺四乙酸(ethylene diamine tetraacetic acid, EDTA)
+
+204, 217
+
+异丙醇(isopropanol) 142
+
+异丙肾上腺素(isoprenaline) 163
+
+釉基质蛋白衍生物(enamel matrix derivative, EMD)
+
+217
+
+$\mathbf{Z}$
+
+诊室内漂白术(in-office bleaching technique) 196
+
+镇静催眠药(sedative hypnotics) 112
+
+镇痛药(analgesics) 95
+
+止血药(促凝血药)(hemostatic agent) 115
+
+制霉菌素(nystatin) 78, 235
+
+中毒剂量(probable toxic dose, PTD) 191
+
+转移因子(transfer factor) 136
+
+着色牙(discoloration of teeth) 196
+
+紫杉醇(paclitaxel) 182
+
+左氧氟沙星(levofloxacin) 75
+
+唑吡坦(zolpidem) 113
+
+责任编辑:毛淑静
+
+封面设计: 锋尚设计口腔药物学 Oral Pharmacology
+
+口腔医学导论(第 3 版)
+
+口腔颌面部解剖学(第 3 版)
+
+牙体解剖与口腔生理学(第 3 版)
+
+口腔生物学(第 3 版)
+
+口腔组织学与病理学(第 3 版)
+
+口腔材料学(第 3 版)
+
+临床龋病学(第 3 版)
+
+牙体牙髓病学(第 3 版)
+
+口腔修复学(第 3 版)
+
+口腔颌面医学影像学(第 3 版)
+
+在使用本书增值服务之前,请您刮开右侧二维码, 使用 微信扫码激活。
+
+* 温馨提示:每个激活二维码只能绑定一个微信号。 每种教材的增值服务类型略有不同。
+
+更多优质服务请微信扫码关注“北京大学医学出版社”公众号。
+
+口腔颌面外科学(第 3 版)
+
+临床牙周病学(第 3 版)
+
+口腔正畸学(第 3 版)
+
+儿童口腔医学(第 3 版)
+
+预防口腔医学(第 3 版)
+
+口腔种植学(第 2 版)
+
+口腔黏膜病学(第 2 版)
+
+口腔药物学
+
+口腔设备学
+
+口腔修复工艺学(第 2 版)
+
+本教材激活二维码
+

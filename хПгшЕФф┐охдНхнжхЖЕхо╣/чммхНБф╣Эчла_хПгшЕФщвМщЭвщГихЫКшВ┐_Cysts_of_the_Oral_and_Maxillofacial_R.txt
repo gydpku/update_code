@@ -1,0 +1,61 @@
+
+囊肿是一种非脓肿性病理性囊腔,内含囊液或半流体物质,通常由纤维结缔组织囊壁包绕, 绝大多数囊肿的囊壁有上皮衬里, 少数无上皮衬里者又称为假性囊肿 (pseudocyst)。由于特殊的解剖学结构和复杂的胚胎发育特点,口腔颌面部好发囊肿,其中颌骨为人类骨骼中最好发囊肿的部位。根据发生部位的不同,口腔颌面部囊肿一般可分为颌骨囊肿和软组织囊肿两大类, 其中颌骨囊肿又可根据其组织来源不同而分为牙源性和非牙源性囊肿。在 2017 年 WHO 对牙源性肿瘤的新分类中,将上一版更名的牙源性角化囊性瘤和牙源性钙化囊性瘤又分别恢复为牙源性角化囊肿和牙源性钙化囊肿,并将牙源性囊肿做了新的修订。因此,本章结合 WHO 的最新分类, 将常见的口腔颌面部囊肿分类如表 19-1。为便于叙述, 本章分为牙源性囊肿、 非牙源性囊肿、假性囊肿和口腔及面颈部软组织囊肿四节。
+
+表 19-1 口腔颌面部囊肿
+
+---
+
+一、颌骨上皮性囊肿(epithelial cysts of the jaws)
+
+		(一)发育性(developmental)
+
+				1. 牙源性(odontogenic)
+
+					(1)含牙(滤泡)囊肿 [ dentigerous (follicular ) cyst ]
+
+					(2)牙源性角化囊肿(odontogenic keratocyst)
+
+					(3)发育性根侧囊肿和葡萄样牙源性囊肿(lateral periodontal cyst and botryoid odontogenic cyst)
+
+					(4) 龈囊肿(gingival cyst)
+
+					(5)腺牙源性囊肿(glandular odontogenic cyst)
+
+					(6)牙源性钙化囊肿(calcifying odontogenic cyst)
+
+					(7)正角化牙源性囊肿(orthokeratinized odontogenic cyst)
+
+				2. 非牙源性(non-odontogenic)
+
+					(1)鼻腭管(切牙管)囊肿 [ nasopalatine duct(incisive canal)cyst ]
+
+					(2)鼻唇(鼻牙槽)囊肿 [ nasolabial(nasoalveolar)cyst ]
+
+		(二)炎症性(inflammatory)
+
+					(1)根尖周囊肿(periapical cyst)
+
+					(2)炎症性根侧囊肿(inflammatory collateral cyst)
+
+二、口腔、面颈部软组织囊肿
+
+		(1)皮样或表皮样囊肿(dermoid or epidermoid cyst)
+
+		(2)鳃裂囊肿(branchial cleft cyst)
+
+		(3)甲状舌管囊肿(thyroglossal tract cyst)
+
+		(4)畸胎样囊肿(teratoid cyst)
+
+		(5)黏液囊肿(mucocele)
+
+		(6)舌下囊肿(ranula)
+
+---
+
+第一节 牙源性囊肿
+
+Odontogenic Cyst
+
+牙源性囊肿(odontogenic cyst)是指牙齿形成器官的上皮或上皮剩余发生的一组囊肿。一般可分为发育性和炎症性两大类。前者由牙齿发育和(或)萌出过程中的某些异常所致,后者则与颌骨内存在的炎症灶有关。作为牙髓炎症的一种后续病变,颌骨炎症性囊肿(如根尖周囊肿等)的发生一般经历了牙齿龋坏、牙髓炎症和坏死、根尖周组织的炎症和(或)免疫反应、 马氏(Malassez)上皮剩余增殖以及增殖上皮团块中央液化、囊性变等一系列可预测的病理过程,但目前人们对于发育性牙源性囊肿(如牙源性角化囊肿、含牙囊肿等)的组织来源和发病机制的认识尚不深入, 许多理论仍建立在推测的基础之上。一般认为, 牙源性囊肿的衬里上皮来源于牙源性上皮剩余,而不同囊肿可能来源于不同的上皮剩余:①牙板上皮剩余或 Serres 上皮剩余可发生发育性根侧囊肿和牙龈囊肿；②缩余釉上皮发生的囊肿有含牙囊肿、萌出囊肿以及炎性牙旁囊肿；③ Malassez 上皮剩余发生根尖周囊肿、残余囊肿和炎性根侧囊肿。需要强调的是,各种类型牙源性囊肿的诊断应综合考虑其临床、X 线和组织病理学表现。
+

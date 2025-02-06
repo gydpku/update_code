@@ -1,0 +1,5 @@
+
+血药浓度-时间曲线下面积(area under the concentration-time, AUC)是指血药浓度数据 (纵坐标) 对时间 (横坐标) 作图,所得曲线下的面积。从给药开始到给药 $t$ 时的面积用 ${\mathrm{{AUC}}}_{0 \rightarrow  \mathrm{t}}$ 表示; 从给药开始到给药 $t = \infty$ 时的面积用 ${\mathrm{{AUC}}}_{0 \rightarrow  \infty }$ 表示。
+
+AUC 是计算生物利用度的基础数值, 与吸收后进入体循环的药量成正比, 反映进入体循环药物的相对量。
+

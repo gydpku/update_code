@@ -1,0 +1,13 @@
+
+牙齿是由来自原始口腔上皮(primitive oral epithelium)向深层外胚间充质延伸增生形成的牙板(tooth lamina)细胞和来自上下颌突神经嵴(neural crest)形成的外胚层间充质细胞(ectomesenchymal cell)发育而来。牙板细胞与其周围的外胚层间充质细胞相互作用,最终形成牙胚 (tooth germ)。牙胚包括成釉器 (enamel organ)、牙乳头 (dental papilla) 和牙囊 (dental follicle) 三部分。
+
+1.成釉器 起源于原始口腔上皮(primitive oral epithelium),历经蕾状期(bud stage)、帽状期 (cap stage) 和钟状期 (bell stage)。在帽状期,上皮芽向外胚层间叶质细胞层中生长增殖,形成三个细胞层,即外釉上皮层(outer enamel epithelium)、星网状层(stellate reticulum) 和内釉上皮层 (inner enamel epithelium)。内釉上皮细胞形状如帽子,覆盖在外胚层间充质细胞聚集区 (即牙乳头) 上,进一步分化成成釉细胞 (ameloblast),具有形成牙釉质的能力。在钟状期,成釉器变成四层细胞,即外釉上皮层、星网状层、中间层(stratum intermedium)和内釉上皮层。在牙齿釉质形成末期,成釉细胞在釉质基质形成完成后,在釉质表层留下一层薄膜结构,称为原发性釉小皮(primary enamel cuticle)。在釉小皮形成后,成釉细胞变短,并与中间层细胞、星网层细胞和外釉上皮细胞结合,变成鳞状上皮覆盖在牙釉质上,称为缩余釉上皮 ( reduced dental epithelium )。当牙尖萌出到口腔时,缩余釉上皮与口腔上皮接触并融合, 形成原发性结合上皮(primary junctional epithelium),并借牙龈沟内上皮(sulcular epithelium) 与牙龈黏膜上皮融合在一起。此时成釉细胞已经演化成结合上皮细胞(junctional epithelial cells)。结合上皮继续在牙齿表面分泌一层膜状物质,称为继发性釉小皮(secondary enamel cuticle)。
+
+$\mathbf{2.{牙乳头}}\;$ 成釉器下方的细胞聚集区称为牙乳头,起源于外胚层间充质,将来分化成牙髓细胞(dental pulp cell)和成牙本质细胞(odontoblast),进而形成牙髓(dental pulp)和牙本质 ( dentin )。
+
+3. 牙囊 起源于外胚层间充质,是包绕成釉器和牙乳头的结缔组织层。内含外胚层间充质细胞,将来分化成牙齿支持组织细胞,包括形成牙骨质(cementum)的成牙骨质细胞 (cementoblast), 形成牙周膜(periodontal membrane, 或 periodontal ligament)的牙周膜细胞 ( periodontal membrane cell ),以及形成牙槽骨(alveolar bone ) 的成骨细胞(osteoblast )。
+
+此外, 在牙齿萌出后, 会出现新的组织, 即牙龈组织 ( gingival tissue ), 并由此产生牙龈上皮细胞 ( gingival epithelial cell ) 和牙龈成纤维细胞 ( gingival fibroblast )。
+
+本章重点介绍牙源性干细胞。
+

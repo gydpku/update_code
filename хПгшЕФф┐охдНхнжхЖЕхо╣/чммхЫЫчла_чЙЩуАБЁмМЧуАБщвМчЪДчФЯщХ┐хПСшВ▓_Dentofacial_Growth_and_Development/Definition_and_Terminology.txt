@@ -1,0 +1,23 @@
+
+1. 生长 ( growth) : Growth refers to an increase in anatomic size. Three parameters commonly used in growth literature to assess craniofacial size increase are magnitude, velocity, and direction. Magnitude refers to the linear dimension overall or the dimension of a part. Direction means the vector of size increase as might be described on a three-dimensional coordinate system. Velocity is defined as the amount of change per unit of time.
+
+2. 萌出 ( eruption ) : The act of breaking out, appearing or becoming visible. For a tooth, it is the process of moving through alveolar bone into the oral cavity.
+
+3. 牙胚 ( tooth germ ): The rudiment of a tooth, consisting of a dental sac and including the dental papilla and dental organ.
+
+4. 成釉器 (dental organ, enamel organ): A process of epithelium forming a cap over the dental papilla from which the enamel is developed.
+
+5. 剩余间隙 ( leeway space ) : Premolars are smaller than the primary teeth which they replace. The extra space is called leeway space. The space is used up in the later mesial shift. Leeway space in each quadrant, is about ${1.0}\mathrm{\;{mm}}$ in maxillary and ${1.7} \sim  {2.0}\mathrm{\;{mm}}$ in mandible.
+
+6. 灵长间隙 ( primate space ) : The space exist in most primates. In the maxillary arch, the primate space locate at mesial side of the canines. In the mandibular arch, the primate space locate at distal side of the canines.
+
+7. 近中 (台阶) 型 (mesial-step terminus): Mesial-step terminus is defined as a lower second primary molar terminal plane that is mesial to the maxillary primary molar terminus.
+
+8. 开𬌗 (open bite) : Open bite relationships are characterized by failure of the teeth in both arches to meet properly. Open bites maybe observed in the anterior or posterior region and maybe attributable to supraeruption of the question. Open bites may be caused by abnormal habits, deviant growth patterns, or an abnormal tongue position.
+
+9. 牙弓周长 (arch circumference): The distance from the distal surface of the second primary molar (or mesial surface of the first permanent molar) on one side of the arch to that same surface on the opposite side.
+
+10. 下颌平面 (mandibular plane, MP): The mandibular plane is constructed as a tangent to the inferior border of the mandible.
+
+(马文利 赵双云)
+

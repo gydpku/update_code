@@ -1,0 +1,17 @@
+
+斑 (Macule): Flush lesions with the adjacent mucosa and that are noticeable because of their different color from normal mucosa. They may be red due to the presence of vascular lesions or inflammation, or pigmented due to the presence of melanin, hemosiderin, foreign materials and drugs.
+
+丘疹 (Papule): lesions raised above the mucosal surface that are smaller than ${1.0}\mathrm{\;{cm}}$ in diameter. Papules may be slightly domed of flat-topped.
+
+斑块 (Plaque): Solid raised lesions that are greater than $1\mathrm{\;{cm}}$ in diameter; they are essentially large papules.
+
+结节 (Nodule): These lesions are present deep in the mucosa, the lesions may also protrude above the mucosa forming a characteristic dome-shaped structure.
+
+疱 (Vesicle) : small blisters containing clear fluid that are less than $1\mathrm{\;{cm}}$ in diameter.
+
+大疱 (Bullae): Elevated blister lesions containing clear fluid that are greater than $1\mathrm{\;{cm}}$ in diameter.
+
+糜烂 (Erosion): Moist red lesions often caused by the rupture of vesicles or bullae as well as trauma. They may also result from thinning or atrophy of the epithelium in inflammatory diseases. These should be differentiated from ulcer.
+
+溃疡 (Ulcer): A defect in the epithelium covered by a fibrin clot; it is a well-circumscribed depressed lesion over which the epidermal layer, resulting in a yellow-white appearance.
+

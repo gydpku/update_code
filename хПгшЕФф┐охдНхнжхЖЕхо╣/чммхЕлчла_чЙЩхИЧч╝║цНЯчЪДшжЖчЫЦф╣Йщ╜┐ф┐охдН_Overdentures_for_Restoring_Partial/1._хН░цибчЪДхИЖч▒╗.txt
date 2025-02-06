@@ -1,0 +1,7 @@
+
+(1)一次印模法与二次印模法:一次印模法是选用合适的成品托盘(stock impression tray)和藻酸盐印模材,一次完成工作印模。此方法虽简便,但难以进行准确的边缘整塑, 印模准确性差。二次印模法是先采用成品托盘加印模膏(modelling compound)或藻酸盐 (alginate) 制取初印模 (primary impression), 然后灌注石膏模型, 在模型上制作个别托盘 (custom/individual impression tray),即与特定患者个体的无牙颌形态相适应的印模托盘,最后用个别托盘加终印模材取得终印模 (final impression)。此方法虽相对繁琐,但印模准确性好, 是临床上普遍采用的方法。
+
+(2)解剖式印模与功能性印模:解剖式印模(anatomic impression)又称为静态印模 ( static impression ),是在黏膜没有功能变形的状态下取得的印模。取印模时,采用流动性好的印模材和有孔托盘,对黏膜无压力或只有微小压力。
+
+功能性印模 (functional impression) 又称压力印模 (pressure impression), 是在软组织受到功能性压力变形状态下的印模, 对印模范围内的不同区域采取不同的压力, 适当减小缓冲区的压力, 故又称作选择性压力印模 ( selective pressure impression )。
+

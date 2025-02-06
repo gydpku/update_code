@@ -1,0 +1,15 @@
+
+计算机辅助设计 (computer aided design): CAD is the use of computer systems to assist in the creation, modification, analysis, or optimization of a design.
+
+计算机辅助制造 (computer aided manufacturing): CAM is the use of computer software to control machine tools and related machinery in the manufacturing of workpieces.
+
+STL (standard triangulation language/standard tessellation language): STL is a file format native to the stereo lithography CAD software created by 3D Systems and is also known as a standard triangulation language. This file format is supported by many other software packages and is widely used for rapid prototyping and computer aided manufacturing. STL files describe only the surface geometry of a three dimensional object without any representation of color, texture or other common CAD model attributes.
+
+数控加工 (numerical control processing): Numerical control processing is the automation of machine tools that are operated by abstractly programmed commands encoded on a storage medium, as opposed to controlled manually via hand wheels or levers, or mechanically automated via CAMs alone.
+
+增材制造 (additive manufacturing): Additive Manufacturing refers to a process by which digital 3D design data is used to build up a component in layers by depositing material. The term "3D printing" is increasingly used as a synonym for Additive Manufacturing.
+
+3D 打印 (three-dimensional printing): Fabrication of objects through the deposition of a material using a print head, nozzle, or another printer technology.
+
+数字化印模 (digital impression): Digital impression is the 3D model of oral hard and soft tissues formed by digital scanner. This model is used in different area of dentistry including prosthetics, restorative, diagnosis and oral maxillofacial surgery.
+

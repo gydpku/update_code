@@ -1,0 +1,3 @@
+
+以往的中文文献中将 “primary bone contact 和 secondary bone contact" 翻译为 "初级骨接触(或初期骨接触) 和次级骨接触”。因为 “primary bone contact” 所表达的是在种植体植入完成时的骨与种植体表面 (或界面) 的即刻接触, 属于机械性接触; 而 "secondary bone contact" 所表达的是在种植体植入后的愈合过程中新骨在种植体表面的沉积或改建后新形成的骨 - 种植体接触 (或界面), 即骨结合。因此, 作者团队分别将 "primary bone contact" 和 "secondary bone contact" 中文表述为 "初始骨接触" 和 "继发骨接触”, 由此所产生的相应种植体稳定性表述为 “初始稳定性 (primary stability) 和 "继发稳定性 (secondary stability)" [ 宿玉成译. 国际口腔种植学会(ITI)口腔种植临床指南第一卷, 人民军医出版社, 2008 年]。
+

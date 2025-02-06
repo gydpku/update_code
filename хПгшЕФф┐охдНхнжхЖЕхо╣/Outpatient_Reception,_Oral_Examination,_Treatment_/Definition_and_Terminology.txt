@@ -1,0 +1,29 @@
+
+轴向固位 (retention): The quality inherent in the restoration acting to resist the forces of dislodgement along the path of placement.
+
+轴向固位形 (retention form): The features of a tooth preparation that resist dislodgement of a restoration in a vertical direction or along the path of placement.
+
+非轴向固位 (resistance): The quality inherent in the restoration acting to resist the forces of dislodgement along an axis other than the path of placement.
+
+非轴向固位形 (resistance form): the features of a tooth preparation that increase the stability of a restoration and resist dislodgement along an axis other than the path of placement.
+
+边缘 (margin): The outer edge of a crown, inlay, onlay, or other restorations. The boundary surface of a tooth preparation and/or restoration is termed the finish line or finish curve.
+
+全冠 (complete crown): A restoration that covers all the coronal tooth surfaces ( mesial, distal, facial, lingual, and occlusal ) .
+
+嵌体 (inlay): A fixed intracoronal restoration; a dental restoration made on working cast indirectly to correspond to the form of the prepared cavity, which is then luted into the tooth.
+
+烤瓷熔附金属全冠或金瓷冠 (porcelain-fused-to-metal crown, or metal-ceramic crown): A crown or dental prosthesis that uses a metal substructure upon which a layer of porcelain or a ceramic veneer is fused to mimic the appearance of a natural tooth.
+
+全瓷冠 (all ceramic crown): A complete ceramic crown or dental prosthesis that restores a clinical crown without a supporting metal substructure.
+
+全瓷贴面 (porcelain laminate veneer): A thin ceramic restoration bonded to remaining enamel or tooth structure that conservatively restores the facial surface and part of the proximal surfaces of discolored, pitted, or fractured anterior and premolar teeth requiring esthetic restoration.
+
+桩核冠 (post-and-core crown): A restoration in which the post and core are one unit followed by placement of a separately fabricated crown for use in an endodontically treated tooth with significant loss of tooth structure. It has an internal post to fit into the prepared root canal to provide retention for the restoration.
+
+牙本质肩领效应 (ferrule effect): The ferrule effect is a ${360}^{ \circ  }$ metal or ceramic collar of the crown surrounding the parallel walls of the dentin extending coronal to the cervical margin of the preparation. It is thought to help bind the remaining tooth structure together, simultaneously preventing root fracture during function. The result is an elevation in resistance form of the crown from the extension of dentinal tooth structure.
+
+印模 (impression): A negative likeness or copy in reverse of the surface of an object; an imprint of the teeth and adjacent structures for use in dentistry.
+
+排龈 (gingival displacement): The deflection of the marginal gingiva away from a tooth.
+

@@ -1,0 +1,7 @@
+
+1. 骨引导再生 [ guided bone regeneration ( GBR ) ] : Follows the principle of maintaining a surgically created space at a bony defect via a barrier membrane, thus excluding rapidly proliferating epithelial cells and fibroblasts and permitting the growth of slower-growing bone cells and blood vessels. Graft material may also be used in combination with barrier membranes in GBR procedures to support the membrane and prevent its collapse. In addition, bone grafts provide a scaffold upon which new bone can form.
+
+2. 屏障膜 ( barrier membrane ) : Used in guided bone regeneration to locally augment deficient sites in implant patients. By creating a secluded space, the barrier prevents epithelial cells and fibroblasts from proliferating into the augmentation site, whereas the slower-growing angiogenic and osteogenic cells have exclusive access to the membranes-protected space.
+
+3. 骨替代品 (bone substitute): Nonviable biomaterial for reconstruction of bone, producing only a scaffold for formation of new bone. It supports the inherent potential for bone regeneration. It may be resorbable or remain in an unchanged version at the site of implantation. It also may assist in preservation of contour of an osseous reconstruction.
+

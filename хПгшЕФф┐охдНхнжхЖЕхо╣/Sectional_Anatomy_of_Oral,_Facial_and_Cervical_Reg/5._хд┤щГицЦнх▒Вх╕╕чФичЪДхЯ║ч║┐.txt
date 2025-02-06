@@ -1,0 +1,13 @@
+
+(1)Reid 基线(Reid's base line, RBL):为眶下缘至外耳道中点的连线。冠状断层标本的制作基线与此线垂直 (图 14-1)。
+
+(2)眦耳线(canthomeatal line, CML):又称眶耳线(orbitomeatal line, OML)为外眦与外耳道中点的连线。颅脑断层扫描多以此为基线,但实际应用时常依检查目的不同使扫描平面与 CML 向上或向下成 $0 \sim  {20}^{ \circ  }$ 角。CML 与 RBL 向头侧成角为 ${16.74}^{ \circ  } \pm  {2.52}^{ \circ  }$ 。
+
+(3)上眶耳线(supraorbitomeatal line, SML):为眶上缘中点至外耳道中点的连线。颅底平面为经该线的平面, 依此线扫描观察颅后窝结构显示较清晰且可减少颅骨伪影。SML 与 $\mathrm{{RBL}}$ 的夹角为 ${26.12}^{ \circ  } \pm  {4.56}^{ \circ  }$ 。
+
+
+
+图 14-1 头部断层的基线
+
+(4)连合间线(intercommissural line):为前连合(anterior commissure, AC)后缘中点至后连合 (posterior commissure, PC) 前缘中点的连线, 又称 AC-PC 线。脑立体定向手术和 X-刀、 $\gamma$ - 刀治疗多以此线为准。人脑立体定位断层解剖研究亦多以此线为准。
+

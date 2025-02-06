@@ -1,0 +1,3 @@
+
+音强 (音量) (volume) 由声波的振幅而定,振动频率相同的声波,振幅大者则音强大； 反之则弱。振幅的大小与呼出的气流压力大小有关, 如强音时呼出的气流压力可达 9806.4 Pa $\left( {{1000}\mathrm{{mm}}{\mathrm{H}}_{2}\mathrm{O}}\right)$ ,中等强度气流压力约为 ${1372} \sim  {1960}\mathrm{\;{Pa}}\left( {{140} \sim  {200}{\mathrm{{mmH}}}_{2}\mathrm{O}}\right)$ ,而耳语时气流压力仅 ${29.4}\mathrm{\;{Pa}}\left( {{30}\mathrm{\;{mm}}{\mathrm{H}}_{2}\mathrm{O}}\right)$ 。此外,通过共鸣可以加强声音。
+

@@ -1,0 +1,13 @@
+
+唾液的主要成分是水,占 ${99.4}\%$ ; 其余的 ${0.6}\%$ 为固体成分,由 ${0.2}\%$ 无机成分和 ${0.4}\%$ 有机成分构成。唾液中的黏蛋白几乎均由黏液细胞分泌, 使唾液具有黏稠性。浆液细胞分泌稀薄的液体, 几乎不含黏蛋白, 但淀粉酶的分泌是黏液腺所分泌的 4 倍。某些唾液成分来源于血浆, 其他的在唾液腺里合成。
+
+1. 无机成分 唾液中无机成分最重要的阳离子是钠和钾；主要的阴离子是氯离子和重碳酸盐离子。其他的电解质包括磷酸钙、氟化物、硫氰酸盐、硫酸镁和碘。唾液中的水和离子是从血浆转运来的。虽然唾液电解质来源于血液, 但与血浆的离子浓度是不一致的。
+
+下颌下腺唾液中所含磷酸钙盐较其他腺体分泌的唾液更为饱和, 受刺激时下颌下腺唾液中所含磷酸钙盐含量达到过饱和。因而临床上, 牙结石最易在下颌下腺导管开口处相应的牙面上形成 (下颌前牙舌面), 下颌下腺导管结石也较为常见。
+
+2. 有机成分 唾液含有很多有机成分, 具有不同的功能, 例如酶的作用、覆盖组织表面、保护牙体组织和控制组织生长 (表 22-1 )。
+
+表 22-1 唾液的有机成分 (Organic components of saliva)
+
+<table><thead><tr><th>腺泡细胞分泌的蛋白质(proteins of acinar cell orgin)</th><th>非腺泡细胞分泌的蛋白质(proteins of nonacinar cell origin)</th></tr></thead><tr><td>淀粉酶(amylase)</td><td>溶菌酶(lysozyme)</td></tr><tr><td>脂肪酶(lipase)</td><td>分泌型免疫球蛋白 A(secretory immunoglobulin A)</td></tr><tr><td>黏液性糖蛋白(mucous glycoproteins)</td><td>生长因子 ( growth factors )</td></tr><tr><td>富脯(氨酸糖)蛋白(proline rich glycoproteins)</td><td>调控多肽(regulatory peptides)</td></tr><tr><td>碱基糖蛋白(basic glycoprotein)</td><td/></tr><tr><td>酸基蛋白质(acidic protein)</td><td/></tr><tr><td>富酪(氨酸)蛋白( tyrosine rich protein)</td><td/></tr><tr><td>富组(氨酸)蛋白(histadine rich protein)</td><td/></tr><tr><td>过氧化物酶 ( peroxidase )</td><td/></tr></table>
+

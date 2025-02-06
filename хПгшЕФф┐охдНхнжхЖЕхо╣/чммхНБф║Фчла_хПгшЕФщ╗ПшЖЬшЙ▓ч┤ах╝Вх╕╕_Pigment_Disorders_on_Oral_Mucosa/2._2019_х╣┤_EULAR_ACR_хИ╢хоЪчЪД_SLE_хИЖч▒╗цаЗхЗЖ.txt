@@ -1,0 +1,9 @@
+
+抗核抗体(ANA)滴度 $\geq  1 : {80}$ (HEp-2 细胞方法):①如果不符合,不考虑 SLE 分类； ②如果符合,进一步参照附加标准。
+
+<table><tr><td>临床领域或标准</td><td>定义</td><td>权重</td></tr><tr><td colspan="3">临床分类标准</td></tr><tr><td>全身状况</td><td>发热 $> {38.3}^{ \circ  }\mathrm{C}$</td><td>2 分</td></tr><tr><td rowspan="3">血液系统</td><td>白细胞减少症< 4000/mm³</td><td>3 分</td></tr><tr><td>血小板减少症< 100 000/mm³</td><td>4 分</td></tr><tr><td>溶血性贫血</td><td>4 分</td></tr><tr><td rowspan="3">神经系统</td><td>谵妄</td><td>2 分</td></tr><tr><td>精神异常</td><td>3 分</td></tr><tr><td>癫痫</td><td>5 分</td></tr><tr><td rowspan="4">皮肤黏膜</td><td>非瘢痕性脱发</td><td>2 分</td></tr><tr><td>口腔溃疡</td><td>2 分</td></tr><tr><td>亚急性皮肤狼疮或盘状红斑狼疮</td><td>4 分</td></tr><tr><td>急性皮肤狼疮</td><td>6 分</td></tr><tr><td rowspan="2">浆膜腔</td><td>胸腔积液或心包积液</td><td>5 分</td></tr><tr><td>急性心包炎</td><td>6 分</td></tr><tr><td>肌肉、骨骼</td><td>关节受累</td><td>6 分</td></tr><tr><td rowspan="3">肾</td><td>蛋白尿＞ 0.5 g/24 h</td><td>4 分</td></tr><tr><td>肾活检:Ⅱ型或Ⅴ型 LN</td><td>8 分</td></tr><tr><td>肾活检:Ⅲ型或Ⅳ型 LN</td><td>10 分</td></tr><tr><td colspan="3">免疫学分类标准</td></tr><tr><td>抗磷脂抗体</td><td>中高滴度的抗心磷脂抗体或抗 ${\beta 2}$ GP1 抗体阳性或狼疮抗凝物阳性</td><td>2 分</td></tr><tr><td rowspan="2">补体</td><td>C3 或 C4 下降</td><td>3 分</td></tr><tr><td>C3 和 C4 下降</td><td>4 分</td></tr><tr><td>特异性抗体</td><td>抗 dsDNA 抗体阳性或抗 Sm 抗体阳性</td><td>6 分</td></tr></table>
+
+注:如果该标准可以被其他比 SLE 更符合的疾病解释,不计分；标准至少出现一次就足够；SLE 分类标准要求至少包括 1 条临床分类标准以及总分 $\geq  {10}$ 分可诊断；所有的标准,不需要同时发生；在每个记分项,只计最高分。
+
+新标准敏感性为 96.1%,特异性为 93.4%。
+

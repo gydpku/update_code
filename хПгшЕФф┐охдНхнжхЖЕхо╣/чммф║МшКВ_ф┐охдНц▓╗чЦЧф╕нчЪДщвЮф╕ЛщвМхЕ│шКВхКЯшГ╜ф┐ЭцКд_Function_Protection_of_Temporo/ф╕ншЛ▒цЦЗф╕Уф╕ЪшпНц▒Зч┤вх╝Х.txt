@@ -1,0 +1,671 @@
+
+$\mathbf{A}$
+
+鞍式桥体(saddle pontic) 145
+
+按扣式附着体(stud attachment) 257B半固定桥(semi-rigid bridge) 136 半解剖式牙(semi-anatomic tooth) 203 半精密附着体(semi-precision attachment) 256 半可调𬌗架(semi-adjustable articulator) 20 半透明性(translucency) 46 包埋 (investing) 52 包绕型 (overlap type) 101 饱和度(chroma) 45 鼻翼耳屏线 (Camper's line or ala-tragus line) 310 比色 (shade selection) 75 比色板(shade guide) 75 边缘 (margin) 37 边缘封闭区 (border seal area) 294 边缘整塑(border molding) 303 变异腭板(modified palatal plate) 194 玻璃离子水门汀(glass ionomer cement) 40 玻璃陶瓷(glass ceramics) 47 补偿曲线 (compensating curve) 321 补偿曲线曲度 (prominence of compensating curve)324
+
+不透明层(opaque) 68
+
+部分冠(partial coverage crown) 35C
+
+侧腭杆(lateral palatal bar) 193
+
+侧方𬌗平衡(balanced lateral occlusion) 323
+
+颤动线(vibrating line) 290
+
+长正中(long centric) 309
+
+成品托盘 (stock impression tray) 303
+
+初印模(primary impression) 303
+
+唇侧前庭(labial vestibule) 290
+
+唇低线(low lip line) 312
+
+唇高线 (high lip line) 312
+
+瓷贴面(porcelain veneers or all ceramic veneers) 99
+
+瓷牙(porcelain tooth) 316
+
+磁性附着体(magnetic attachment) 257
+
+D
+
+大连接体(major connector) 190
+
+大气压力(atmospheric pressure)214
+
+单端固定桥(cantilever fixed bridge) 136
+
+单颌全口义齿(single complete denture) 337
+
+导平面板(guiding plate) 213
+
+倒凹 (undercut area) 206
+
+倒钩卡环(reverse hook clasp) 186
+
+低流动型 (heavy body) 232
+
+调𬌗(occlusal adjustment) 426
+
+定位平面斜度(inclination of orientation plane) 324
+
+洞缘斜面(cavo-surface angle) 48
+
+E
+
+腭板(palatal plate) 192
+
+腭杆(palatal bar) 192
+
+腭隆突(torus palatinus) 290
+
+腭小凹(palatine fovea) 290
+
+腭中缝(median palatal suture) 289
+
+腭皱(palatal rugae) 290
+
+二次印模技术(technique of secondary impression) 303
+
+$\mathbf{F}$
+
+反回力卡环(reverse back action clasp) 184
+
+反斜面(contra bevel) 50
+
+非附着黏膜(non-attached mucosa) 289
+
+非贵金属(base metal or non-noble metal) 65
+
+非解剖式𬌗(non-anatomical occlusion) 322
+
+非解剖式牙(non-anatomic tooth) 203,317
+
+分析杆 (analysis rod) 205
+
+附着力(adhesion) 295
+
+附着黏膜(attached mucosa) 289
+
+附着体(attachment) 256
+
+复合固定桥 (compound bridge) 135
+
+副承托区(secondary stress-bearing area) 294
+
+覆盖义齿(overdenture) 271
+
+$\mathbf{G}$
+
+改良盖嵴式桥体(modified ridge lap pontic) 145
+
+盖嵴式桥体(ridge lap pontic) 145
+
+杆卡式附着体(bar-clip attachment) 257
+
+杆形卡环(bar clasp) 186
+
+高 / 中流动型(light/medium body) 232
+
+个别托盘 (custom/individual impression tray) 303
+
+工作模型(master cast) 51, 205, 305
+
+功能尖斜面(functional or centric cusp bevel) 54
+
+功能性印模(functional impression)231, 303
+
+固定-活动联合修复(fixed-removable prostheses) 256
+
+固定局部义齿(fixed partial dentures) 134
+
+固定连接体(rigid connector) 135
+
+固位(retention) 39
+
+固位臂(retentive arm) 180
+
+固位钉(retention pin) 200
+
+固位沟(retention groove) 58
+
+固位体(retainer) 135
+
+固位指(retentive finger) 189
+
+观测线(survey line) 205
+
+冠内附着体(intracoronal attachment) 257
+
+冠内固位体(intra-coronal retainer) 179
+
+冠外附着体(extracoronal attachment) 179, 257
+
+冠外固位体(extra-coronal retainer) 179
+
+硅烷偶联剂(silane coupling) 125
+
+贵金属(noble metal) 65
+
+H
+
+𬌗干扰(occlusal interference) 331
+
+𬌗架(articulator) 312
+
+𬌗面沟(occlusal offset) 61
+
+𬌗面预备(occlusal reduction) 56
+
+𬌗平面板(fox plane) 310
+
+𬌗型(occlusal scheme/occlusal pattern) 322
+
+𬌗支托(occlusal rest) 179
+
+核(core) 94
+
+颌位(jaw position) 307
+
+颌位关系(maxillomandibular relationship or jaw relation)
+
+307
+
+颌位关系记录(maxillomandibular relationship records,
+
+jaw relation records) 307
+
+恒基托(permanent denture base) 310
+
+横𬌗曲线(transverse occlusal curve) 321
+
+后堤(post dam) 290
+
+后腭杆(posterior palatal bar) 193
+
+后缘封闭区(posterior palatal seal area) 290
+
+化学结合(chemical bonding) 67
+
+缓冲区(relief area) 295
+
+换托(rebase) 251
+
+回力卡环(back action clasp) 184
+
+回切(cutback) 78
+
+混合层(hybrid layer) 41
+
+混合支持式义齿 ( tooth-and mucosa-borne denture )
+
+176
+
+J
+
+机械固位(mechanical retention) 68
+
+机械嵌合(mechanical interlock) 40
+
+机械式附着体(mechanical attachment) 257
+
+基托蜡片(baseplate wax) 310
+
+基牙(abutment) 134
+
+颊侧前庭(buccal vestibule) 290
+
+颊棚区(buccal shelf area) 291
+
+尖牙卡环(cuspid clasp) 185
+
+间接法贴面修复(indirect veneer restoration) 99
+
+间隙卡环(embrasure clasp) 185
+
+简单𬌗架(simple articulator) 20
+
+交互作用(reciprocation) 213
+
+胶连式义齿 (plastic denture) 176
+
+铰链𬌗架(hinge articulator) 20
+
+解剖式𬌗(anatomical occlusion) 322
+
+解剖式牙(anatomic tooth) 203,317
+
+解剖式印模(anatomic impression) 231, 303
+
+界面的表面张力(interfacial surface tension) 296
+
+界面的黏张力(interfacial viscous tension) 296
+
+金属内冠(metal coping) 68
+
+金属前处理剂(metal primer) 125
+
+精密附着体(precision attachment) 256
+
+内线角 (internal line angle) 38
+
+静态印模(static impression) 303
+
+就位道(insertion path) 206
+
+咀嚼黏膜(masticatory mucosa) 289
+
+聚合度(taper) 41
+
+聚羧酸锌水门汀(zinc polycarboxylate cement) 40
+
+$\mathbf{K}$
+
+卡抱(bracing) 182
+
+卡环肩(shoulder of clasp) 180
+
+卡环体 (body of clasp) 179
+
+开窗型(window type) 101
+
+开放网格(open lattice) 199
+
+烤瓷熔附金属全冠(porcelain-fused-to-metal crown,
+
+PFMC) 35, 63
+
+髁导 (condylar guidance) 315
+
+髁道(condylar path) 315
+
+可摘局部义齿(removable partial denture, RPD) 175
+
+克里斯坦森现象 (Christensen phenomenon) 315
+
+口角线 (line at mouth corner) 312
+
+宽腭杆(palatal strap) 192
+
+L
+
+蜡𬌗堤(occlusal rim) 309
+
+蜡型(wax pattern) 51
+
+连接体 (connector) 135
+
+连续卡环(continuous clasp) 186
+
+联合卡环(combined clasp) 185
+
+亮度(value or lightness) 45
+
+邻面预备(proximal axial reduction) 58
+
+磷酸锌水门汀(zinc phosphate cement) 40
+
+卵圆形桥体(ovate pontic) 146
+
+$\mathbf{M}$
+
+面弓(face bow) 313
+
+面弓转移(face bow transfer) 313
+
+模型观测(cast surveying) 205
+
+模型观测器 (dental surveyor) 204
+
+摩擦力(frictional force) 39
+
+磨光面(polishing surface) 294
+
+磨牙后垫(retromolar pad) 292
+
+$\mathbf{N}$
+
+内聚力 (cohesion) 295
+
+黏膜支持式义齿 (mucosa-borne denture) 176
+
+0
+
+偶联剂(coupling agent) 41
+
+P
+
+排龈(gingival displacement) 37
+
+平衡𬌗 (balanced occlusion) 322
+
+平均值𬌗架(average value articulator) 20
+
+平面𬌗(monoplane occlusion) 322
+
+Q
+
+前处理剂(primer) 89, 108
+
+前腭板(anterior palatal plate) 193
+
+前腭杆(anterior palatal bar) 193
+
+前伸𬌗平衡(balanced protrusive occlusion) 322
+
+嵌体(inlay)35,47
+
+桥体(pontic) 135
+
+切导斜度(inclination of incisal guidance) 315
+
+切道(incisal path) 315
+
+切端沟(incisal offset) 61
+
+切端磨除(incisal reduction) 73
+
+切牙乳突(incisive papilla) 290
+
+切支托 (incisal rest) 180
+
+球帽式附着体(ball socket attachment) 257
+
+圈形卡环(ring clasp) 183
+
+全瓷冠(all-ceramic crown) 35
+
+全腭板(full palatal plate) 194
+
+全冠(complete crown) 35
+
+全冠(full crown) 94
+
+全可调𬌗架(full adjustable articulator) 20
+
+全酸蚀(total etching) 41
+
+颧突(zygomatic process) 290
+
+缺牙间隙(edentulous space) 13
+
+R
+
+热膨胀系数 ( coefficient of thermal expansion, CTE )
+
+66
+
+热压铸 (heat-press casting) 47
+
+人工牙(artificial teeth) 202, 288
+
+刃状边缘 (knife edge) 38
+
+乳光现象(opalescence) 46
+
+软衬材料(soft liner) 302, 336
+
+$S$
+
+色调 (color hue) 45
+
+筛网(mesh) 200
+
+上颌结节(maxillary tuberosity) 290
+
+上𬌗架(mounting the articulator) 16
+
+上釉(glazing) 83, 107
+
+烧圈 (burn-out) 239
+
+舌板( lingual plate ) 191
+
+舌杆( lingual bar ) 190
+
+舌隆突支托(cingulum rest) 180
+
+舌系带( lingual frenum ) 292
+
+舌下腺(sublingual glands) 292
+
+舌向集中𬌗(lingualized occlusion) 326
+
+深无角肩台(heavy chamfer) 38
+
+生物相容性(biocompatibility) 66
+
+生物学宽度(biologic width) 27, 95
+
+剩余牙槽嵴(residual ridge) 289
+
+树脂改良玻璃离子水门汀(resin-modified glass ionomer
+
+cement) 40
+
+树脂水门汀(resin cement) 4(   )
+
+树脂牙(acrylic resin tooth) 316
+
+竖斜面(flare) 38
+
+双侧联合设计(bilateral combined design) 217
+
+双端固定桥(rigid fixed bridge) 135
+
+双舌杆(double lingual bar) 191
+
+双相两步法(putty-wash) 117
+
+双相一步法(double mixing) 117
+
+司皮曲线 (Spee's curve) 321
+
+松软牙槽嵴(flabby alveolar ridge) 302
+
+塑料固位区(plastic retention area) 199
+
+酸蚀(acid-etching) 108
+
+缩合型/加成型硅橡胶(condensation/addition silicone)
+
+116
+
+$\mathbf{T}$
+
+套筒冠(telescopic crown) 179, 256
+
+体瓷 (body porcelain) 81
+
+贴面(laminate veneer) 35
+
+凸点上卡环(suprabulge clasp) 183
+
+凸点下卡环(infrabulge clasps) 186
+
+脱位(dislodge) 212
+
+脱位力(dislodging force) 212
+
+$\mathbf{U}$
+
+U 形腭板(U shaped palatal plate) 194
+
+W
+
+弯制卡环(wrought wire clasp) 183
+
+微漏(microleakage) 40
+
+无尖牙(cuspless teeth) 317
+
+无角肩台(chamfer) 38
+
+无压力印模(impression without pressure) 231
+
+无牙颌(edentulous jaw) 288
+
+无牙颌牙槽嵴(edentulous jaw ridge) 28
+
+$\mathbf{X}$
+
+吸附力(adsorption) 214
+
+息止颌位(rest position) 307
+
+息止𬌗间隙(interocclusal space or freeway space) 30
+
+下颌隆突(torus mandibularis) 292
+
+下颌舌骨后间隙(retromylohyoid space) 292
+
+下颌舌骨后窝(retromylohyoid fossa) 292
+
+下颌舌骨嵴(mylohyoid ridge) 292
+
+线性𬌗 (linear occlusion) 322
+
+小连接体(minor connector) 190
+
+悬锁卡环(swing lock clasp) 189
+
+选磨(selective grinding) 330
+
+选择性压力印模(selective pressure impression) 3(   )
+
+Y
+
+压力结合 (compression bonding) 68
+
+压力印模(pressure impression) 303
+
+压力指示剂(pressure indicator) 334
+
+牙本质肩领(ferrule) 95
+
+牙本质粘接剂(dentin bonding agent) 108
+
+牙槽嵴侧斜面(slope of residual ridge) 289
+
+牙槽嵴顶(crest of residual ridge) 289
+
+牙尖斜度(inclination of cusp) 324
+
+牙体缺损 (tooth defect) 33
+
+牙体预备(tooth preparing) 36
+
+牙体预备体(tooth preparation) 36
+
+牙支持式义齿 (tooth-borne denture) 176
+
+延伸卡环(extension clasp) 185
+
+研究模型(study cast) 16
+
+阳型(patrix) 256
+
+氧化锆(zirconia) 90
+
+氧化铝(alumina) 80,90
+
+咬合垂直距离(vertical dimension of occlusion) 307
+
+咬合面(occlusal surface) 294
+
+咬颊(cheek biting) 335
+
+翼上颌切迹(pterygomaxillary notch) 291
+
+翼下颌韧带(pterygomandibular raphe) 29
+
+阴型(matrix) 256
+
+龈边缘 ( gingival margin) 37
+
+龈阶(gingival ledge) 49
+
+龈上边缘(supragingival margin) 37
+
+龈下边缘(subgingival margin) 37
+
+引伸臂(approach arm) 186
+
+印模(impression) 51
+
+印模膏(modelling compound) 303
+
+印模制取(impression taking) 105
+
+硬腭(hard palate) 289
+
+油泥型(putty) 116
+
+有角肩台(shoulder) 38
+
+余留牙(remaining teeth) 225
+
+预成桩(prefabricated post) 94
+
+圆环形卡环(circumferential clasp) 183
+
+远中颊角区(distobuccal corner area) 292$\mathbf{Z}$暂基托 ( temporal denture base, trial denture base or record base ) 310
+
+早接触(premature contact) 331
+
+藻酸盐(alginate) 303
+
+粘接剂(adhesive) 40
+
+粘接力(adhesion) 40
+
+粘接水门汀(cement or luting agent) 40
+
+针道(pin hole) 37, 41
+
+诊断模型(diagnostic cast) 205
+
+正中𬌗(centric occlusion) 307
+
+正中关系(centric relation) 307
+
+支持(support) 181, 211
+
+支点(fulcrum) 216
+
+支点线 (fulcrum line) 216
+
+支托 (rest) 179
+
+支托凹 (rest seat) 179
+
+直接法贴面修复(direct veneer restoration) 99
+
+指示沟(guiding groove) 56
+
+中流动型 (medium body) 232
+
+中线 (midline) 312
+
+中性区(neutral zone) 295
+
+终印模(final impression) 303
+
+终止线 (finish line) 37, 200
+
+重衬(relining) 336
+
+珠状封闭线 (beading line) 192
+
+主承托区(primary stress-bearing area) 294
+
+铸道(sprue) 52, 79, 239
+
+铸型腔(mould cavity) 239 铸造(casting) 52 铸造合金(casting alloy) 53 铸造金属全冠(complete cast crown) 53 铸造卡环(cast clasp) 183 铸造支架式义齿(framework denture) 176 桩(post or dowel) 93 桩冠(dowel crown) 93 桩核冠(post-and-core crown) 35 装胶(packing) 242 自酸蚀(self-etching) 41 自由正中(freedom in centric) 309 组织面(tissue surface) 294 组织终止点 (tissue stop) 200
+

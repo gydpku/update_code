@@ -1,0 +1,9 @@
+
+临床上可将 OLP 分类简化为斑纹型、萎缩型和糜烂型, 或分为糜烂型或非糜烂型。根据上述分型进行 RAE(RAE Scoring System)计分,以评估病情的严重程度。具体计分方法见表 9-1。该评估系统目前在国内应用尚不普遍,为达到诊疗规范化及精准化,建议在诊断时对病情严重情况进行评估。
+
+表 9-1 口腔扁平苔藓 RAE 计分系统
+
+<table><tr><td>临床表现</td><td>网纹( $\mathbf{R}$ )</td><td>萎缩(A)</td><td>糜烂(E)</td></tr><tr><td>计分</td><td>$0 =$ 无白色网纹</td><td>0 = 无萎缩</td><td>$0 =$ 无糜烂</td></tr><tr><td/><td>1 = 有白色网纹</td><td>$1 =$ 萎缩面积 $< 1{\mathrm{\;{cm}}}^{2}$</td><td>$1 =$ 糜烂面积 $< 1{\mathrm{\;{cm}}}^{2}$</td></tr><tr><td/><td/><td>$2 =$ 萎缩面积为 $1 \sim  3{\mathrm{\;{cm}}}^{2}$</td><td>$2 =$ 糜烂面积为 $1 \sim  3{\mathrm{\;{cm}}}^{2}$</td></tr><tr><td/><td/><td>$3 =$ 萎缩面积 $> 3{\mathrm{\;{cm}}}^{2}$</td><td>$3 =$ 糜烂面积 $> 3{\mathrm{\;{cm}}}^{2}$</td></tr><tr><td>合计</td><td colspan="3">$\sum \mathrm{R} + \sum \left( {\mathrm{A} \times  {1.5}}\right)  + \sum \left( {\mathrm{E} \times  {2.0}}\right)$</td></tr></table>
+
+口腔部位划分为:左颊、右颊、舌背、舌腹、口底、硬腭、软腭/扁桃体弓、上颌牙龈、下颌牙龈、上下唇十个部位
+

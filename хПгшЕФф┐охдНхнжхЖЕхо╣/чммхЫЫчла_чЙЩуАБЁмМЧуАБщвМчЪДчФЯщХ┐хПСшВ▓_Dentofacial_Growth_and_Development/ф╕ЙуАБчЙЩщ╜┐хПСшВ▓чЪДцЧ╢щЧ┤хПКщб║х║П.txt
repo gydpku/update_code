@@ -1,0 +1,21 @@
+
+牙齿发育的阶段顺序对于每一个个体都是基本相似的。乳牙牙冠在出生前期的3~4个月开始钙化。下颌早于上颌。乳中切牙(primary central incisor)是最先开始钙化的,而最后开始钙化的是第二乳磨牙(the second primary molar)。
+
+最先萌出的乳牙为乳中切牙,约在出生后 6 个月萌出；最后萌出的是第二乳磨牙,约在 2 岁半萌出。乳牙列的典型萌出顺序为:乳中切牙(A)、乳侧切牙(B)、第一乳磨牙(D)、乳尖牙 (C)、第二乳磨牙 (E),即 $\mathrm{A} \rightarrow  \mathrm{B} \rightarrow  \mathrm{D} \rightarrow  \mathrm{C} \rightarrow  \mathrm{E}$ (表 4-2)。
+
+表 4-2 乳牙发育时间表
+
+<table><tr><td/><td>牙齿名称</td><td>硬组织开始 形成(胎龄)</td><td>出生时釉质 形成量</td><td>釉质完成 (出生后)</td><td>萌出 (出生后)</td><td>牙根完成 (出生后)</td></tr><tr><td rowspan="5">上颌</td><td>中切牙</td><td>4 个月</td><td>$5/6$</td><td>1.5 个月</td><td>7.5 个月</td><td>1.5 年</td></tr><tr><td>侧切牙</td><td>4.5 个月</td><td>2/3</td><td>2.5 个月</td><td>9 个月</td><td>2 年</td></tr><tr><td>尖牙</td><td>5 个月</td><td>$1/3$</td><td>9 个月</td><td>18 个月</td><td>3.25 年</td></tr><tr><td>第一乳磨牙</td><td>5 个月</td><td>牙尖融合</td><td>6 个月</td><td>14 个月</td><td>2.5 年</td></tr><tr><td>第二乳磨牙</td><td>6 个月</td><td>孤立的牙尖</td><td>11 个月</td><td>24 个月</td><td>3 年</td></tr><tr><td rowspan="5">下颌</td><td>中切牙</td><td>4 个月</td><td>$3/5$</td><td>2.5 个月</td><td>6 个月</td><td>1.5 年</td></tr><tr><td>侧切牙</td><td>4.5 个月</td><td>$3/5$</td><td>3 个月</td><td>7 个月</td><td>1.5 年</td></tr><tr><td>尖牙</td><td>5 个月</td><td>$1/3$</td><td>9 个月</td><td>16 个月</td><td>3.25 年</td></tr><tr><td>第一乳磨牙</td><td>5 个月</td><td>牙尖融合</td><td>5.5 个月</td><td>12 个月</td><td>2.25 年</td></tr><tr><td>第二乳磨牙</td><td>6 个月</td><td>孤立的牙尖</td><td>10 个月</td><td>20 个月</td><td>3 年</td></tr></table>
+
+恒牙开始钙化一般在出生之后。第一恒磨牙大约在出生后第 2 个月最先开始钙化; 最晚的是第三恒磨牙,大约在 9 岁开始钙化。上牙列典型的萌出顺序为: $6 \rightarrow  1 \rightarrow  2 \rightarrow  4 \rightarrow  3 \rightarrow  5 \rightarrow$ $7 \rightarrow  8$ ; 下牙列典型的萌出顺序为: $6 \rightarrow  1 \rightarrow  2 \rightarrow  3 \rightarrow  4 \rightarrow  5 \rightarrow  7 \rightarrow  8$ ,或为 $6 \rightarrow  1 \rightarrow  2 \rightarrow  4 \rightarrow$ $3 \rightarrow  5 \rightarrow  7 \rightarrow  8$ (表 4-3 )。女性恒牙萌出平均比男性早 5 个月。
+
+牙齿的钙化程度可通过 $\mathrm{X}$ 线片进行观察,学者们通过不同的描述方式进行牙齿钙化分期, 目前广为接受的评估牙齿发育程度的参考指标是 Nolla 分期 ( 1960 )。该分期将恒牙钙化过程分成 10 期 (图 4-6)。其中,第 2 阶段牙冠开始钙化,看到 $\mathrm{X}$ 线片上钙化的牙尖,可以确定牙胚的存在；第 6 阶段牙冠发育完成,牙根开始发育,牙齿向𬌗方移动,进入骨内萌出阶段；第 8 阶段牙根形成 $2/3$ ,与牙齿临床萌出阶段基本吻合；第 10 阶段根尖发育完成,表明牙齿发育成熟。
+
+表 4-3 恒牙发育时间表
+
+<table><tr><td/><td>牙齿名称</td><td>硬组织开始形成</td><td>出生时釉质形成量</td><td>釉质完成</td><td>萌出</td><td>牙根完成</td></tr><tr><td rowspan="8">上颌</td><td>中切牙</td><td>3 ～ 4 个月</td><td>一</td><td>4 ~ 5 岁</td><td>$7 \sim  8$ 岁</td><td>10 岁</td></tr><tr><td>侧切牙</td><td>10 ~ 12 个月</td><td>-</td><td>4 ~ 5 岁</td><td>8 ~9 岁</td><td>11 岁</td></tr><tr><td>尖牙</td><td>4 ~ 5 个月</td><td>一</td><td>6 ~ 7 岁</td><td>11 ~ 12 岁</td><td>13 ~ 15 岁</td></tr><tr><td>第一前磨牙</td><td>1.5 ~1.75 岁</td><td>-</td><td>5 ~ 6 岁</td><td>10 ~11 岁</td><td>12 ～ 13 岁</td></tr><tr><td>第二前磨牙</td><td>2 ~ 2.25 岁</td><td>-</td><td>6 ~ 7 岁</td><td>10 ~12 岁</td><td>12 ～ 14 岁</td></tr><tr><td>第一磨牙</td><td>出生时</td><td>无 / 微量</td><td>2.5 ~3 岁</td><td>6 ~ 7 岁</td><td>9 ~10 岁</td></tr><tr><td>第二磨牙</td><td>2.5 ~3 岁</td><td>一</td><td>$7 \sim  8$ 岁</td><td>12 ～ 13 岁</td><td>14 ~ 16 岁</td></tr><tr><td>第三磨牙</td><td>7 ~9 岁</td><td>-</td><td>12 ～ 16 岁</td><td>17 ~ 21 岁</td><td>18 ~25 岁</td></tr><tr><td rowspan="8">下颌</td><td>中切牙</td><td>3 ～ 4 个月</td><td>-</td><td>4 ~ 5 岁</td><td>6 ~ 7 岁</td><td>9 岁</td></tr><tr><td>侧切牙</td><td>3 ～ 4 个月</td><td>-</td><td>4 ~ 5 岁</td><td>$7 \sim  8$ 岁</td><td>10 岁</td></tr><tr><td>尖牙</td><td>4 ~ 5 个月</td><td>-</td><td>6 ~ 7 岁</td><td>9 ~10 岁</td><td>12 ~ 14 岁</td></tr><tr><td>第一前磨牙</td><td>1.75 ~2 岁</td><td>-</td><td>5 ~ 6 岁</td><td>10 ~12 岁</td><td>12 ～ 13 岁</td></tr><tr><td>第二前磨牙</td><td>2.25～2.5 岁</td><td>-</td><td>6 ~ 7 岁</td><td>11 ~ 12 岁</td><td>13 ~14 岁</td></tr><tr><td>第一磨牙</td><td>出生时</td><td>无/微量</td><td>2.5 ~3 岁</td><td>6 ~ 7 岁</td><td>9 ~10 岁</td></tr><tr><td>第二磨牙</td><td>2.5 ~ 3 岁</td><td>-</td><td>$7 \sim  8$ 岁</td><td>11 ~ 13 岁</td><td>14 ~ 15 岁</td></tr><tr><td>第三磨牙</td><td>8 ~10 岁</td><td>-</td><td>12 ～ 16 岁</td><td>17 ~ 21 岁</td><td>18 ~25 岁</td></tr><tr><td/><td/><td/><td/><td/><td/><td/></tr></table>
+
+
+
+图 4-6 恒牙钙化过程的 10 个阶段
+

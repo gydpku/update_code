@@ -1,0 +1,29 @@
+
+[1] 吕培军. 数学与计算机技术在口腔医学中的应用. 北京: 中国科学技术出版社, 2001.
+
+[ 2 ] Rekow ED. Digital dentistry: The new state of the art-Is it disruptive or destructive? Dent Mater, 2020, 36 (1): 9-24.
+
+[ 3 ] 赵一姣,王勇 . 口腔医学与数字化制造技术 . 中国实用口腔科杂志,2012,5 (5):257-260.
+
+[4] 孙玉春, 吕培军, 王勇. 基于逆向工程技术的烤瓷固定义齿基底支架计算机辅助设计. 中华口腔医学杂志, 2006, 41 (3): 175-177.
+
+[ 5 ] Ye H, Li X, Wang G, et al. A novel computer-aided design/computer-assisted manufacture method for one-piece removable partial denture and evaluation of fit. Int J Prosthodont, 2018, 31 (2): 149-151.
+
+[6] 孙玉春, 李榕, 周永胜, 等.三维打印在口腔修复领域中的应用. 中华口腔医学杂志, 2017, 52 (6): 381- 385.
+
+[7] 孙玉春, 孙儒, 邓珂慧, 等.全口义齿数字化修复技术的研发和应用进展. 中华口腔医学杂志, 2018, 53 (1): 60-65.
+
+[ 8 ] Sun Y, Lü P, Wang Y. Study on CAD&RP for removable complete denture. Comput Methods Programs Biomed, ${2009},{93}\left( 3\right)  : {266} - {272}$ .
+
+[9] Deng K, Wang Y, Zhou Y, et al. Functionally suitable digital removable complete dentures: A dental technique. J Prosthet Dent, 2020, 123 (6): 795-799.
+
+[ 10 ] 孙玉春, 赵一姣, 王勇, 等. 上颌中切牙种植体全瓷基台的计算机辅助设计. 中华口腔医学杂志, 2010, ${45}\left( {10}\right)  : {631} - {634}$ .
+
+[11] 孙玉春, 王勇, 邓珂慧, 等. 功能易适数字化全口义齿的自主创新研发. 北京大学学报 (医学版), 2020, 52 (2): 390-394.
+
+[12]王冠博,叶红强,陈虎,等.无牙颌印模用个别托盘椅旁计算机辅助设计和三维打印系统建立与临床初步评价. 北京大学学报 ( 医学版 ), 2019, 51 (2): 349-355.
+
+[ 13 ] Ye H, Ma Q, Hou Y, et al. Generation and evaluation of 3D digital casts of maxillary defects based on multisource data registration: A pilot clinical study. J Prosthet Dent, 2017, 118 (6): 790-795.
+
+[14] Ye H, Wang KP, Liu Y, et al. Four-dimensional digital prediction of the esthetic outcome and digital implementation for rehabilitation in the esthetic zone. J Prosthet Dent, 2020, 123 (4): 557-563.
+

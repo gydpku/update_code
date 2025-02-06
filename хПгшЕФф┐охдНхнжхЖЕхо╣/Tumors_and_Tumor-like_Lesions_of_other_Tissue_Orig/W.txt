@@ -1,0 +1,358 @@
+
+外间充质 (ectomesenchyme) 3
+
+外渗性黏液囊肿(mucous extravasation cyst) 399
+
+外生骨疣(exostoses) 361
+
+外吸收(external resorption) 193
+
+外釉上皮(outer enamel epithelium) 27, 28
+
+外源性色素沉着(extrinsic pigmentation) 265
+
+血管性龈瘤(vascular epulis) 428
+
+外源性着色(exogenous stains) 182
+
+外周性牙源性纤维瘤(peripheral odontogenic fibroma)
+
+413
+
+弯曲牙(dilaceration) 177
+
+韦氏肉芽肿病(Wegener granulomatosis) 288
+
+维生素 $\mathrm{C}$ 缺乏性龈炎(vitamin $\mathrm{C}$ deficient gingivitis)
+
+225
+
+窝沟龋(pit and fissure caries) 203
+
+沃辛瘤(Warthin tumor) 316
+
+无细胞牙骨质(acellular cementum) 47
+
+$\mathbf{X}$
+
+X 连锁型(X-linked pattern) 187
+
+细胞牙骨质(cellular cementum) 48
+
+细菌侵入层(zone of bacterial invasion) 205
+
+下颌弓(mandibular arch) 4
+
+下颌骨(mandible) 159
+
+下颌突(mandibular process) 6
+
+下颌下腺(submandibular gland) 154
+
+先天性家族性纤维瘤病(congenital familial fibromatosis)
+
+227
+
+先天性梅毒牙(congenital syphilitic tooth) 183
+
+先天性色素痣(congenital melanocytic nevus) 263
+
+先天性唾液腺缺失(congenital aplasia of salivary gland)
+
+293
+
+先天性无牙症(congenital anodontia) 171
+
+先天性龈瘤(congenital epulis) 429
+
+先天牙(congenital tooth) 170
+
+纤维结构不良(fibrous dysplasia, FD) 360
+
+纤维肉瘤(fibrosarcoma) 440
+
+纤维上皮息肉(fibro-epithelial polyp) 425
+
+纤维性龈瘤(fibrous epulis) 428
+
+纤维脂肪瘤(fibrolipoma) 432
+
+腺鳞癌(adenosquamous carcinoma) 438
+
+腺泡细胞癌(acinic cell carcinoma, AcCC) 323
+
+腺性唇炎(cheilitis glandularis) 276
+
+腺牙源性囊肿(glandular odontogenic cyst) 391
+
+腺样鳞状细胞癌(adenoid squamous cell carcinoma)
+
+438
+
+腺样囊性癌(adenoid cystic carcinoma, ACC) 327
+
+小疱(vesicle) 248
+
+小牙(microdontia) 180
+
+新生牙(neonatal tooth) 170
+
+星网状层(stellate reticulum) 27, 28
+
+形成不全型釉质形成缺陷症(hypoplastic amelogenesis
+
+imperfecta) 186
+
+形成不全-成熟不全型(hypoplastic-hypomaturation
+
+pattern ) 187
+
+雪帽型(snow-capped pattern) 187
+
+血管畸形(vascular malformations) 426
+
+血管瘤(hemangioma) 426
+
+血管肉瘤(angiosarcoma) 442
+
+寻常型天疱疮(pemphigus vulgaris) 266$\mathbf{Y}$牙板(dental lamina) 25 牙本质(dentin) 75 牙本质磷蛋白(dentine phosphoprotein, DPP) 42 牙本质龋(dentine caries) 204 牙本质唾液蛋白(dentine sialoprotein, DSP) 42 牙本质纤维性发育不良(fibrous dysplasia of dentin)190牙本质小管 (dentinal tubule) 77 牙本质形成缺陷症Ⅲ型(dentinogenesis imperfecta III)188牙本质形成缺陷症 II 型(dentinogenesis imperfecta II $)$188
+
+牙槽骨(alveolar bone) 118
+
+牙迟萌(retarded eruption of tooth) 170
+
+牙骨质(cementum) 98
+
+牙骨质-骨化纤维瘤 (cemento-ossifying fibroma) 416
+
+牙骨质-骨结构不良(cemento-osseous dysplasia) 420
+
+牙骨质发育不全(hypocementosis) 190
+
+牙骨质发育异常(cementum dysplasia) 190
+
+牙骨质过度增生症(hypercementosis) 190
+
+牙骨质龋(cementum caries) 206
+
+牙骨质小体(cementicle) 113
+
+牙菌斑性牙龈病(dental plaque-induced gingival disease)222
+
+牙蕾(dental bud) 25
+
+牙瘤(odontoma) 411
+
+牙埋伏(impaction of tooth) 170
+
+牙萌出异常(abnomalities in eruption of tooth) 169
+
+牙囊(dental sac, dental follicle) 27
+
+牙内陷(dens invaginatus) 176
+
+牙旁囊肿(paradental cyst) 394
+
+牙胚(tooth germ) 27
+
+牙乳头(dental papillae) 27
+
+牙髓(dental pulp) 89
+
+牙髓充血(pulp hyperemia) 209
+
+牙髓炎(pulpitis) 208
+
+牙体吸收(resorption of teeth) 193
+
+牙脱落异常(abnomalities of deciduous of tooth) 169
+
+牙龈(gingiva) 134
+
+牙龈病(gingival diseases) 221
+
+牙龈肥大(gingival enlargement) 222
+
+牙龈过度增生(gingival overgrowth) 222
+
+牙龈瘤(epulis) 427
+
+牙龈乳头炎(papillary gingivitis)223
+
+牙源性癌肉瘤(odontogenic carcinosarcoma) 418
+
+牙源性钙化囊肿(calcifying odontogenic cyst) 392
+
+牙源性钙化上皮瘤(calcifying epithelial odontogenic tumor ) 408
+
+牙源性角化囊肿(odontogenic keratocyst) 387
+
+牙源性鳞状细胞瘤 (squamous odontogenic tumor)408
+
+牙源性囊肿(odontogenic cyst) 387
+
+牙源性始基瘤(primordial odontogenic tumor) 411
+
+牙源性透明细胞癌(clear cell odontogenic carcinoma)417
+
+牙源性纤维瘤(odontogenic fibroma) 413
+
+牙源性腺样瘤(adenomatoid odontogenic tumor) 409
+
+牙源性龈上皮错构瘤(odontogenic gingival epithelial hamartoma ) 414
+
+牙源性影细胞癌(odontogenic ghost cell carcinoma)418
+
+牙早萌(premature eruption of tooth) 170
+
+牙中牙(dens in dente) 177
+
+牙周病(periodontal diseases) 221
+
+牙周炎(periodontitis) 221, 229
+
+牙周组织(periodontium) 63
+
+牙阻生(impaction of tooth) 170
+
+烟草相关角化病(tobacco-related keratosis) 262
+
+炎症性根侧囊肿(inflammatory collateral cyst) 394
+
+炎症性吸收(inflammatory resorption) 193
+
+咬合创伤(occlusal trauma) 242
+
+咬合线(occlusal line) 261
+
+药物性牙龈肥大(drug-induced gingival enlargement)225
+
+药物性龈增生(drug-induced gingival hyperplasia)225
+
+遗传性乳光牙本质 (hereditary opalescent dentin, Capdepont's tooth ) 188
+
+遗传性牙龈纤维瘤病(hereditary gingival fibromatosis)227
+
+遗传性龈增生(hereditary gingival hyperplasia) 227
+
+异位口腔胃肠囊肿(heterotopic oral gastrointestinal cyst)399
+
+异位釉质(ectopic enamel) 178
+
+银屑病关节炎(psoriatic arthritis, PA) 379
+
+龈囊肿(gingival cyst) 391
+
+婴儿骨皮质肥厚症(infantile cortical hyperostosis)359
+
+婴儿黑色素神经外胚瘤(melanotic neuro-ectodermal tumor of infancy) 421
+
+鹰爪尖(talon cusp) 174
+
+硬化性多囊性腺病(sclerosing polycystic adenosis,SPA ) 306
+
+硬化性牙源性癌(sclerosing odontogenic carcinoma)417
+
+硬化牙本质(sclerotic dentin) 85
+
+硬下疳(chancre) 285
+
+尤因肉瘤(Ewing sarcoma, EWS) 371
+
+疣状癌(verrucous carcinoma) 435
+
+疣状白斑(verrucous leukoplakia) 250
+
+疣状黄瘤(verruciform xanthoma) 425
+
+游走性舌炎(migratory glossitis) 278 釉板(enamel lamellae) 69 釉丛(enamel tufts) 68 釉结(enamel knot) 29 釉龛(enamel niche) 29 釉梭(enamel spindle) 68 釉索(enamel cord) 29 釉原蛋白(amelogenins) 37 釉质(enamel) 63 釉质浑浊症(enamel opacities) 185 釉质龋(enamel caries) 200 釉质缺如(enamel agenesis) 187 釉质形成缺陷症(amelogenesis imperfecta) 185 釉珠(enamel pearl) 46,178 原发性骨内癌,非特指(primary intraosseous carcinoma,NOS) 416原发性上皮板(primary epithelial band) 25 原发性釉小皮(primary enamel cuticle) 37 原始神经外胚层肿瘤(primitive neuroectodermal tumor, PNET ) 371
+
+原位癌(carcinoma in situ) 247
+
+原位恶性黑色素瘤(malignant melanoma in situ)441远中磨牙(distomolar) 171$\mathbf{Z}$增生型天疱疮(pemphigus vegetans) 266 增殖性疣状白斑(proliferative verrucous leukoplakia,PVL ) 252战壕口炎(trench mouth) 226 掌跖角化一早发性牙周破坏综合征(hyperkeratosis of palms and soles-premature periodontal destruction of teeth syndrome ) 232
+
+正角化牙源性囊肿(orthokeratinized odontogenic cyst)393
+
+正中额外牙(mesiodens) 171
+
+正中菱形舌炎(median rhomboid glossitis) 254
+
+脂肪瘤(lipoma) 432
+
+脂肪肉瘤(liposarcoma) 445
+
+致密性骨炎(condensing osteitis) 352
+
+痣样基底细胞癌综合征(naevoid basal cell carcinoma syndrome ) 388
+
+中毒性表皮坏死松解症(toxic epidermal necrolysis)269
+
+中间层(stratum intermedium) 28
+
+中心性血管瘤(central hemangioma) 366
+
+中心性牙源性纤维瘤(central odontogenic fibroma)413
+
+终棒(terminal web) 29,34
+
+钟状期(bell stage) 27
+
+潴留性黏液囊肿(mucous retention cyst) 399
+
+转化期(transition stage) 36
+
+转移性成釉细胞瘤(metastasizing ameloblastoma)407
+
+棕色瘤(brown tumor) 355
+
+组合性牙瘤(compound odontoma) 411 责任编辑:赵 欣封面设计: 锋尚设计
+
+口腔组织学 第 3 版与病理学
+
+Oral Histology and Pathology 口腔医学导论(第 3 版)
+
+口腔颌面部解剖学(第 3 版)
+
+牙体解剖与口腔生理学(第 3 版)
+
+口腔生物学(第 3 版)
+
+口腔组织学与病理学(第 3 版)
+
+口腔材料学(第 3 版)
+
+临床龋病学(第 3 版)
+
+牙体牙髓病学(第 3 版)
+
+口腔修复学(第 3 版)
+
+口腔颌面医学影像学(第 3 版)
+
+在使用本书增值服务之前,请您刮开右侧二维码, 使用 微信扫码激活。
+
+* 温馨提示:每个激活二维码只能绑定一个微信号。
+
+每种教材的增值服务类型略有不同。
+
+更多优质服务请微信扫码关注 “北京大学医学出版社”公众号。
+
+口腔颌面外科学(第 3 版)
+
+临床牙周病学(第 3 版)
+
+口腔正畸学(第 3 版)
+
+儿童口腔医学(第 3 版)
+
+预防口腔医学(第 3 版)
+
+口腔种植学(第 2 版)
+
+口腔黏膜病学(第 2 版)
+
+口腔药物学
+
+口腔设备学
+
+口腔修复工艺学(第 2 版)

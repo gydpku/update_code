@@ -1,0 +1,7 @@
+
+牙囊组织起源于外胚间充质,是包绕成釉器周围的疏松结缔组织,在牙齿萌出和牙周组织形成中起重要作用, 缺乏牙囊的牙齿不能萌出, 而单核细胞在牙囊周围聚集以及分化成破骨细胞,进而吸收牙槽骨,形成牙齿萌出通道是牙齿萌出的关键。国内外学者应用原位杂交、 逆转录一聚合酶链反应(RT-PCR)和免疫组织化学染色等多种方法进行研究,发现这个过程受许多细胞因子的调控,如巨噬细胞集落刺激因子 -1 (colony-stimulating factor-1, CSF-1)、 甲状旁腺激素相关蛋白(parathyroid hormone-related protein, PTHrP)、单核细胞趋化蛋白-1 (monocyte chemoattractant protein, MCP-1)、白细胞介素-1α (interleukin-1α, IL-1α)、骨保护素 (osteo-protegerin, OPG)、破骨细胞分化因子(核因子 $- \kappa \mathrm{B}$ 受体活化因子配体, receptor activator of nuclear factor- $\kappa$ B ligand, RANKL) 等,这些因子直接或者间接诱导单核细胞进入牙囊。而血管内皮生长因子(vascular endothelial growth factor, VEGF)能够促进内皮细胞增殖,提高血管通透性,改变细胞外基质,在一定程度上代替 CSF-1 促进破骨细胞的形成和分化。有学者发现碱性成纤维细胞生长因子(basic fibroblast growth factor, bFGF)、肿瘤坏死因子 - $\alpha$ (tumour necrosis factor- $\alpha$ , TNF- $\alpha$ )能够促进人牙囊细胞 VEGF 的分泌和表达。
+
+研究发现,缺乏转录生长因子基因 c-fos、转录生长因子基因 NF $\kappa$ B1 和 NF $\kappa$ B2,以及破骨细胞分化因子(osteoclast differentiating factor, ODF)的裸鼠,由于破骨细胞少和细胞活动性降低,它们的牙齿不能萌出。
+
+由骨保护素 (OPG)、核因子 $- \kappa \mathrm{B}$ 受体活化因子配体(RANKL)和核因子 $- \kappa \mathrm{B}$ 受体活化因子 (RANK) 组成的系统是破骨细胞分化过程中的一个重要的信号传导通路, RANKL 能够调节成熟破骨细胞的分化和活性,与骨吸收过程密切相关。
+

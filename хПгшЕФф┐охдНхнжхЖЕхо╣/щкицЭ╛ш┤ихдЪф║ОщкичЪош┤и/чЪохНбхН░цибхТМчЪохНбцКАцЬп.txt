@@ -1,0 +1,9 @@
+
+"pick-up impression" 和 "pick-up technique", 偶见于传统口腔修复学文献, 但常见于口腔种植学文献中。迄今为止, 并未见到 "pick-up" 在医学上的中文翻译, 但在其他领域已经有公认的中文译法。例如 "pick-up car" 被译为 “皮卡车”, 与种植治疗中 “pick-up” 的含义类似, 都表示 “承载” 某物之意。因此将 “pick-up impression” 和 “pick-up technique" 分别译为 “皮卡印模” 和 “皮卡技术”。皮卡印模和皮卡技术为不同的概念, 并且存在较大差别。
+
+皮卡印模帽印模, 即用于印模帽印模的技术。印模帽有两种基本类型, 一种是螺丝固位的印模帽。使用开窗式印模托盘, 或归类为开窗式托盘印模; 另一种是使用塑料的卡抱式印模帽, 使用非开窗式印模托盘, 或归类为非开窗式托盘印模。(Heeje Lee, Joseph S. So, J. L. Hochstedler, Carlo Ercoli. The of implant impressions: A systematic review. J Prosthet Dent 2008)。
+
+皮卡基底印模, 即用基底印模的技术。制取印模之前, 将修复体基底或上部结构安放在基台上, 从口腔内取下的印模包含了修复体基底或上部结构。(A. Sethi, T. Kaus. Practical Implant Dentistry. Quintessence. 2005)。
+
+皮卡技术, 基于临时模板制作种植体支持式修复体的即刻负荷技术。通常,皮卡技术的种植体数为 $6 \sim  8$ 颗,在外科模板引导和控制下植入种植体, 而后通过该预成的临时模板直接获取临时基台 (用树脂将基台和模板粘合), 避免了术中印模和直接重衬, 完全采用术前义齿排列和𬌗位关系, 当天戴入临时修复体。皮卡技术简化了临时修复体和印模制取过程, 提高了就位的准确性(G. O. Gallucci, J-P. Bernard, M. Bertosa, U. C. Belser. Immediate Loading with Fixed Screw-retained Provisional Restorations in Edentulous Jaws: The Pickup Technique. Int J Oral Maxillofac Implants 2004)。
+

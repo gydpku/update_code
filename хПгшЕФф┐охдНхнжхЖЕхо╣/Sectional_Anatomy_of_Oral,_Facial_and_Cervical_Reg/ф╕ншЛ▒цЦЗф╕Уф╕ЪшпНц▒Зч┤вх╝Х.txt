@@ -1,0 +1,1240 @@
+
+$\mathbf{A}$
+
+鞍结节 (tuberculum sellae) 7
+
+B
+
+板障(diploe) 4
+
+板障静脉(diploic veins) 86
+
+半月板(meniscus) 41
+
+半月神经节(semilunar ganglion) 101
+
+鼻背(dorsum nasi) 147
+
+鼻部(nasal part) 7
+
+鼻唇沟(nasolabial sulcus) 147
+
+鼻唇沟纹(nasolabial wrinkles) 152
+
+鼻唇角(nasolabial angle) 150
+
+鼻道(meatus) 14
+
+鼻底(base of the nose) 147
+
+鼻额角(nasofrontal angle) 150
+
+鼻额支柱(nasofrontal buttress) 17
+
+鼻根(radix nasi) 147
+
+鼻根点(nasion) 148
+
+鼻根纹(nasion wrinkles) 152
+
+鼻骨(nasal bone) 21
+
+鼻后孔(choanae) 6
+
+鼻肌(nasalis) 50
+
+鼻甲(conchae) 14
+
+鼻尖(apex nasi) 147
+
+鼻尖点(pronasale) 148
+
+鼻睫神经(nasociliary nerve) 102
+
+鼻颏角(nasomental angle) 150
+
+鼻孔(nostril) 147
+
+鼻泪管(nasolacrimal canal) 13,22
+
+鼻面沟(nasofacial sulcus) 147
+
+鼻面角(nasofacial angle) 150
+
+鼻旁窦(paranasal sinus) 14
+
+鼻前棘(anterior nasal spine) 16
+
+鼻切迹(nasal notch) 7,16
+
+鼻外侧动脉 (lateral nasal artery) 76
+
+鼻下点(subnasale) 148
+
+鼻小柱(columella nasi) 147
+
+鼻咽部(nasopharynx) 141
+
+鼻翼(alae nasi) 147
+
+鼻翼点(alare) 148
+
+鼻支(nasal branch) 103, 104
+
+鼻中隔(nasal septum) 14
+
+臂丛(brachial plexus) 189
+
+扁桃体动脉 (tonsillar artery) 76
+
+扁桃体支(tonsillar branch) 114
+
+表情肌(expression muscles) 46
+
+C
+
+CT 解剖学(CT anatomy) 200
+
+称颈袢(ansa cervicalis) 185
+
+垂体窝(hypophysial fossa) 7
+
+垂直板(perpendicular plate) 10
+
+唇(lip) 127
+
+唇峰(labial peak) 127
+
+唇弓(labial arch) 127
+
+唇红(vermilion) 127, 147
+
+唇红缘(vermilion border) 127
+
+唇联合(labial commissure) 127
+
+唇面沟(labiofacial sulcus) 147
+
+唇纹(labial wrinkles) 153
+
+唇腺(labial glands) 69
+
+磁共振成像(magnetic resonance imaging, MRI) 1,
+
+200
+
+磁共振成像解剖学(MRI anatomy) 200
+
+D
+
+大唾液腺(major salivary glands) 63
+
+单光子发射计算机断层成像 (single photon emission
+
+computed tomography, SPECT ) 200
+
+导静脉(emissary vein) 4, 86
+
+镫骨肌神经(stapedial nerve) 109
+
+第一鳃弓综合征(first branchial arch syndrome) 30
+
+蝶鞍(sella turcica) 7, 8
+
+蝶腭动脉(sphenopalatine artery) 79
+
+蝶腭孔(sphenopalatine foramen) 22
+
+蝶腭神经(sphenopalatine nerve) 103
+
+蝶骨(sphenoid bone) 8
+
+蝶骨大翼(greater wing of sphenoid bone) 8
+
+蝶骨体(sphenoid body) 8
+
+蝶骨小翼( lesser wing of sphenoid bone ) 9
+
+蝶筛隐窝(sphenoethmoidal recess) 14
+
+蝶突(sphenoidal process) 22
+
+蝶下颌韧带(sphenomandibular ligament) 38
+
+顶骨 (parietal bone) 7
+
+顶骨孔(parietal foramina) 4
+
+顶结节 (parietal tuber) 4, 7
+
+顶支(parietal branch) 80
+
+动力性皱纹线 (dynamic wrinkles) 152
+
+断层解剖学(sectional anatomy) 1, 200
+
+E
+
+额窦(frontal sinus) 7
+
+额骨(frontal bone) 7
+
+额结节 (frontal tuber) 7
+
+额鳞(frontal squama) 7
+
+额神经(frontal nerve) 102
+
+额突(frontal process) 17
+
+额纹(frontal wrinkles) 152
+
+额支(frontal branch) 80
+
+腭(palate) 130
+
+腭凹(palatine foveola) 131
+
+腭扁桃体(palatine tonsils) 132
+
+腭垂(uvula) 131
+
+腭垂肌(musculus uvulae) 59
+
+腭大孔(greater palatine foramen) 5, 131
+
+腭帆提肌(levator veli palatini) 58
+
+腭帆张肌(tensor veli palatini) 58
+
+腭缝(palatine raphe) 130
+
+腭骨(palatine bone) 22
+
+腭降动脉(descending palatine artery) 79
+
+腭前孔 17
+
+腭舌弓(palatoglossal arch) 131
+
+腭舌肌(palatoglossus) 59, 137
+
+腭神经(palatine nerve) 103
+
+腭升动脉(ascending palatine artery) 76
+
+腭突(palatine process) 17
+
+腭腺(palatine glands) 70
+
+腭咽弓(palatopharyngeal arch) 132
+
+腭咽肌(palatopharyngeus) 59, 60
+
+腭中缝(midpalatal suture) 17
+
+腭皱襞(palatal rugae) 131
+
+耳-上颌骨发育不全综合征(ear-maxillary hypoplasia syndrome ) 30
+
+耳-下颌骨发育不全综合征(ear-mandibular hypoplasia syndrome ) 30
+
+耳大神经(greater auricular nerve) 121
+
+耳后动脉 (posterior auricular artery) 77
+
+耳后淋巴结(Posterior auricular lymph nodes) 90
+
+耳后神经(posterior auricular nerve) 109
+
+耳颞神经(auriculotemporal nerve) 39, 105, 163
+
+耳屏(tragus) 148
+
+耳前淋巴结(anterior auricular lymph nodes) 91
+
+耳前支(anterior auricular branches) 80
+
+耳深动脉(deep auricular artery) 39, 78
+
+耳神经节(otic ganglion) 114, 163
+
+耳下淋巴结(inferior auricular lymph nodes) 91
+
+二腹肌(digastric) 54
+
+二腹肌后腹(posterior belly of the digastric) 182
+
+二腹肌窝(digastric fossa) 19
+
+二腹肌支(digastric branch) 109$\mathbf{F}$菲尔绍淋巴结(Virchow lymph node) 95 肥大带(hypertrophy cartilage zone) 31 附着龈(attached gingiva) 130 副腮腺(accessory parotid gland) 64 副神经(accessory nerve) 116, 173, 185, 187 副神经淋巴结(accessory nerve lymph nodes) 94,187覆𬌗(over bite) 41 覆盖(over jet) 41$\mathbf{G}$钙化软骨带(calcified cartilage) 31 膈神经(phrenic nerve) 121 膈神经颈段(cervical part of phrenic nerve) 185 骨性鼻腔(cavum nasi ossei) 13 鼓板(tympanic plate) 10 鼓前动脉(anterior tympanic artery) 78 鼓室前动脉(anterior tympanic artery) 39 鼓室神经(tympanic nerve) 114 鼓索(chorda tympani) 109 固有口腔(oral cavity proper) 125 关节后结节 (postglenoid tubercle) 33 关节间隙(joint space) 37 关节结节 (articular tubercle) 33 关节囊(articular capsule) 30, 37 关节盘(articular disc) 30 关节盘前区 34 关节盘前伸部(anterior extension) 34 关节腔(articular cavity) 37 关节窝(articular fossa) 32 关节纤维带 (fibrous articular zone) 31 冠状缝(coronal suture) 4H
+
+颌内动脉(internal maxillary artery) 77
+
+颌内静脉(internal maxillary vein) 83
+
+颌外动脉(external maxillary artery) 75
+
+喉返神经(recurrent laryngeal nerve) 116
+
+喉上神经(superior laryngeal nerve) 116, 182
+
+喉咽部(laryngopharynx) 142
+
+后床突(posterior clinoid process) 7
+
+后带 (posterior band) 34
+
+后连合 (posterior commissure, PC) 202
+
+后斜角肌(scalenus posterior) 57
+
+后囟(posterior fontanelle) 8
+
+滑车凹(trochlear fovea) 13
+
+滑动关节(arthrodial joint) 40
+
+滑动运动(gliding movement) 40
+
+滑膜层(synovial membrane) 37
+
+滑膜连接(synovial joint) 26
+
+环状软骨(cricoid cartilage) 173
+
+喙突(coracoid process) 20
+
+霍纳综合征(Horner syndrome) 123
+
+$\mathbf{J}$
+
+肌三角(muscular triangle) 172
+
+肌支(muscular branch) 114
+
+鸡冠(crista galli) 6, 10
+
+棘孔(foramen spinosum) 6, 7
+
+计算机体层成像(computed tomography, CT) 1
+
+颊(cheek) 128
+
+颊垫(buccal pad) 126
+
+颊动脉(buccal artery) 78
+
+颊肌(buccinator) 49
+
+颊间隙(Buccal space) 165
+
+颊神经(buccal nerve) 105, 163
+
+颊纹(buccal wrinkles) 153
+
+颊系带(buccal frenum) 126
+
+颊腺(buccal glands) 69
+
+颊支(buccal branch) 110, 158
+
+颊脂垫(buccal fat pad) 126, 129
+
+甲状颈干(thyrocervical trunk) 81
+
+甲状软骨(thyroid cartilage) 172
+
+甲状舌骨肌(thyrohyoid) 56
+
+甲状腺淋巴结(thyroid lymph nodes) 96
+
+甲状腺上动脉(superior thyroid artery) 74
+
+甲状腺下动脉(inferior thyroid artery) 81
+
+尖牙窝(canine fossa) 16
+
+尖牙支柱(canine buttress) 17
+
+肩胛上动脉(suprascapular artery) 81
+
+肩胛舌骨肌(omohyoid) 56
+
+睑裂(palpebral fissure) 147
+
+睑内侧联合(medial palpebral commissure) 147
+
+睑外侧联合(lateral palpebral commissure) 147
+
+睑支(palpebral branch) 104
+
+降鼻中隔肌(depressor septi) 50
+
+降口角肌(depressor anguli oris) 48
+
+降眉间肌(procerus) 50
+
+降下唇肌(depressor labii inferioris) 48
+
+铰链运动(hinge movement) 40
+
+介入放射解剖学(interventional radiologic anatomy)200
+
+茎乳孔(stylomastoid foramen) 6
+
+茎突(styloid process) 6
+
+茎突舌骨肌(stylohyoid) 55
+
+茎突舌骨肌支(stylohyoid branch) 109
+
+茎突舌肌(styloglossus) 136
+
+茎突下颌韧带(stylomandibular ligament) 38
+
+茎突咽肌(stylopharyngeus) 60
+
+颈侧区(lateral region of neck) 172, 183
+
+颈长肌(longus colli) 56
+
+颈丛(cervical plexus) 120
+
+颈点(cervical point) 148
+
+颈动脉窦(carotid sinus) 72
+
+颈动脉窦支(carotid sinus branch) 114
+
+颈动脉管(carotid canal) 6
+
+颈动脉三角(carotid triangle) 172,181
+
+颈动脉体(carotid body) 72
+
+颈二腹肌淋巴结(jugulo-digastric lymph nodes) 94
+
+颈横动脉(transverse cervical artery) 81, 187
+
+颈横神经(transverse nerve of neck) 121
+
+颈后三角(posterior triangle of neck) 172, 186
+
+颈肩胛舌骨肌淋巴结(jugulo-omohyoid lymph nodes)94
+
+颈交感干(cervical sympathetic trunk) 121, 186
+
+颈静脉孔(jugular foramen) 6, 7
+
+颈静脉切迹(jugular notch) 8
+
+颈静脉突(jugular process) 8
+
+颈阔肌(platysma) 53
+
+颈阔肌耳韧带(platysma-auricular ligament) 154
+
+颈阔肌前韧带 (anterior platysma ligament, APL)154
+
+颈阔肌悬韧带 (suspensory platysma ligament, SPL)154
+
+颈淋巴干(jugular lymph trunk) 97
+
+颈内动脉(internal carotid artery) 80, 182, 185
+
+颈内静脉(internal jugular vein) 85, 182, 185
+
+颈内静脉链(internal jugular chain) 92
+
+颈袢(ansa cervicalis) 185
+
+颈前静脉(anterior jugular vein) 85
+
+颈前淋巴结(anterior cervical lymph nodes) 95
+
+颈前区(anterior region of neck) 172, 177
+
+颈浅筋膜(superficial cervical fascia) 174, 177, 186
+
+颈浅淋巴结(superfacial cervical lymph nodes) 92
+
+颈鞘(cervical sheath) 184
+
+颈上神经节(superior cervical ganglion) 122
+
+颈深筋膜浅层(superficial layer of deep cervical fascia)174, 178
+
+颈深筋膜中层(middle layer of deep cervical fascia)174
+
+颈深淋巴结(deep cervical lymph nodes) 92, 185 颈深上淋巴结(superior deep cervical lymph nodes)94
+
+颈深下淋巴结 (inferior deep cervical lymph nodes)94
+
+颈外动脉(external carotid artery) 39, 72, 173, 182
+
+颈外静脉(external jugular vein) 83, 173
+
+颈下神经节(inferior cervical ganglion) 122
+
+颈脏器筋膜(visceral cervical fascia) 175
+
+颈支(cervical branch) 111, 158
+
+颈中神经节(middle cervical ganglion) 122
+
+颈总动脉 (common carotid artery) 72, 173, 182,
+
+185
+
+局部解剖学(topographic anatomy, regional anatomy) 1
+
+咀嚼肌(masticatory muscles) 51
+
+菌状乳头(fungiform papilla) 135
+
+$\mathbf{K}$
+
+颏唇沟(mentolabial sulcus) 148
+
+颏肌(mentalis) 49
+
+颏结节 (mental tubercle) 19
+
+颏颈角 (mentocervical angle) 150
+
+颏孔(mental foramen) 19, 148
+
+颏前点(pg. pogonion) 148
+
+颏上点(supramental) 148
+
+颏舌骨肌(geniohyoid) 55
+
+颏舌肌(genioglossus) 136
+
+颏神经(mental nerve) 106
+
+颏纹 (mental wrinkles) 153
+
+颏下点(menton) 148
+
+颏下动脉(submental artery) 76
+
+颏下间隙(submental space) 176
+
+颏下淋巴结(submental lymph nodes) 93
+
+颏下三角(submental triangle) 172, 177
+
+髁道(condylar path) 33
+
+髁突(condylar process) 19
+
+口角 (angle of mouth) 127, 147
+
+口角轴 (modiolus) 49
+
+口括约肌 (oral sphincter) 47
+
+口裂(oral fissure) 127, 147
+
+口轮匝肌(orbicularis oris) 47
+
+口腔(oral cavity) 125
+
+口腔颌面部解剖学(oral and maxillofacial anatomy) 1
+
+口腔前庭(oral vestibule) 125
+
+口腔前庭沟(groove of oral vestibule) 126
+
+口咽部(oropharynx) 142
+
+眶(orbit) 11
+
+眶部(orbital part) 7
+
+眶底(orbital floor) 13
+
+眶耳线 (orbitomeatal line, OML) 201
+
+眶尖(orbital apex) 13
+
+眶上裂(superior orbital fissure) 7
+
+眶上切迹(supraorbital notch) 7
+
+眶突(orbital process) 22
+
+眶下动脉(infraorbital artery) 79
+
+眶下沟(infraorbital groove) 13
+
+眶下管(infraorbital canal) 16
+
+眶下间隙(infraorbital space) 164
+
+眶下孔(infraorbital foramen) 13, 148
+
+眶下裂(inferior orbital fissure) 6
+
+眶缘(orbital margin) 11
+
+L
+
+Langer 皮肤裂线 (Langer cleavage lines) (简称 Langer
+
+线) 153
+
+肋颈干(costocervical trunk) 81
+
+泪沟(lacrimal hamulus)22
+
+泪骨(lacrimal bone) 22
+
+泪囊窝(fossa for the lacrimal sac) 23
+
+泪腺神经(lacrimal nerve) 102
+
+泪腺窝(lacrimal fossa) 13
+
+犁骨(vomer) 23
+
+连合间线(intercommissural line) 202
+
+鳞部(squamous part) 9
+
+颅底(base of skull) 5, 195
+
+颅顶(calvaria) 191
+
+颅顶腱膜(epicranial aponeurosis) 51
+
+颅盖(calvaria) 4
+
+颅骨(cranium) 3
+
+颅后窝(posterior cranial fossa) 7
+
+颅面肌(craniofacial muscles) 46
+
+颅前窝(anterior cranial fossa) 6
+
+颅下颌关节(craniomandibular joint) 38, 40
+
+颅中窝(middle cranial fossa) 7
+
+鲁菲尼小体(Ruffini's corpuscle) 39
+
+卵圆孔(foramen ovale) 6, 7
+
+轮廓乳头(circumvallate papillae) 135
+
+$\mathbf{M}$
+
+盲孔(foramen caecum) 6
+
+帽状腱膜(galea aponeurotica) 51
+
+眉弓(superciliary arch) 4
+
+眉间点(glabella) 148
+
+眉间纹(glabellar wrinkles) 152
+
+梅斯纳小体(Meissner's corpuscle) 39
+
+迷走神经(vagus nerve) 115, 185
+
+面侧深区 (deep region of lateral face) 162
+
+面动脉(facial artery) 75, 178
+
+面横动脉(transverse facial artery) 39, 79
+
+面后静脉(posterior facial vein) 83
+
+面静脉(facial vein) 82, 178
+
+面淋巴结(facial lymph nodes) 91
+
+面颅(facial cranium) 11
+
+面前静脉(anterior facial vein) 82
+
+面神经(facial nerve) 107
+
+面总静脉 (common facial vein) 83, 182
+
+磨牙后垫(retromolar pad) 126
+
+磨牙后三角(retromolar triangle) 126
+
+$\mathbf{N}$
+
+囊内韧带(intracapsular ligament) 38
+
+囊韧带(capsular ligament) 38
+
+囊外韧带(extracapsular ligament) 38
+
+脑颅(cerebral cranium) 4
+
+脑膜副动脉(accessory meningeal artery) 39, 78 脑膜神经(meningeal nerve) 103 脑膜支(meningeal branch) 105, 163 脑膜中动脉(middle meningeal artery) 39, 78 内耳门 (internal acoustic porus) 7 内外侧盘韧带 (discal ligament) 36 内斜线 (internal oblique line) 19 内脏旁间隙(paravisceral space) 176 内眦 (medial angle of eye) 147 内眦动脉 (angular artery) 77 颞顶肌(temporoparietalis) 51 颞骨(temporal bone) 9 颞骨关节面(articular surface) 30 颞后附着(posterior temporal attachment) 34 颞肌(temporalis) 51 颞前附着(anterior temporal attachment) 34 颞浅动脉(superficial temporal artery) 39, 79 颞浅静脉(superficial temporal vein) 82 颞区(temporal region) 194 颞上线 (superior temporal line) 7 颞深动脉(deep temporal arteries) 78 颞深后动脉(posterior deep temporal artery) 39 颞深后神经(posterior deep temporal nerve) 39 颞深神经(deep temporal nerve) 105, 163 颞下颌关节(temporomandibular joint, TMJ) 26 颞下颌韧带(temporomandibular ligament) 38 颞下间隙(infratemporal space) 165 颞下窝(infratemporal fossa) 15 颞下线(inferior temporal line) 7 颞支(temporal branch) 110, 158 颞中动脉(middle temporal artery) 80P帕悉尼小体(Pacinian's corpuscle) 39 盘-髁突复合体(disc-condyle complex) 36 破裂孔(foramen lacerum) 6, 7$\mathbf{Q}$气管颈段(cervical segment of trachea) 173, 180 气管前间隙(pretracheal space) 176, 180 前床突(anterior clinoid process) 7 前带(anterior band) 33 前连合(anterior commissure, AC) 202 前哨淋巴结(sentinel nodes) 94 前斜角肌(scalenus anterior) 57, 186 前囟点(bregma) 8 浅表肌腱膜系统(superficial musculoapo-neurotic system, SMAS ) 154 切牙管(incisive canal) 17 切牙孔(incisive foramen) 17 切牙乳头(incisive papilla) 130 切牙窝(incisive fossa) 16 切牙腺(incisive glands) 70 切牙支(incisive branch) 106
+
+球窝关节(ball and socket joint) 40
+
+区域淋巴结(regional lymph nodes) 89
+
+屈戌-滑动关节 (ginglymoarthrodial joint) 40
+
+屈戌关节(ginglymoid joint) 40
+
+颧大肌(zygomaticus major) 48
+
+颧弓(zygomatic arch) 15, 21
+
+颧弓韧带(zygomatic ligament, ZL) 154
+
+颧骨(zygomatic bone) 21
+
+颧颊部韧带(SMAS-malar ligament, SMAS-ML) 154
+
+颧眶动脉(zygomaticoorbital artery) 39, 80
+
+颧颞缝(zygomaticotemporal suture) 21
+
+颧神经(zygomatic nerve) 103
+
+颧突(zygomatic process) 7,17
+
+颧突支柱(zygomatic buttress) 18
+
+颧小肌(zygomaticus minor) 47
+
+颧牙槽嵴(zygomaticoalveolar ridge) 17
+
+颧支(zygomatic branch) 110, 158
+
+$\mathbf{R}$
+
+Reid 基线(Reid's base line, RBL) 201
+
+人中(philtrum) 127, 148
+
+人字点(lambda) 8
+
+人字缝(lambdoid suture) 4
+
+乳突部(mastoid part) 9
+
+软腭(soft palate) 131
+
+软骨内成骨带(zone of endochondral ossification) 31
+
+$S$
+
+腮腺(parotid gland) 63, 156
+
+腮腺床(parotid bed) 160
+
+腮腺管(parotid duct) 65, 148, 156
+
+腮腺间隙(parotid space) 166
+
+腮腺淋巴结(parotid lymph nodes) 91
+
+腮腺浅淋巴结(superfacial parotid lymph nodes) 91
+
+腮腺鞘(parotid sheath) 65
+
+腮腺深淋巴结(deep parotid lymph nodes) 91
+
+腮腺咬肌区 (parotideomasseteric region)。 155
+
+腮腺支(parotid branches) 80
+
+三叉神经(trigeminal nerve) 100
+
+三叉神经节(trigeminal ganglion)101
+
+三叉神经压迹 (trigeminal impression) 7
+
+伞襞(fimbriated fold) 136
+
+筛板(cribriform plate) 10
+
+筛骨(ethmoid bone) 10
+
+筛骨迷路(ethmoidal labyrinths) 10
+
+筛孔(ethmoidal foramen) 10
+
+筛切迹(ethmoidal notch) 7
+
+上、下唇系带(frenum of upper and lower lip) 126
+
+上唇动脉(superior labial artery) 76, 128
+
+上唇支(superior labial branch) 104
+
+上颌动脉(maxillary artery) 77, 163
+
+上颌窦(maxillary sinus) 16
+
+上颌骨(maxilla) 5, 15
+
+上颌结节 (maxillary tuberosity) 16
+
+上颌静脉(maxillary vein) 83
+
+上颌神经(maxillary nerve) 102
+
+上颌体(body of maxilla) 16
+
+上颏棘(upper mental spine) 19
+
+上眶耳线 (supraorbitomeatal line, SML) 201
+
+上牙槽后动脉(posterior superior alveolar artery) 79
+
+上牙槽后神经(posterior superior alveolar nerve) 103
+
+上牙槽前神经(anterior superior alveolar nerve) 104
+
+上牙槽中神经(middle superior alveolar nerve) 103
+
+上牙神经丛(superior dental plexus) 104
+
+上咽部(epipharynx) 141
+
+舌(tongue) 135
+
+舌背动脉(dorsal lingual artery) 74
+
+舌背静脉(dorsal lingual vein) 137
+
+舌垂直肌(vertical muscle of tongue) 136
+
+舌动脉(lingual artery) 74
+
+舌骨(hyoid bone) 23, 172
+
+舌骨上肌群(suprahyoid muscles) 54
+
+舌骨舌肌(hyoglossus) 136
+
+舌骨下肌群(infrahyoid muscles) 55
+
+舌骨下区(infrahyoid region) 180
+
+舌横肌(transversus muscle of tongue) 136
+
+舌上纵肌(superior longitudinal muscle of tongue) 136
+
+舌深部间隙(deep lingual space) 167
+
+舌深动脉(deep lingual artery) 75
+
+舌深静脉(deep lingual vein) 138
+
+舌神经( lingual nerve ) 105 , 134 , 163 , 179
+
+舌系带( lingual frenulum ) 136
+
+舌下襞(sublingual fold) 136
+
+舌下动脉(sublingual artery) 75, 134
+
+舌下阜(sublingual caruncle) 136
+
+舌下间隙(sublingual space) 167
+
+舌下区(sublingual region) 133
+
+舌下神经(hypoglossal nerve) 117, 134, 179, 182
+
+舌下神经管(hypoglossal canal) 8
+
+舌下神经袢(ansa of hypoglossal nerve) 185
+
+舌下腺(sublingual gland) 68, 134
+
+舌下腺大管(major sublingual duct) 69
+
+舌下腺窝(sublingual fossa) 19
+
+舌下纵肌(inferior longitudinal muscle of tongue) 136
+
+舌腺( lingual glands ) 70 , 136
+
+舌咽神经(glossopharyngeal nerve) 113
+
+舌支(lingual branch) 114
+
+舌中隔( lingual septum ) 136
+
+神经节支(ganglionic branch) 103
+
+十字缝 (cruciform suture) 5
+
+食管后间隙(retroesophageal space) 177
+
+食管颈段(cervical segment of esophagus) 181
+
+矢状窦沟(sagittal sulcus)5
+
+矢状缝 ( sagittal suture ) 4
+
+视神经孔 (optic foramen) 7, 13 双板区(bilaminar region) 34 双髁状关节(bicondylar joint) 40 瞬间运动轴(instantaneous axis) 40 丝状乳头(filiform papillae) 135 锁骨上淋巴结(supraclavicular lymph nodes) 95, 187 锁骨上三角(supraclavicular triangle) 172 锁骨上神经(supraclavicular nerve) 121 锁骨上窝(supraclavicular fossa) 173 锁骨下动脉(subclavian artery) 80, 173 锁骨下动脉第一段(first segment of subcla-vian artery)185锁骨下静脉(subclavian vein) 86$\mathbf{T}$提口角肌(levator anguli oris) 48 提上唇鼻翼肌(levator labii superioris alaeque nasi)48
+
+提上唇肌(levator labii superioris) 48
+
+头长肌 (longus capitis) 56
+
+头前直肌(rectus capitis anterior) 57
+
+头外侧直肌(rectus capitis lateralis) 57
+
+唾液腺(salivary gland) 63W
+
+外耳道上三角(suprameatal triangle) 10
+
+外斜线 (external oblique line) 19
+
+外眦(lateral angle of eye) 147$\mathbf{X}$
+
+$\mathrm{X}$ 线计算机断层成像 ( $\mathrm{X}$ -ray computed tomography,X-CT) 200
+
+膝神经节(geniculate ganglion) 108
+
+系统解剖学(systematic anatomy) 1
+
+下鼻甲(inferior nasal conchae) 22
+
+下唇动脉(inferior labial artery) 76, 128
+
+下颌骨(mandible) 18
+
+下颌骨韧带(mandibular ligament, ML) 154
+
+下颌后附着(posterior mandibular attachment) 34
+
+下颌后静脉(retromandibular vein) 83
+
+下颌角(mandibular angle) 18, 20
+
+下颌颈(neck of mandible)(髁突颈) 20
+
+下颌颈嵴(ridge of mandibular neck) 31
+
+下颌髁突(mandibular condyle) 30
+
+下颌孔(mandibular foramen) 20
+
+下颌前附着(anterior mandibular attachment) 34
+
+下颌切迹(mandibular notch) 20
+
+下颌舌骨沟(mylohyoid groove) 20
+
+下颌舌骨肌(mylohyoid) 55
+
+下颌舌骨肌神经(mylohyoid nerve) 105
+
+下颌舌骨线 (mylohyoid line) 19
+
+下颌神经(mandibular nerve) 104, 163
+
+下颌体(mandibular body) 18
+
+下颌体下缘(inferior border of mandibular body) 19
+
+下颌下间隙(submandibular space) 176
+
+下颌下淋巴结(submandibular lymph nodes) 93, 178
+
+下颌下三角(submandibular triangle) 172, 177
+
+下颌下神经节(submandibular ganglion) 111
+
+下颌下腺(submandibular gland) 66, 178
+
+下颌下腺管(submandibular duct) 67, 134, 179
+
+下颌下腺鞘(submandibular gland sheath) 67
+
+下颌下腺深部(deep portion of the submandibular gland)
+
+134
+
+下颌下腺窝(submandibular fossa) 19
+
+下颌小舌(mandibular lingula) 20, 38
+
+下颌缘支(marginal mandibular branch) 111, 158
+
+下颌支(ramus of mandible) 19
+
+下颏棘(lower mental spine) 19
+
+下牙槽动脉(inferior alveolar artery) 78
+
+下牙槽神经(inferior alveolar nerve) 105, 163
+
+下牙神经丛(inferior dental plexus) 106
+
+下咽部(hypopharynx) 142
+
+纤维连接 (fibrous joint) 26
+
+纤维软骨带(zone of fibrocartilage) 31
+
+小憩(pouch) 37
+
+小唾液腺(minor salivary glands) 63, 69
+
+笑肌(risorius) 48
+
+胸导管(thoracic duct) 97
+
+胸导管颈段(cervical part of thoracic duct) 97, 185
+
+胸骨甲状肌(sternothyroid) 56
+
+胸骨上窝(suprasternal fossa) 173
+
+胸骨舌骨肌(sternohyoid) 56
+
+胸膜顶(cupula of pleura) 173
+
+胸锁乳突肌(sternocleidomastoid) 53, 173, 184
+
+胸锁乳突肌区(sternocleidomastoid region) 172, 183
+
+悬雍垂 131
+
+Y
+
+牙-颌关节(temporomandibular dental articulation)
+
+41
+
+牙槽嵴(alveolar ridge) 17
+
+牙槽间隔(interdental septa) 17
+
+牙槽突(alveolar process) 17
+
+牙槽窝(alveoli or tooth socket) 17
+
+牙根间隔(interradicular septa) 17
+
+牙尖交错𬌗位(intercuspal position) 32
+
+牙间乳头(interdental papilla) 130
+
+牙力轨道(dental trajectory) 31
+
+牙龈(gums) 130
+
+牙龈缘(gingiva margin) 130
+
+咽(pharynx) 141
+
+咽动脉(pharyngeal artery) 79
+
+咽鼓管咽肌(salpingopharyngeus) 60
+
+咽后间隙(retropharyngeal space) 144, 176
+
+咽淋巴环(lymphatic ring of pharynx) 143
+
+咽门(fauces) 132
+
+咽旁间隙(parapharyngeal space) 144, 176
+
+咽腔(cavity of pharynx) 141
+
+咽上缩肌(superior constrictor) 59
+
+咽升动脉(ascending pharyngeal artery) 39, 74
+
+咽缩肌(constrictor muscle of pharynx) 59
+
+咽提肌(levator muscle of pharynx) 60
+
+咽下缩肌(inferior constrictor) 60
+
+咽支(pharyngeal branch) 114, 116
+
+咽中缩肌(middle constrictor) 60
+
+岩部(petrous part) 10
+
+岩大神经(greater petrosal nerve) 108
+
+岩小神经(lesser petrosal nerve) 114
+
+眼睑纹(palpebal wrinkles) 152
+
+眼静脉(ophthalmic vein) 87
+
+眼轮匝肌(orbicularis oculi) 49
+
+眼神经(ophthalmic nerve) 102
+
+咬肌(masseter) 51, 160
+
+咬肌动脉(masseteric artery) 39, 78
+
+咬肌间隙(masseteric space) 165
+
+咬肌神经(masseteric nerve) 39, 105, 163
+
+叶状乳头 (foliate papillae) 135
+
+翼丛(pterygoid plexus) 83, 163
+
+翼点(pterion) 4
+
+翼腭管(pterygopalatine canal,又称腭大管) 15
+
+翼腭间隙(Ptergopalatine space) 166
+
+翼腭神经节(pterygopalatine ganglion) 111
+
+翼腭窝(pterygopalatine fossa) 15
+
+翼钩(pterygoid hamulus) 6, 9, 131
+
+翼管(pterygoid canal) 6
+
+翼管动脉(artery of pterygoid canal) 79
+
+翼肌支(pterygoid branches) 78
+
+翼肌支动脉(pterygoid branch artery) 39
+
+翼静脉丛(pterygoid venous plexus) 39, 83
+
+翼内肌(medial pterygoid) 52
+
+翼内肌神经(medial pterygoid nerve) 105, 163
+
+翼上颌支柱(pterygomaxillary buttress) 18
+
+翼突(pterygoid process) 9
+
+翼突上颌裂(pterygomaxillary fissure) 9
+
+翼突窝(pterygoid fossa) 6
+
+翼突支柱(pterygoid buttress) 18
+
+翼外肌(lateral pterygoid) 52
+
+翼外肌神经(lateral pterygoid nerve) 105, 163
+
+翼下颌间隙(pterygomandibular space) 165
+
+翼下颌韧带(pterygomandibular ligament) 38, 129
+
+翼下颌皱襞(pterygomandibular fold) 126
+
+隐窝(recess) 37
+
+硬腭(hard palate) 130
+
+游离神经末梢(free nerve ending) 39
+
+游离龈(free gingiva) 130
+
+右淋巴导管 (right lymph duct) 97
+
+鱼尾纹(fish tail wrinkles) 152
+
+圆孔 (foramen rotundum) 7$\mathbf{Z}$
+
+增殖带(proliferative zone) 31
+
+枕动脉 (occipital artery) 77
+
+枕额肌(occipitofrontalis) 50
+
+枕骨(occipital bone) 8
+
+枕骨大孔(foramen magnum) 6
+
+枕骨基底部( basioccipital bone) 6
+
+枕静脉 (occipital vein) 87
+
+枕髁(occipital condyle) 8
+
+枕淋巴结(occipital lymph nodes) 90
+
+枕鳞(occipital squama) 8
+
+枕三角(occipital triangle) 172
+
+枕小神经(lesser occipital nerve) 121
+
+正电子发射计算机断层成像 (positron emission computed
+
+tomography, PET ) 200
+
+正中𬌗位(centric occlusion, CO) 31
+
+正中联合(symphysis) 18
+
+中床突(middle clinoid process) 7
+
+中间带(intermediate zone) 33
+
+中间神经(nervus intermedius) 107
+
+中斜角肌(scalenus medius) 57
+
+中咽部(medpharynx) 142
+
+重力性皱纹线 ( gravitation wrinkles) 153
+
+皱眉肌(corrugator supercilii) 50
+
+主动脉弓(aortic arch) 72
+
+转动运动 (rotary movement) 40
+
+椎动脉(vertebral artery) 81
+
+椎静脉(vertebral vein) 87
+
+椎前间隙(prevertebral space) 177
+
+椎前筋膜(prevertebral fascia) 175, 187
+
+椎外侧肌群(lateral vertebral muscles) 57
+
+锥突(pyramidal process) 22
+
+姿态位(postural position) 38
+
+眦耳线 (canthomeatal line, CML) 201
+
+责任编辑:王孟通
+
+封面设计:锋尚设计口腔颌面部 第 3 版解剖学
+
+Oral and Maxillofacial Anatomy 口腔医学导论(第 3 版) 口腔颌面外科学(第 3 版) 口腔颌面部解剖学(第 3 版) 临床牙周病学(第 3 版) 牙体解剖与口腔生理学(第 3 版) 口腔正畸学(第 3 版) 口腔生物学(第 3 版) 儿童口腔医学(第 3 版) 口腔组织学与病理学(第 3 版) 预防口腔医学(第 3 版) 口腔材料学(第 3 版) 口腔种植学(第 2 版) 临床龋病学(第 3 版) 口腔黏膜病学(第 2 版)
+
+牙体牙髓病学(第 3 版) 口腔药物学
+
+口腔修复学(第 3 版) 口腔设备学口腔颌面医学影像学(第 3 版) 口腔修复工艺学(第 2 版)
+
+在使用本书增值服务之前,请您刮开右侧二维码, 使用 微信扫码激活。 * 温馨提示:每个激活二维码只能绑定一个微信号。 本教材激活二维码每种教材的增值服务类型略有不同。
+
+
+
+更多优质服务请微信扫码关注“北京大学医学出版社”公众号。

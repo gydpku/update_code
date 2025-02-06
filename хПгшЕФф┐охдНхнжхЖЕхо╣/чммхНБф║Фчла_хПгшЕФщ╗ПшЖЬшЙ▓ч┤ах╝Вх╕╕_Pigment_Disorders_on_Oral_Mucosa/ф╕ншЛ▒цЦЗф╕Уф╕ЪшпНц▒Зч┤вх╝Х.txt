@@ -1,0 +1,223 @@
+
+$\mathbf{A}$
+
+阿昔洛韦(aciclovir) 42
+
+氨苯砜(dapsone) 42
+
+$\mathbf{B}$
+
+Bednar 溃疡(Bednar ulcer, Bednar's aphthae) 118
+
+白塞病(Behcet's disease, BD) 109
+
+白血病(leukemia) 296
+
+斑疹(macule) 31
+
+倍他米松(betamethasone) 45
+
+伯贝克颗粒(Birbeck granule) 14
+
+C
+
+超敏反应(hypersensitivity) 236
+
+唇炎(cheilitis) 205
+
+D
+
+大疱(bulla) 32
+
+带状疱疹 (herpes zoster) 68
+
+单纯疱疹 (herpes simplex) 61
+
+地塞米松(dexamethasone) 45
+
+地图舌 (geographic tongue) 220
+
+多形红斑(erythema multiforme, EM) 244E恶性黑色素瘤(malignant melanoma)285$\mathbf{F}$
+
+伐昔洛韦(valaciclovir) 42
+
+泛昔洛韦(famciclovir) 42
+
+放射性口腔黏膜炎(radiation-induced oral mucositis, radiotherapy-induced oral mucositis, RTOM ) 121
+
+氟康唑(fluconazole) 43
+
+复发性阿弗他溃疡 (recurrent aphthous ulcer, RAU)102
+
+复发性坏死性黏膜腺周围炎(periadenitis mucosa necrotic recurrence) 105
+
+复发性疱疹性口炎(recurrent herpetic stomatitis) 64
+
+副肿瘤性天疱疮(paraneoplastic pemphigus, PNP) 196$\mathbf{G}$
+
+更昔洛韦(ganciclovir) 42
+
+光线性唇炎(actinic cheilitis) 208 过度角化(hyperkeratosis) 33H
+
+黑棘皮病(acanthosis nigricans) 279, 283
+
+黑色素细胞(melanocyte) 13
+
+化疗性口腔黏膜炎(chemotherapy-induced oral mucositis)126
+
+坏疽(gangrene) 35
+
+坏死(necrosis) 35
+
+坏死性龈口炎(necrotic ulcerative gingivo-stomatitis)78 $\mathbf{J}$
+
+基底膜(basement membrane) 16
+
+痂(crust) 34
+
+假膜(pseudomembrane) 35
+
+尖锐湿疣(condyloma acuminatum) 261
+
+角化不良(dyskeratosis) 33
+
+角化不全(parakeratosis) 33
+
+接触性过敏性口炎(contact allergic stomatitis) 248
+
+结核性溃疡(tuberculous ulcer) 82
+
+结节 (nodule) 32
+
+咀嚼黏膜(masticatory mucosa) 18
+
+巨幼细胞贫血(megaloblastic anemia, MA) 293
+
+皲裂(rhagades) 33$\mathbf{K}$
+
+克霉唑(clotrimazole) 43
+
+口腔白斑病(oral leukoplakia, OLK) 154
+
+口腔白色角化症(oral leukokeratosis) 165
+
+口腔扁平苔藓(oral lichen planus, OLP) 133
+
+口腔红斑病(oral erythroplakia) 163
+
+口腔黏膜(oral mucosa, oral mucous membrane) 8
+
+口腔黏膜病(oral mucosal diseases) 3
+
+口腔黏膜色素异常(pigment disorders) 279
+
+口腔黏膜下纤维性变(oral submucosal fibrosis, OSF)176
+
+口腔念珠菌病(oral candidosis, oral candidiasis) 85
+
+口腔苔藓样接触性损害(oral lichenoid contact lesion, OLCL ) 144
+
+口腔苔藓样损害(oral lichenoid lesion, OLL) 144
+
+口腔苔藓样药物反应 (oral lichenoid drug reaction,
+
+OLDR) 147
+
+溃疡(ulcer) 33L
+
+莱特尔综合征(Reiter syndrome, RS) 129
+
+郎格汉斯细胞(Langerhans cell) 14
+
+类天疱疮(pemphigoid) 190
+
+裂纹舌 (fissured tongue) 222
+
+淋病(gonorrhea) 258
+
+鳞屑(scale) 34
+
+氯法齐明(clofazimine) 42$\mathbf{M}$
+
+慢性唇炎(chronic cheilitis) 205
+
+慢性溃疡性口炎(chronic ulcerative stomatitis, CUS)152
+
+慢性黏膜皮肤念珠菌病(chronic mucocutaneous candidosis, CMC) 89
+
+毛舌 (hairy tongue) 226
+
+梅毒(syphilis) 252
+
+梅克尔细胞(Merkel cell) 15
+
+咪康唑(miconazole) 43
+
+糜烂(erosion) 33$\mathbf{N}$
+
+黏膜黑斑(melanoplakia) 279, 280
+
+黏膜类天疱疮(mucous membrane pemphigoid, MMP)190
+
+黏膜下层(submucosa) 18
+
+念珠菌病(candidosis, candidiasis) 85
+
+念珠菌属(Candida spp.)85$\mathbf{P}$
+
+盘状红斑狼疮(discoid lupus erythematosus, DLE) 169
+
+疱疹性咽峡炎(herpetic angina) 74
+
+疱疹样阿弗他溃疡(herpetiform aphthous ulcer) 104
+
+贫血(anemia) 290
+
+泼尼松(prednisone) 45
+
+泼尼松龙(prednisolone) 45$\mathbf{Q}$
+
+羟氯喹(hydroxychloroquine) 47
+
+轻型阿弗他溃疡 (minor aphthous ulcer) 104
+
+丘疹(papule) 31
+
+秋水仙碱(colchicine) 47
+
+球菌性口炎(coccigenic stomatitis) 76
+
+缺铁性贫血(iron deficiency anemia, IDA) 291$\mathbf{R}$
+
+Riga-Fede 溃疡(Riga-Fede ulcer) 118
+
+人类免疫缺陷病毒 (human immunodeficiency virus,
+
+HIV ) 14
+
+肉芽肿性唇炎(cheilitis granulomatosa) 215
+
+褥疮性溃疡(decubital ulcer) 118$S$
+
+色素沉着-息肉综合征 (hyperpigmentation-polyposis
+
+syndrome) 279, 281
+
+沙利度胺(thalidomide) 42
+
+$\mathbf{T}$
+
+天疱疮(pemphigus) 181
+
+W
+
+味觉倒错(parageusia) 232
+
+味觉减退(hypogeusia) 232
+
+味觉缺失(ageusia) 232
+
+味觉异常(abnormalities of taste) 232
+
+萎缩(atrophy) 33
+

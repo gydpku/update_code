@@ -1,0 +1,15 @@
+
+对酸蚀症及其严重程度进行诊断, 是进行有针对性的治疗的前提。临床上可结合病史和口腔检查两方面对酸蚀症进行诊断。 首先要注意询问患者有无经常饮用酸性饮料、进食酸性食物及呕吐、反酸等病史。此外还要结合口腔检查, 评估病损出现的位置、外观和深度等。
+
+目前有多种用于评价酸蚀症的指数, 但由于牙齿本身结构的复杂性和致病因素的多样性, 尚无一种评估标准能对病损的位置、范围、牙体组织丧失程度提供全面的定量评价, 同时完全满足临床检查、疾病监控和流行病学的需求。几种常见的酸蚀症评价指数的比较见表 1 。
+
+表 1 常见的酸蚀症指数
+
+<table><thead><tr><th>指数名称</th><th>针对人群</th><th>诊断标准</th><th>特点</th></tr></thead><tr><td>TWI. Smith BG, Knight JK, 1984</td><td>成年人</td><td>范围 + 深度</td><td>对所有牙的 4 个面进行评 分; 统计量大, 未考虑 病因</td></tr></table>
+
+<table><thead><tr><th>指数名称</th><th>针对人群</th><th>诊断标准</th><th>特点</th></tr></thead><tr><td>O’Sullivan. O'Sullivan EA, 2000</td><td>儿童</td><td>范围 + 深度</td><td>细化、全面; 只针对儿童 中切牙、侧切牙和第一恒 磨牙</td></tr><tr><td>van Rijikom. van Rijikom, 2002</td><td>儿童、 成年人</td><td>范围 + 深度</td><td>可发现早期病损; 未考虑 病因</td></tr><tr><td>BEWE. Bartlett D, 2007</td><td>儿童、 成年人</td><td>范围</td><td>分区域对病损进行总体评 价, 避免过高估计酸蚀症</td></tr><tr><td>ACE. Vailati F, 2010</td><td>成年人</td><td>深度</td><td>用于发现上颌前牙区的 早期病损</td></tr></table>
+
+续表
+
+注: TWI, 牙齿磨耗指数 (tooth wear index, TWI) ; BEWE, 基础酸蚀检查指数 (basic erosive wear examination, BEWE); ACE, 前牙酸蚀症临床分型 (anterior clinical erosive classification, ACE) 。
+

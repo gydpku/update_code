@@ -1,0 +1,3 @@
+
+基台与种植体之间的接触面称之为基台 - 种植体界面 (abutment-implant interface)。基台与种植体的接触边界称为种植体 - 基台界面 (implant-abutment interface), 所形成的间隙称为微间隙 (microgap)。
+

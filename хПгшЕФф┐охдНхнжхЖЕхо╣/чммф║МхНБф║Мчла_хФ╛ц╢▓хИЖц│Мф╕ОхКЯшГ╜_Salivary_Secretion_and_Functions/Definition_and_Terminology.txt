@@ -1,0 +1,17 @@
+
+唾液 Saliva
+
+Saliva is a watery substance located in the mouths of organisms, secreted by the salivary glands. Human saliva is ${99.5}\%$ water, while the other ${0.5}\%$ consists of electrolytes, mucus, glycoproteins, enzymes, and antibacterial compounds such as secretory IgA and lysozyme.
+
+唾液反射 Salivary reflexes
+
+The secretion of saliva is regulated by reflexes involving the autonomic nervous system. The reflex pathways are unilateral, since stimulation of one side of the mouth induces only ipsilateral salivation. The act of chewing and the sensation of taste initiate action potentials in various sensory receptors. The masticatory-salivary reflex involves sensory inputs mainly from the mechanical receptors in the mouth. The gustatory-salivary reflex utilizes sensory signals from taste-activated chemoreceptors in the taste buds within the lingual papillae and in the tonsillar region, the epiglottis, the pharyngeal wall and oesophagus.
+
+淀粉酶 Salivary amylase
+
+Salivary amylase is an enzyme that hydrolyses alpha bonds of large, alpha-linked polysaccharides, such as starch and glycogen, yielding glucose and maltose. It is the major form of amylase found in humans and other mammals. Amylase is found in saliva and breaks starch into maltose and dextrin. This form of amylase is also called "ptyalin". It will break large, insoluble starch molecules into soluble starches ( amylodextrin, erythrodextrin, and achrodextrin ) producing successively smaller starches and ultimately maltose.
+
+溶菌酶 Lysozyme
+
+Lysozymes, also known as muramidase or $\mathrm{N}$ -acetylmuramide glycanhydrolase, are glycoside hydrolases. These are enzymes ( EC 3.2.1.17) that damage bacterial cell walls by catalyzing hydrolysis of 1,4-beta-linkages between N-acetylmuramic acid and N-acetyl-D-glucosamine residues in a peptidoglycan and between N-acetyl-D-glucosamine residues in chitodextrins. Lysozyme is abundant in a number of secretions, such as tears, saliva, human milk, and mucus. Lysozyme in saliva is secreted by duct cells and ductal proteins decrease in concentration upon increased saliva flow.
+

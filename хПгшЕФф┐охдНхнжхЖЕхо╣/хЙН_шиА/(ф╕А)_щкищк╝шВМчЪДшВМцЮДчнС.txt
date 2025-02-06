@@ -1,0 +1,5 @@
+
+与整肌收缩张力和收缩幅度相关的肌纤维及其附着的配布特征, 包括肌纤维数量、长度、排列方式、肌纤维与肌腱 (腱膜) 之间所形成的夹角 (羽状角), 以及由肌纤维总量所决定的肌生理横切面积大小等, 统称为肌构筑 (muscle architecture) 。肌构筑包含三方面内容, 即骨骼肌在身体内的配布, 肌纤维在肌内的配布, 以及肌节在肌纤维内的配布。肌节的长短、数量, 肌纤维的长短、数量、排列, 以及肌腱和腱膜在肌内的配布, 都与骨骼肌的功能密切相关。
+
+肌构筑包含有许多指标, 统称为肌构筑指数 (muscle architecture index), 主要包括: ① 肌质量 (muscle mass); (2) 肌长 (muscle length): 肌束起点最近端至止点最远端的距离; ③ 羽状角 (pennation angle) : 肌纤维与肌腱之间的夹角; ④ 肌纤维长 (fiber length) ; 单根肌纤维的长度; ⑤ 肌节数 (sarcomere number): 单根肌纤维的肌节总数; ⑥生理横截面积 (physiological cross-section area, PCA), 即肌的所有肌纤维的横截面积之和,其计算公式如下: $\mathrm{{PCA}} = \left\lbrack  {\text{肌质量}\left( \mathrm{g}\right)  \times  \text{羽状角余弦值}}\right\rbrack  /\lbrack$ 肌纤维长 $\left( \mathrm{{cm}}\right)  \times$ 肌密度 $\left( {\mathrm{g}/{\mathrm{{cm}}}^{3}}\right)$ ,其中肌密度值为假定值 ${1.056}\mathrm{\;g}/{\mathrm{{cm}}}^{3}$ ; ⑦最大收缩张力 (maximum tetanic tension)(Po),即为肌在最适初长度下作等长收缩时产生的最大收缩力,其计算公式如下: 最大收缩张力 = 生理横截面积 $\times$ 特异张力 (specific tension),其中,特异张力指单位面积肌肉做等长收缩产生的最大张力。不同哺乳动物骨骼肌的特异张力在 ${15.7} \sim  {29.4}\mathrm{\;N}/{\mathrm{{cm}}}^{2}$ ,按标准肌节长度 ${2.2\mu }\mathrm{m}$ 校正肌纤维,其特异张力平均为 ${22.5}\mathrm{\;N}/{\mathrm{{cm}}}^{2}$ 。
+

@@ -1,0 +1,7 @@
+
+氧化锆全瓷修复体的工艺流程包括两种情况:
+
+1. 单层结构 (monolithic) 全锆冠的修复工艺流程 灌注超硬石膏模型 $\rightarrow$ 模型修整与工作扫描模型 $\rightarrow$ 计算机辅助设计修复体 $\rightarrow$ 数据传输 $\rightarrow$ 计算机辅助切削制作修复体 $\rightarrow$ 氧 代型制备 修复体蜡型制作 $\rightarrow$ 扫描蜡型. 化锆烧结 $\rightarrow$ 打磨修复体 $\rightarrow$ 清洗 $\rightarrow$ 修复体上色、上釉 $\rightarrow$ 临床试戴 $\rightarrow$ 大和 $\rightarrow$ 粘接 $\rightarrow$ 复查与维护。
+
+2.双层结构 (bilayered) 氧化锆全瓷修复体制作工艺流程 灌注超硬石膏模型 $\rightarrow$ 模型修 ✓扫描模型 $\rightarrow$ 计算机辅助设计修复体基底` $\rightarrow$ 数据传输 $\rightarrow$ 计算机辅助制作基 修复体基底冠、桥蜡型制作 $\rightarrow$ 扫描蜡型底冠、桥 $\rightarrow$ 氧化锆烧结 $\rightarrow$ 打磨基底冠、桥 $\rightarrow$ 喷砂、清洗 $\rightarrow$ 烤整修复体外形 $\rightarrow$ 加瓷、上釉 $\rightarrow$ 临床试戴 $\rightarrow$ 上色、上釉 $\rightarrow$ 粘接 $\rightarrow$ 复查与维护。
+

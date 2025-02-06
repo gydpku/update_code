@@ -1,0 +1,3 @@
+
+表观分布容积 (apparent volume of distribution, ${V}_{\mathrm{d}}$ ) 是指当血浆和组织内的药物分布达到平衡时,体内药物按血浆药物浓度在体内分布所需体液的容积。 ${V}_{\mathrm{d}}$ 的单位以 “L” 或 “L/kg” 表示,计算式为: ${V}_{\mathrm{d}} = D/C$ ,其中 $D$ 为体内药物总量 $\left( \mathrm{{mg}}\right) , C$ 为血浆和组织中药物达到平衡时的血浆药物浓度 $\left( {\mathrm{{mg}}/\mathrm{L}}\right)$ 。由于药物在体内的分布并不是均匀的,因此 ${V}_{\mathrm{d}}$ 并非指药物在体内占有的真实体液容积,故称为“表观”分布容积。
+

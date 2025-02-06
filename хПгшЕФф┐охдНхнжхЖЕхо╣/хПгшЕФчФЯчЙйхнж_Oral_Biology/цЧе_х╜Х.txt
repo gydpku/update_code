@@ -1,0 +1,365 @@
+
+第一章 口腔微生物学
+
+Oral Microbiology .1
+
+第一节 口腔生态系
+
+Oral Ecosystem .1
+
+一、口腔生态系的构成及特点 1
+
+二、口腔微生物生长的影响因素 -3
+
+第二节 口腔正常菌群
+
+Oral Normal Flora .6
+
+一、口腔正常菌群的获得与发展 ·6
+
+二、微生物的分类和命名 .7
+
+三、口腔正常菌群成员 .9
+
+第三节 牙菌斑
+
+Dental Plaque 20
+
+一、牙菌斑形成 20
+
+二、菌斑的组成与结构 22
+
+三、菌斑分类和细菌成分 23
+
+第四节 口腔微生物与全身疾病
+
+Oral Microbiome and Human
+
+Diseases 24
+
+一、消化系统疾病 24
+
+二、内分泌系统疾病 26
+
+三、免疫系统疾病 27
+
+四、神经系统疾病 27
+
+五、心血管系统疾病 28
+
+六、小结 28
+
+第五节 菌斑与口腔疾病
+
+Plaque and Oral Diseases 28
+
+一、龋病与牙菌斑的关系 29
+
+二、牙周疾病与菌斑 30
+
+第六节 口腔微生物学的研究方法
+
+Study Methods of Oral
+
+Microbiology 32
+
+一、临床信息 32
+
+二、标本的采集和转运 32
+
+三、实验室分析 - 33
+
+第二章 口腔生物化学
+
+Oral Biochemistry - 38
+
+第一节 牙及周围组织的化学组成
+
+Chemical Composition of Teeth and
+
+Periodontal Tissues 38
+
+一、釉质 38
+
+二、牙本质 40
+
+三、牙骨质 41
+
+四、牙槽骨 41
+
+五、牙龈和牙周膜 41
+
+第二节 口腔黏膜
+
+Oral Mucosa 42
+
+一、黏膜上皮的代谢特点 43
+
+二、基底膜的组成 43
+
+三、黏膜结缔组织的生化特征 43
+
+第三节 唾液腺、唾液和龈沟液
+
+Salivary Glands, Saliva and
+
+Gingival Crevicular Liquid 43
+
+一、唾液腺的分泌功能 43
+
+二、唾液的成分和功能 44
+
+三、龈沟液的来源和功能 48
+
+第四节 菌斑的生化特征
+
+Biochemical Characters of
+
+Plaque 48
+
+一、菌斑的化学成分 48
+
+二、菌斑内的物质代谢 49
+
+三、菌斑引发口腔疾病的机制 55
+
+第五节 牙齿硬组织矿化
+
+Mineralization of Dental Hard
+
+Tissues 57
+
+一、生物矿化 57
+
+二、牙齿硬组织的矿化 61
+
+三、脱矿与再矿化 62
+
+四、仿生矿化与牙体硬组织修复 69
+
+第六节 舌与味觉
+
+Tongue and Taste 69
+
+一、味觉分子与味觉 69
+
+二、味蕾和味觉细胞 70
+
+三、受体和换能 70
+
+四、甜味 71
+
+五、苦味 72
+
+六、咸味 73
+
+七、酸味 73
+
+八、鲜味 73
+
+第三章 口腔免疫学
+
+Oral Immunology 74
+
+第一节 口腔免疫器官和细胞
+
+Organs and Cells of Oral Immune
+
+System 74
+
+一、口腔免疫器官 74
+
+二、口腔免疫细胞 76
+
+第二节 口腔免疫体系
+
+Oral Immune System 80
+
+一、口腔天然免疫系统 80
+
+二、口腔获得性免疫系统 84
+
+第三节 口腔疾病免疫
+
+Oral Diseases Immunology 90
+
+一、龋病免疫 90
+
+二、牙髓炎免疫 93
+
+三、根尖周病免疫 94
+
+四、牙周病免疫 95
+
+五、口腔黏膜病的免疫 98
+
+六、肿瘤免疫 103
+
+七、移植免疫 106
+
+第四章 口腔分子生物学
+
+Oral Molecular Biology 109
+
+第一节 口腔组织发育的分子生物学基础
+
+Molecular Biological Basis of Oral
+
+Tissues Development 109
+
+一、颌面部发育 109
+
+二、牙齿发育的分子调控机制 112
+
+第二节 口腔疾病的分子生物学基础
+
+Molecular Biological Basis of Oral
+
+Diseases - 116
+
+一、龋病相关因子 - 116
+
+二、牙周病相关因子 - 117
+
+三、口腔肿瘤相关因子 -120
+
+四、口腔常见发育异常的分子生物学
+
+基础 -127
+
+五、口腔遗传性疾病的分子生物学
+
+基础 · 130
+
+第五章 口腔细胞生物学
+
+Oral Cell Biology ·133
+
+第一节 牙齿相关细胞
+
+Tooth-Associated Cells -133
+
+一、牙齿相关细胞的来源 -134
+
+二、牙源性干细胞 -134
+
+第二节 口腔黏膜相关细胞
+
+Oral Mucosa-Associated Cells -139
+
+一、口腔黏膜的组织结构及上皮细胞的
+
+来源和分化 - 140
+
+二、口腔黏膜上皮细胞 -141
+
+三、口腔黏膜上皮干细胞 - 144
+
+第三节 唾液腺细胞
+
+Salivary Gland Cells -145
+
+一、唾液腺组织中的细胞来源及
+
+特点 -145
+
+二、唾液腺干细胞 -146
+
+第四节 口腔颌面部肿瘤细胞
+
+Oral and Maxillofacial Tumor
+
+Cells - 147
+
+一、常见的口腔癌细胞系 -148
+
+二、细胞系鉴定 - 148
+
+三、临床联系 -149
+
+第六章 口腔骨组织生物学
+
+Oral Biology of Bone Tissue 150
+
+第一节 与骨代谢相关的牙周组织
+
+Periodontal Tissues Related to Bone
+
+Metabolism -150
+
+一、牙槽骨组织的生物学特点 -150
+
+二、牙周膜 -151
+
+三、牙骨质 ·152
+
+四、研究骨组织代谢在口腔医学中的
+
+意义 ·152
+
+第二节 骨改建的细胞生物学
+
+Cell Biology for Bone
+
+Remodeling 153
+
+一、破骨细胞 154
+
+二、成骨细胞 157
+
+三、成骨细胞和破骨细胞的关系 158
+
+第三节 影响牙周组织改建的生物学因素
+
+Biological Factors Affecting the
+
+Remodeling of Periodontal
+
+Tissues 163
+
+一、骨组织改建的全身调节因素 163
+
+二、骨组织改建的局部调节因素 165
+
+第四节 机械力在牙周组织骨改建的作用
+
+Roles of Mechanical Force in the
+
+Remodeling of Periodontal
+
+Tissues 167
+
+一、机械力对牙周组织生物学行为的
+
+影响 167
+
+二、正畸牙齿移动的生物学基础 168
+
+三、机械力引起细胞骨架的改变
+
+第五节 口腔骨改建的临床应用及生物学
+
+基础
+
+Clinical Application and Biological
+
+Foundation of Bone Remodeling in
+
+Oral Medicine 170
+
+一、牵张成骨术 170
+
+二、口腔种植学 171
+
+三、引导组织再生生物膜技术的
+
+发展 - 172
+
+四、牙周骨增量手术 - 172
+
+中英文专业词汇索引 -174
+
+主要参考文献 -177
+
+__________
+

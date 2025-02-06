@@ -1,0 +1,17 @@
+
+1. 兼性厌氧革兰氏阴性杆菌 口腔中的兼性厌氧革兰氏阴性杆菌(Gram-negative rods)主要是嗜血菌属 (Haemophilus), 主要分布于唾液、上皮表面和牙菌斑中,包括副流感嗜血菌 (H. parainfluenzae) (包括生物型 I、II、III)、惰性嗜血菌 (H. segnis)、副嗜沫嗜血菌 (H. paraphrophilus)、嗜沫嗜血菌(H.aphrophilus)以及溶血嗜血菌(H.haemolyticus)。一般来说, 嗜血菌的致病性较低。
+
+其他的兼性厌氧革兰氏阴性杆菌还包括啮蚀艾肯菌(Eikenella corrodens)、二氧化碳嗜纤维菌(Capnocytophaga)、伴放线放线杆菌(Aggregatibacter actinomycetemcomitans)以及西蒙斯菌 (Simonsiella spp.)。啮蚀艾肯菌可在各种口腔感染灶和脓肿中分离到,与牙周疾病相关。 二氧化碳嗜纤维菌的生长需要二氧化碳,在培养基上呈滑动生长,可在龈下牙菌斑中分离到, 在牙龈炎症状态下数量增加。二氧化碳嗜纤维菌是机会致病菌,可在免疫缺陷患者的感染灶中分离到。伴放线放线杆菌与青少年快速进展型牙周炎相关,同时也是机会致病菌,可从感染性心内膜炎、脑及皮下脓肿、骨髓炎以及牙周病损中分离到。西蒙斯菌可以滑动生长,分布于口腔黏膜上皮表面。
+
+2. 专性厌氧革兰氏阴性杆菌 专性厌氧革兰氏阴性杆菌在牙菌斑菌群中占了很大的比例。 口腔常驻的专性厌氧革兰氏阴性杆菌列于表 3-4。最初大部分的专性厌氧革兰氏阴性杆菌都归于拟杆菌属 (Bacteroides spp.), 最新的分类中, 拟杆菌属中只保留了脆弱拟杆菌族拟杆菌 ( Bacteroides fragilis-groupbacteroides ), 其余细菌则根据其酵解糖的能力分别归入卟啉单胞菌属 (Porphyromonas spp.) 和普雷沃菌属 (Prevotella spp.), 不解糖的归入前者, 解糖的归入后者。牙龈卟啉单胞菌(P. gingivalis)大多可从龈下牙菌斑中分离到,舌和扁桃体也偶能分离到。该菌在动物实验感染研究中显示出具有极高的致病性,是牙周疾病的重要致病菌。牙髓叶啉单胞菌(P. endodontalis)主要从感染的根管内分离到。牙龈卟啉单胞菌和牙髓卟啉单胞菌均极少在健康口腔的牙菌斑中出现。普雷沃菌属(Prevotella spp.)具有中等的解糖能力,可以利用蔗糖产生乙酸、琥珀酸和其他有机酸,可能参与牙硬组织的脱矿。另外,某些普雷沃菌则与牙周疾病和脓肿病灶相关。
+
+表 3-4 口腔中分离到的专性厌氧革兰氏阴性杆菌
+
+<table><tr><td>拟杆菌属(Bacteroides spp.)</td><td>普雷沃菌属(Prevotella spp.)</td></tr><tr><td>多毛拟杆菌(B. capillosus)</td><td>颊普雷沃菌 (P. buccae)</td></tr><tr><td>脆弱拟杆菌(B. fragilis)</td><td>口颊普雷沃菌 (P. buccalis)</td></tr><tr><td>弯曲菌属(Campylobacter spp.)</td><td>人体普雷沃菌 (P. corporis)</td></tr><tr><td>简明弯曲菌(C. concisus)</td><td>牙普雷沃菌 (P. dentalis)</td></tr><tr><td>曲形弯曲菌(C. curvus)</td><td>栖牙普雷沃菌 (P. denticola)</td></tr><tr><td>纤细弯曲菌 (C. gracilis)</td><td>栖居普雷沃菌 (P. enoeca)</td></tr><tr><td>直形弯曲菌 (C. rectus)</td><td>中间普雷沃菌 (P. intermedia)</td></tr><tr><td>昭和弯曲菌(C. showae)</td><td>洛氏普雷沃菌 (P. loescheii)</td></tr><tr><td>唾液弯曲菌(C. sputorum)</td><td>产黑色素普雷沃菌 (P. melaninogenica)</td></tr><tr><td>卡托菌属(Catonella spp.)</td><td>变黑普雷沃菌 (P. nigrescens)</td></tr><tr><td>疾卡托纳菌(C. morbi)</td><td>口腔普雷沃菌 (P. oralis)</td></tr><tr><td>蜈蚣状菌属(Centipeda spp.)</td><td>口普雷沃菌 (P. oris)</td></tr><tr><td>牙周蜈蚣菌(C. periodontii)</td><td>龈炎普雷沃菌(P. oulorum)</td></tr><tr><td>脱硫杆菌属(Desulfobacter spp.)</td><td>苍白普雷沃菌 (P. pallens)</td></tr><tr><td>脱硫弧菌属(Desulfovibrio spp.)</td><td>坦纳普雷沃菌(P. tannerae)</td></tr><tr><td>梭杆菌属(Fusobacterium spp.)</td><td>真口腔普雷沃菌 (P. veroralis)</td></tr><tr><td>龈沟梭杆菌(F. alocis)</td><td>动胶普雷沃菌 (P. zoogle of ormans)</td></tr><tr><td>具核梭杆菌(F. nucleatum)</td><td>月形单胞菌属 (Selenomonas spp.)</td></tr><tr><td>牙周梭杆菌 (F. periodonticum)</td><td>蛛形月形单胞菌 (S. artemidis)</td></tr><tr><td>沟迹梭杆菌(F. sulci)</td><td>月神月形单胞菌 (S. dianae)</td></tr><tr><td>约翰森菌属(Johnsonii spp.)</td><td>福氏月形单胞菌(S. flueggei)</td></tr></table>
+
+续表懒惰约翰森菌 (J. ignava) 纤毛菌属 (Leptotrichia spp.) 有害月形单胞菌 (S. noxia) 颊纤毛菌 (L. buccalis) 生痰月形单胞菌 (S. sputigena) 卟啉单胞菌属 (Porphyromonas spp.) 坦纳菌属 (Tannerella spp.) 卡托卟啉单胞菌 (P. catoniae) 福赛斯坦纳菌 (T. forsythia) 牙髓卟啉单胞菌 (P. endodontalis) 牙龈卟啉单胞菌 (P. gingivalis) 嗜淀粉密螺旋体 (T. amylovorum) 齿垢密螺旋体 (T. denticola) 大齿密螺旋体 (T. macrodentium) 嗜麦芽密螺旋体 (T. maltophilum)
+
+另一大类专性厌氧革兰氏阴性杆菌是梭杆菌属 (Fusobacterium spp.)。最常见的梭杆菌是具核梭杆菌 ( $F$ . nucleatum)。在健康龈沟中常分离到具核梭杆菌的 polymorphum 亚种、龈沟梭杆菌 (F.alocis) 和沟迹梭杆菌 (F. sulci), 而在牙周袋中则常分离到具核梭杆菌的 nucleatum 亚种和牙周梭杆菌 ( $F$ . periodonticum)。梭杆菌能够与其他的口腔细菌互相集聚,在牙菌斑形成过程中起着先驱菌和后继菌之间的桥梁作用。
+
+其他的革兰氏阴性厌氧菌和微需氧菌还包括:颊纤毛菌(Leptotrichia buccalis)、产琥珀酸沃林菌 (Wolinella succinogenes)、弯曲杆菌属 (Campylobacter spp.)、月形单胞菌属 (Selenomonas spp.)、蜈蚣状菌属 (Centipeda spp.)、疾卡托纳菌 (Catonella morbi) 以及懒惰约翰森菌 (Johnsonii ignava)。使用暗视野显微镜或电子显微镜还可以在龈下牙菌斑中检出螺旋体。上述细菌均与牙周疾病相关,与龋病的关系未见报道。
+

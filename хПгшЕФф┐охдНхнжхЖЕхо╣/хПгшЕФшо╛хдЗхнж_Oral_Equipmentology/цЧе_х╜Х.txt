@@ -1,0 +1,393 @@
+
+第一章 绪论
+
+Introduction
+
+第一节 口腔设备学的产生
+
+Appearance of Oral
+
+Equipmentology .1
+
+第二节 口腔设备的发展
+
+Development of Oral Equipment . 3
+
+一、口腔设备分类 .3
+
+二、口腔设备的发展 .3
+
+三、口腔设备产业发展 6
+
+四、口腔设备管理 ·6
+
+第三节 人体工程学的应用
+
+Application of Human Engineering $\cdots 7$
+
+一、人体工程学简介 .7
+
+二、人体工程学在口腔医学中的应用..8
+
+三、人体工程学在口腔医疗设备
+
+设计中的应用 10
+
+四、人体工程学在口腔诊疗环境
+
+设计及布局中的应用 11
+
+第四节 口腔设备学课程开设的重要性
+
+Importance of the Course 11
+
+第五节 学习口腔设备学的重点、难点和方法
+
+Key points, Difficulties and Methods
+
+of Learning the Course 12
+
+第二章 口腔临床设备
+
+Dental Clinical Equipment 13
+
+第一节 口腔综合治疗台
+
+Dental Unit 13
+
+第二节 牙科手机
+
+Dental Handpiece 25
+
+一、牙科高速涡轮手机 25
+
+二、牙科低速手机 30
+
+第三节 口腔超声治疗设备
+
+Dental Ultrasonic Treatment
+
+Equipment - 34
+
+一、超声洁牙机 35
+
+二、超声根管治疗机 38
+
+三、超声骨刀 39
+
+第四节 光固化机
+
+Light Curing Machine 41
+
+一、卤素灯光固化机 42
+
+二、LED 灯光固化机 44
+
+第五节 根管治疗设备
+
+Equipment for Root Canal
+
+Treatment 49
+
+一、口腔显微镜 49
+
+二、根管长度测量仪 53
+
+三、根管扩大仪 56
+
+四、热牙胶充填器 57
+
+五、牙髓活力电测仪 62
+
+第六节 口腔激光治疗设备
+
+Dental Laser Medical Devices ... 65
+
+一、 $\mathrm{{Nd}}$ :YAG 激光治疗机 67
+
+二、Er:YAG 激光治疗机 70
+
+三、其他口腔激光治疗机 71
+
+四、口腔激光治疗的生物学机制 73
+
+五、口腔激光治疗机的质量控制 74
+
+第七节 高频电刀(口腔临床用)
+
+Dental High Frequency
+
+Electrosurgery Unit - 74
+
+第八节 种植设备
+
+Implant Equipment 78
+
+一、牙科种植机 78
+
+二、数字化种植导航 81
+
+第九节 龋病早期诊断设备
+
+Diagnostic Equipment for Early
+
+Caries 84
+
+第十节 口腔无痛麻醉注射仪
+
+Dental Local Anesthetic Injection
+
+Apparatus 86
+
+第十一节 硅橡胶印模材自动混合机
+
+Automatic Mixing Machine for
+
+Vinyl Polysiloxane Impression
+
+Material 90
+
+第十二节 临床用光聚合器
+
+Clinical Light Polymerizer 92
+
+小结 94
+
+Summary 94
+
+第三章 口腔教学设备
+
+Dental Teaching Equipment…… 95
+
+第一节 口腔模拟教学设备
+
+Dental Simulation Teaching
+
+Equipment 95
+
+一、口腔临床模拟教学实习系统 96
+
+二、神经阻滞麻醉模拟设备 99
+
+三、口内切开、缝合模拟装置 100
+
+第二节 口腔模拟教学评估设备
+
+Dental Simulation Teaching
+
+Evaluation Equipment 101
+
+一、预备体扫描评估系统 101
+
+二、口腔模拟操作实时评估系统 102
+
+第三节 口腔虚拟仿真教学系统
+
+Dental Virtual Simulation
+
+System 105
+
+第四节 口腔教学仿真机器人
+
+Dental Teaching Simulation
+
+Robots 107
+
+小结 110
+
+Summary 110
+
+第四章 口腔修复工艺设备
+
+Equipment for Prosthodontic
+
+Technology 111
+
+第一节 成模设备
+
+Molding Equipment 111
+
+一、琼脂搅拌机 111
+
+二、真空搅拌机 -114
+
+三、模型修整机 - 116
+
+四、种钉机 -122
+
+第二节 高分子材料成型设备
+
+Polymer Material Forming
+
+Equipment - 124
+
+一、冲蜡机 -124
+
+二、加热聚合器 -126
+
+三、压膜机 · 128
+
+第三节 铸造设备
+
+Denture Casting Equipment 130
+
+一、箱型电阻炉 130
+
+二、高频离心铸造机 -133
+
+三、中频离心铸造机 - 137
+
+四、真空压力铸造机 - 139
+
+五、钛铸造机 - 143
+
+第四节 瓷加工设备
+
+Denture Porcelain Fusing and
+
+Casting Machines -147
+
+一、铸瓷炉 -148
+
+二、烤瓷炉 -151
+
+第五节 打磨抛光设备
+
+Denture Polishing Equipment… 154
+
+一、技工用微型电机 ·154
+
+二、喷砂抛光机 156
+
+三、电解抛光机 -158
+
+四、义齿抛光机 - 160
+
+五、蒸汽清洗机 161
+
+六、超声清洗机 163
+
+第六节 焊接设备
+
+Welding Equipment ·165
+
+一、口腔科点焊机 ·165
+
+二、口腔科激光焊接机 · 167
+
+第七节 数字化印模制取、设计及加工设备
+
+(CAD/CAM设备)
+
+Digital Impression Making,
+
+Designing and Processing
+
+Equipment 169
+
+一、牙颌模型扫描仪 170
+
+二、口内扫描仪 172
+
+三、口腔数控加工设备 175
+
+四、三维打印机 177
+
+小结 -180
+
+180
+
+第五章 口腔颌面 $\mathrm{X}$ 线成像设备
+
+Oral and Maxillofacial X-ray
+
+Imaging Equipment 181
+
+第一节 牙科 $\mathrm{X}$ 线机
+
+Dental X-ray Machine 181
+
+一、牙科 $\mathrm{X}$ 线机 181
+
+二、数字化牙科 $\mathrm{X}$ 线机 183
+
+第二节 口腔曲面体层 $\mathrm{X}$ 线机
+
+Panoramic X-ray Machine 185
+
+一、口腔曲面体层 $\mathrm{X}$ 线机 186
+
+二、数字化曲面体层 $\mathrm{X}$ 线机 189
+
+第三节 口腔颌面锥形束 CT
+
+Oral & Maxillofacial Cone Beam
+
+Computed Tomography 191
+
+小结 195
+
+Summary 195
+
+第六章 口腔诊疗单元
+
+Dental Treatment Unit 197
+
+第一节 口腔诊室设计
+
+Dental Clinic Design 197
+
+一、空间布局 197
+
+二、室内装修 198
+
+三、诊室的感染防控 198
+
+四、口腔诊室设计示例 198
+
+第二节 基建要求
+
+Infrastructure Requirements -200
+
+一、口腔医疗综合管线 -200
+
+二、供电及通讯系统 · 202
+
+三、照明系统设计 · 202
+
+第三节 设备安装
+
+Device Installation ·203
+
+一、口腔综合治疗台配置 ·203
+
+二、口腔综合治疗台地箱设计 ·203
+
+三、设备配置 ·205
+
+第四节 口腔边台
+
+Dental Cabinets ·205
+
+第五节 空气压缩机
+
+Air Compressor -208
+
+第六节 负压抽吸机
+
+Vacuum Pump - 211
+
+第七节 其他设备设施
+
+Other Equipment and Facilities 213
+
+小结 · 214
+
+Summary · 214
+
+附录 口腔设备分类参照表 ·216
+
+中英文专业词汇索引 -220
+
+主要参考文献 222
+

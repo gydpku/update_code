@@ -1,0 +1,5 @@
+
+- 刚性附着体 (rigid attachment): 修复体自由活动度低, 支持和稳定作用强。
+
+- 弹性附着体 (elastic/resilient attachment): 修复体有一定的动度, 可减轻种植体负荷, 增加基托下沉时支持组织的受力。
+

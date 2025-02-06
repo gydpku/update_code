@@ -1,0 +1,7 @@
+
+(1)代谢性酸中毒:静脉滴注,所需剂量按下式计算。补碱量(mmol) $= \left( {-{2.3} - }\right)$ 实际测得的 $\mathrm{{BE}}$ 值) $\times  {0.25} \times$ 体重(kg),或补碱量 $\left( \mathrm{{mmol}}\right)  = \left\lbrack  \right.$ 正常的 ${\mathrm{{CO}}}_{2}\mathrm{{CP}}$ 一实际测得的 ${\mathrm{{CO}}}_{2}\mathrm{{CP}}\left( \mathrm{{mmol}}\right) \rbrack  \times  {0.25} \times$ 体重(kg)。除非体内丢失碳酸氢盐,一般先给计算剂量的 $1/3 \sim  1/2,4 \sim  8$ 小时内滴注完毕。
+
+(2)心肺复苏的抢救:首次1 mmol/kg,以后根据血气分析结果调整用量(每 $1\mathrm{\;g}$ 碳酸氢钠相当于 12 mmol 碳酸氢根)。
+
+(3)碱化尿液:静脉滴注,2 $\sim$ 5 mmol/kg,4 $\sim$ 8 小时内滴注完毕。
+

@@ -1,0 +1,29 @@
+
+口腔修复全瓷材料可以简单概括为三类:长石质瓷、玻璃陶瓷和氧化物多晶陶瓷。
+
+(1)长石质瓷(feldspathic procelain):其成分和结构以玻璃相为主,含有少量的结晶相； 其半透明性良好,但材料强度相对较低；主要用于烤瓷饰面(金属烤瓷和全瓷的饰瓷)和用于制作可切削陶瓷瓷块。这类全瓷材料可用于贴面、嵌体、高嵌体和全冠(除外磨牙)修复,当有足够牙体组织和釉质支持时,其长期修复效果较理想。
+
+(2)玻璃陶瓷(glass ceramics):由玻璃相和结晶相组成；一般是指特定的含有晶种的玻璃通过热处理控制晶化获得结晶相,形成微晶玻璃,或通过一定的工艺将玻璃和结晶相复合在一起而获得的玻璃相和结晶相复合体。根据玻璃陶瓷中结晶相的不同, 玻璃陶瓷还可以分为二硅酸锂增强玻璃陶瓷(lithium disilicate reinfored glass ceramic)和云母基增强玻璃陶瓷(mica reinfored glass ceramic)等。
+
+还有一种特殊玻璃陶瓷是玻璃渗透陶瓷(glass-infiltrated ceramics)。因为其氧化物含量较高, 强度也较高, 可以用于磨牙单冠修复, 粘接的要求与氧化物陶瓷相似, 一些学者把其归类于氧化物陶瓷,称之为玻璃渗透氧化物陶瓷。但是,由于其由玻璃相和结晶相组成,可以理解为玻璃相和结晶相的复合体, 为了便于理解, 本书把其归类为玻璃陶瓷。玻璃渗透陶瓷是在晶体骨架中渗透入玻璃。这类材料也称粉浆涂塑玻璃渗透陶瓷(slip casting, glass-infiltrated ceramics),是将镧系玻璃粉涂覆于部分烧结的陶瓷晶体骨架上,玻璃粉熔融后通过毛细管作用渗入陶瓷颗粒之间的孔隙中,形成一种互穿网络结构。根据玻璃渗透陶瓷中晶体骨架的种类不同, 分为氧化铝基玻璃渗透陶瓷 (alumina based glass infiltrated ceramic)、尖晶石基玻璃渗透陶瓷(spinel based glass infiltrated ceramic)和氧化锆增韧氧化铝玻璃渗透陶瓷 ( zirconia toughened alumina glass infiltrated ceramic )。氧化铝基玻璃渗透陶瓷的弯曲强度达 ${450}\mathrm{{MPa}}$ ,而氧化锆增韧氧化铝玻璃渗透陶瓷的弯曲强度可达 ${600}\mathrm{{MPa}}$ ,可用于磨牙单冠和后牙三单位固定桥的修复,但该类材料的透光性不甚理想,工序复杂,生产效率低,目前临床较少使用。
+
+(3)氧化物多晶陶瓷(oxide polycrystalline ceramics):多晶陶瓷指由一类以上的同种或异种单晶组成的结晶陶瓷,包括碳化物陶瓷、氮化物陶瓷、氧化物陶瓷等,范围很广。目前口腔修复只用氧化物陶瓷,故此类陶瓷概括为氧化物多晶陶瓷。它是由一类以上氧化物晶体组成的陶瓷,不含或含有很少量的非晶相。根据氧化物的种类不同,分为致密烧结氧化铝陶瓷(densely sintered alumina ceramic)、氧化锆陶瓷(zirconia ceramic)和复合陶瓷(ceramic composites)等。由于致密烧结氧化铝陶瓷强度仍不理想,临床失败率较高,临床已不再使用。 目前口腔修复主要应用四方相氧化锆多晶陶瓷(tetragonal zirconia polycrystals, TZP)和少量的氧化锆氧化铝复合陶瓷(alumina-added zirconia ceramics)。氧化锆陶瓷大多含有 $3\%  \sim  5\%$ 的氧化钇作为稳定剂, 使其在室温维持在四方晶相, 即为氧化钇稳定的四方相氧化锆(yttria stabilized tetragonal zirconia polycrystals)。其弯曲强度可达 ${1000}\mathrm{{MPa}}$ 左右,临床适用范围较为广泛。近年来, 氧化锆陶瓷材料的透光性和美学性能都有明显改进, 而且目前很多氧化锆全瓷系统都可提供多种不同颜色的瓷块供选择, 甚至不同层色的多层氧化锆瓷块, 或者可通过染色获得与修复体目标颜色相协调的基底冠或修复体。引入增材制造技术后,当前采用三维打印氧化锆也已能够制作出兼具力学可靠性及一定美学性能的全解剖结构修复体, 但离临床常规应用还有一定距离。
+
+在上述分类基础上, 也有学者把树脂陶瓷复合材料称作树脂基陶瓷 ( resin-matrix ceramics)或混合陶瓷(hybrid ceramics),并归类于特殊全瓷材料；其力学性能、美学性能、 临床适应证等与玻璃陶瓷相似。但上述材料本质为树脂基复合材料, 不属于陶瓷材料。它是由树脂基质和无机陶瓷颗粒材料混合而成,其中一类为树脂基质中加入无机陶瓷颗粒填料,另一类为陶瓷网络结构中加入树脂基质。其优点包括: 具有与牙本质相近的弹性模量, 在制作后牙嵌体等冠内修复体时利于降低牙齿劈裂的概率; 比长石质瓷、玻璃陶瓷和氧化物多晶陶瓷易于加工和调整; 可用树脂进行修理或调整。因其含有树脂, 不能被烧结, 加工方式主要为计算机辅助设计与制作 (参见本章第四节)。
+
+$\mathbf{2.{按加工或制作工艺划分}}$ 全瓷材料包括以下几种类型(具体步骤和介绍见后):①常规粉浆涂塑瓷(conventional powder-slurry ceramics)或称常规烧结全瓷材料(sintered all-ceramic materials); ② 铸造玻璃陶瓷 (castable glass ceramic: a glass which can be crystallized by heat treatment)；③热压铸(hot-pressing)或注射成型玻璃陶瓷(injection-molded glass-ceramic)； ④粉浆涂塑、玻璃渗透瓷(slip-casting, glass-infiltrated ceramics)；⑤电泳沉积(electrophoretic deposition)及玻璃渗透铝瓷或锆瓷；⑥计算机辅助设计和计算机辅助制作用陶瓷(或称 CAD/ CAM 陶瓷)(all ceramics used for CAD/CAM)。
+
+CAD/CAM 陶瓷包括切削成型陶瓷材料(machined ceramics)和增材制造陶瓷材料 ( additive manufactured ceramics ), 后者也称作三维打印陶瓷材料 ( 3D printed ceramics ), 尚在不断研发和完善之中；临床主要应用切削成型陶瓷材料。
+
+根据加工工艺的不同,切削成型陶瓷材料(machined ceramics)又可分为两种:①可切削或机械加工玻璃陶瓷(machinable glass ceramics):该类陶瓷一般经一次切削加工就形成了修复体的最终外形,如制作嵌体、高嵌体、全冠等；②机械加工加致密烧结陶瓷(machined densely sintered ceramics): 该类陶瓷一般经切削加工及烧结后形成的是修复体的内核或基底, 然后需要常规烧烤饰瓷形成修复体最终外形(双层瓷结构)；由于半透明特征不断改善,该类陶瓷也可经切削加工及烧结后形成最终修复体外形 (单层瓷结构)。
+
+以上工艺中,常规粉浆涂塑、热压铸、CAD/CAM 陶瓷较为常用。上述工艺主要是指修复体加工的工艺模式, 其中某些工艺包含了瓷材料增强增韧的强化工艺, 如玻璃渗透、致密烧结等。因此, 若按瓷材料强化工艺的不同, 全瓷材料可被分为分散强化(dispersion strengthening)、玻璃渗透 ( glass-infiltration )、致密烧结 ( densely sintered ) 等不同类别。
+
+3. 按完成全瓷修复体最终外形和结构的方式划分 全瓷材料包括以下两种主要应用类型:
+
+(1)单层瓷结构(monolayered or monolithic structure):利用加工工艺如直接粉浆涂塑、 热压铸、CAD/CAM 等直接形成修复体最终的外形和结构,然后再通过上色或染色形成最终修复体。
+
+(2)双层瓷结构(bilayered structure):由基底冠和饰瓷构成的双层瓷结构,即利用加工工艺如粉浆涂塑玻璃渗透、热压铸、CAD/CAM 等先形成一个强度较高但透明度较低的冠核或核基底形状 ( core, or coping ), 然后在冠核基底上涂塑烧烤透明度更高的长石瓷 ( veneered with more translucent feldspathic frit)或专用瓷形成与天然牙类似的半透明特性和层次感。
+
+全瓷修复产品极多,无论何种产品均有它相对的优点和缺点。医师在选择某种产品时一定要根据产品的特性合理使用。要根据产品的边缘适合性、弯曲强度、弹性模量、美观或半透明性、操作的复杂程度、设备的要求和临床长期成功率等综合考虑。
+

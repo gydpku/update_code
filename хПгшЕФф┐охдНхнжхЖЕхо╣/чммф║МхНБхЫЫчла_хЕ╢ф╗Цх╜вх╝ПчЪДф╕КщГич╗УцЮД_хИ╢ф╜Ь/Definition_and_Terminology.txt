@@ -1,0 +1,13 @@
+
+1. 角度基台 (angled/angulated abutment): Prosthetic implant component designed to change direction from parallel along the long axis of the implant to a specified angle from parallel.
+
+2. 非角度基台 (nonangled abutment): Prosthetic implant component designed to parallel the long axis of the implant, considered straight to indicate no deviation from the long axis of the implant. Called also nonangulated abutment.
+
+3. 暂时基台 ( temporary abutment ) : Implant component used for a limited period of time prior to fabrication of the definitive prosthesis.
+
+4. 计算机辅助设计 / 计算机辅助制作 (CAD/CAM): Acronym for computer-aided design/ computer-assisted manufacture.
+
+5. 支架 ( framework ) : Core component of implant prosthesis, generally fabricated of metallic or ceramic material and veneered with ceramic or resin coatings. It is incorporated in fixed prostheses for strength and retention of matrices and teeth. For removable prostheses, it can be designed to provide prosthesis retention, support, and stability.
+
+6. 氧化锆 ( zirconium oxide ): Ceramic material used for implant components, generally attributed to have excellent mechanical properties. It is used in situations where esthetics are of primary importance and metal show-through of the tissues is a potential problem.
+

@@ -1,0 +1,15 @@
+
+(1)临床潜伏期:HIV 原发性感染后的表现比较复杂。初期可能无症状,也可能出现类似流感的发热、咽痛、皮疹和肌肉酸痛等一般症状。此时,病毒在机体内复制,主要出现于血液和脑脊液内。3～20 周可出现抗 HIV 抗体。初期过后,细胞外的病毒消失,病毒转而潜伏在 ${\mathrm{{CD4}}}^{ + }\mathrm{T}$ 细胞、巨噬细胞及中枢神经系统的小胶质细胞内。临床表现为无症状的潜伏期, 可持续数月或数年,甚至更长。
+
+(2)AIDS 相关症候群(AIDS related complex, ARC):潜伏期过后,许多患者发生全身性淋巴结肿大,免疫系统开始受到影响,部分患者发生 ARC。其特征是发热、腹泻、体重下降,发生口腔念珠菌病、带状疱疹及毛状白斑等。ARC 之后便进展为 AIDS。也有部分患者不经 ARC 阶段, 直接发生 AIDS。
+
+(3)AIDS:AIDS 患者 CD4 ${}^{ + }$ T 细胞严重减少,并存在免疫缺陷。其诊断原则是“在血清学检查阳性的基础上,出现卡波西肉瘤(Kaposi's sarcoma, KS)和至少一项机会性感染 (opportunistic infection)"。机会性感染是指在一般人群中不会出现,只有在缺乏体液免疫或细胞免疫时才发生并引起疾病的特殊感染。最典型的机会性感染是肺孢子虫病,它在 AIDS 患者中的患病率超过 50%,属于致命性感染。
+
+3.AIDS的口腔表征 或称作与 HIV 感染相关的口腔表征,可以分为三组:
+
+(1)第一组:为与 HIV 感染密切相关的病变,有念珠菌病、毛状白斑、卡波西肉瘤、线性牙龈红斑(linear gingival erythema)、坏死性牙龈炎(necrotizing gingivitis)、坏死性牙周炎 ( necrotizing periodontitis ) 和非霍奇金淋巴瘤 ( non-Hodgkin's lymphoma )。
+
+(2)第二组:与 HIV 感染有关的病变。有结核分枝杆菌感染(mycobacterial infection)、 黑色素性过度色素沉着 (melanotic hyperpigmentation)、坏死性口腔炎 (necrotizing stomatitis)、涎腺疾病(salivary gland diseases)、血小板减少性紫癜(thrombocytopenic purpura)和病毒感染(单纯性疱疹病毒、人乳头瘤病毒等)。
+
+(3)第三组:与 HIV 感染可能有关的病变。有细菌感染(以色列放线菌等)、杆菌性上皮样血管瘤病(bacillary epithelioid angiomatosis, BEA)、药物反应(溃疡、多形性红斑、苔藓和中毒性表皮松解症)、真菌感染(除外念珠菌,如新型隐球菌、组织胞浆菌等)、神经系统紊乱 (面神经麻痹、三叉神经痛)、复发性阿弗他口炎 (recurrent Aphthous stomatitis) 和病毒感染 (巨细胞病毒等)。
+

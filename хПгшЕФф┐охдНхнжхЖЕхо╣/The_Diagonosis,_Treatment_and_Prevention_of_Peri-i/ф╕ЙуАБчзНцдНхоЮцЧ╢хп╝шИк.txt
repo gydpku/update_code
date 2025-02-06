@@ -1,0 +1,3 @@
+
+实时导航(real-time navigation)亦可称为称为图像引导下的导航(Image-guided navigation) 或动态导航(dynamic navigation)技术,是一项将医学影像、计算机辅助、立体定位等技术相融合, 引导临床医师进行精确的手术规划与操作的技术。
+

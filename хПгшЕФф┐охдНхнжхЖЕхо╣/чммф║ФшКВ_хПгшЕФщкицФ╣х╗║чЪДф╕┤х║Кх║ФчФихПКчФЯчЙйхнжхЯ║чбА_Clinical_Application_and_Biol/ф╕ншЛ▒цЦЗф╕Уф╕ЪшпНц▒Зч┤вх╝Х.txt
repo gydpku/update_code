@@ -1,0 +1,326 @@
+
+$\mathbf{A}$胺聚糖(glycosaminoglycan, GAGS) 42
+
+B
+
+白介素(interleukin) 4,117
+
+白细胞毒素(leukotoxin) 13, 31
+
+半乳糖(galactose) 21
+
+被动免疫(passive immunization)92
+
+表层下脱矿(subsurface demineralization) 65
+
+补体系统 (complement system) 83
+
+$\mathbf{C}$
+
+成长 (growth) 58
+
+成骨细胞(osteoblast) 41, 153
+
+成核(nucleation) 58
+
+成核核心(nucleation centre) 59
+
+成核因子(nucleator) 59
+
+成釉蛋白(ameloblastin) 40
+
+成釉器(enamel organ) 134
+
+重叠性(redundancy ) 83
+
+唇腭裂(cleft lip and palate) 109
+
+雌激素(estrogen) 163
+
+次级免疫器官(secondary immune organ) 74D大颗粒淋巴细胞(large granule lymphocyte, LGL) 78 单核苷酸多态性(single nucleotide polymorphism, SNP)117
+
+蛋白多糖(proteoglycan, PG) 42
+
+蛋白释放酶(protein-releasing enzyme) 21
+
+调控性(modulation) 83
+
+多能唾液腺干细胞(salivary gland stem cell, SGSC)146
+
+多效性(pleiotropism) 83E
+
+腭间充质(palate mesenchyme) 109$\mathbf{F}$
+
+非编码 RNA(non-coding RNA, ncRNA) 124
+
+非变异链球菌(non-mutans streptococcus) 29
+
+非特异性免疫(non-specific immunity) 80 氟化磷灰石(fluoraptite, FAP) 63 氟化羟基磷灰石(fluoridated hydroxyapatite, FHA)63 $\mathbf{G}$肝炎病毒(hepatitis virus) 19 骨衬里细胞(bone lining cell ) 153 骨切开术(osteotomy) 170 骨髓干细胞(myeloid stem cell) 78 骨细胞(osteocyte) 41 骨形态发生蛋白(bone morphogenetic protein, BMP) 111,112,139,157 过矿化现象 (hyperremineralization) 68$\mathbf{H}$化学性突触(synapses) 70 挥发性硫化物(volatile sulfur compound, VSC) 42 活性水解酶(hydrolytic enzyme) 32 获得性膜(acquired pellicle) 2$\mathbf{J}$
+
+基因多态性(gene polymorphism) 117
+
+基因重组蛋白质(recombinant protein) 85
+
+基质金属蛋白酶 20(matrix metalloproteinase 20, MMP20)40急性坏死性溃疡性牙龈炎(acute necrotizing ulcerative gingivitis ) 31
+
+疾病易感性(disease susceptibility) 117
+
+己糖二磷酸途径(Embeden-Meyerhof pathway, EMP)50
+
+颊黏膜(buccal mucosa) 140
+
+甲硫醇(methylemercaptan, ${\mathrm{{CH}}}_{3}\mathrm{{SH}}$ ) 15
+
+兼性厌氧菌(facultatively anaerobic species) 3
+
+浆细胞(plasma cell ) 75
+
+降钙素(calcitonin) 163
+
+胶原酶(collagenase) 13, 14
+
+拮抗性(antagonism) 83
+
+巨细胞病毒(cytomegalovirus, CMV) 19
+
+聚集(aggregation) 58
+
+均相成核(homogeneous nucleation) 58
+
+菌斑(dental plaque) 1
+
+菌丝(hypha) 16$\mathbf{K}$柯萨奇病毒(Coxsackie virus) 19 颏下淋巴结(submental lymph node) 76 口腔毛状白斑(oral hairy leukoplakia) 102 口腔生态系(oral ecosystem) 1 口腔正常菌群(oral normal flora) 1 苦(bitter) 70$\mathbf{L}$蕾状期(bud stage) 134 淋巴细胞(lymphocyte) 75 硫化氢(hydrogen sulphide, ${\mathrm{H}}_{2}\mathrm{\;S}$ ) 1:$\mathbf{M}$麻疹病毒(measles virus) 19 慢性牙周炎(chronic periodontitis) 30 慢性龈缘炎(chronic marginal gingivitis) 30 帽状期(cap stage) 134 萌出后成熟(posteruptive maturation) 66 膜被颗粒(membrane coating granule) 82$\mathbf{N}$内毒素(endotoxin) 13 内分泌(endocrine) 83 内源性营养(endogenous nutrients) 4 黏膜免疫系统(mucosal immune system, MIS) 74 黏膜相关淋巴组织 (mucosal associated lymphoid tissue,MALT) 74黏液外衣(mucus coat) 20 凝血素(haemogglutinin) 31P疱疹病毒(herpes viruses) 19 皮质骨切开术(costicotomy) 170 破骨细胞(osteoclast) 41, 153 破骨细胞分化因子(osteoclast differentiation factor, ODF)95破骨细胞激活因子(osteoclast activating factor, OAF)95葡聚糖连接蛋白(glucan binding protein) 10$\mathbf{Q}$前列腺素 ${\mathrm{E}}_{2}$ (prostaglandin ${\mathrm{E}}_{2},{\mathrm{{PGE}}}_{2}$ ) 95 侵袭性牙周炎(aggressive periodontitis) 31$\mathbf{R}$人工抗原(artificial antigen) 85 人类免疫缺陷病毒 (human immunodeficiency virus,HIV) 27人乳头瘤病毒(human papilloma virus, HPV) 19,122
+
+溶血素(hemolysin) 15, 31
+
+乳牙(deciduous teeth) 136
+
+朊病毒(prion) 19
+
+芮氏线(strite of Retzius) 40S
+
+腮腺淋巴结(parotid lymph node) 75
+
+腮腺炎病毒(mumps virus) 19
+
+上皮间质转化(epithelial-mesenchymal transition, EMT)110
+
+上皮生长因子(epidermal growth factor, EGF) 109
+
+生物矿化(biomineralization) 57
+
+生物矿物(biomineral) 58
+
+生物膜(biofilm) 1
+
+生物学标志物(biomarker) 3
+
+嗜碱性粒细胞(basophil) 79
+
+嗜酸性粒细胞(eosinophil) 79
+
+噬菌体(bacteriophage) 19
+
+瘦素(leptin) 72
+
+双相真菌(dimorphic fungi) 16
+
+酸(sour) 70
+
+酸蚀(erosion) 65
+
+缩余釉上皮(reduced dental epithelium) 13$\mathbf{T}$
+
+特异性(specificity) 83
+
+天然抗原(natural antigen) 85
+
+甜(sweet) 70
+
+条件致病菌(opportunistic pathogen) 16
+
+同源盒基因(homeobox gene, Hox) 109
+
+同种异体骨移植(bone alloplasty) 108
+
+同种异体抗原(alloantigen) 85
+
+同种异体牙移植(tooth alloplasty) 107
+
+唾液酸(sialic acid) 21W外源性营养(exogenous nutrients) 4 外周免疫器官(peripheral immune organ) 74 味觉素 (gustin) 47 味觉细胞(taste cell) 70 味毛(microvilli) 70$\mathbf{X}$
+
+细胞旁分泌(paracrine) 83
+
+细菌胞外酶(extracellular enzyme) 91
+
+下颌下淋巴结(submandibular lymph node) 76
+
+纤连蛋白胶原复合体(fibronectin-collagen complexes)
+
+31
+
+鲜(umami) 70
+
+咸(salty) 70
+
+协同性(synergy) 83
+
+需氧菌(aerobic species) 3
+
+血型物质(blood group substance) 47
+
+$\mathbf{Y}$
+
+牙板(dental lamina) 112
+
+牙本质(dentin) 38
+
+牙本质基质蛋白 -1(dentin matrix protein-1, Dmp-1)61
+
+牙本质磷蛋白(dentin phosphoprotein, DPP) 61
+
+牙本质涎蛋白(dentin sialoprotein, DSP) 61
+
+牙槽骨(alveolar bone) 38
+
+牙骨质(cementum) 38
+
+牙囊(dental follicle) 134
+
+牙囊前体细胞(dental follicle progenitor cell, DFPC)139
+
+牙乳头(dental papilla) 134
+
+牙龈(gingiva) 38
+
+牙龈病(gingival disease)95
+
+牙周膜(periodontal ligament) 38
+
+牙周炎(periodontitis) 95
+
+炎症性肠病(inflammation bowel disease, IBD) 24
+
+胰酶样蛋白酶(trypsin-like proteinase) 14
+
+异嗜抗原(heterophile antigen) 85
+
+异相成核(heterogeneous nucleation) 58
+
+异种抗原(xenoantigen) 85
+
+龈沟液(gingival crevicular fluid) 48
+
+有机基质(organic matrix) 57
+
+釉丛蛋白(tuftelin) 40
+
+釉质(enamel) 38
+
+原发性结合上皮(primary junctional epithelium) 134
+
+原发性上皮带(primary epithelial band) 112
+
+原始口腔上皮(primitive oral epithelium) 134
+
+$\mathbf{Z}$
+
+再矿化(remineralization) 58
+
+真菌病(mycosis) 16
+
+脂多糖(lipopolysaccharide, LPS) 80
+
+中枢免疫器官(central immune organ) 74
+
+中性粒细胞(neutrophil) 79
+
+钟状期(bell stage) 134
+
+肿瘤坏死因子(tumor necrosis factor, TNF) 77
+
+肿瘤抗原(tumor antigen) 85
+
+主动免疫(active immunization) 92
+
+专性厌氧菌(obligately anaerobic species) 3
+
+转化生长因子(transforming growth factor, TGF) 109
+
+自身抗原(autoantigen) 76 主要参考文献
+
+[ 1 ] 边专, 王松灵. 口腔生物学. 4 版. 北京: 人民卫生出版社, 2012.
+
+[2] 邱蔚六. 口腔颌面外科学. 北京: 人民卫生出版社, 2003.
+
+[3](英)Edgar M, Dawes C, O'Mullance D,等著 . 唾液和口腔健康 . 4 版. 俞光岩译 . 北京:北京大学医学出版社, 2017.
+
+[4] 俞光岩, 马大权. 唾液腺病学. 2 版. 北京: 人民卫生出版社, 2014.
+
+[5] 张筱林. 口腔生物学. 2 版. 北京: 北京大学医学出版社, 2013.
+
+[ 6 ] Gronthos S, Mankani M, Brahim J, et al. Postnatal human dental pulp stem cells ( DPSCs ) in vitro and in vivo. PNAS, 2000, 97 (25): 13625-13630.
+
+[ 7 ] Henneman S, Von den Hoff JW, Maltha JC. Mechanobiology of tooth movement. Eur J Orthod, 2008, 30 ( 3 ): 299-306.
+
+[ 8 ] Katagiri T, Takahashi N. Regulatory mechanisms of osteoblast and osteoclast differentiation. Oral Diseases, 2002: $8,{147} - {159}$ .
+
+[ 9 ] Gnecchi M. Mesenchymal stem cells methods and protocols. 2nd Ed. New York: Human Press, 2016.
+
+[ 10 ] Miura M, Gronthos S, Zhao M, et al. SHED: stem cells from human exfoliated deciduous teeth. PNAS, 2003, 100 ( 10 ) : 5807-5812 .
+
+[ 11 ] Garant PR. Oral cells and tissues. New York: Quintessence Publishing Co, Inc, 2003.
+
+[12] Seo BM, Miura M, Gronthos S, et al. Investigation of multipotent postnatal stem cells from human periodontal ligament. Lancet, 2004, 364 ( 9429 ): 149-155.
+
+[ 13 ] Singh SR. Somatic stem cells methods and protocols. New York: Human Press, 2012.
+
+[ 14 ] Takahashi N, Udagawa N, Takami M, et al. Principles of bone biology. 2nd edition. California: Academic Press, 2002.
+
+[ 15 ] Yamashita T, Takahashi N, Udagawa N. New roles of osteoblasts involved in osteoclast differentiation. World J Orthop, 2012, 3 ( 11 ) : 175-181.
+
+
+
+责任编辑:刘燕
+
+封面设计: 锋尚设计口腔生物学 Oral Biology
+
+口腔医学导论(第 3 版)
+
+口腔颌面部解剖学(第 3 版)
+
+牙体解剖与口腔生理学(第 3 版)
+
+口腔生物学(第 3 版)
+
+口腔组织学与病理学(第 3 版)
+
+口腔材料学(第 3 版)
+
+临床龋病学(第 3 版)
+
+牙体牙髓病学(第 3 版)
+
+口腔修复学(第 3 版)
+
+口腔颌面医学影像学(第 3 版) 第 3 版
+
+口腔颌面外科学(第 3 版)
+
+临床牙周病学(第 3 版)
+
+口腔正畸学(第 3 版)
+
+儿童口腔医学(第 3 版)
+
+预防口腔医学(第 3 版)
+
+口腔种植学(第 2 版)
+
+口腔黏膜病学(第 2 版)
+
+口腔药物学
+
+口腔设备学
+
+口腔修复工艺学(第 2 版)

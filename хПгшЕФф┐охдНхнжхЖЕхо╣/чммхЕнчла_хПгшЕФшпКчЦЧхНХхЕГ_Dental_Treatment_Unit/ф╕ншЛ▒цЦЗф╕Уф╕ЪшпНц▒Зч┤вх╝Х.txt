@@ -1,0 +1,97 @@
+
+C
+
+超声骨刀(piezosurgery)39
+
+超声洁牙机(ultrasonic scaler)35
+
+超声清洗机(ultrasonic cleaner)163
+
+成模设备(molding equipment)111
+
+冲蜡机(wax scalding unit)124
+
+D
+
+打磨抛光设备 (denture polishing equipment) 154
+
+电解抛光机 (electrolytic polisher) 158
+
+电子根尖定位仪(electronic apex locator, EAL)53
+
+F
+
+仿头模 (phantom) 96
+
+仿真头模(dental simulator)96G高分子材料成型设备(polymer material forming equipment ) 124
+
+高频电刀(high frequency electrosurgery unit)74
+
+根管扩大仪 (pulp canal expander) 56
+
+根管长度测量仪 (root canal length meter) 53
+
+光聚合器(light polymerizer)92$\mathrm{H}$焊接设备(welding equipment) 165J激光 ( light amplification by stimulated emission of radiation, LASER) 65
+
+计算机 $\mathrm{X}$ 线摄影 (computed radiograph, CR) 189
+
+计算机辅助设计 (computer aided design, CAD) 169
+
+计算机辅助制造 (computer aided manufacturing,CAM)169
+
+技工用微型电机(laboratory handpiece) 154
+
+加热聚合器 (heat curing unit) 126K空气压缩机 (air compressor) 208 口内扫描仪(intraoral scanner)172 口腔科点焊机(dental spot welder)165 口腔科激光焊接机(dental laser welding machine) 167 口腔曲面体层 X 线机 ( panoramic X-ray machine ) 185 口腔显微镜(dental microscope)49 口腔正负压设备(dental positive and negative pressure equipment) 200 口腔综合治疗台(dental unit)13L卤素灯光固化机(halogen lamp unit)42M茂福炉(muffle furnace)130 模型修整机(model trimmer)116P喷砂抛光机(sand blaster) 156Q琼脂搅拌机(agar mixer)111 龋病早期诊断设备(diagnostic equipment for early caries) 84R
+
+人体工程学 (human engineering) 7
+
+热牙胶充填器(warm gutter filling appliance) 57S
+
+三维打印机(three dimensional printing machine)177
+
+三维快速成型机(three dimensional rapid prototyping machine) 177
+
+数码影像光纤透照技术(digital imaging fiber optic transillumination, DIFOTI ) 85
+
+数字 $\mathrm{X}$ 线摄影 (digital radiography, DR) 189 数字化牙科 $\mathrm{X}$ 线机(digital dental $\mathrm{X}$ -ray machine) 183 数字化种植导航系统 (computer-aided implant surgery navigator system) 81
+
+T
+
+台式扫描仪(desktop scanner)170
+
+Y
+
+压膜机 ( laminator ) 128
+
+牙颌模型扫描仪(dental cast scanner)170
+
+牙科 X 线机 (dental X-ray machine) 181
+
+牙科低速手机 ( low speed dental handpiece) 30
+
+牙科高速涡轮手机(high speed dental airturbine
+
+handpiece) 25
+
+牙科种植机 (dental implant unit) 78
+
+牙髓活力电测仪(electric pulp tester)62
+
+义齿抛光机(dental laboratory lathe)160
+
+预热炉 (preheating furnace) 130
+
+Z
+
+真空搅拌机(vacuum mixer)114
+
+真空压力铸造机 (vacuum casting machine) 139
+
+蒸汽清洗机(steam cleaner)161
+
+种钉机 ( laser drill machine ) 122
+
+锥形束 CT ( cone beam computed tomography, CBCT )
+
+191
+

@@ -1,0 +1,590 @@
+
+B
+
+Balkwill 角 Balkwill angle 138
+
+Bennett 角 Bennett angle 187
+
+Bennett 运动 Bennett movement 178
+
+Bonwill 等边三角形 Bonwill eguilateral
+
+triangk 138
+
+半月形切牙 Hutchinson's incisors 104
+
+鼻翼耳屏线 Comper's line, ala-tragus line 140
+
+闭颌反射 jaw-closing reflex 173
+
+边缘性运动 border movement 182
+
+边缘运动 border movement 178
+
+病理𬌗 pathologic occlusion 158
+
+补偿曲线 compensate curve 135
+
+部分牙缺失 partial anodontia 99
+
+部位记录法 quadrant coding method 35
+
+C
+
+参考平面 reference planes 139
+
+槽生牙 thecodont 12
+
+侧方运动 lateral movement 177
+
+侧副根管 accessory canals 110
+
+侧副根管孔 accessory foramen 110
+
+侧𬌗 lateral occlusion 155
+
+侧生牙 pleurodont 12
+
+侧支根管 lateral canal 109
+
+长正中 long centric 183
+
+触觉 tactile sensation 249
+
+唇面 labial surface 44
+
+唇轴嵴 labial axial ridge 55
+
+刺刀样弯曲 bayonet curve 109
+
+刺激性牙本质 irritation dentin 112
+
+D
+
+大根尖直径 major apical diameter 111
+
+单牙列 monophyodont 9
+
+第三期牙本质 tertiary dentin 112
+
+点角 point angle 43
+
+点隙 pit 46
+
+动力平衡 balance of driving forces 17
+
+端生牙 acrodont 12
+
+对刃𬌗 edge to edge bite 149
+
+多生牙或额外牙 supernumerary teeth 100
+
+F
+
+Fisher 角 Fisher angle 187
+
+发音 pronunciation 228
+
+发育沟 developmental groove 46
+
+反𬌗 cross bite 149
+
+反射动作 reflex activity 221
+
+反应性牙本质 reactionary dentin 112
+
+非支持尖 nonsupporting cusps 152
+
+分叉根管 furcation canal 109
+
+氟牙症 dental fluorosis 103
+
+辅音 consonant 230
+
+副沟 supplemental groove 46
+
+覆盖 overjet 149
+
+覆𬌗 overbite 149
+
+G
+
+Gustatory Sensation 244
+
+钙化 calcification 28
+
+哥特式弓 Gothic arch 183
+
+个体下颌运动型 individual pattern of mandibular
+
+movement 176
+
+根干 root trunk 74
+
+根管 root canal 24,107
+
+根管口 root canal orifice 106
+
+根管系统 root canal system 106
+
+根尖分歧 apical ramification 111
+
+根尖孔 apical foramen 23,106,110
+
+根尖三角区 apical delta 111
+
+根尖狭窄部 apical constriction 111
+
+根尖止点 apical stop 112
+
+共振 resonance 228
+
+接触区 contact area 42,93
+
+沟 groove 46
+
+沟状凹陷 developmental depression 62
+
+管间连接 intercanal connection 110
+
+管间峡部 isthmus 110
+
+国际牙科联合会系统 federation dentaire
+
+international system 39
+
+过大牙 macrodontia 101
+
+过小牙 microdontia 101
+
+H
+
+𬌗 occlusion 146
+
+𬌗程序 occlusal program 176
+
+𬌗垂直距离 occlusal vertical dimension or
+
+vertical dimension of occlusion 164
+
+𬌗架 articulator 191
+
+𬌗力 biting force or occlusal force 211
+
+𬌗面 occlusal surface 44
+
+𬌗平面 occlusal plane, plane of occlusion 141
+
+𬌗曲线 occlusal curve 135
+
+恒牙 permanent teeth 25
+
+恒牙𬌗 permanent occlusion 18
+
+横𬌗曲线 transverse curve of occlusion 135,136
+
+横嵴 transverse ridge 62
+
+横向吻合 transverse anastomosis 110
+
+后退接触位 retruded contact position
+
+( RCP ) 162
+
+后牙 posterior teeth 25
+
+混合牙列 mixed dentitions 153
+
+J
+
+机械感受器 mechanical receptor 249
+
+肌电图 electromyogram, EMG 204
+
+肌接触位 muscular contact position ( MCP ) 165
+
+肌紧张 muscle tone 175
+
+畸形舌窝 invaginated lingual fossa 101
+
+畸形中央尖 occlusal anomalous tuberde 66, 101
+
+嵴 ridge 45
+
+继发牙本质 secondary dentin 112
+
+颊面 buccal surface 44
+
+尖牙 canines 24
+
+尖牙保护 canine protected occlusion) 156
+
+建𬌗 establishment of occlusion 17
+
+结节 tubercle 45
+
+解剖根尖 anatomic apex 111
+
+解剖牙根 anatomical root 23
+
+解剖牙冠 anatomical crown 22
+
+近中沟 mesial marginal groove 62
+
+近中舌沟 mesiolingual developmental groove 64
+
+颈嵴 cervical ridge 82
+
+颈线 cervical line23,96
+
+静息期 silent period 205
+
+咀嚼 mastication 195
+
+咀嚼肌力 masticatory muscle force 211
+
+咀嚼力 masticatory force 211
+
+咀嚼效率 masticatory efficience 214
+
+咀嚼型 chewing pattern 197
+
+咀嚼周期 chewing cycle 199
+
+K
+
+卡氏尖 casp of Carabelli 70
+
+开𬌗 open bite 149
+
+开𬌗吞咽 tooth apart swallowing 222
+
+开颌反射 jaw-opening reflex 174
+
+开口运动 opening movement 177
+
+髁点 condylar point 178
+
+咳嗽反射 cough reflex 268
+
+口颌系统 stomatognathic system 146
+
+口呼吸 mouth breathing 268
+
+叩齿运动 tapping movement 178
+
+眶耳平面 Frankfort plane 140
+
+L
+
+理想𬌗 optimal occlusion 158
+
+裂 fissure 46
+
+邻间隙 interproximal spaces 94
+
+邻面 proximal surface 44
+
+临床牙根 clinical root 23
+
+临床牙冠 clinical crown 22
+
+流体动力学假说 hydrodynamic hypothesis of
+
+dentinal sensitivity 261
+
+M
+
+Masticatory Efficiency 214
+
+Monson 球面 138
+
+萌出 eruption 30
+
+磨耗 attrition 216
+
+磨损 abrasion 216
+
+磨牙 molars 24
+
+N
+
+牛牙样牙 taurodontism 103
+
+P
+
+Palmer 记录系统 Palmer notation system 37
+
+Q
+
+前磨牙 premolars 24
+
+前伸𬌗 protrusive occlusion 155
+
+前伸运动 protrusive movement 177
+
+前牙 anterior teeth 25
+
+切导 incisal guidance 150
+
+切道 incisal path 150
+
+切道斜度 inclination of incisal path 150
+
+切点 incisor point 178
+
+切嵴 incisal ridge44,48
+
+切牙 incisors 24
+
+R
+
+Riey-Day Syndrome 248
+
+溶菌酶 lysozyme 241
+
+融合牙 fused tooth 102
+
+乳牙 deciduous teeth25,81
+
+乳牙𬌗 deciduous occlusion 17,152
+
+乳牙列 primary dentition 81
+
+s
+
+Spee 曲线 Spee curve 135
+
+三叉神经脊束核 trigeminal spinal nuclei 259
+
+桑葚状磨牙 mulberry molars 104
+
+舌隆突 cingulum 45,55
+
+舌面 lingual surface 44
+
+舌窝 lingual fossa 48
+
+舌轴嵴 lingual axial ridge 56
+
+深覆盖 deep overjet 149
+
+深覆𬌗 deep overbite 149
+
+生长期 development 28
+
+生长叶 development lobe 47
+
+生理𬌗 physiologic occlusion 158
+
+声带 vocal cord 228
+
+双侧平衡𬌗 bilateral balanced occlusion 157
+
+水平颌反射 horizontal jaw reflexes 175
+
+吮吸 sucking 224
+
+四环素着色牙 tetracycline pigmentation tooth 104
+
+随意动作 voluntary activity 221
+
+髓壁 wall of pulp chamber 107
+
+髓角 pulp horn 106
+
+髓腔 pulp cavity 106
+
+髓室 pulp chamber 24,106
+
+髓室底 floor of pulp chamber 107
+
+髓室顶 roof of pulp chamber 106
+
+T
+
+疼痛 pain 255
+
+替牙𬌗 mixed occlusion 18
+
+通用编号系统 universal system 38
+
+同形牙 homodont 8
+
+退化 degradation 10
+
+吞咽 swallowing, deglutition 221
+
+唾液 saliva 237
+
+唾液淀粉酶 salivary amylase 240
+
+唾液反射 salivary reflexes 240
+
+W
+
+Wilson 曲线 136
+
+外胚叶发育不全综合征 ectodermal dysplasia
+
+syn-drome 99
+
+外形高点 height of contour 43
+
+外展隙 embrasures 94
+
+味觉 gustatory sensation 244
+
+味蕾 taste bud 244
+
+温度觉 thermal sensation 253
+
+窝 fossa 46
+
+X
+
+下颌卸载反射 jaw-unloading reflex 175
+
+下颌运动描记仪 pantography 180
+
+下颌姿势位 mandibular postural position
+
+( MPP ) 163
+
+先天缺牙 congenital missing teeth 99
+
+先天无牙症 anodontia 99 线角 line angle 42
+
+小根尖直径 minor apical diameter 111
+
+斜嵴 oblique ridge 72
+
+斜面 inclined surface 46
+
+休息垂直距离 rest vertical dimension 164
+
+修复性牙本质 reparative dentin 112
+
+嗅觉 olfactory sensation 247
+
+Y
+
+压觉 pressure sensation 249
+
+牙本质发育不全 dentinogenesis imperfecta 103
+
+牙本质领 dentin collar 107
+
+牙本质牙骨质界 cementodentinal junction
+
+( CDJ ) 111
+
+牙齿萌出 tooth eruption 16
+
+牙根 dental root 23
+
+牙弓 dental arch 130
+
+牙弓长度 length of dentition 131
+
+牙弓宽度 width of dentition 131
+
+牙骨质 cementum 24
+
+牙冠 dental crown 22
+
+牙尖 dental cusp 44
+
+牙尖高度 height of tooth cusp 137
+
+牙尖交错𬌗 intercuspal occlusion ( ICD) 146
+
+牙尖交错位 intercuspal Position, ICP 161
+
+牙颈 dental cervix 23
+
+牙颈部的凸起 cervical ledge 107
+
+牙列 dentition 130
+
+牙髓 pulp 24
+
+牙髓的神经分布 pulpal innervation 259
+
+牙髓腔 dental pulp cavity 24,106
+
+牙髓神经的再生 regeneration of pulpal
+
+nerve 263
+
+牙髓疼痛 tooth pulp pain 259
+
+牙髓牙本质复合体 pulpodentin complex 112
+
+牙体长轴 long axis 42
+
+牙体三等分 division into thirds 43
+
+牙釉质 enamel 23
+
+牙周机械感受器 periodontal mechanical
+
+receptor 250
+
+牙周潜力 periodontal potential 212
+
+牙阻生 impacted tooth 104
+
+咬合 articulation 146
+
+异形牙 heterodont 8
+
+音调 tone 229
+
+音强 (音量) volume 229
+
+音质 (音色) Tamber 229
+
+釉牙骨质界 cementoenamel junction 24
+
+釉质发育不全 enamel hypoplasia 103
+
+釉珠 enamel pearls 102
+
+元音 vowel 230
+
+运动中心 kinematic center 188
+
+Z
+
+粘着牙 concrescence of tooth 102
+
+正中关系 centric relation ( CR ) 162
+
+正中关系弧 centric relation arch ( CRA ) 162
+
+正中关系位 centric relation position
+
+(CRP) 162
+
+正中𬌗位 centric occlusion position ( COP ) 161
+
+支持尖 supporting cusps 152
+
+中枢模式发生器 central pattern generator 196
+
+中线 median line 42
+
+中性区 neutral zone 132
+
+主根管 main root canal 107
+
+锥形牙 cone-shaped tooth 101
+
+自由间隙 freeway space 164
+
+纵𬌗曲线 sagittal curve of occlusion 135
+
+组牙功能𬌗 group function occlusion 156
+
+最大𬌗力 maximal biting force 212

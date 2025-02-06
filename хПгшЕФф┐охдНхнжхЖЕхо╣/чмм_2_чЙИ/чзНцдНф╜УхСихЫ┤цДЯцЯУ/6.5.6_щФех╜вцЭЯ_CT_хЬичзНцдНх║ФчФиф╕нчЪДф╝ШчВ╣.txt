@@ -1,0 +1,33 @@
+
+锥形束 CT 在口腔种植的应用中有很多优点, 具体为:
+
+有效计量相对较低, 每次投照的曝光剂量为 ${19.0} \sim  {464.0\mu }\mathrm{{Sv}}$ ,相当于 $1 \sim  {30}$ 次数字化曲面体层片的放射剂量 $\left( {{4.7} \sim  {14.9\mu }\mathrm{{Sv}}}\right)$ ,相当于 $1/{56} \sim  1/5$ 的螺旋 CT 的计量 ${\left( {1200.0} \sim  {3300.0}\mu \mathrm{{Sv}}\right) }^{\left\lbrack  4\right\rbrack  }$ 。
+
+- 曝光时间较短,一般在 $5 \sim  {20}$ 秒之间 ${}^{\left\lbrack  5\right\rbrack  }$ ,便于患者的定位, 较少发生患者移位导致影像受损的情况。
+
+空间分辨率较高, 锥形束 CT 生成的原始影像物理层厚在 ${0.076} \sim  {0.3}\mathrm{\;{mm}}$ 之间,对细微的解剖结构的解析能力更强。
+
+金属伪影的影响较小, 在螺旋 CT 上高密度金属与相邻密度较低的骨组织界面之间会产生低密度的金属伪影, 而在锥形束 CT 技术中应用了相应的数字化手段来减轻伪影的影像, 有利于骨 - 种植体界面骨结合的判定。
+
+- 锥形束 CT 的软件环境及三维重建功能更加便捷、丰富,更适合于口腔科临床应用。
+
+设备成本相对较低, 便于口腔科的广泛应用, 相应的检查费用也较低, 易于被患者接受。
+
+国际口腔种植学会 (ITI) 对种植治疗进行了 SAC 分类 ${}^{\left\lbrack  {15}\right\rbrack  }$ ,由于锥形束 CT 为术区的骨量、解剖风险、美学风险和手术复杂程度提供了信息, 因此有必要在临床上提出使用锥形束 CT 的适应证, 对于不同复杂程度的种植病例是否有必要选择锥形束 CT 检查也进行分级, 这对临床有重要指导意义(表 6-2)。
+
+表 6-2 利用锥形束 CT 进行临床病例 SAC 外科分类的必要性 *
+
+<table><thead><tr><th colspan="3">临床条件</th><th colspan="4">SAC 分类使用锥形束 CT 的必要性</th></tr><tr><th>修复间隙</th><th>美学风险</th><th>牙 位</th><th>骨量充足</th><th>水平向骨缺损, 可 能需要同期骨增量</th><th>水平向骨缺损, 可 能需要前期骨增量</th><th>垂直向和(或 水平向骨缺损</th></tr></thead><tr><td rowspan="2">单颗牙缺失</td><td>低</td><td>下颌左侧前磨牙或磨牙</td><td>L3(S)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td>高</td><td>上颌中切牙</td><td>L2(A)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td rowspan="2">短缺牙间隙</td><td>低</td><td>下颌左侧前磨牙和磨牙</td><td>L3(S)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td>高</td><td>3 颗上颌前牙</td><td>L2(A)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td rowspan="2">长缺牙间隙</td><td>低</td><td>上颌后牙</td><td>L3(S)</td><td>L2( A )</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td>高</td><td>5 颗上颌前牙</td><td>L2(A)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td rowspan="4">全牙弓</td><td rowspan="2">低</td><td>下颌无牙颌,2 颗种植体</td><td>L3(S)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td>下颌无牙颌. 4 颗或更多 种植体</td><td>L2(A)</td><td>L1(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td rowspan="2">高</td><td>上颌无牙颌,4 颗种植体</td><td>L3(S)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td>上颌无牙颌,4 颗或更多 种植体</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td rowspan="2">单根牙即刻种植</td><td>低</td><td>下颌前磨牙</td><td>L3(S)</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td>高</td><td>上颌和下颌切牙和尖牙</td><td>L1(C)</td><td>L1(C)</td><td>L1(C)</td><td>L1(C)</td></tr><tr><td>多根牙即刻种植</td><td>低</td><td>上颌第一前磨牙</td><td>L2(A)</td><td>L1(C)</td><td>L1(C)</td><td>L1(C)</td></tr></table>
+
+* 摘自 Forum Implantologicum, ${2012}\left( 8\right) 1 : {16} - {27}$
+
+S. 简单; A. 复杂; C. 高度复杂; LI: 1 级影像——锥形束 CT 是关键而又有必要的检查手段, 在大多数的临床情况下为诊断提供有价值的信息; L2: 2 级影像——锥形束 CT 是非常适宜的检查手段, 在多数临床情况下为诊断提供有价值的信息; L3: 3 级影像——锥形束 CT 是适宜的检查手段, 在一临床情况下为诊断提供有价值的信息。
+
+
+
+Chapter 7 Surgical and Prosthetic Protocols of Implant Therapy
+
+Su Yucheng 第 7 章 口腔种植外科与种植修复方案设计
+
+
+

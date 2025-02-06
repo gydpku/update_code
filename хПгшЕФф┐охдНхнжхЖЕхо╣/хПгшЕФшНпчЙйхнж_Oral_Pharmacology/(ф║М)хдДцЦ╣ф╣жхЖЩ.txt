@@ -1,0 +1,35 @@
+
+处方书写应当符合下列规则:
+
+1. 患者一般情况、临床诊断填写清晰、完整,并与病历记载相一致。
+
+2. 每张处方限于一名患者的用药。
+
+3. 字迹清楚,不得涂改；如需修改,应当在修改处签名并注明修改日期。
+
+4. 药品名称应当使用规范的中文名称书写,没有中文名称的可以使用规范的英文名称书写；医疗机构或者医师、药师不得自行编制药品缩写名称或者使用代号；书写药品名称、剂量、 规格、用法用量要准确规范,药品用法可用规范的中文、英文、拉丁文或者缩写体书写,但不得使用“遵医嘱”“自用”等含糊不清的字句 (表 2-1)。
+
+5. 患者年龄应当填写实足年龄,对于新生儿、婴幼儿写日龄、月龄,必要时要注明体重。
+
+6. 西药和中成药可以分别开具处方,也可以开具一张处方,中药饮片应当单独开具处方。
+
+表 2-1 处方中常用的拉丁文缩写词及其中文意义
+
+<table><tr><td>缩写词</td><td>拉丁文</td><td>中文意义</td></tr><tr><td>a.</td><td>ana</td><td>各</td></tr><tr><td>a.c.</td><td>ante cibum</td><td>饭前</td></tr><tr><td>ad</td><td>ad</td><td>加至</td></tr><tr><td>add.</td><td>adde, addatur</td><td>加入,须加入</td></tr><tr><td>amp.</td><td>ampulla</td><td>安瓿</td></tr><tr><td>b.i.d.</td><td>bis in die</td><td>每日 2 次</td></tr><tr><td>D.t.d.</td><td>Da tales doses</td><td>给予用量</td></tr><tr><td>gtt.</td><td>gutta</td><td>滴</td></tr><tr><td>h.s.</td><td>hora somni</td><td>临睡前</td></tr><tr><td>i.h.</td><td>injectio hypodermica</td><td>皮下注射</td></tr><tr><td>i.m.</td><td>injectio intramuscularis</td><td>肌内注射</td></tr><tr><td>i.v.</td><td>injectio intravenosa</td><td>静脉注射</td></tr><tr><td>no.</td><td>numero</td><td>数量</td></tr><tr><td>p.c.</td><td>post cibum</td><td>饭后</td></tr><tr><td>p.r.n.</td><td>pro re nata</td><td>必要时用</td></tr><tr><td>q.d.</td><td>quaque die</td><td>每日 1 次</td></tr><tr><td>q.h.</td><td>quaque hora</td><td>每小时 1 次</td></tr><tr><td>q.4h.</td><td>quaque quarta hora</td><td>每 4 小时 1 次</td></tr><tr><td>q.i.d.</td><td>quater in die</td><td>每日 4 次</td></tr><tr><td>q.m.</td><td>quaque mane</td><td>每晨 1 次</td></tr><tr><td>q.n.</td><td>quaque nocte</td><td>每晚 1 次</td></tr><tr><td>q.s.</td><td>quantum sufficiat</td><td>适量</td></tr><tr><td>sig. 或 S.</td><td>signa</td><td>标明</td></tr><tr><td>S.O.S.</td><td>si opus sit</td><td>必要时</td></tr><tr><td>ss. 或 s.s.</td><td>semisse</td><td>(用)半(量)</td></tr><tr><td>stat.</td><td>statim</td><td>立即</td></tr><tr><td>t.i.d.</td><td>ter in die</td><td>每日 3 次</td></tr></table>
+
+7. 开具西药、中成药处方,每一种药品应当另起一行,每张处方不得超过 5 种药品。
+
+8. 中药饮片处方的书写,一般应当按照 “君、臣、佐、使” 的顺序排列；调剂、煎煮的特殊要求注明在药品右上方,并加括号,如布包、先煎、后下等；对饮片的产地、炮制有特殊要求的, 应当在药品名称之前写明。
+
+9. 药品用法用量应当按照药品说明书规定的常规用法用量使用, 特殊情况需要超剂量使用时, 应当注明原因并再次签名。
+
+10. 除特殊情况外, 应当注明临床诊断。
+
+11. 开具处方后的空白处划一斜线以示处方完毕。
+
+12. 处方医师的签名式样和专用签章应当与院内药学部门留样备查的式样相一致, 不得任意改动, 否则应当重新登记留样备案。
+
+13. 药品剂量与数量用阿拉伯数字书写。剂量应当使用法定剂量单位:重量以克 (g)、毫克(mg)、微克 $\left( {\mu \mathrm{g}}\right)$ 、纳克(ng)为单位; 容量以升(L)、毫升(ml)为单位; 国际单位 (IU)、单位(U)；中药饮片以克(g)为单位。
+
+14. 片剂、丸剂、胶囊剂、颗粒剂分别以片、丸、粒、袋为单位；溶液剂以支、瓶为单位； 软膏及乳膏剂以支、盒为单位；注射剂以支、瓶为单位,应当注明含量；中药饮片以剂为单位。
+

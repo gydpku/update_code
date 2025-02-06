@@ -1,0 +1,365 @@
+
+[ 1 ] 何三纲. 口腔解剖生理学. 8 版, 北京: 人民卫生出版社, 2020.
+
+[2] 谢秋菲. 牙体解剖与口腔生理学. 2 版. 北京:北京大学医学出版社, 2013.
+
+[ 3 ] 王美青. 𬌗学. 4 版. 北京: 人民卫生出版社, 2020.
+
+[4] 马绪臣. 颞下颌关节病的基础与临床. 北京: 人民卫生出版社, 2000.
+
+[5] 王毓英. 口腔生理学与𬌗学. 北京: 中华医学会, 1989.
+
+[6] 曹志中. 牙髓神经纤维的特点和牙痛的外周机制. 国外医学. 口腔医学分册, 1994, (01): 4-9.
+
+[7] 陈磊, 张豪, 冯海兰, 等. 颅颌运动仿真系统接触精度初探. 中华口腔医学杂志, 2010, 45(2): 98-101.
+
+[8] 侯振刚, 聂志明, 冯海兰, 等. 髁突运动中心轨迹测量分析系统. 中国图像图形学报, 2002, 7(1)81-85.
+
+[9]李鸿波, 吴国星, 张豪, 冯海兰, 李彦生. 建立数字化颅颌运动系统的初步研究. 中华口腔医学杂志, 2005, 40: 405-407.
+
+[ 10 ] 李晓明,卜国铉. 儿童鼻气道阻力的特点: 附 759 例分析. 中华耳鼻咽喉科杂志, 1991, 26(4): 226-228.
+
+[11] 王正敏. 耳鼻喉科学新理论和新技术. 上海: 上海科技教育出版社, 1997, 105-107.
+
+[12] 小林茂夫, 郭养涵. 牙痛与牙髓神经. 国外医学. 口腔医学分册, 1982, (03): 39-41.
+
+[13] 杨凯, 曾祥龙, 俞梦孙. 口呼吸与鼻呼吸儿童颅面形态差异的研究. 中华口腔医学杂志, 2002, 37: 385-387.
+
+[14] 伊彪, 张熙恩, 张震康, 等. 正颌外科治疗阻塞性睡眠呼吸暂停综合征. 中华口腔医学杂志, 1997, 32: 114- 117.
+
+[15] 赵颖, 曾祥龙, 傅民魁, 等. 阻塞性睡眠呼吸暂停综合征患者颏舌肌肌电活性特征的研究. 现代口腔医学杂志, 2002, 16: 40-42.
+
+[ 16 ] Adachi S, Lowe AA, Tsuchiya M, et al. Genioglossus muscle activity and inspiratory timing in obstructive sleep apnea. Am J Orthod Dentofac Orthop, 1993; 104: 931-938.
+
+[ 17 ] Arana-Chavez VE, Massa LF. Odontoblasts: the cells forming and maintaining dentine. Int J Biochem Cell Biol 2004; 36(8): 1367-73.
+
+[ 18 ] Ash MM, Ramfjord S. Occlusion. 4th ed. Philadelphia: W.B. Saunders Company, 1995.
+
+[ 19 ] Bradley R M. Essentials of oral physiology. Mosby, 1995.
+
+[ 20 ] Brosh T, Machol I H, Vardimon A D. Deformation/recovery cycle of the periodontal ligament in human teeth
+
+with single or dual contact points. Arch Oral Biol, 2002, 47(1): 85-92.
+
+[21] Byers MR, Neuhaus SJ, Gehrig JD. Dental sensory receptor structure in human teeth. Pain, 1982, 13(3): 221-35.
+
+[22] Casas P, Ascaso FJ, Vicente E, Tejero-Garces G, et al. Retinal and optic nerve evaluation by optical coherence tomography in adults with obstructive sleep apnea-hypopnea syndrome (OSAHS). Graefes Arch Clin Exp Ophthalmol, 2013, 251(6): 1625-34.
+
+[23] Christensen LV, Radue JT. Lateral preference in mastication: a feasibility study. J Oral Rehabil, 1985, 12: 421- 427.
+
+[ 24 ] D.B. Ferguson. Physiology for dental students. London, Boston. Wright, 1988.
+
+[25] Damasio AR. The neural basis of language. Annual Review of Neuroscience, 1984, 4: 135-137.
+
+[ 26 ] Dorland's illustrated medical dictionary, 31th edition. Philadelphia, W.B. Saunders, 2008.
+
+[ 27 ] Edgar M, Dawes C, O'Mullane D. Saliva and Oral Health: 3rd Edition. British Dental Association, 2004. 23.
+
+[28] Fried M, Abramson S, Meyer JH. Passage of salivary amylase through the stomach in humans. Digestive Diseases and Sciences, 1987, 32: 1097-1103.
+
+[29] Gallo LM. Description of mandibular finite helical axis pathways in asymptomatic subjects. J Dent Res, 1997, ${76}\left( 2\right)  : {704} - {713}$ .
+
+[ 30 ] Gallo LM. Modeling of temporomandibular joint function using MRI and jaw-tracking technologies-mechanics, Cells Tissues Organs, 2005, 180(1): 54-68.
+
+[ 31 ] Gary Kamen, David A. Gabriel. Essentials of Electromyography. Human Kinetics. 2010.
+
+[32] Gueiros LA, Soares MS, Jair Leao JC. Impact of ageing and drug consumption on oral health. Gerodontology, 2009, 26: 297-301.
+
+[ 33 ] Hayashi T, Saitoh A, Ishioka K, Miyakawa M. A computerized system for analyzing occlusal relations during mandibular movements. Int J Prosthodont, 2002, 1994: 108-114.
+
+[ 34 ] Hobo S. Oral rehabilitation: clinical determination of occlusion. Tokyo; London: Quintessence, 1997.
+
+[35] Hoogmartens MJ, Caubergh MAA. Chewing side preference during the. rst chewing circle as a new type of lateral preference in man. Electromyogr Clin Neurophysiol, 1987, 27: 3-6.
+
+[ 36 ] Kordass B. The virtual articulator in dentistry: concept and development. Dent Clin N Am, 2002, 46: 493-506.
+
+[37] Krantz, John. Experiencing Sensation and Perception. Pearson Education, Limited, 2009. 123.
+
+[38] Liedberg B, wall B. Oral bolus kneading and shaping measured with chewing gum. Dysphagia, 1995, 10: 101- 106.
+
+[ 39 ] Liu X, Yu L, Wang Q, Pelletier J, et al. Expression of ecto-ATPase NTPDase 2 in human dental pulp. J Dent Res, 2012, 91(3): 261-7.
+
+[ 40 ] Magloire H, Couble ML, Romeas A, et al. Odontoblast primary cilia: facts and hypotheses. Cell Biol Int, 2004, 28(2): 93-9.
+
+[ 41 ] Magloire H, Maurin JC, Couble ML, et al. Topical review. Dental pain and odontoblasts: facts and hypotheses. J Orofac Pain, 2010, 24(4): 335-49.
+
+[ 42 ] Marder E, Calabrese RL. Principles of rhythmic motor pattern production. Physiological Reviews, 1996, 76: 687-717.
+
+[ 43 ] McGrath PA, Gracely RH, Dubner R, Heft MW. Non-pain and pain sensations evoked by tooth pulp stimulation. Pain, 1983, 15(4): 377-88.
+
+[ 44 ] McNeill C. Science and Practice of Occlusion. Chicago: Quintessence Publishing Co. Inc., 1997.
+
+[ 45 ] Miles TS, Nauntofte B, Svensson P. Clinical Oral Physiology. Quintessence Publishing Co, Ltd. 2004. 23-24, 38- 39, 58, 178-180.
+
+[ 46 ] Mohl ND, Zarb GA, Carlsson GE, et al. A Textbook of Occlusion. Chicago: Quintessence Publishing Co. Inc., 1988.
+
+[ 47 ] Mosby's medical dictionary, 8th edition. St. Louis, Mo. Mosby, 2009.
+
+[ 48 ] Neville BW, Damm D, Allen C, Bouquot J. Oral & Maxillofacial Pathology. Second edition. Saunders/Elsevier. 2002.
+
+[ 49 ] Niv D, Kreitler S, Diego B, Lamberto A. The Handbook of Chronic Pain. Nova Biomedical Books, 2007, 113.
+
+[ 50 ] Norman D. Mohl, George A. Zarb, Gunnar E. Carlson. A textbook of occlusion. Chicago. Quintessence Pub. Co., 1988.
+
+[ 51 ] Olson EJ, Moore WR, Morgenthaler TI, et al. Obstructive sleep apnea-hypopnea syndrome. Mayo Clin Proc, 2003, 78(12): 1545-52.
+
+[ 52 ] Peters CW, Kruse U, Pollwein R, et al. The human lysozyme gene. Sequence organization andchromosomal
+
+localization. Eur. J. Biochem, 182(3): 507-16.
+
+[ 53 ] Picinato-Pirola MNC, Mestriner Jr W, Freitas O, et al. Masticatory efficiency in class II and class III dentofacial deformities. 2012, 41(7): 830-834.
+
+[ 54 ] Picton DCA. The effect on normal vertical tooth mobility of the rate of thrust and time interval between thrusts. Arch Oral Biol, 1963, 8: 291.
+
+[ 55 ] Pinel, John PJ. Biopsychology. Pearson Education Inc. 2006, 178.
+
+[ 56 ] Pond LH, Barghi N, Bamwell GM. Occlusion and chewing side preference. J Prosth Dent, 1986, 55: 495-500.
+
+[ 57 ] Ramasubbu N, Paloth V, Luo Y, et al. Levine MJ. Structure of Human Salivary $\alpha$ -Amylase at 1.6. Resolution: Implications for its Role in the Oral Cavity. Acta Crystallographica Section D Biological Crystallography, 1996, 52 (3): 435-446.
+
+[58] Remmers JE, Dogroot WJ, Sauerland EK et al. Pathogenesis of upper airway occlusion during sleep. J Appl Physiol, 1978, 44: 931-938.
+
+[ 59 ] Rizzo, Donald C. Instructor's Manual for Delmar's Fundamentals of Anatomy & Physiology. South Melbourne, Victoria, Australia, Stanford, CT, U.S. Delmar, 2001.
+
+[ 60 ] Speksnijder CM, Abbink JH, van der Glas HW, et al. Mixing ability test compared with acomminution test in persons with normal and compromised masticatory performance. Eur J Oral Sci, 2009, 117: 580-586.
+
+[61] Summit, James B, J. William Robbins, Richard S, Schwartz. Fundamentals of Operative Dentistry: A Contemporary Approach. 2nd edition. Carol Stream, Illinois, Quintessence Publishing Co, Inc. 2001.
+
+[ 62 ] SunYG, Zhao ZQ, Meng XL, et al. Cellular Basis of Itch Sensation. Science. 2009, 325(5947): 1531-1534.
+
+[ 63 ] Tatsumi K, Kasahara Y, Kurosu K, et al. Sleep oxygen desaturation and circulating leptin in obstructive sleep apnea-hypopnea syndrome. Chest, 2005, 127(3): 716-21.
+
+[ 64 ] The glossary of prosthodontics terms. The Journal of Prosthetic Dentistry, 2005, 94(1): 10-92.
+
+[ 65 ] Tumrasvin W, Fueki K, Ohyama T. Factors association with masticatory performance in unilateral distal extension removable partial denture patients. J Prosth, 2006, 15: 25-31.
+
+[ 66 ] van der Bilt A, Fontijn-Tekamp FA. Comparison of single and multiple sieve methods for the determination of masticatory performance. Archs Oral Biol, 2004, 49: 193-198.
+
+[ 67 ] Werker JF, Tees RC. The organization of reorganinization of human speech perception. Annual Review of Neuroscience, 1992, 15: 377-402.
+
+[ 68 ] Widmaier EP, Raff H, Strang KT. Vander's Human Physiology: the Mechanisms of Body Function, Tenth Edition. McGraw-Hill Companies, Inc. 2006, 306-307.
+
+[ 69 ] Wilhelm Patricia Brady, Rhees R. Ward, Van De Graaff, Kent M. Human Anatomy and Physiology: Based on Schaum’s Outline of Theory and Problems of Human Anatomy and Physiology. New York. McGraw-Hill, 2001.
+
+[ 70 ] Williams KD. The Social Outcast: Ostracism, Social Exclusion, Rejection, & Bullying(Sydney Symposium of Social Psychology). East Sussex: Psychology Press, 2005, 210.
+
+[ 71 ] Winter R, Harrar V, Gozdzik M, et al. The relative timing of active and passive touch. Brain Research, 2008, 1242: 54-58.
+
+中英文专业词汇索引B
+
+Balkwill 角 (Balkwill angle) 145
+
+Bennett 角 (Bennett angle) 187
+
+Bennett 运动(Bennett movement) 179
+
+Bonwill 等边三角形(Bonwill equilateral triangle)139半月形切牙(Hutchinson's incisors) 104 鼻翼耳屏线 (Comper's line, ala-tragus line) 142, 145 闭颌反射(jaw-closing reflex) 176 边缘性运动 (border movement) 129, 182 边缘运动 (border movement) 180 病理𬌗(pathologic occlusion) 159 补偿曲线 (compensate curve) 137 部分牙缺失(hypodontia) 99 部位记录法(quadrant coding method) 38C参考平面(reference planes) 141 槽生牙(thecodont) 14 侧方运动(lateral movement) 179 侧副根管(accessory canal) 109 侧副根管孔(accessory foramen) 109 侧𬌗(lateral occlusion) 156 侧生牙(pleurodont) 14 侧支根管(lateral canal) 109 长正中(long centric) 128, 164, 183 触觉(tactile sensation) 248 唇面(labial surface) 47 唇轴嵴(labial axial ridge) 57 刺刀样弯曲(bayonet curve) 109 刺激性牙本质(irritation dentin) 112D大根尖直径(major apical diameter) 111 单牙列(monophyodont) 12 第三期牙本质(tertiary dentin) 112 点角 (point angle) 45 点隙 (pit) 49 动力平衡(balance of driving forces) 20 端生牙(acrodont) 14 对刃𬌗(edge to edge bite) 151
+
+多生牙或额外牙(supernumerary teeth) 99
+
+$\mathbf{F}$
+
+Fisher 角 (Fisher angle) 187
+
+发音(pronunciation) 228
+
+发育沟(developmental groove) 49
+
+反𬌗 (cross bite) 150
+
+反射动作 (reflex activity) 221
+
+反应性牙本质(reactionary dentin) 112
+
+非支持尖(nonsupporting cusps) 153
+
+分叉根管 (furcation canal) 109
+
+氟牙症(dental fluorosis) 104
+
+辅音(consonant) 230
+
+副沟(supplemental groove) 49
+
+覆盖 (overjet) 150
+
+覆𬌗(overbite) 150$\mathbf{G}$
+
+钙化(calcification) 31
+
+哥特式弓(Gothic arch) 183
+
+个体下颌运动型(individual pattern of mandibular
+
+movement) 178
+
+根干 (root trunk) 75
+
+根管 (root canal) 27, 107
+
+根管口(root canal orifice) 106
+
+根管系统(root canal system) 106, 107
+
+根尖分歧(apical ramification) 111
+
+根尖孔(apical foramen) 26, 106, 110
+
+根尖三角区(apical delta) 111
+
+根尖狭窄部(apical constriction) 111
+
+根尖止点(apical stop) 112
+
+共振(resonance) 229
+
+沟(groove) 49
+
+沟状凹陷(developmental depression) 64
+
+管间连接(intercanal connection) 110
+
+管间峡部(isthmus) 110
+
+国际牙科联合会系统(Federation Dentaire International
+
+System, 简称 FDI 系统)41
+
+过大牙(macrodontia) 101
+
+过小牙(microdontia) 101H
+
+𬌗(occlusion) 18, 136, 147
+
+𬌗程序(occlusal program) 178
+
+𬌗垂直距离(occlusal vertical dimension or vertical
+
+dimension of occlusion) 166
+
+𬌗架(articulator) 127, 190
+
+𬌗力(biting force or occlusal force) 210
+
+𬌗面(occlusal surface) 47
+
+𬌗平面(occlusal plane, plane of occlusion) 142
+
+𬌗曲线 (occlusal curve) 127, 136
+
+恒牙(permanent teeth) 29
+
+恒牙𬌗(permanent occlusion) 21
+
+横𬌗曲线(transverse curve of occlusion) 136, 137
+
+横嵴(transverse ridge) 48, 64
+
+横向吻合(transverse anastomosis) 110
+
+后退接触位(retruded contact position, RCP) 163
+
+后牙(posterior teeth) 28
+
+混合牙列(mixed dentitions) 154
+
+$\mathbf{J}$
+
+机械感受器(mechanical receptor) 248
+
+肌电图 (electromyogram, EMG) 203
+
+肌接触位(muscular contact position, MCP) 167
+
+肌紧张 (muscle tone) 178
+
+畸形舌窝(invaginated lingual fossa) 102
+
+畸形中央尖(occlusal anomalous tubercle) 101
+
+嵴(ridge) 48
+
+继发牙本质(secondary dentin) 111
+
+颊面(buccal surface) 47
+
+尖牙(canines) 27
+
+尖牙保护𬌗(canine protected occlusion) 128, 157
+
+建𬌗(establishment of occlusion) 20
+
+接触区(contact area) 45, 93
+
+结节 (tubercle) 48
+
+解剖根尖(anatomic apex) 110, 111
+
+解剖牙根(anatomical root) 26
+
+解剖牙冠(anatomical crown) 25
+
+近中沟(mesial marginal groove) 64
+
+近中舌沟(mesiolingual developmental groove) 66
+
+颈嵴(cervical ridge) 49, 83
+
+颈线(cervical line) 26,96
+
+静息期(silent period) 204
+
+咀嚼(mastication) 173
+
+咀嚼肌力(masticatory muscle force) 210
+
+咀嚼力(masticatory force) 210
+
+咀嚼效率(masticatory efficiency) 213
+
+咀嚼型(chewing pattern) 197
+
+咀嚼周期(chewing cycle) 199
+
+K
+
+卡氏尖 (cusp of Carabelli) 72
+
+开𬌗 (open bite) 151
+
+开𬌗吞咽(tooth apart swallowing) 222, 224
+
+开颌反射(jaw-opening reflex) 177
+
+开口运动(opening movement) 179
+
+髁点(condylar point) 181
+
+咳嗽反射(cough reflex) 265
+
+口颌系统(stomatognathic system) 147
+
+口呼吸(mouth breathing) 265
+
+叩齿运动(tapping movement) 180
+
+眶耳平面(Frankfort plane) 141, 145, 181
+
+L
+
+理想𬌗(optimal occlusion) 159, 161
+
+裂(fissure) 49
+
+邻间隙(interproximal spaces) 94
+
+邻面 (proximal surface) 47
+
+临床牙根(clinical root) 26
+
+临床牙冠(clinical crown) 25
+
+流体动力学假说(hydrodynamic hypothesis of dentinal
+
+sensitivity) 259$\mathbf{M}$Monson 球面 139 萌出(eruption) 33 磨耗(attrition) 215 磨损(abrasion) 215 磨牙(molars) 28$\mathbf{N}$牛牙样牙(taurodontism) 103$\mathbf{P}$Palmer 记录系统(Palmer notation system) 40Q前磨牙(premolars) 28 前伸𬌗(protrusive occlusion) 156 前伸运动(protrusive movement) 179 前牙(anterior teeth) 28 切导 (incisal guidance) 151 切道(incisal path) 151 切道斜度(inclination of incisal path) 151 切点 (incisor point) 181 切嵴(incisal ridge) 47, 48, 51 切牙(incisors) 27
+

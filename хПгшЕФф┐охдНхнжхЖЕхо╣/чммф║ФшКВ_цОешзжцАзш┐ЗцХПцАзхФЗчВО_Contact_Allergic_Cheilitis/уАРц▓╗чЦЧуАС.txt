@@ -1,0 +1,27 @@
+
+目前对艾滋病尚无根治性治疗方法。治疗包括以下几个方面:
+
+1.抗 HIV 治疗 高效抗反转录病毒治疗 (HAART),俗称鸡尾酒疗法,是 AIDS 最根本的治疗方法。一般需要终身服药。
+
+(1)治疗目标:降低 HIV 感染者的发病率和病死率,降低非艾滋病相关疾病的发病率和病死率,使患者获得正常的期望寿命,提高生活质量；最大限度地抑制病毒复制,使病毒载量降低至检测下限,并减少病毒变异；重建或者改善免疫功能；减少异常的免疫激活；减少 HIV 的传播,预防母婴传播。
+
+(2)抗反转录病毒(ARV)药物:目前国际上共有六大类 30 多种药物(包括复合制剂) 分别为核苷类反转录酶抑制剂(nucleotide reverse transcriptase inhibitor, NRTI)、非核苷类反转录酶抑制剂(non-nucleoside reverse transcriptase inhibitor, NNRTI)、蛋白酶抑制剂(protease inhibitor, PI )、整合酶抑制剂(integrase inhibitor, INSTI )、膜融合抑制剂(infusion inhibitor, FI)及 CCR5 抑制剂。国内目前使用的 HAART 药物包括 NRTI、NNRTI、PI、INSTI 和 FI 这五大类(包含复合制剂)。
+
+(3)成人及青少年抗病毒治疗时机与方案
+
+1)对成人及青少年 HIV 感染者开始抗反转录病毒治疗的时机:一旦确诊为 HIV 感染,无论 ${\mathrm{{CD4}}}^{ + }\mathrm{T}$ 淋巴细胞水平高低,均建议立即开始治疗。在开始 HAART 前,一定要取得患者的配合和同意,教育患者保持良好的用药依从性；如患者存在严重的机会性感染和既往慢性疾病急性发作期,则应参考机会性感染治疗方法控制,待病情稳定后开始治疗。启动 HAART 后, 需终身治疗。
+
+2)成人及青少年初始 HAART 方案:初始治疗推荐方案为 2 种 NRTI 类骨干药物联合第三类药物治疗。第三类药物可以为NNRTI或增强型PI(含利托那韦)或INSTI；有条件者可以选用复方单片制剂 ( STR )。
+
+基于我国可获得的抗病毒药,对于未接受过 HAART 的患者,推荐及替代方案见表 14-1。
+
+对于某些特殊人群(如儿童、孕妇、哺乳期妇女,以及合并结核、肝炎的患者和静脉吸毒者)的抗病毒治疗均有其特殊性,应参考相应的治疗方案。
+
+(4)抗病毒治疗的监测:在抗病毒治疗过程中,要定期进行临床评估和实验室检查,以评价治疗效果,及时发现抗病毒药物的不良反应,以及是否产生病毒耐药性等,必要时须更换药物,以保证抗病毒治疗成功。HAART 的有效性主要通过病毒学指标、免疫学指标和临床症状三方面进行评估。其中, 病毒学指标是最重要的指标。病毒耐药是导致抗病毒治疗失败的主要原因之一, 对抗病毒治疗效果不佳或治疗失败者, 可行耐药检测。适时监测并及时处理药物的不良反应对于提高治疗效果至关重要。特殊人群(如儿童、妊娠妇女及肾功能不全患者等) 用药时,在条件允许的情况下可进行治疗药物监测(therapeutic drug monitoring, TDM)。
+
+表 14-1 推荐成人及青少年初治患者抗病毒治疗方案
+
+<table><tr><td>两种 NRTI</td><td>第三类药物</td></tr><tr><td>推荐方案</td><td>+ NNRTI: EFV、RPV</td></tr><tr><td>$\mathrm{{TDF}}\left( {\mathrm{{ABC}}}^{\mathrm{a}}\right)  + 3\mathrm{{TC}}\left( \mathrm{{FTC}}\right)$</td><td>或十 PI: $\mathrm{{LPV}}/\mathrm{r}\text{、}\mathrm{{DRV}}/\mathrm{c}$</td></tr><tr><td>FTC/TAF</td><td>或十 INSTI: DTG、RAL</td></tr><tr><td colspan="2">单片制剂方案</td></tr><tr><td>TAF/FTC/EVG/c ${}^{\mathrm{b}}$</td><td/></tr><tr><td>ABC/3TC/DTG</td><td/></tr><tr><td>替代方案</td><td>+EFV 或 NVP ${}^{ \circ  }$ 或 RPV ${}^{\mathrm{d}}$</td></tr><tr><td>AZT + 3TC</td><td>或十 LPV/r</td></tr></table>
+
+注:TDF,替诺福韦；ABC,阿巴卡韦；3TC,拉米夫定；FTC,恩曲他滨；TAF,丙酚替诺福韦；AZT,齐多夫定； NNRTI,非核苷类反转录酶抑制剂；EFV,依非韦伦；PI,蛋白酶抑制剂；INSTI,整合酶抑制剂；LPV/r,洛匹那韦 / 利托那韦；RAL,拉替拉韦；NVP,奈韦拉平；RPV,利匹韦林； ${}^{a}$ ,用于 HLA-B*5701 阴性者； ${}^{b}$ ,单片复方制剂； ${}^{c}$ ,对于基线 ${\mathrm{{CD4}}}^{ + }$ T 淋巴细胞 $> {250}$ 个 $/\mu \mathrm{l}$ 的患者要尽量避免使用含 NVP 的治疗方案,对合并丙型肝炎病毒感染者避免使用含 NVP 的方案; ${}^{\mathrm{d}}$ , RPV 仅用于病毒载量 $< {10}^{5}$ 拷贝 $/\mathrm{{ml}}$ 和 ${\mathrm{{CD4}}}^{ + }\mathrm{T}$ 淋巴细胞 $> {200}$ 个 $/{\mu 1}$ 的患者
+

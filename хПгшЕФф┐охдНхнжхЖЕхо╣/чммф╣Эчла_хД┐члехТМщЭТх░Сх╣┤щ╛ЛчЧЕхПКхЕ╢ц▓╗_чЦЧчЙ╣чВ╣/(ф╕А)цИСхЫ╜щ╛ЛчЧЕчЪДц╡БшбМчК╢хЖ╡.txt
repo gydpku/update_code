@@ -1,0 +1,101 @@
+
+$\mathbf{1.3 \sim  5}$ 岁年龄组 第四次全国口腔健康流行病学调查结果显示,全国 3~5 岁年龄组的乳牙患龋率为 62.5%,乳牙龋均(dmft 均数)为 3.35。全国 3 岁、4 岁、5 岁年龄组的乳牙患龋率分别为 50.8%、63.6%、71.9%(图 10-3),乳牙龋均(dmft 均数)分别为 2.28、3.40、4.24, 乳牙患龋状况随年龄增加而加重(图 10-4)。全国 3~5 岁年龄组的龋补充填比为 3.1%,3 岁、 4 岁、5 岁年龄组的龋补充填比分别为 1.5%、2.9%、4.1%,也随年龄增加而升高。
+
+全国 3 岁、4 岁、5 岁年龄组乳牙患龋率及龋均(dmft 均数)农村高于城市,龋补充填比则为城市高于农村,全国 3 岁、4 岁、5 岁年龄组乳牙患龋率、龋均(dmft 均数)和龋补充填比男性与女性间差别不明显 (表 10-7)。
+
+
+
+图 10-3 全国 3~5 岁年龄组乳牙患龋率(2015 年)
+
+
+
+图 10-4 全国 3~5 岁年龄组乳牙龋均(2015 年)
+
+表 10-7 全国 3~5 岁年龄组乳牙患龋率、龋均及龋补充填比(2015 年)
+
+<table><tr><td colspan="2" rowspan="2"/><td rowspan="2">患龋率 (%)</td><td colspan="2">龋坏牙(dt)</td><td colspan="2">龋失牙(mt)</td><td colspan="2">龋补牙(ft)</td><td colspan="2">龋失补牙 ( dmft )</td><td rowspan="2">龋补充填 比(%)</td></tr><tr><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$s$</td><td>文</td><td>$s$</td><td>$\bar{x}$</td><td>$S$</td></tr><tr><td rowspan="3">年龄组</td><td>3 岁</td><td>50.8</td><td>2.25</td><td>3.38</td><td>0.00</td><td>0.07</td><td>0.03</td><td>0.36</td><td>2.28</td><td>3.41</td><td>1.5</td></tr><tr><td>4 岁</td><td>63.6</td><td>3.29</td><td>4.07</td><td>0.01</td><td>0.10</td><td>0.10</td><td>0.63</td><td>3.40</td><td>4.15</td><td>2.9</td></tr><tr><td>5 岁</td><td>71.9</td><td>4.06</td><td>4.39</td><td>0.01</td><td>0.16</td><td>0.17</td><td>0.79</td><td>4.24</td><td>4.48</td><td>4.1</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>60.7</td><td>2.98</td><td>3.86</td><td>0.01</td><td>0.12</td><td>0.15</td><td>0.75</td><td>3.14</td><td>3.99</td><td>4.7</td></tr><tr><td>乡</td><td>64.4</td><td>3.50</td><td>4.23</td><td>0.01</td><td>0.11</td><td>0.06</td><td>0.46</td><td>3.57</td><td>4.28</td><td>1.7</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>62.7</td><td>3.28</td><td>4.08</td><td>0.01</td><td>0.11</td><td>0.10</td><td>0.64</td><td>3.39</td><td>4.16</td><td>3.1</td></tr><tr><td>女</td><td>62.4</td><td>3.19</td><td>4.03</td><td>0.01</td><td>0.12</td><td>0.11</td><td>0.62</td><td>3.31</td><td>4.12</td><td>3.2</td></tr><tr><td colspan="2">合计</td><td>62.5</td><td>3.24</td><td>4.06</td><td>0.01</td><td>0.12</td><td>0.11</td><td>0.63</td><td>3.35</td><td>4.14</td><td>3.1</td></tr></table>
+
+在 5 岁患龋儿童中,75.4% 的龋齿集中在 1/3 儿童中,这部分儿童的龋均 [ 即显著龋病指数(SiC)] 为 9.61 。
+
+5 岁年龄组龋齿好发的牙位依次为上颌乳中切牙、下颌第二乳磨牙、下颌第一乳磨牙、上颌乳磨牙(图 10-5)。
+
+
+
+图 10-5 全国 5 岁年龄组乳牙龋齿牙位分布(2015 年)
+
+5 岁年龄组龋均 (dmft均数) 构成比分别为龋坏牙 (dt) 占 95.8%, 龋失牙 (mt) 占 0.2%,龋补牙 (ft) 占 4.0%,其中龋坏牙占的比例最大 (图 10-6)。
+
+$\mathbf{{2.12} \sim  {15}}$ 岁年龄组 第四次全国口腔健康流行病学调查结果显示,全国 12 $\sim  {15}$ 岁年龄组的恒牙患龋率为 41.9%,恒牙龋均(DMFT 均数)为 1.04 ,龋补充填比为 17.5%。全国 12 岁年龄组恒牙患龋率、恒牙龋均(DMFT 均数)、龋补充填比分别为 38.5%、0.86 和 16.5%。全国 15 岁年龄组恒牙患龋率、恒牙龋均(DMFT 均数)和龋补充填比分别为 44.4%、1.20 和 18.5%。
+
+全国 12 岁和 15 岁年龄组恒牙患龋率、龋均(DMFT 均数)为农村高于城市,龋补充填比则为城市高于农村；全国 12 岁和 15 岁年龄组恒牙患龋率、龋均(DMFT 均数)和龋补充填比均呈现女性高于男性 (表 10-8 )。
+
+
+
+图 10-6 全国 5 岁年龄组乳牙龋失补构成(2015 年)
+
+表 10-8 全国 12~15 岁年龄组恒牙患龋率、龋均及龋补充填比(2015 年)
+
+<table><tr><td/><td rowspan="2"/><td rowspan="2">患龋率 ( % )</td><td colspan="2">龋坏牙( DT )</td><td colspan="2">龋失牙( MT )</td><td colspan="2">龋补牙(FT)</td><td colspan="2">龋失补牙(DMFT)</td><td rowspan="2">龋补充填 比(%)</td></tr><tr><td/><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$s$</td></tr><tr><td rowspan="2">年龄组</td><td>12 岁</td><td>38.5</td><td>0.71</td><td>1.33</td><td>0.00</td><td>0.07</td><td>0.14</td><td>0.62</td><td>0.86</td><td>1.48</td><td>16.5</td></tr><tr><td>15 岁</td><td>44.4</td><td>0.97</td><td>1.72</td><td>0.01</td><td>0.10</td><td>0.22</td><td>0.88</td><td>1.20</td><td>1.99</td><td>18.5</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>40.8</td><td>0.79</td><td>1.47</td><td>0.01</td><td>0.08</td><td>0.20</td><td>0.82</td><td>1.00</td><td>1.72</td><td>20.2</td></tr><tr><td>乡</td><td>43.0</td><td>0.92</td><td>1.62</td><td>0.01</td><td>0.10</td><td>0.15</td><td>0.67</td><td>1.07</td><td>1.80</td><td>14.0</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>36.8</td><td>0.71</td><td>1.39</td><td>0.01</td><td>0.08</td><td>0.13</td><td>0.60</td><td>0.84</td><td>1.55</td><td>15.5</td></tr><tr><td>女</td><td>47.0</td><td>0.99</td><td>1.68</td><td>0.01</td><td>0.10</td><td>0.22</td><td>0.88</td><td>1.23</td><td>1.93</td><td>18.2</td></tr><tr><td colspan="2">合计</td><td>41.9</td><td>0.85</td><td>1.55</td><td>0.01</td><td>0.09</td><td>0.18</td><td>0.75</td><td>1.04</td><td>1.76</td><td>17.5</td></tr></table>
+
+在 12 岁患龋学生中,94.0% 的龋齿集中在 1/3 学生中,这部分学生的龋均 [ 即显著龋病指数 (SiC)] 达 2.42。在 15 岁患龋学生中,90.8% 的龋齿集中在 1/3 学生中,这部分学生的龋均 [即显著龋病指数 (SiC)] 达 3.26。
+
+12 岁和 15 岁年龄组的龋齿好发牙位相似,前三位均为下颌第一恒磨牙、上颌第一恒磨牙、下颌第二恒磨牙 (图 10-7)。
+
+
+
+图 10-7 全国 15 岁年龄组恒牙龋齿牙位分布 (2015 年)
+
+全国 12 岁年龄组龋均 (DMFT 均数) 构成比分别为龋坏牙 (DT) 占 83.4%、龋失牙 (MT)占 ${0.4}\%$ 、龋补牙 (FT)占 ${16.2}\%$ ,其中龋坏牙占的比例最大 (图 10-8)。
+
+全国 15 岁年龄组龋均 (DMFT 均数) 构成比分别为龋坏牙 (DT) 占 81.3%、龋失牙 (MT)占 ${0.7}\%$ 、龋补牙 (FT)占 ${18.0}\%$ ,其中龋坏牙占的比例最大 (图 10-9)。
+
+3.35~44 岁年龄组 第四次全国口腔健康流行病学调查结果显示,全国 35~44 岁年龄组恒牙患龋率为 89.0%,恒牙龋均(DMFT 均数)为 4.54,龋补充填比为 26.6%；恒牙患龋率和龋均(DMFT均数)城乡差别不明显,龋补充填比城市高于农村；恒牙患龋率、龋均(DMFT 均数)、龋补充填比均为女性高于男性(表 10-9)。35~44 岁年龄组所患龋齿中龋失补构成比分别为 ${34.5}\% \text{、}{53.0}\% \text{、}{12.5}\%$ 。
+
+
+
+图 10-8 全国 12 岁年龄组恒牙龋失补构成 (2015 年)
+
+
+
+图 10-9 全国 15 岁年龄组恒牙龋失补构成(2015 年)
+
+表 10-9 全国 35~44 岁年龄组恒牙患龋率、龋均及龋补充填比(2015 年)
+
+<table><tr><td colspan="2" rowspan="2"/><td rowspan="2">受检 人数</td><td rowspan="2">患龋率 ( % )</td><td>龋坏牙</td><td>( DT )</td><td>龋失牙</td><td>( MT )</td><td>龋补牙</td><td>(FT)</td><td colspan="2">龋失补牙( DMFT )</td><td rowspan="2">龋补充填 比(%)</td></tr><tr><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$s$</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>2239</td><td>89.4</td><td>1.43</td><td>2.32</td><td>2.40</td><td>2.21</td><td>0.67</td><td>1.49</td><td>4.49</td><td>3.74</td><td>31.9</td></tr><tr><td>乡</td><td>2171</td><td>88.7</td><td>1.71</td><td>2.58</td><td>2.41</td><td>2.38</td><td>0.46</td><td>1.38</td><td>4.58</td><td>4.10</td><td>21.2</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>2197</td><td>86.2</td><td>1.24</td><td>2.18</td><td>2.31</td><td>2.33</td><td>0.38</td><td>1.13</td><td>3.93</td><td>3.65</td><td>23.5</td></tr><tr><td>女</td><td>2213</td><td>91.8</td><td>1.89</td><td>2.66</td><td>2.50</td><td>2.26</td><td>0.75</td><td>1.67</td><td>5.14</td><td>4.08</td><td>28.4</td></tr><tr><td>合计</td><td/><td>4410</td><td>89.0</td><td>1.57</td><td>2.46</td><td>2.40</td><td>2.30</td><td>0.57</td><td>1.44</td><td>4.54</td><td>3.92</td><td>26.6</td></tr></table>
+
+35~44 岁年龄组恒牙根龋的患龋率为 25.4%,农村高于城市,女性高于男性。恒牙根龋龋均为 0.57,农村高于城市,女性高于男性 $\left( {{表10} - {10}}\right) 。{35} \sim  {44}$ 岁年龄组所患根龋中龋补构成比分别为 ${98.2}\% \text{、}{1.8}\%$ 。
+
+4.55~64岁年龄组 全国 55~64 岁年龄组恒牙患龋率为 95.6%,恒牙龋均(DMFT 均数)为 8.69 , 龋补充填比为 16.9%；城乡差别不明显,恒牙龋均(DMFT 均数)农村高于城市,龋补充填比城市高于农村；恒牙患龋率、龋均(DMFT 均数)、龋补充填比均为女性高于男性(表 10-11)。55~64 岁年龄组所患龋齿中龋失补构成比分别为 28.3%、65.9%、5.8%。
+
+表 10-10 全国 35~44 岁年龄组恒牙根龋患龋率及龋均(2015 年)
+
+<table><tr><td colspan="2" rowspan="2"/><td rowspan="2">受检人数</td><td rowspan="2">根龋患龋率 ( % )</td><td colspan="2">DRoot</td><td colspan="2">FRoot</td><td colspan="2">DFRoot</td></tr><tr><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$s$</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>2239</td><td>24.8</td><td>0.53</td><td>1.34</td><td>0.01</td><td>0.11</td><td>0.54</td><td>1.34</td></tr><tr><td>乡</td><td>2171</td><td>29.1</td><td>0.67</td><td>1.57</td><td>0.01</td><td>0.12</td><td>0.68</td><td>1.58</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>2197</td><td>22.5</td><td>0.48</td><td>1.36</td><td>0.01</td><td>0.13</td><td>0.49</td><td>1.37</td></tr><tr><td>女</td><td>2213</td><td>28.3</td><td>0.64</td><td>1.55</td><td>0.02</td><td>0.27</td><td>0.66</td><td>1.58</td></tr><tr><td colspan="2">合计</td><td>4410</td><td>25.4</td><td>0.56</td><td>1.46</td><td>0.01</td><td>0.22</td><td>0.57</td><td>1.48</td></tr></table>
+
+注:DRoot:根面龋坏牙数；FRoot:根面因龋充填牙数；DFRoot:根面龋坏及因龋充填总牙数
+
+表 10-11 全国 55~64 岁年龄组恒牙患龋率、龋均及龋补充填比(2015 年)
+
+<table><tr><td colspan="2" rowspan="2"/><td rowspan="2">受检 人数</td><td rowspan="2">患龋率 ( % )</td><td>龋坏牙</td><td>( DT )</td><td>龋失牙</td><td>( MT )</td><td colspan="2">龋补牙( FT )</td><td>龋失补牙</td><td>( DMFT )</td><td rowspan="2">龋补充填 比(%)</td></tr><tr><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$s$</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>2342</td><td>95.4</td><td>2.15</td><td>2.99</td><td>5.54</td><td>5.87</td><td>0.67</td><td>1.59</td><td>8.36</td><td>6.90</td><td>23.8</td></tr><tr><td>乡</td><td>2281</td><td>95.7</td><td>2.77</td><td>3.65</td><td>5.92</td><td>6.39</td><td>0.34</td><td>1.13</td><td>9.03</td><td>7.48</td><td>10.9</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>2292</td><td>94.5</td><td>2.12</td><td>3.07</td><td>5.86</td><td>6.43</td><td>0.37</td><td>1.17</td><td>8.35</td><td>7.21</td><td>14.9</td></tr><tr><td>女</td><td>2331</td><td>96.7</td><td>2.79</td><td>3.57</td><td>5.60</td><td>5.82</td><td>0.63</td><td>1.57</td><td>9.03</td><td>7.18</td><td>18.4</td></tr><tr><td colspan="2">合计</td><td>4623</td><td>95.6</td><td>2.46</td><td>3.35</td><td>5.73</td><td>6.13</td><td>0.50</td><td>1.39</td><td>8.69</td><td>7.20</td><td>16.9</td></tr></table>
+
+55~64 岁年龄组恒牙根龋的患龋率为 51.0%,农村高于城市,女性高于男性。恒牙根龋龋均为 1.66,农村高于城市,女性高于男性(表 10-12)。55~64 岁年龄组所患根龋中龋补构成比分别为 96.4%、3.6%。
+
+表 10-12 全国 55~64 岁年龄组恒牙根龋患龋率及龋均 (2015 年)
+
+<table><tr><td colspan="2" rowspan="2"/><td rowspan="2">受检人数</td><td rowspan="2">根龋患龋 率 ( % )</td><td colspan="2">DRoot</td><td colspan="2">FRoot</td><td colspan="2">DFRoot</td></tr><tr><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$s$</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>2342</td><td>47.3</td><td>1.34</td><td>2.41</td><td>0.09</td><td>0.58</td><td>1.43</td><td>2.48</td></tr><tr><td>乡</td><td>2281</td><td>54.8</td><td>1.88</td><td>3.04</td><td>0.03</td><td>0.31</td><td>1.90</td><td>3.05</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>2292</td><td>49.6</td><td>1.46</td><td>2.57</td><td>0.05</td><td>0.48</td><td>1.52</td><td>2.62</td></tr><tr><td>女</td><td>2331</td><td>52.4</td><td>1.74</td><td>2.91</td><td>0.06</td><td>0.46</td><td>1.81</td><td>2.93</td></tr><tr><td colspan="2">合计</td><td>4623</td><td>51.0</td><td>1.60</td><td>2.75</td><td>0.06</td><td>0.47</td><td>1.66</td><td>2.79</td></tr></table>
+
+注:DRoot:根面龋坏牙数；FRoot:根面因龋充填牙数；DFRoot:根面龋坏及因龋充填总牙数
+
+5.65~74岁年龄组 第四次全国口腔健康流行病学调查结果显示,全国 65~74 岁年龄组恒牙患龋率为 98.0%,恒牙龋均(DMFT 均数)为 13.33 ,龋补充填比为 12.8%；恒牙患龋率、 龋均(DMFT 均数)城乡差别不明显,龋补充填比城市高于农村；恒牙患龋率、龋均(DMFT 均数)、龋补充填比均为女性高于男性(表 10-13)。65~74 岁年龄组所患龋齿中龋失补构成比分别为 ${25.0}\% \text{、}{71.3}\% \text{、}{3.7}\%$ 。
+
+65~74岁年龄组恒牙根龋的患病率为 61.9%,农村高于城市,女性高于男性。恒牙根龋龋均为 2.64,农村高于城市,女性高于男性(表 10-14)。65~74 岁年龄组所患根龋中龋补构成比分别为 97.0%、3.0%。
+
+表 10-13 全国 65~74 岁年龄组恒牙患龋率、龋均及龋补充填比(2015 年)
+
+<table><tr><td colspan="2" rowspan="2"/><td rowspan="2">受检 人数</td><td rowspan="2">患龋率 ( % )</td><td colspan="2">龋坏牙( DT )</td><td>龋失牙</td><td>( MT )</td><td colspan="2">( FT )</td><td>龋失补牙</td><td>( DMFT )</td><td rowspan="2">龋补充填 比(%)</td></tr><tr><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$s$</td><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$S$</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>2247</td><td>98.4</td><td>3.02</td><td>3.81</td><td>8.99</td><td>8.29</td><td>0.70</td><td>1.70</td><td>12.71</td><td>8.96</td><td>18.8</td></tr><tr><td>乡</td><td>2184</td><td>97.7</td><td>3.65</td><td>4.48</td><td>10.04</td><td>8.99</td><td>0.27</td><td>0.99</td><td>13.96</td><td>9.64</td><td>6.9</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>2222</td><td>97.8</td><td>3.00</td><td>3.84</td><td>9.51</td><td>8.70</td><td>0.36</td><td>1.10</td><td>12.87</td><td>9.23</td><td>10.7</td></tr><tr><td>女</td><td>2209</td><td>98.3</td><td>3.67</td><td>4.45</td><td>9.50</td><td>8.61</td><td>0.61</td><td>1.66</td><td>13.78</td><td>9.39</td><td>14.3</td></tr><tr><td colspan="2">合计</td><td>4431</td><td>98.0</td><td>3.33</td><td>4.17</td><td>9.50</td><td>8.66</td><td>0.49</td><td>1.41</td><td>13.33</td><td>9.32</td><td>12.8</td></tr></table>
+
+表 10-14 全国 65~74 岁年龄组恒牙根龋患龋率及龋均(2015 年)
+
+<table><tr><td colspan="2" rowspan="2"/><td rowspan="2">受检人数</td><td rowspan="2">根龋患龋率 ( % )</td><td colspan="2">DRoot</td><td colspan="2">FRoot</td><td colspan="2">DFRoot</td></tr><tr><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$S$</td><td>$\bar{x}$</td><td>$S$</td></tr><tr><td rowspan="2">城乡</td><td>城</td><td>2247</td><td>60.1</td><td>2.23</td><td>3.35</td><td>0.14</td><td>0.82</td><td>2.37</td><td>3.44</td></tr><tr><td>乡</td><td>2184</td><td>63.9</td><td>2.90</td><td>4.04</td><td>0.03</td><td>0.25</td><td>2.93</td><td>4.04</td></tr><tr><td rowspan="2">性别</td><td>男</td><td>2222</td><td>59.2</td><td>2.36</td><td>3.50</td><td>0.08</td><td>0.57</td><td>2.44</td><td>3.54</td></tr><tr><td>女</td><td>2209</td><td>64.7</td><td>2.76</td><td>3.92</td><td>0.09</td><td>0.66</td><td>2.85</td><td>3.95</td></tr><tr><td colspan="2">合计</td><td>4431</td><td>61.9</td><td>2.56</td><td>3.72</td><td>0.09</td><td>0.61</td><td>2.64</td><td>3.76</td></tr></table>
+
+注:DRoot:根面龋坏牙数；FRoot:根面因龋充填牙数；DFRoot:根面龋坏及因龋充填总牙数
+

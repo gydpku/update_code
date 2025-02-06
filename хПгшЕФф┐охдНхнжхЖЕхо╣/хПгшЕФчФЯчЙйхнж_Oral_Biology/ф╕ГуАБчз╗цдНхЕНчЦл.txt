@@ -1,0 +1,3 @@
+
+移植是将个体的细胞、组织或器官作为移植物 (graft) 植入另一个体的过程。提供移植物的个体称为供体 (donor), 接受移植物的个体称为宿主 (host) 或受者 (recipient)。根据供体与受者之间的关系,移植分为四种:自体移植(autotransplantation)、同种同型移植(syngeneic transplantation)、同种异体移植(allogeneic transplantation)和异种移植(xeno-transplantation)。 其中同种异体移植和异种移植会发生免疫排斥 (transplantation rejection)。免疫排斥主要指宿主免疫系统对移植物发生免疫应答,导致移植物变性甚至坏死的过程；也指移植物内免疫细胞对宿主组织的免疫应答,导致宿主组织的病变。显然,免疫排斥成为移植是否成功的关键。由于移植物来源的限制, 目前临床应用最广的是同种异体移植。移植免疫(immunity to transplantation)的内容是认识、避免或抑制同种异体移植的免疫排斥,使移植获得成功。
+

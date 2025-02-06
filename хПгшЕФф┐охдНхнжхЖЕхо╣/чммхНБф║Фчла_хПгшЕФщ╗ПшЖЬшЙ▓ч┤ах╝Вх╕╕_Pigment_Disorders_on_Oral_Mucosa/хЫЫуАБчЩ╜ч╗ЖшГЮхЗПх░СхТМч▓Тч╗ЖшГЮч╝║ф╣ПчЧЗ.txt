@@ -1,0 +1,3 @@
+
+白细胞减少 (leukopenia) 是指外周血白细胞绝对计数持续低于 ${4.0} \times  {10}^{9}/\mathrm{L}$ 。中粒细胞减少症 (neutropenia) 是指外周血中性粒细胞绝对计数减少,当 10 岁以下儿童其绝对值低于 ${1.5} \times  {10}^{9}/\mathrm{L},{10} \sim  {14}$ 岁儿童低于 ${1.8} \times  {10}^{9}/\mathrm{L}$ ,成人低于 ${2.0} \times  {10}^{9}/\mathrm{L}$ 时,称为粒细胞减少症。其绝对值低于 ${0.5} \times  {10}^{9}/\mathrm{L}$ 时,称为粒细胞缺乏症 (agranulocytosis)。
+

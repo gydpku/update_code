@@ -1,0 +1,1911 @@
+
+第一章 概论
+
+Introduction
+
+第一节 简要历史回顾
+
+History Review .2
+
+第二节 现代口腔种植学的理论基础
+
+Theoretical Principle of Modern
+
+Implantology 3
+
+一、Brånemark 的发现 3
+
+二、Brånemark 的骨结合理论 3
+
+三、种植体植入后的骨愈合 .4
+
+四、种植体的软组织界面 .4
+
+第三节 种植体的材料选择
+
+The Selection of Implant Material 5
+
+一、种植体材料选择的一般原则 5
+
+二、曾经用于种植体的生物材料 6
+
+三、羟基磷灰石陶瓷种植体 6
+
+四、HA 陶瓷涂层的钛种植体 6
+
+五、纯钛种植体 .7
+
+六、钛种植体的不同表面处理 .7
+
+第四节 口腔种植的成功率及成功标准
+
+Success Rate and Criteria -8
+
+一、临床资料收集指南 -8
+
+二、种植成功的标准 .9
+
+第五节 当代口腔种植系统的设计与分类
+
+Design and Classification of
+
+Contemporary Implant System.... 10
+
+一、牙种植体的宏观设计 10
+
+二、种植体的微观设计 12
+
+三、牙种植体的颈部设计 13
+
+四、全瓷材料种植体 14
+
+Summary 15
+
+Definition and Terminology 15
+
+第二章 口腔颌面部解剖生理特点与口腔
+
+种植
+
+Anatomic and Physiological
+
+Characteristics of Oral and
+
+Maxillofacial Region and Oral
+
+Implantation 16
+
+第一节 种植相关的上颌骨解剖生物学特点
+
+The Implant Related Anatomy of
+
+Maxilla 16
+
+一、牙槽突 16
+
+二、腭突 17
+
+三、切牙孔及切牙管 17
+
+四、上颌结节 18
+
+五、上颌窦的解剖特点 18
+
+第二节 种植相关的下颌骨解剖生物学特点
+
+The Implant Related Anatomy of
+
+Mandible 19
+
+一、内外斜线 20
+
+二、磨牙后区 21
+
+三、颏孔 21
+
+四、下颌管 21
+
+五、颏嵴上孔 22
+
+第三节 无牙颌的解剖生物学特点
+
+Anatomy of Edentulous Jaw 22
+
+一、颏结节 22
+
+二、颏孔 23
+
+三、软组织 23
+
+四、牙槽骨的变化 23
+
+Summary 26
+
+Definition and Terminology 26
+
+第三章 种植治疗的准备与计划
+
+Preparation and Plan of Implant
+
+Surgery 28
+
+第一节 基本条件
+
+Basic Conditions for Dental Implant
+
+Treatment 28
+
+一、患者的评估内容 28
+
+二、全身因素及系统疾病对口腔种植的
+
+影响 29
+
+第二节 患者选择
+
+Patient Selection 30
+
+一、牙列缺损 31
+
+二、牙列缺失 31
+
+第三节 检查与诊断
+
+Examination and Diagnosis 32
+
+一、口内检查 32
+
+二、口外检查 35
+
+第四节 研究模型
+
+Diagnostic Cast 35
+
+第五节 放射线检查
+
+$\mathrm{X}$ -ray Examination 36
+
+一、常用放射线检查 36
+
+二、放射线检查内容 37
+
+第六节 种植治疗设计
+
+Implant Treatment Design 38
+
+一、种植时机的选择 38
+
+二、种植修复负载方案的选择 38
+
+三、种植系统的选择 39
+
+第七节 其他考虑
+
+Other Considerations 40
+
+Summary 41
+
+Definition and Terminology 42
+
+第四章 种植外科术前准备
+
+Pre-operative Procedures of
+
+Implant Surgery 43
+
+第一节 患者术前准备
+
+Pre-operative Preparation of
+
+Patients 43
+
+一、术前体检 43
+
+二、口腔专科情况 43
+
+三、系统性疾病的控制 44
+
+四、戒除不良嗜好 44
+
+五、形成良好口腔卫生习惯 45
+
+第二节 医生术前准备
+
+Pre-operative Preparation of
+
+Doctors 45
+
+一、患者术前用药 45
+
+二、患者术区消毒 48
+
+三、术者消毒及铺单 49
+
+第三节 手术室准备
+
+Operation Room Preparation 50
+
+一、房间消毒 51
+
+二、手术用品和器械准备 51
+
+三、手术药品和耗材的准备 51
+
+Summary 53
+
+Definition and Terminology 54
+
+第五章 种植外科基本技术
+
+Principles of Implant Surgery 55
+
+第一节 基本原则
+
+Basic Principles 55
+
+一、外科无菌原则 55
+
+二、微创原则 55
+
+三、防止副损伤原则 56
+
+四、初期稳定性原则 56
+
+四、尽量保留健康的附着龈原则 56
+
+五、生物学为导向原则 56
+
+第二节 外科切口设计与翻瓣
+
+Surgical Incision and Flap Design...
+
+一、切口与瓣设计的基本原则 57
+
+二、瓣的处理考虑 58
+
+三、不同部位种植治疗中切口和瓣的
+
+设计及处理考虑 59
+
+第三节 种植体植入术
+
+Implant Placement 60
+
+一、种植外科采用逐级备洞 60
+
+二、种植外科的器械与设备 60
+
+三、基本手术步骤 61
+
+四、术后处理和注意事项 62
+
+第四节 种植二期手术
+
+Second Stage Surgery 63
+
+一、种植二期手术的软组织处理方法. 63
+
+二、手术步骤 63
+
+第五节 常见并发症
+
+Common Complications 64
+
+一、术中骨穿孔 64
+
+二、副损伤 64
+
+Summary 65
+
+Definition and Terminology 66
+
+第六章 颌骨不同区域的种植外科技术
+
+Implant Placement in Different
+
+Area of Jaws 67
+
+第一节 下颌无牙颌种植
+
+Implant Placement in Edentulous
+
+Mandible 67
+
+一、手术切口 67
+
+二、种植体植入的部位 67
+
+三、种植体数目 68
+
+四、下颌无牙颌种植固定修复 68
+
+第二节 下颌后牙区种植术
+
+Implant Placement in Posterior
+
+Mandible 68
+
+一、手术切口 69
+
+二、种植体的三维空间位置 69
+
+三、种植体数目 69
+
+第三节 上颌前牙区单牙种植术
+
+Single Implant Placement in Front
+
+Maxilla 70
+
+一、上颌前牙区单牙种植的问题 70
+
+二、临床检查 70
+
+三、手术切口 71
+
+四、位置与轴向 71
+
+第四节 上颌前牙多牙缺失的种植修复
+
+Multi-implant Placements in Front
+
+Maxilla 72
+
+一、上颌前牙多牙缺失种植修复的
+
+问题 72
+
+二、局部解剖条件 73
+
+三、其他影响美学效果的因素 73
+
+第五节 上颌后牙区种植术
+
+Implant Placement in Posterior
+
+Maxilla 74
+
+第六节 上颌无牙颌种植修复术
+
+Implant Placement in Edentulous
+
+Maxilla 75
+
+第七节 无牙颌种植即刻修复技术
+
+Immediate Implant Restoration of
+
+Edentulous Jaw 76
+
+一、“all-on-4” 的理念与实践 76
+
+二、适应证 76
+
+三、临床过程 76
+
+Summary 78
+
+Definition and Terminology 79
+
+第七章 骨量不足的种植外科手术
+
+Surgical Techniques for the Recon-
+
+struction of Edentulous Deficient
+
+Alveolar Ridges 80
+
+第一节 牙槽嵴骨增量技术的基本原则
+
+Basic Principles in Alveolar Ridge
+
+Augmentation Procedures 80
+
+一、规范的术前检查与评估原则 80
+
+二、供骨区选择的微创化原则 81
+
+三、手术操作原则 81
+
+四、遵循骨修复生理进程的手术治疗
+
+原则 82
+
+五、经济和生物成本最小化原则 83
+
+第二节 牙槽嵴骨增量的翻瓣设计及
+
+外科入路
+
+Flap Design and Surgical Access for
+
+Alveolar Ridge Augmentation 83
+
+第三节 牙槽嵴劈开技术
+
+Ridge Splitting Technique 84
+
+一、术前检查 84
+
+二、适应证 84
+
+三、手术步骤 85
+
+第四节 外置法植骨技术
+
+Onlay Bone Grafting 87
+
+一、游离骨块移植后愈合的生理过程 87
+
+二、适应证 88
+
+三、术前检查 88
+
+四、手术操作 88
+
+五、典型病例 90
+
+第五节 取骨技术
+
+Bone Harvesting Methods 91
+
+一、下颌骨正中联合部(颏部) 91
+
+二、下颌升支及颊板区 95
+
+三、髂骨 99
+
+四、胫骨 100
+
+第六节 牙槽嵴骨增量并发症
+
+Complications in Alveolar Ridge
+
+Augmentation 101
+
+一、供区并发症 101
+
+二、受区并发症 103
+
+第七节 自体块状骨移植后植牙的时机
+
+Time of Implant Implantation
+
+after Autogenous Bone
+
+Transplantation 106
+
+Summary 107
+
+Definition and Terminology 107
+
+第八章 上颌窦植骨与种植技术
+
+Sinus Augmentation and Implant
+
+Placement 109
+
+第一节 解剖基础及上颌窦植骨的临床意义
+
+Sinus Anatomy and Clinical
+
+Significance of Sinus Bone
+
+Graft 109
+
+一、上颌窦解剖结构 109
+
+二、上颌窦植骨术的发展历史及
+
+临床意义 110
+
+第二节 上颌窦植骨术适应证、禁忌证
+
+以及种植体存留率
+
+Indication, Contraindication,
+
+Success Criteria of Sinus Bone
+
+Graft and Implant Survival Rate... 110
+
+一、上颌窦植骨种植的适应证 110
+
+二、全身禁忌证 111
+
+三、局部禁忌证 111
+
+四、上颌窦植骨成功的标准和种植体
+
+存留率 111
+
+第三节 移植材料的选择及应用
+
+Selection and Application of Bone
+
+Graft 111
+
+一、移植骨材料与上颌窦植骨术 111
+
+二、移植骨材料的分类 112
+
+第四节 种植时机与愈合时间的基本原则
+
+Basic Principle of Bone Graft
+
+Selection and the Timing of Implant
+
+Placement 113
+
+第五节 上颌窦植骨与同期种植
+
+Sinus Bone Graft Simultaneous
+
+with Implant Placement 114
+
+一、适应证和原则 - 114
+
+二、技术原理与技术步骤 114
+
+第六节 上颌窦植骨术的并发症及其处理
+
+Complication and Management of
+
+Sinus Bone Graft - 117
+
+一、术中并发症 117
+
+二、术后并发症 118
+
+第七节 影响上颌窦植骨效果的因素和
+
+其他注意事项
+
+Factors that Affect the Sinus Bone
+
+Graft Outcome 119
+
+一、骨质 119
+
+二、种植体选择 119
+
+三、吸烟与上颌窦植骨的关系 120
+
+四、其他注意事项 120
+
+第八节 牙槽突入路的上颌窦底黏膜
+
+提升种植技术
+
+Transalveolar Maxillary Sinus
+
+Floor Elevation Technique 121
+
+一、简介 121
+
+二、适应证和禁忌证 121
+
+三、临床步骤 122
+
+四、并发症 124
+
+Summary 125
+
+Definition and Terminology 125
+
+第九章 即刻种植
+
+Immediate Implant · 126
+
+第一节 即刻种植概述
+
+Conspectus of Immediate
+
+Implant 126
+
+一、种植时机的分类 126
+
+二、即刻种植的优缺点 126
+
+三、即刻种植的种植体存留率 127
+
+四、即刻种植后软硬组织愈合 127
+
+第二节 即刻种植的适应证与外科技术
+
+Indication and Surgical Procedure
+
+of Immediate Implant 128
+
+一、适应证与病例选择 128
+
+二、术前准备 129
+
+三、手术步骤 130
+
+第三节 即刻种植与即刻修复
+
+Immediate Implant and Immediate
+
+Restoration 132
+
+一、单牙即刻种植后即刻修复 132
+
+二、多牙即刻种植后即刻修复 134
+
+三、数字化技术在即刻种植即刻
+
+修复中的临床应用 135
+
+Summary 136
+
+Definition and Terminology 137
+
+第十章 骨引导再生技术
+
+Guided Bone Regeneration 138
+
+第一节 概述
+
+Conspectus 138
+
+一、历史回顾 138
+
+二、骨引导再生 (GBR) 技术的
+
+生物学原理 138
+
+三、适应证和禁忌证 139
+
+第二节 材料及类型
+
+Material and Classification 139
+
+一、膜本身应具备的条件 139
+
+二、膜的类型 140
+
+三、骨移植材料合理应用 140
+
+四、应用 Bio-Oss 骨替代材料应
+
+注意的问题 141
+
+第三节 骨引导再生操作技术和临床应用
+
+Technique and Clinical Application
+
+of GBR 142
+
+一、GBR 技术的临床操作步骤 142
+
+二、GBR 技术要点 142
+
+三、GBR技术的临床应用 143
+
+第四节 常见并发症及处理
+
+Complication and Management ...
+
+Summary 149
+
+Definition and Terminology 149
+
+第十一章 不良𬌗关系的处理与种植修复
+
+Management and Implant Resto-
+
+ration of Malocclusion 150
+
+第一节 正畸与种植修复联合治疗概述
+
+Conspectus 151
+
+一、种植修复前正畸的特点 151
+
+二、种植前正畸的诊断过程 154
+
+三、种植前正畸的相关专业准备 155
+
+第二节 正畸-种植联合治疗中的正畸治
+
+疗类型
+
+Comprehensive and Adjunctive
+
+Orthodontics in Combined
+
+Treatment -155
+
+一、正畸-种植联合治疗的辅助性
+
+正畸 155
+
+二、正畸-种植联合治疗的综合性
+
+正畸 157
+
+第三节 正畸-种植联合治疗中常见错𬌗
+
+问题的矫治
+
+Orthodontic Treatment Combined
+
+Implantology for Common
+
+Malocclusion 158
+
+一、压低过长后牙 159
+
+二、前牙深覆𬌗的矫治 160
+
+三、前牙反𬌗的矫治 161
+
+四、缺牙间隙的调整 161
+
+五、排齐牙齿 162
+
+六、直立磨牙 162
+
+第四节 不良颌间关系的外科矫治
+
+Surgical Correction of Unfavorable
+
+Intermaxillary Relationship ······ 164
+
+一、下颌前部根尖下截骨纠正前牙
+
+重度深覆𬌗 164
+
+二、Le Fort I 型截骨术纠正重度
+
+上颌后缩 165
+
+三、腓骨瓣重建上颌骨后种植修复
+
+Summary 166
+
+Definition and Terminology 166
+
+第十二章 牙槽骨牵引成骨技术
+
+Alveolar Distraction
+
+Osteogenesis 168
+
+第一节 概述
+
+Conspectus 168
+
+一、起源及发展 168
+
+二、牙槽突牵引延长成骨的基本原理...168
+
+三、牙槽骨垂直牵引器的类型 169
+
+第二节 牙槽骨垂直牵引外科术
+
+Surgical Technique of Alveolar
+
+Distraction Osteogenesis 170
+
+一、牙槽骨垂直牵引的技术步骤 170
+
+二、手术步骤 170
+
+三、患者宣教、训练及复查 171
+
+第三节 颌骨不同类型的牙槽骨垂直牵引术
+
+Alveolar Distraction Osteogenesis
+
+in Different Defection Type ……
+
+一、重度骨缺损的颌骨垂直骨牵引术...171
+
+二、功能性颌骨重建前的牙槽骨垂直
+
+牵引术 172
+
+第四节 牙槽骨垂直牵引的适应证、禁忌
+
+证及并发症
+
+Indication、Contraindication and
+
+Complication 173
+
+一、适应证 173
+
+二、禁忌证 173
+
+三、并发症 174
+
+Summary 174
+
+Definition and Terminology 175
+
+第十三章 功能性颌骨重建
+
+Functional Reconstruction of the
+
+Jaws 176
+
+第一节 功能性颌骨重建的目的与内容
+
+Goals and Concepts of Functional
+
+Jaw Reconstruction 176
+
+一、基本原则 176
+
+二、颌骨缺损后功能状态的评估 177
+
+三、检查诊断与治疗设计 178
+
+第二节 血管化与非血管化骨移植
+
+Vascularized and Non-vascularized
+
+Bone Graft 181
+
+一、血管化骨移植 181
+
+二、非血管化骨移植 184
+
+第三节 下颌骨缺损的功能性重建
+
+Functional Reconstruction of
+
+Mandibular Defects 184
+
+一、非血管化骨移植 184
+
+二、血管化骨移植 185
+
+第四节 上颌骨缺损的功能性重建
+
+Functional Reconstruction of
+
+Maxillary Defects 187
+
+一、上颌骨缺损重建的历史沿革 187
+
+二、上颌骨缺损修复的目标及上颌骨
+
+缺损的分类 188
+
+三、游离复合骨瓣修复上颌骨缺损 $\cdots {188}$
+
+第五节 重建颌骨的种植义齿修复
+
+Functional Jaw Rehabilitation with
+
+Implant Restoration 190
+
+一、颌骨重建骨量不足的处理 190
+
+二、功能性颌骨重建的软组织处理
+
+前庭沟成形及游离牙龈移植 192
+
+三、重建时义齿修复方式的选择 192
+
+Summary 193
+
+Definition and Terminology 193
+
+第十四章 种植体周围软组织的外科特殊处理
+
+Surgical Management of Peri-
+
+implant Soft Tissue 194
+
+第一节 概论
+
+Conspectus 194
+
+一、种植体周围软组织的生物学基础... 194
+
+二、种植体周围软组织的外科处理
+
+原则、方法和时机 196
+
+第二节 种植体周围局部软组织瓣的处理
+
+Pedicle Peri-implant Soft Tissue
+
+Techniques 197
+
+一、龈乳头成形 197
+
+二、增加附着角化黏膜 198
+
+三、唇颊侧软组织增量 199
+
+四、唇颊侧及垂直向增量 200
+
+第三节 自体结缔组织游离移植
+
+Free Autogenous Connective Tissue
+
+Grafting -200
+
+一、概述 -200
+
+二、适应证 -201
+
+三、外科技术 -201
+
+三、并发症 -202
+
+第四节 自体角化黏膜游离移植
+
+Autogenous Free Gingival
+
+Grafting ·203
+
+一、概述 · 203
+
+二、适应证 -203
+
+三、外科技术 204
+
+四、并发症 205
+
+第五节 种植体周围软组织退缩的处理
+
+Surgical Management of Peri-
+
+implant Soft Tissue Recessions … 206
+
+Summary -209
+
+Definition and Terminology -210
+
+第十五章 种植外科的并发症
+
+Complication of Implant
+
+Surgery - 211
+
+第一节 种植外科术中并发症
+
+Intraoperative Complications ... 211
+
+一、术中出血 211
+
+二、神经损伤 -212
+
+三、上颌窦黏膜穿孔 -213
+
+四、邻牙损伤 214
+
+五、植入种植体初期稳定性差 215
+
+六、颌骨骨折 215
+
+七、器械误吞、误吸 -216
+
+八、种植体位置与轴向不理想 -216
+
+第二节 种植外科术后并发症
+
+Postoperative Complications 218
+
+一、术后出血 -218
+
+二、水肿 218
+
+三、软组织裂开 218
+
+四、术后血肿 219
+
+五、术后感染 219
+
+六、急性上颌窦炎 220
+
+七、种植体松动 221
+
+Summary 222
+
+Definition and Terminology 222
+
+第十六章 种植修复概论
+
+Introduction to Implant
+
+Restorations -223
+
+第一节 种植义齿修复的基本原则
+
+Fundamental Principle of Implant
+
+Restoration -223
+
+一、正确恢复牙的形态和功能 223
+
+二、满足良好固位、支持和稳定的
+
+要求 -223
+
+三、有益于口腔软、硬组织健康 -224
+
+四、坚固耐用 -224
+
+第二节 种植义齿修复的特殊要求
+
+Specific Requirements of Implant
+
+Restorations -224
+
+一、软组织美学 -224
+
+二、种植义齿的咬合设计 227
+
+Summary -230
+
+Definition and Terminology -231
+
+第十七章 种植修复的印模和𬌗记录
+
+Impression and Occlusion
+
+Registration in Implant
+
+Supported Restoration · 232
+
+第一节 研究模型
+
+Study Casts · 233
+
+一、观测分析研究模型 · 233
+
+二、诊断性排牙 -233
+
+三、常规外科导板 -234
+
+四、数字化外科导板 -234
+
+第二节 制作个别托盘
+
+Make Custom Tray -235
+
+一、制取初印模 -235
+
+二、制作个别托盘 ·235
+
+第三节 终印模和工作模型
+
+Final Impression and Working
+
+Casts -235
+
+一、制取终印模的相关部件配件 -235
+
+二、种植终印模的要求 -236
+
+三、常用种植印模材料及使用注意
+
+事项 -236
+
+四、取模时机 -236
+
+五、种植体水平印模和基台水平印模...237
+
+六、终印模取模步骤 -237
+
+七、制取印模和模型 -239
+
+第四节 数字化印模技术
+
+Digital Impression 240
+
+一、数字化印模的种类 240
+
+二、制取光学印模的相关部件及
+
+常用扫描系统性能特点 -240
+
+三、数字化种植终印模的要求 -241
+
+四、数字化种植印模的步骤和注意
+
+事项 -241
+
+五、数字化印模的优缺点 -241
+
+第五节 制作暂基托
+
+Make Temporary Base Plate 242
+
+一、蜡基托 -242
+
+二、室温固化树脂暂基托 242
+
+三、光固化树脂暂基托 242
+
+第六节 𬌗记录与上𬌗架
+
+Occlusion Registration and
+
+Articulated Working Casts -242
+
+一、记录咬合关系的种类 -242
+
+二、颌位关系的记录 -243
+
+三、上𬌗架 -244
+
+第七节 种植过渡义齿
+
+Implant-supported Transitional
+
+Prostheses -244
+
+一、种植过渡义齿的作用 -244
+
+二、固定性种植过渡义齿 -245
+
+三、可摘种植过渡义齿 246
+
+Summary -247
+
+Definition and Terminology -248
+
+第十八章 牙列缺失的种植覆盖义齿修复
+
+Implant Overdentures for
+
+Edentulous Patients -249
+
+第一节 概述
+
+Conspectus -249
+
+一、种植覆盖义齿的定义 -249
+
+二、牙列缺失的种植覆盖义齿修复与
+
+常规总义齿修复效果的比较 249
+
+三、种植覆盖义齿与天然牙固位覆盖
+
+义齿的比较 -249
+
+第二节 牙列缺失种植覆盖义齿的适应证
+
+和禁忌证
+
+Indication and Contraindication
+
+of Implant Overdentures for
+
+Edentulous Patients -250
+
+一、牙列缺失种植覆盖义齿的适应证...250
+
+二、牙列缺失种植覆盖义齿的禁忌证...250
+
+第三节 牙列缺失种植覆盖义齿的设计
+
+Supporting Types of Implant
+
+Overdentures -251
+
+一、种植覆盖义齿的附着装置设计
+
+因素 -251
+
+二、种植覆盖义齿设计的种植体因素...2
+
+三、种植覆盖义齿的支持方式设计 ·253
+
+四、种植覆盖义齿设计的患者因素...2
+
+五、其他因素 254
+
+第四节 牙列缺失种植覆盖义齿的附着类型
+
+Design and Types of Implant Overdentures -255
+
+第五节 种植覆盖义齿修复的临床步骤
+
+Clinical Prosthodontic Procedures
+
+of Implant Overdentures -260
+
+一、印模 -260
+
+二、颌关系记录 -263
+
+三、选牙、排牙和试排牙 -264
+
+四、试支架 -264
+
+五、试支架上排牙 -265
+
+六、初戴与维护 -265
+
+Summary -266
+
+Definition and Terminology -267
+
+第十九章 牙列缺损的种植修复
+
+Implant Restoration of Dentition
+
+Defect ·268
+
+第一节 牙列缺损的种植分类
+
+Implant Classification of Dentition
+
+Defect -268
+
+一、牙列缺损的种植分类 -268
+
+二、牙列缺损的种植义齿修复 -268
+
+第二节 种植印模技术
+
+Implant Impression Techniques 269
+
+一、种植印模材料 -269
+
+二、种植印模技术 -270
+
+第三节 单牙缺失的种植修复
+
+Implant Restoration of Single
+
+Tooth -274
+
+一、单牙种植修复 -274
+
+二、单牙种植修复的禁忌证 -274
+
+三、种植体的选择 -275
+
+四、前牙种植修复 -276
+
+五、前磨牙种植修复 -279
+
+六、磨牙种植修复 -280
+
+第四节 多颗种植体支持的固定修复
+
+Multi-implants Supported Fixed
+
+Restorations -281
+
+一、多颗种植体支持固定修复的分类...28
+
+二、多颗种植体支持固定修复的设计...
+
+Summary -284
+
+Definition and Terminology -285
+
+第二十章 种植全瓷修复
+
+Implant-supported Ceramic Res-
+
+toration -286
+
+第一节 概述
+
+Conspectus 286
+
+一、全瓷修复的发展 286
+
+二、全瓷基台的出现与发展 286
+
+三、全瓷材料的分类与性能 286
+
+第二节 种植全瓷修复的基本结构与材料
+
+选择
+
+Composition and Materials of
+
+Implant-supported Ceramic
+
+Restoration -288
+
+一、种植全瓷修复的基本结构 288
+
+二、种植全瓷修复体的分类 288
+
+三、种植全瓷修复体的材料选择 289
+
+四、种植全瓷修复的加工方式 290
+
+第三节 种植全瓷修复的优缺点与适应证
+
+Advantages, Disadvantages and
+
+Indications of Implant-supported
+
+Ceramic Restoration -291
+
+一、粘接固位及其优缺点 291
+
+二、螺丝固位及其优缺点 -291
+
+三、种植修复美学评价常用指标与
+
+计算变量 -293
+
+四、种植全瓷修复的优缺点 294
+
+五、种植全瓷修复的适应证 295
+
+第四节 种植全瓷修复的临床操作
+
+Basic Process of Implant-supported
+
+Ceramic Restoration -298
+
+一、种植全瓷修复的整体设计过程与
+
+手术原则 -298
+
+二、种植全瓷修复设计与牙龈塑形...298
+
+三、种植全瓷修复的印模方式与其
+
+优缺点 -299
+
+四、制取印模的步骤与制取位关系...299
+
+五、临床试戴 -300
+
+六、戴牙、医嘱与复查 - 300
+
+第五节 影响种植全瓷修复成功的几个关
+
+键技术
+
+The Key Techniques of Implant-
+
+supported Ceramic Restoration ... 302
+
+一、数字化导板 302
+
+二、数字化导航技术 -303
+
+三、确定转移杆就位的方法 -305
+
+四、个性化转移杆 -305
+
+五、转移杆刚性连接技术 -305
+
+六、单点试戴法 -306
+
+第六节 种植全瓷修复的咬合设计与调𬌗
+
+Occlusion Design and Adjustment
+
+of Implant-supported Ceramic
+
+Restoration -306
+
+一、种植全瓷修复咬合设计的原则
+
+二、种植修复的咬合分型 - 307
+
+三、种植全瓷修复的分类咬合设计 -308
+
+四、影响种植全瓷修复咬合设计的
+
+因素 -309
+
+五、种植全瓷修复体的调验与抛光...309
+
+Summary -310
+
+Definition and Terminology - 311
+
+第二十一章 种植即刻修复
+
+Implant Immediate Provision-
+
+alization · 312
+
+第一节 概述
+
+Conspectus -312
+
+一、即刻修复的概念和发展历史 · 312
+
+二、与种植体骨结合相关的因素 · 314
+
+第二节 种植即刻修复的适应证
+
+Indication · 315
+
+第三节 种植即刻修复的术前设计和术前
+
+准备
+
+Clinical Examinations and
+
+Preparations -316
+
+一、收集信息 -316
+
+二、术前设计和术前准备 · 317
+
+第四节 牙列缺损的种植即刻修复
+
+Immediate Prosthesis in Partial
+
+Edentulous Patients -318
+
+一、单牙缺失的种植即刻修复 -318
+
+二、多牙缺失的种植即刻修复 -319
+
+第五节 牙列缺失的种植即刻修复
+
+Immediate Prosthesis in Complete
+
+Edentuliusm 319
+
+一、牙列缺失种植即刻修复设计 -319
+
+二、牙列缺失种植即刻可摘修复 -319
+
+三、牙列缺失种植即刻固定修复 320
+
+四、全颌拔牙后即刻种植即刻修复…322
+
+第六节 即刻修复的咬合控制
+
+Occlusion of Immediate
+
+Restoration -323
+
+一、种植牙和天然牙的不同 -323
+
+二、种植即刻修复的咬合调整 -324
+
+第七节 种植即刻修复的维护和口腔卫生
+
+指导
+
+Implant Maintenance and Support
+
+Therapy -325
+
+Summary -326
+
+Definition and Terminology -327
+
+第二十二章 种植修复工艺概述
+
+Conspectus of Implant Dental
+
+Laboratory -328
+
+第一节 种植技工室设置与装备
+
+The Set-up and Equipment of
+
+Implant Laboratory -329
+
+一、种植技工室设置 -329
+
+二、种植技工室的设备及器械 -329
+
+第二节 种植修复体制作所需材料
+
+Manufacture Materials for Implant
+
+Prosthesis -331
+
+第三节 种植体上部基台的类型
+
+Classification of Implant
+
+Abutments -332
+
+第四节 种植技工室人员培训
+
+Training and Qualification of
+
+Dental Technician in Implant
+
+Laboratory 333
+
+Summary -333
+
+Definition and Terminology -334
+
+第二十三章 种植上部结构的制作
+
+Manufacture of Implant Super-
+
+structure 335
+
+第一节 翻制与修整模型
+
+Model Fabrication and Cast
+
+Trimming -335
+
+一、仿牙龈材料的使用 -335
+
+二、翻制模型 -336
+
+三、模型的修整 -336
+
+四、上𬌗架 -336
+
+第二节 种植单冠的制作
+
+Implant Supported Single
+
+Crown 336
+
+一、粘接固位单冠制作 -337
+
+二、螺丝固位单冠制作 -341
+
+第三节 种植联冠的制作
+
+Implant Supported Splinted
+
+Crowns -341
+
+一、确定共同就位道 341
+
+二、金属桥架的制作 342
+
+三、烤瓷桥的完成 343
+
+第四节 无牙颌种植上部结构的制作
+
+Super-structure of Implant-
+
+supported Full-arch Restoration… 343
+
+一、种植体支持的无牙颌固定修复 343
+
+二、种植体支持的无牙颌活动覆盖
+
+义齿修复 - 344
+
+Summary -350
+
+Definition and Terminology -350
+
+第二十四章 其他形式的上部结构制作
+
+Manufacture of Alternative
+
+Superstructure 352
+
+第一节 种植体轴向不良时的修复体制作
+
+Unfavorable Implant Axis and Its
+
+Super-structure -352
+
+一、角度基台的使用 · 352
+
+二、特殊基台的使用 · 352
+
+第二节 种植覆盖义齿锁扣式固位体的制作
+
+Stud Attachment Overdentures … 353
+
+一、锁扣式固位体的特点 -353
+
+二、锁扣式固位体的制作 ·353
+
+第三节 金沉积技术在种植中的应用
+
+Electrical Forming Technique. -354
+
+一、金沉积技术原理及发展史 -354
+
+二、种植金沉积单冠的制作 · 354
+
+三、种植金沉积覆盖义齿的制作 -355
+
+四、种植金沉积固定总义齿的制作 ·356
+
+第四节 电火花蚀刻技术在种植修复体制
+
+作中的应用
+
+Spark Erosion Technique for
+
+Implant Prosthesis 356
+
+Summary 357
+
+Definition and Terminology 357
+
+第二十五章 口腔维护与随访
+
+Oral Maintenance and
+
+Follow-up ·358
+
+第一节 概述
+
+Introduction -358
+
+第二节 口腔卫生维护
+
+Oral Hygiene Maintenance 359
+
+一、口腔卫生的自我维护 -359
+
+二、口腔卫生专业维护 -361
+
+第三节 随访与评估
+
+Follow-up and Assessment 362
+
+一、主观感受 -363
+
+二、口腔专科检查 364
+
+Summary 369
+
+Definition and Terminology 370
+
+第二十六章 口腔种植修复并发症及其处理
+
+Implant Prosthesis Related
+
+Complications and
+
+Management 372
+
+第一节 修复体并发症
+
+Complications of Implant
+
+Prostheses 372
+
+一、基台折断 372
+
+二、螺纹滑丝 373
+
+三、螺丝松动或折断 374
+
+四、崩瓷 -376
+
+五、铸造支架折断 377
+
+六、覆盖义齿磨损与固位不良 377
+
+第二节 种植体并发症
+
+Complications of Dental
+
+Implant 377
+
+一、种植体脱落 377
+
+二、因种植体植入位置或角度不佳
+
+引起的修复并发症 380
+
+三、种植体折断 -381
+
+第三节 种植修复的其他问题及处理
+
+Management of Other Problems … 381
+
+一、美学并发症 381
+
+二、异味问题 382
+
+三、发音问题 382
+
+四、食物嵌塞 382
+
+第四节 种植体取出与再植入
+
+Removal and Replacement of
+
+Implant -383
+
+一、种植体取出的适应证 -383
+
+二、种植体取出方法 383
+
+三、种植体再植入 384
+
+Summary -384
+
+Definition and Terminology -385
+
+第二十七章 植体周病概念和病因
+
+The Concept and Etiology of
+
+Peri-implant Diseases -386
+
+第一节 概述
+
+Introduction -386
+
+第二节 植体周组织
+
+The Theory of Peri-implant
+
+Tissue 387
+
+一、植体周黏膜 387
+
+二、黏膜-植体界面 389
+
+三、骨-植体界面 390
+
+第三节 植体周病的临床流行病学
+
+Epidemiology of Peri-implant
+
+Diseases 390
+
+第四节 植体周病的微生物学
+
+Microbiology of Peri-implant
+
+Diseases -391
+
+第五节 植体周病的病因和可能的致病机制
+
+The Etiological Factorsand
+
+Pathogenesis of Peri-implant
+
+Diseases -392
+
+一、菌斑生物膜和植体周感染 -392
+
+二、植体周炎的危险因素/诱发因素
+
+三、植体周感染机制 396
+
+Summary 397
+
+Definition and Terminology -397
+
+第二十八章 植体周病的诊断、治疗与预防
+
+The Diagonosis, Treatment
+
+and Prevention of Peri-implant
+
+Diseases 399
+
+第一节 植体周病的临床检查及诊断
+
+The Clinical Examinations and
+
+Classification of Peri-implant
+
+Diseases 399
+
+一、植体周病的临床检查 399
+
+二、植体周黏膜炎的诊断 402
+
+三、植体周炎的诊断 403
+
+第二节 植体周病的治疗
+
+Treatment of Peri-implant
+
+Diseases 404
+
+一、植体周病的治疗决策 404
+
+二、非手术治疗 406
+
+三、手术治疗 407
+
+四、拔除种植体 412
+
+第三节 植体周病的预防
+
+Prevention of Peri-implant
+
+Diseases 413
+
+一、牙周病患者种植术前的牙周治疗...
+
+二、牙种植手术和修复过程中的
+
+预防控制措施 -414
+
+三、患者对牙植体周菌斑的日常控制...415
+
+Summary 418
+
+Definition and Terminology 419
+
+第二十九章 数字化技术与种植修复
+
+Digital Technology and Implant
+
+Restoration 420
+
+第一节 数字化技术概述
+
+Introduction 420
+
+一、信息的采集和整合 420
+
+二、诊断和治疗方案 420
+
+三、手术实施 421
+
+四、种植修复 421
+
+第二节 数字化技术与种植外科
+
+Digital Technology and Implant
+
+Surgery 421
+
+一、种植修复的数字化术前设计 421
+
+二、数字化种植外科导板 422
+
+三、种植实时导航 425
+
+第三节 数字化技术与种植修复
+
+Digital Technology and Implant
+
+Prosthesis 429
+
+一、数字化印模技术的基本概念及
+
+历史发展 429
+
+二、直接数字化印模技术 429
+
+三、间接数字化印模技术 431
+
+第四节 椅旁数字化技术应用
+
+Application of Chairside Digital
+
+Technology 432
+
+一、概述 432
+
+二、椅旁数字化种植修复的基本
+
+工作流程 433
+
+三、种植修复的椅旁可切削材料概述...440
+
+第五节 口腔种植数字化修复工艺技术
+
+Digital Technology in Implant
+
+Laboratory 440
+
+一、数字化个性化基台的制作 441
+
+二、数字化种植修复体的制作 442
+
+Summary 443
+
+Definition and Terminology 444
+
+中英文专业词汇索引 445
+
+参考文献 447
+

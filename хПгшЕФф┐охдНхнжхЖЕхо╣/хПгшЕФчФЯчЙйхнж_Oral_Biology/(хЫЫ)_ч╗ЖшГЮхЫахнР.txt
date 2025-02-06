@@ -1,0 +1,29 @@
+
+如前所述, 天然免疫体系细胞分泌的细胞因子既能介导天然免疫反应, 也能作用于淋巴细胞而影响获得性免疫反应。T细胞和B细胞分泌的细胞因子也同样能够在天然免疫反应和获得性免疫反应中发挥作用。主要的细胞因子包括:
+
+1. 介导天然免疫,增强机体防御微生物感染、引起炎症反应的细胞因子 (表 3-4)。
+
+表 3-4 介导天然免疫的细胞因子
+
+<table><tr><td>细胞因子</td><td>细胞来源</td><td>靶细胞</td><td>基本作用</td></tr><tr><td>TNF-β</td><td>T 细胞、B 细胞</td><td>中性粒细胞</td><td>产生炎症</td></tr><tr><td>IL-6</td><td>T 细胞、B 细胞</td><td>T 细胞、B 细胞 成熟 B 细胞</td><td>辅助刺激剂 细胞生长</td></tr><tr><td>IL-13</td><td>活化 T 细胞</td><td>B 细胞 巨噬细胞</td><td>刺激 B 细胞增殖和 CD23 表达 抑制巨噬细胞分泌炎症细胞因子</td></tr></table>
+
+2. 调节淋巴细胞活化、生长及分化的细胞因子。这类因子主要由 ${\mathrm{{CD4}}}^{ + }\mathrm{T}$ 细胞产生,作用是辅助细胞免疫和体液免疫 (表 3-5)。
+
+表 3-5 促淋巴细胞活化、生长和分化的细胞因子
+
+<table><tr><td>细胞因子</td><td>细胞来源</td><td>靶细胞</td><td>基本作用</td></tr><tr><td rowspan="3">IL-2</td><td rowspan="3">T 细胞</td><td>T 细胞</td><td>细胞生长,产生细胞因子</td></tr><tr><td>NK 细胞</td><td>细胞生长、活化</td></tr><tr><td>B 细胞</td><td>细胞生长,合成抗体</td></tr><tr><td rowspan="3">IL-4</td><td rowspan="3">CD4 T 细胞</td><td>T 细胞</td><td>细胞生长</td></tr><tr><td>B 细胞</td><td>活化和生长,向 IgE 同型转换</td></tr><tr><td>巨噬细胞</td><td>FcεRⅡ表达</td></tr><tr><td rowspan="3">TGF-β</td><td rowspan="3">T 细胞</td><td>T 细胞</td><td>抑制活化和增殖</td></tr><tr><td>巨噬细胞</td><td>抑制活化</td></tr><tr><td>其他细胞</td><td>调节生长</td></tr><tr><td>IL-9</td><td>活化 ${\mathrm{{CD4}}}^{ + }$ T 细胞</td><td>T 细胞 肥大细胞</td><td>T 细胞生长 辅助 IL-3G 刺激肥大细胞</td></tr><tr><td>IL-10</td><td>活化 Th2 细胞</td><td>T 细胞</td><td>抑制 Th1 分泌细胞因子 辅助 IL-2 促进 ${\mathrm{{CD8}}}^{ + }\mathrm{T}$ 细胞分化,促进胸腺细胞和肥大细胞 增殖</td></tr><tr><td>IL-12</td><td>B 细胞</td><td>Th1 自然杀伤细胞</td><td>诱导 T 母细胞分化为 Th1 细胞,调节细胞介导免疫；促进 T 细胞和 NK 细胞增殖</td></tr><tr><td>IL-14</td><td>T 细胞</td><td>B 细胞</td><td>刺激 B 细胞活化和增殖</td></tr></table>
+
+3. 活化炎症细胞的因子 (表 3-6)。
+
+表 3-6 活化炎症细胞的因子
+
+<table><tr><td/><td>细胞因子</td><td>产生细胞</td><td>靶细胞</td><td>生物学活化</td></tr><tr><td/><td rowspan="4">IFN-γ</td><td rowspan="4">T 细胞</td><td>巨噬细胞</td><td>活化</td></tr><tr><td/><td>内皮细胞</td><td>活化</td></tr><tr><td/><td>NK 细胞</td><td>活化</td></tr><tr><td/><td>所有细胞</td><td>增加Ⅰ和Ⅱ类 MHC 分子表达</td></tr><tr><td/><td rowspan="2">LT</td><td rowspan="2">T 细胞</td><td>中性粒细胞</td><td>活化</td></tr><tr><td/><td>内皮细胞</td><td>活化</td></tr><tr><td/><td>MIF</td><td>T 细胞</td><td>巨噬细胞</td><td>由运动型转变为非运动状态</td></tr><tr><td/><td>IL-16</td><td>CD8 + T 细胞</td><td>${\mathrm{{CD4}}}^{ + }$ T 细胞、巨噬细胞 嗜酸性粒细胞</td><td>趋化 ${\mathrm{{CD4}}}^{ + }\mathrm{T}$ 细胞、巨噬细胞和嗜酸性粒细胞, 产生游走应答,抑制 HIV 增殖</td></tr><tr><td/><td>IL-17</td><td>CD4 T 细胞</td><td>T 细胞</td><td>活化 T 细胞,诱导 IL-6、IL-8 和 CAM-1 的表达</td></tr></table>
+
+LT: 淋巴毒素(lymphotoxin)；CAM-1:细胞间黏附分子 -1(intercellular adhesion molecule -1)；MIF:移动抑制因子 ( migration inhibition factor )
+
+4. 刺激造血的细胞因子,功能为刺激骨髓子代细胞的生长和分化 (表 3-7)。
+
+表 3-7 刺激造血的因子
+
+<table><tr><td>细胞因子</td><td>细胞来源</td><td>靶细胞</td><td>基本作用</td></tr><tr><td>IL-3</td><td>T 细胞</td><td>未成熟子代细胞</td><td>生长和向所有细胞系分化</td></tr><tr><td>IL-5</td><td>T 细胞</td><td>内皮细胞 B 细胞</td><td>活化 生长和活化</td></tr><tr><td>GM-CSF</td><td>T 细胞</td><td>未成熟子代细胞 定形子代细胞、巨噬细胞</td><td>生长和向所有细胞系分化 向粒细胞和巨噬细胞分化 活化</td></tr></table>
+

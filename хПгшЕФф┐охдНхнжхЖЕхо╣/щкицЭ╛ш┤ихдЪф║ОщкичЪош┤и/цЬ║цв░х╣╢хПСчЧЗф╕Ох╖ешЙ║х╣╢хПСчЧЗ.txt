@@ -1,0 +1,5 @@
+
+本书将种植治疗所发生的负面结果分类为种植治疗中存在的问题和种植治疗并发症。其中种植治疗并发症包括生物学并发症 (bilogical complications)、机械并发症 (mechanical complications) 和工艺并发症 (complications)。以往的中文种植文献中, 习惯性地将 "technical complications" 翻译为 “技术并发症”, 但是基于 Salvi and Br.a.gger 的定义 "Mechanical risk: Risk of a complication or failure of a prefabricated component caused by mechanical forces.
+
+Technical risk: Risk of a complication or failure of the laboratory-fabricated suprastructure or its materials." (Salvi GE, Brägger U. Mechanical and technical risks in implant therapy. Int J Oral Maxillofac Implants. 2009), 作者团队将 "technical complications" 表述为 "工艺并发症"。
+

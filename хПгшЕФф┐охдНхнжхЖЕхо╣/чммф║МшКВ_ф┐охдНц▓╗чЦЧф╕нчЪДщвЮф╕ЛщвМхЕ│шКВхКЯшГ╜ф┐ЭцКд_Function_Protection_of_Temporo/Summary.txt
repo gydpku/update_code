@@ -1,0 +1,3 @@
+
+Digital prosthodontics is a kind of comprehensive technology that applies industrial advanced computer software technology and numerical control processing technology into the design and manufacture of prosthesis. This chapter introduces the principle, formation, character, and category of digital technologies in prosthodontics, and also gives a brief introduction of classical commercial systems. Four major technologies in digital prosthodontics are specifically illustrated: digital impression technology, CAD technology, CAM technology, and related materials.
+

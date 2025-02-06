@@ -1,0 +1,262 @@
+
+Riey-Day 综合征 248
+
+溶菌酶(lysozyme) 238, 241
+
+融合牙(fused tooth) 102
+
+乳牙(deciduous teeth) 28, 82
+
+乳牙𬌗(deciduous occlusion) 21, 153
+
+乳牙列(primary dentition) 82$\mathbf{S}$
+
+Spee 曲线 (Spee curve) 137
+
+三叉神经脊束核(spinal nucleus of trigeminal nerve)
+
+177
+
+桑葚状磨牙(mulberry molars) 104
+
+舌隆突(cingulum) 48, 57
+
+舌面( lingual surface ) 47
+
+舌窝( lingual fossa ) 51
+
+舌轴嵴(lingual axial ridge) 58
+
+深覆盖(deep overjet) 150
+
+深覆𬌗(deep overbite) 150
+
+生长期(development) 31
+
+生长叶(development lobe) 49
+
+生理𬌗(physiologic occlusion) 159
+
+声带(vocal cord) 228
+
+双侧平衡𬌗(bilateral balanced occlusion) 127, 158
+
+水平颌反射(horizontal jaw reflexes) 177
+
+吮吸(sucking) 225
+
+四环素着色牙(tetracycline pigmentation tooth) 104
+
+随意动作(voluntary activity) 221
+
+髓壁(wall of pulp chamber) 107
+
+髓角(pulp horn) 107
+
+髓腔(pulp cavity) 27, 106
+
+髓室(pulp chamber) 27, 106
+
+髓室底(floor of pulp chamber) 107
+
+髓室顶(roof of pulp chamber) 107
+
+$\mathbf{T}$
+
+疼痛(pain) 252
+
+替牙𬌗(mixed occlusion) 21
+
+通用编号系统(universal numbering system) 41
+
+同形牙(homodont) 11
+
+退化(degradation) 13
+
+吞咽(swallowing, deglutition)221
+
+唾液(saliva) 237
+
+唾液淀粉酶 240-242
+
+唾液反射(salivary reflexes) 240
+
+W
+
+Wilson 曲线 137-139, 145
+
+外胚叶发育不全综合征(ectodermal dysplasia syndrome)99
+
+外形高点 (height of contour) 46
+
+外展隙(embrasures) 94
+
+味觉(gustatory sensation) 244
+
+味蕾(taste bud) 244
+
+温度觉(thermal sensation) 251
+
+窝(fossa) 49$\mathbf{X}$
+
+下颌卸载反射(jaw-unloading reflex) 177
+
+下颌运动描记仪 129
+
+下颌姿势位(mandibular postural position, MPP) 165
+
+先天缺牙(congenitally missing teeth) 99
+
+先天无牙症(anodontia) 99
+
+线角 (line angle) 45
+
+小根尖直径(minor apical diameter) 111
+
+斜嵴(oblique ridge) 48, 74
+
+斜面(inclined surface) 49
+
+休息垂直距离(rest vertical dimension or vertical dimension
+
+of rest ) 166
+
+修复性牙本质(reparative dentin) 27, 112
+
+嗅觉(olfactory sensation) 247
+
+Y
+
+压觉(pressure sensation) 249
+
+牙本质发育不全(dentinogenesis imperfecta) 103
+
+牙本质领(dentin collar) 107
+
+牙本质牙骨质界(cementodentinal junction, CDJ) 111
+
+牙齿萌出(tooth eruption) 19
+
+牙根(dental root) 26
+
+牙弓(dental arch) 15, 131
+
+牙弓长度(length of dentition) 131
+
+牙弓宽度(width of dentition) 131
+
+牙骨质(cementum) 27
+
+牙冠(dental crown) 25
+
+牙尖(dental cusp) 47
+
+牙尖高度(height of tooth cusp) 138
+
+牙尖交错𬌗(intercuspal occlusion, ICO) 148
+
+牙尖交错位(intercuspal position, ICP) 162
+
+牙颈(dental cervix) 26
+
+牙颈部的凸起(cervical ledge) 107
+
+牙列(dentition) 131
+
+牙髓(pulp) 27
+
+牙髓的神经分布(pulpal innervation) 256
+
+牙髓腔(dental pulp cavity) 106
+
+牙髓腔(pulp cavity) 27
+
+牙髓神经的再生(regeneration of pulpal nerve) 259
+
+牙髓疼痛(tooth pulp pain) 256
+
+牙髓牙本质复合体(pulpodentin complex) 112
+
+牙体长轴 (long axis) 45
+
+牙体三等分(division into thirds) 46
+
+牙釉质(enamel) 26
+
+牙周机械感受器(periodontal mechanical receptors)
+
+250
+
+牙周潜力(periodontal potential) 211
+
+牙阻生(impacted tooth) 104
+
+咬合(articulation) 147
+
+异形牙(heterodont) 11
+
+音调(tone) 229
+
+音强 (音量) (volume) 230
+
+音质(音色)( tamber) 229
+
+釉牙骨质界(cementoenamel junction) 27
+
+釉质发育不全(enamel hypoplasia) 103
+
+釉珠(enamel pearls) 103
+
+元音(vowel) 230
+
+运动中心(kinematic center) 187
+
+$\mathbf{Z}$粘着牙(concrescence of tooth) 102 正中关系(centric relation, CR) 163 正中关系弧(centric relation arch, CRA) 163 正中关系位(centric relation position, CRP) 163 正中𬌗位(centric occlusion position, COP) 162 支持尖(supporting cusps) 152 中枢模式发生器(central pattern generator) 196
+
+中线 (median line) 45
+
+中性区(neutral zone) 133
+
+主根管 (main root canal) 107
+
+锥形牙(cone-shaped tooth) 101
+
+自由间隙(freeway space) 165
+
+纵𬌗曲线(sagittal curve of occlusion) 136
+
+组牙功能𬌗(group function occlusion) 157
+
+最大𬌗力(maximal biting force) 211
+
+责任编辑:冯智勇
+
+封面设计:锋尚设计牙体解剖与口腔生理学
+
+Dental Anatomy and Oral Physiology
+
+口腔医学导论(第 3 版)
+
+口腔颌面部解剖学(第 3 版)
+
+牙体解剖与口腔生理学(第 3 版)
+
+口腔生物学(第 3 版)
+
+口腔组织学与病理学(第 3 版)
+
+口腔材料学(第 3 版)
+
+临床龋病学(第 3 版)
+
+牙体牙髓病学(第 3 版)
+
+口腔修复学(第 3 版)
+
+口腔颌面医学影像学(第 3 版) 在使用本书增值服务之前, 请您刮开右侧二维码, 使用 微信扫码激活。
+
+* 温馨提示:每个激活二维码只能绑定一个微信号。 每种教材的增值服务类型略有不同。
+
+更多优质服务请微信扫码关注“北京大学医学出版社”公众号。
+
+第 3 版口腔颌面外科学(第 3 版) 临床牙周病学(第 3 版) 口腔正畸学(第 3 版) 儿童口腔医学(第 3 版) 预防口腔医学(第 3 版) 口腔种植学(第 2 版) 口腔黏膜病学(第 2 版) 口腔药物学口腔设备学口腔修复工艺学(第 2 版)

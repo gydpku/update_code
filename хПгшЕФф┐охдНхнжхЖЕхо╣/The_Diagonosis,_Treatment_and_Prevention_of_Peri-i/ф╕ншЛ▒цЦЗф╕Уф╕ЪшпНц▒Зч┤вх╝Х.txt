@@ -1,0 +1,424 @@
+
+$\mathbf{A}$按扣式附着覆盖义齿 (stud attachment overdenture)257 B白色美学评价指标(White Esthetic Score, WES) 293 半可调𬌗架(semiadjustable articulator) 331 被动就位(passive fit) 256, 440 崩瓷(porcelain fracture)376$\mathbf{C}$出血指数(bleeding index, BI) 399 初期稳定性(primary stability) 66, 215 磁性固位式覆盖义齿(magnetic attachment overdentures)258 D
+
+定期洁牙(dental scaling) 362$\mathbf{F}$
+
+方向指示杆(direction indicator) 61
+
+粉色美学评价指标(Pink Esthetic Score, PES) 293
+
+封闭式托盘 (closed tray) 260
+
+辅助性正畸治疗(adjunctive orthodontic treatment)152
+
+富血小板纤维(platelet-riched fiber, PRF) 123$\mathbf{G}$
+
+改良的腭部结缔组织翻转瓣 (modified roll technique of palatal connective tissue) 199
+
+改良菌斑指数(modified plaque index, mPI ) 399
+
+杆卡式附着覆盖义齿 ( bar-clip attachment overdentures )255
+
+功能性重建(functional reconstruction) 176
+
+骨形成蛋白(bone morphogenic protein, BMP) 140
+
+骨引导再生(guided bone regeneration, GBR) 138
+
+骨传导作用(osteoconduction) 82
+
+骨结合 (osseointegration) 3
+
+骨支持式导板 (bone supported template) 422
+
+骨内种植体(endosteal implant) 3
+
+骨生成作用(bone regeneration)82
+
+骨诱导作用(osteoinduction)82
+
+$\mathbf{H}$
+
+颏结节 (mental tubercle) 22
+
+颏孔(mental foramen) 21
+
+滑行瓣(sliding flap) 198
+
+$\mathbf{J}$
+
+菌斑指数(plaque index, PI) 399
+
+机械稳定性(mechnical stability) 4
+
+机械相容性(mechanical compatibility) 5
+
+即刻非功能性负重 (immediate nonfunctional loading)312
+
+即刻负载(immediate loading) 132
+
+即刻功能性负重(immediate functional loading) 312
+
+即刻修复(immediate restoration) 132
+
+即刻种植(immediate implant) 132
+
+嵴顶上结缔组织区(supracrestal connective tissue zone)387
+
+计算机辅助设计/计算机辅助制造 (computer-assisted design/computer-assisted manufacturing, CAD/CAM )
+
+429
+
+计算机辅助印模 (computer-aided impression, CAI)429
+
+简单𬌗架(simple articulator) 331
+
+菌斑控制(plaque control) 359$\mathbf{K}$
+
+口内扫描(intraoral scan, IOS) 432
+
+开窗式托盘 (open tray) 260$\mathbf{L}$
+
+临床附着水平(clinical attachment level, CAL) 399 累积分段支持疗法 (cumulative interceptive supportive therapy, CIST ) 404 螺纹滑丝 (slippery thread) 373$\mathbf{M}$麻醉性监护(monitored anesthesia care, MAC) 47 美学风险评估(esthetic risk assessment, ERA) 128 模型扫描(model scan) 429 磨牙后区(retromolar area) 21$\mathbf{N}$内斜线 (internal oblique line) 20 黏膜支持式导板(tissue supported template) 423P平均值𬌗架(average-value articulator) 331$\mathbf{Q}$切削杆式覆盖义齿 (milling bar overdenture) 259 球帽式附着覆盖义齿 (ball socket attachment overdenture)256
+
+全瓷基台(ceramic abutment) 286
+
+全可调𬌗架(adjustable articulator) 331
+
+$\mathbf{R}$
+
+人工骨(artificial bone) 80
+
+$\mathbf{S}$
+
+上皮下结缔组织游离移植物(subepithelial connective tissue graft, CTG) 201 生理𬌗(physiologic occlusion) 155 生物相容性(biological compatibility) 5 实时导航(real-time navigation)425 数字化印模(digital impression) 240 双扫描技术(dual scan technique) 423$\mathbf{T}$探诊出血(bleeding on probing, BOP) 399 探诊深度(probing depth, PD) 399 套筒冠式覆盖义齿(telescopic overdenture) 258 体积稳定性交联胶原基质(volume stable cross-linked collagen matrix, VCMX) 207 替代体(analog/analogue) 236W外斜线 (external oblique line) 20
+
+外置法植骨(onlay bone grafting) 87
+
+$\mathbf{X}$
+
+下颌骨颊板区(mandibular buccal shelf) 96
+
+下颌管(mandibular canal) 21
+
+血管化腓骨瓣(vascularized fibula flap) 181
+
+血管化髂骨瓣(vascularized iliac crest flap) 182
+
+$\mathbf{Y}$
+
+牙龈退缩(gingival recession, GR) 399
+
+牙龈指数(gingival index, GI) 399
+
+牙槽骨(alveolar bone) 23
+
+牙槽骨牵引成骨(alveolar distraction osteogenesis) 168
+
+牙槽嵴保存(socket preservation) 143
+
+牙槽嵴骨增量(alveolar ridge augmentation) 80
+
+牙槽嵴劈开技术(ridge splitting technique) 84
+
+牙冠高度空间(crown height space, CHS) 33
+
+牙龈生物型(gingival biotype) 34, 196
+
+牙列缺失(edentulism) 31
+
+牙列缺损(dentition defect) 268
+
+牙支持式导板(tooth supported template) 423
+
+药物相关性颌骨坏死(medication-related osteonecrosis
+
+of the jaw, MRONJ ) 44
+
+印模(impression) 269
+
+印模帽(impression coping) 235
+
+印模柱(impression post) 235
+
+预防性应用抗菌药物(antibacterial prophylaxis) 45
+
+$\mathbf{Z}$
+
+植体周健康(peri-implant health) 386
+
+植体周黏膜炎(peri-implant mucositis) 386
+
+植体周黏膜(peri-implant mucosa) 387
+
+植体周炎(peri-implantitis) 386
+
+植体周龈沟液(peri-implant crevicular fluid, PICF )
+
+402
+
+种植覆盖义齿(implant overdenture) 249
+
+种植体保护𬌗(implant protective occlusion, IPO) 228
+
+种植体折断(implant fracture)381
+
+逐级备洞(graded drilling) 60
+
+锥形束计算机体层摄影 (cone beam computed tomography,
+
+CBCT ) 401
+
+自体骨(autogenous bone) 80
+
+综合性正畸治疗 (comprehensive orthodontic treatment)
+
+[ 1 ] 周永胜. 口腔修复学. 3 版. 北京: 北京大学医学出版社, 2020.
+
+[ 2 ] 赵士杰, 皮昕. 口腔颌面部解剖学. 北京: 北京大学医学出版社, 2005.
+
+[3] 富晓娇, 张宇. 种植体周围软组织退缩外科处理技术的研究进展. 中华口腔医学杂志, 2019, 54 (4) : 267-272.
+
+[4] 林野, 邱立新, 胡秀莲, 等. 硬腭游离黏膜移植在种植体周软组织结构重建中的应用. 北京大学学报 (医学版), 2007, 39(1): 21-25.
+
+[5] 尹丽娜, 胡秀莲.口腔种植微小器械误吞、误吸原因分析及护理防范. 实用护理医学杂志, 2012, 28 (4): 56-57.
+
+[6] 张一凡, 陈波. 经外侧壁入路的上颌窦底提升植骨术的并发症及其预防处理. 中华口腔医学杂志, 2018, ${53}\left( 2\right)  : {129} - {132}$ .
+
+[7] 罗琴琪.CEREC 系统数字化印模精度的研究进展.全科口腔医学杂志,2018,11(5):45-46.
+
+[8] 陆亚倩. 数字化印模技术修复应用的研究进展. 口腔生物学, 2016, 7 (4): 211-216.
+
+[9] 杨艳峰. 数字化印模在牙体修复中的应用. 护理实践与研究, 2016, 13 (20): 54-55.
+
+[10] 王刚,顾柏林,王成焘 . 数字式一体化口腔临床工程系统的研制 . 生物医学工程学进展,2011,32 (4): 195 -197.
+
+[11] 陈昳青, 宋萌. 种植外科手术中的并发症及处理. 中国实用口腔科杂志, 2016, 9 (7): 436-440.
+
+[12] 宿玉成. 口腔种植学. 2 版. 北京:人民卫生出版社,2014.
+
+[ 13 ] 林野. 口腔种植学. 北京: 北京大学医学出版社, 2014.
+
+[14] 王勇, 赵一姣, 司燕. 与三维测量有关的名词浅析. 中华口腔正畸学杂志, 2009, 16 (2): 111-113.
+
+[15] 魏冬豪,田杰华,邸萍 . 椅旁数字化系统在种植修复中的应用与发展 . 口腔颌面修复学杂志,2017,1 (1): 55-59.
+
+[16] 田杰华, 邸萍, 林野, 等. 单牙即刻种植椅旁数字化即刻修复的临床观察. 中华口腔医学杂志, 2017, ${52}\left( {52}\right)  : 9$ .
+
+[ 17 ] Araújo MG, Lindhe J. Dimensional ridge alterations following tooth extraction. An experi-mental study in the dog. J Clin Periodontol, 2005, 32: 212-218.
+
+[18] Niu LX, Wang J, Yu HJ, et al. New classification of maxillary sinus contours and its relation to sinus floor elevation surgery. Clin Implant Dent Relat Res, 2018, 20 (4) : 493-500.
+
+[19] Velásquez-Plata, Hovey LR, Peach CC, et al. Maxillary Sinus Septa: A 3-dimensional Computerized Tomographic Scan Analysis. Int J Oral Maxillofac Implants, 2002, 17( 6 ) : 854-860.
+
+[ 20 ] Vandewalle G, Liang X, Jacobs R, et al. Macroanatomic and radiologic characteristics of the superior genial spinal foramen and its bony canal. Int J Oral Maxillofac Implants, 2006, 21 (4) : 581-586.
+
+[21] McDonnell D, Reza Nouri M, Todd ME. The mandibular lingual foramen: a consistent arterial foramen in the middle of the mandible. J Anat, 1994, 184 ( Pt 2 ) : 363-369.
+
+[22] Cawood JI, Howell RA. Reconstructive preprosthetic surgery. I . Anatomical considerations. Int J Oral Maxillofac Surg, 1991, 20 (2): 75-82.
+
+[23] Zarb GA, Schmitt A. The edentulous predicament. I : A prospective study of the effectiveness of implant-supported fixed prostheses. J Am Dent Assoc , 1996, 127 (1): 59-65.
+
+[24] Lekholm U. New surgical procedures of the osseointegration technique A.M. Brånemark. Aust Prosthodont J, 1993, 7 Suppl: 25-32.
+
+[25] Park HD, Min CK, Kwak HH, et al. Topography of the outer mandibular symphyseal region with reference to the autogenous bone graft. Int J Oral Maxillofac Surg, 2004, 33 ( 8 ) : 781-785.
+
+[26] Berglundh T, Lindhe J, Ericsson I, et al. The soft tissue barrier at implants and teeth. Clin Oral Impl Res, 1991, 2: 81-90.
+
+[27] Berglundh T, Lindhe J. Dimension of the periimplant mucosa. Biological width revisited. J Clin Periodontol, 1996,23: 971-973.
+
+[28] Puisys A, Linkevicius T. The influence of mucosal tissue thickening on crestal bone stability around bone-level implants. A prospective controlled clinical trial. Clin Oral Impl Res, 2015, 26 (2) : 123-129.
+
+[29] Tarnow DP, Magner AW, Fletcher P. The effect of the distance from the contact point to the crest of bone on the presence of absence of the interproximal dental papilla. J Periodontol, 1992, 63: 995-996.
+
+[30] Kan JYK, Rungcharassaeng K, Umezu K, et al. Dimensions of peri-implant mucosa: An evaluation of maxillary anterior single implants in humans. J Periodontol, 2003, 74: 557-562.
+
+[31] Tarnow DP, Cho SC, Wallace SS. The effect of inter-implant distance on the height of the inter-implant bone crest. J Periodontol, 2000, 71: 546-549.
+
+[ 32 ] Olsson M, Lindhe J. Periodontal characteristics in individuals with varying forms of the upper central incisors. J Clin Periodontol, 1991, 18: 78-82.
+
+[33] Kan JYK, Morimoto T, Rungcharassaeng K, et al.Gingival biotype assessment in the esthetic zone: visual versus direct measurement. Int J Periodontics Restorative Dent, 2010, 30 ( 3 ) : 237-243.
+
+[34] Palacci P, Ericsson I. Esthetic Implant Dentistry Soft and Hard Tissue Management. Chicago: Quintessence Books, 2001.
+
+[35] Scharf DR, Tarnow DP. Modified roll technique for localized alveolar ridge augmentation. Int J Periodontics Restorative Dent, 1992, 12 (5): 415-425.
+
+[36] Sclar AG. Soft tissue and esthetic considerations in implant therapy. New Malden: Quintessence Publishing Co., 2003.
+
+[37] Langer B, Calagna L.The subepithelial connective tissue graft. J Prosthet Dent, 1980, 44 (4) : 363-367.
+
+[38] Reiser GM, Bruno JF, Mahan PE, et al. The subepithelial connective tissue graft palatal donor site: anatomic considerations for surgeons. Int J Periodontics Restorative Dent, 1996, 16 (2) : 130-137.
+
+[39] Sullivan HC, Atkins JH. Free autogenous gingival grafts. 3.Utilization of grafts in the treatment of gingival recession. Periodontics, 1968, 6 (4): 152-160.
+
+[40] Lang NP, Lðe H.The relationship between the width of keratinized gingiva and gingival health. J Periodontol, ${1972},{43}\left( {10}\right)  : {623} - {627}$ .
+
+[41] Kan JYK, Rungcharassaeng K, Morimoto T, et al. Facial gingival tissue stability after connective tissue graft with single immediate tooth replacement in the esthetic zone: consecutive case report. J Oral Maxillofac Surg, 2009, 67 ( 11 Suppl ) : 40-48.
+
+[42] Halperin-Sternfeld M, Zigdon-Giladi H, Machtei EE. The association between shallow vestibular depth and peri-implant parameters: a retrospective 6 years longitudinal study. J Clin Periodontol, 2016, 43: 305-310.
+
+[43] Frisch E, Ziebolz D, Vach K, et al. The effect of keratinized mucosa width on peri-implant outcome under supportive postimplant therapy. Clin Implant Dent Relat Res, 2015, 17 Suppl 1: e236-244.
+
+[44] Souza AB, Tormena M, Matarazzo F, et al. The influence of peri-implant keratinized mucosa on brushing discomfort and peri-implant tissue health. Clin Oral Impl Res, 2016, 27 ( 6 ) : 650-655.
+
+[45] Roccuzzo M, Grasso G, Dalmasso P. Keratinized mucosa around implants in partially edentulous posterior
+
+mandible: 10-year results of a prospective comparative study. Clin Oral Impl Res, 2016, 27 (4): 491-496.
+
+[ 46 ] Schmitt cm, Moest T, Lutz R, et al.Long-term outcomes after vestibuloplasty with a porcine collagen matrix (Mucograft ${}^{ \oplus  }$ ) versus the free gingival graft: a comparative prospective clinical trial. Clin Oral Impl Res, 2016, 27 ( 11 ) : e125-e133.
+
+[ 47 ] Burkhardt R, Joss A, Lang NP. Soft tissue dehiscence coverage around endosseous implants: a prospective cohort study. Clin Oral Implants Res, 2008, 19 (5) : 451-457.
+
+[48] Zucchelli G, Felice P, Mazzotti C, et al. 5-year outcomes after coverage of soft tissue dehiscence around single implants: a prospective cohort study. Eur J Oral Implantol, 2018, 11 (2) : 215-224.
+
+[49] McDermott N, Chuang S, Dodson T, et al. Complications of dental implants: Identification, frequency, and associated risk factors. Int J Oral Maxillofac Implants, 2003, 18 (6): 848-855.
+
+[ 50 ] Jabero M, Sarment DP. Advanced surgical guidance technology: A review. Implant Dent, 2006, 15 (2 ) : 135-142.
+
+[ 51 ] Givol N, Taicher S, Chaushu G, et al. Risk management aspects of implant dentistry. Int J Oral Maxillofac Implants, 2002, 17 (2): 258-262.
+
+[52] Jung JH, Choi BH, Li J, et al. The effects of exposing dental implants to the maxillary sinus cavity on sinus complications. Oral Surg Oral Med Oral Pathol Oral Radiol Endod, 2006, 102 (5) : 602-605.
+
+[53] Ayangco L, Sheridan PJ. Development and treatment of retrograde periimplantitis involving a site with a history of failed endodontic and apicoectomy procedures: A series of reports. Int J Oral Maxillofac Implants, 2001,16(3): ${412} - {417}$ .
+
+[ 54 ] Lioubavina-Hack N, Lang NP, Karring T. Significance of primary stability for osseointegration of dental implants. Clin Oral Impl Res, 2006, 17 (3): 244-250.
+
+[55] Mugino H, Takagi S, Ikemura K, et al. Miniplate osteosynthesis of fractures of the edentulous mandible. Clin Oral Investig, 2005, 9 (4): 266-270.
+
+[ 56 ] Flanagan D. Important arterial supply of the mandible, control of an arterial hemorrhage, and report of a hemorrhagic incident. J Oral Implantol, 2003, 29 (4): 165-173.
+
+[ 57 ] Hegedus F, Diecidue RJ. Trigeminal nerve injuries after mandibular implant placement-Practical knowledge for clinicians. Int J Oral Maxillofac Implants, 2006, 21 (1): 111-116.
+
+[ 58 ] Sung Woon On, Seoung-Won Cho, Byoung-Eun Yang. A review of rare complications of maxillary sinus floor augmentation. J Korean Assoc Oral Maxillofac Surg, 2019, 45 ( 6 ) : 351-356.
+
+[ 59 ] van Diermen DE, van der Waal I, Hoogstraten J. Management recommendations for invasive dental treatment in patients using oral antithrombotic medication, including novel oral anticoagulants. Oral Surg Oral Med Oral Pathol Oral Radiol, 2013, 116 (6): 709-716.
+
+[ 60 ] Balaguer-Martí JC, Peñarrocha-Oltra D, Balaguer-Martínez J, et al. Immediate bleeding complications in dental implants: A systematic review. Med Oral Patol Oral Cir Bucal, 2015, 20 (2) : e231-238.
+
+[ 61 ] Tomljenovic B, Herrmann S, Filippi A, et al. Life-threatening hemorrhage associated with dental implant surgery: a review of the literature. Clin Oral Impl Res, 2016, 27 (9): 1079-1084.
+
+[ 62 ] Catherine L, Peyman A, Farzad B. Floor-of-Mouth Hematoma Following Dental Implant Placement: Literature Review and Case Presentation. J Oral Maxillofac Surg, 2017, 75 ( 11 ) : 2340-2346.
+
+[ 63 ] Octavi C-F, Rui F, Eduard V-C, et al. Postoperative Infections After Dental Implant Placement: Prevalence, Clinical Features, and Treatment. Implant Dent, 2015, 24 ( 6 ) : 713-719.
+
+[ 64 ] Paolo B, Tymour F. Current Concepts on Complications Associated With Sinus Augmentation Procedures. J Craniofac Surg, 2014, 25 (2): e210-e212.
+
+[ 65 ] Yifat M, Yakir A, Ron G, et al. Complications and Management of Implants Migrated into the Maxillary Sinus. Int J Periodontics Restorative Dent, 2018, 38 (6) : e112-e118.
+
+[ 66 ] Jin-Wook Kim, Jun-Young Paeng, So-Young Choi, et al. Displacement of Dental Implants Into the
+
+Mandibular Bone Marrow Space: Cause and Treatment. A Case Study and Literature Review. J Oral Implantol,
+
+${2017},{43}\left( 2\right)  : {151} - {157}$ .
+
+[ 67 ] Roberto F, Antonio Z, Luigi M, et al. Orbital and Periorbital Emphysema Following Maxillary Sinus Floor Elevation: A Case Report and Literature Review. J Oral Maxillofac Surg, 2016, 74 ( 11 ) : 2192.e1-2192.e7.
+
+[ 68 ] Greenstein G, Carpentieri JR, Cavallaro J. Nerve Damage Related to Implant Dentistry: Incidence, Diagnosis, and Management. Compend Contin Educ Dent, 2015, 36 (9) : 652-659.
+
+[ 69 ] Testori T, Weinstein T, Taschieri S, et al. Risk factors in lateral window sinus elevation surgery. Periodontol 2000, 2019, 81 (1): 91-123.
+
+[ 70 ] Katranji A, Fotek P, Wang HL. Sinus augmentation complications: Etiology and treatment. Implant Dent, 2008,17 (3): 339-349.
+
+[ 71 ] Lee HW, Lin WS, Morton D. A retrospective study of complications associated with 100 consecutive maxillary sinus augmentations via the lateral window approach. Int J Oral Maxillofac Implants, 2013, 28 (3 ): 860-868.
+
+[ 72 ] Schwartz-Arad D, Herzberg R, Dolev E. The prevalence of surgical complications of the sinus graft procedure and their impact on implant survival. J Periodontol, 2004, 75 (4) : 511-516.
+
+[ 73 ] Tahmaseb A, Wu V, Wismeijer D, et al. The accuracy of static computer-aided implant surgery: A systematic review and meta-analysis. Clin Oral Implants Res, 2018, 29 Suppl 16: 416-435.
+
+[ 74 ] Tettamanti S, Millen C, Gavric J, et al. Esthetic Evaluation of Implant Crowns and Peri-implant Soft Tissue in the Anterior Maxilla: Comparison and Reproducibility of Three Different Indices. Clin Implant Dent Relat Res, 2016, 18 (3): 517-526.
+
+[ 75 ] Meijndert L, Meijer HJ, Stellingsma K, et al. Evaluation of aesthetics of implant-supported single-tooth replacements using different bone augmentation procedures: a prospective randomized clinical study. Clin Oral Implants Res, 2007, 18: 715-719.
+
+[ 76 ] Chang M, Odman PA, Wennstrom JL, et al. Esthetic coutcome of implant-supported single-tooth replacements assessed by the patient and by prosthodontists. Int J Prosthodont, 1999, 12: 335-341.
+
+[ 77 ] Kniha K, Kniha H, Grunert I, et al. Esthetic Evaluation of Maxillary Single-Tooth Zirconia Implants in the Esthetic Zone. Int J Periodontics Restorative Dent, 2019, 39 (5): e195-201.
+
+[ 78 ] Carlsson GE. Dental occlusion: modern concepts and their application in implant prosthodontics. Odontology, 2009, 97 (1): 8-17.
+
+[ 79 ] Sheridan RA, Decker AM, Plonka AB. The Role of Occlusion in Implant Therapy: A Comprehensive Updated Review. Implant Dent, 2016, 25 (6): 829-838.
+
+[ 80 ] Nouh I, Kern M, Sabet AE, et al. Mechanical behavior of posterior all-ceramic hybrid-abutment-crowns versus hybrid-abutments with separate crowns-A laboratory study.Clin Oral Implants Res, 2019, 30 (1) : 90-98.
+
+[ 81 ] Guth JF, Keul C, Stimmelmayr M, et al. Accuracy of digital models obtained by direct and indirect data capturing. Clin Oral Investig, 2013, 17 (4): 1201-1208.
+
+[ 82 ] Fritzsche G. Treatment of a single-tooth gap with a Cerec 3D crown on an implant: A case report. Int J Comput Dent, 2004, 7 (2): 199-206.
+
+[ 83 ] van der Meer WJ, Andriessen FS, Wismeijer D, et al. Application of intra-oral dental scanners in the digital workflow of implantology. PLoS One, 2012, 7 (8): e43312.
+
+[84] Ender A, Mehl A. Influence of scanning strategies on the accuracy of digital intraoral scanning systems. Int J Comput Dent, 2013, 16 (1): 11-21.
+
+[ 85 ] Ender A, Zimmermann M, Attin T, et al. In vivo precision of conventional and digital methods for obtaining quadrant dental impressions. Clin Oral Investig, 2016, 20 ( 7 ) : 1495-504.
+
+[86] Wei D, Di P, Tian J, et al. Evaluation of intraoral digital impressions for obtaining gingival contour in the
+
+esthetic zone: accuracy outcomes. Clin Oral Investig, 2020, 24 (4): 1401-1410.
+
+[ 87 ] Lee SJ, Gallucci GO. Digital vs. conventional implant impressions: efficiency outcomes. Clin Oral Implants Res, 2013, 24 (1): 111-115.
+
+88] Joda T, Lenherr P, Dedem P, et al. Time efficiency, difficulty, and operator's preference comparing digital and conventional implant impressions: a randomized controlled trial. Clin Oral Implants Res, 2017, 28 (10): 1318-1323.
+
+[ 89 ] Joda T, Brägger U. Patient-centered outcomes comparing digital and conventional implant impression procedures: a randomized crossover trial. Clin Oral Implants Res, 2016, 27 (12) : e185-e189.
+
+[ 90 ] Jiang X, Lin Y, Cui HY, et al. Immediate loading of multiple splinted implants via complete digital workflow: A pilot clinical study with 1-year follow-up. Clin Implant Dent Relat Res, 2019, 21 (3): 446- 453.
+
+[ 91 ] Zhang Y, Tian J, Wei D, et al. Quantitative clinical adjustment analysis of posterior single implant crown in a chairside digital workflow: A randomized controlled trial. Clin Oral Implants Res, 2019, 30 (11): 1059- 1066.
+
+[ 92 ] Lee SJ, Betensky RA, Gianneschi GE, et al. Accuracy of digital versus conventional implant impressions. Clin Oral Implants Res, 2015, 26 (6) : 715-719.
+
+[93] Joda T, Bragger U. Complete digital workflow for the production of implant-supported single-unit monolithic crowns. Clin Oral Implants Res, 2014, 25 ( 11 ) : 1304-1306.
+
+[ 94 ] Andriessen FS, Rijkens DR, van der Meer WJ, et al. Applicability and accuracy of an intraoral scanner for scanning multiple implants in edentulous mandibles: a pilot study. J Prosthet Dent, 2014, 111 (3): 186- 194.
+
+[ 95 ] Rivara F, Lumetti S, Calciolari E, et al. Photogrammetric method to measure the discrepancy between clinical and software-designed positions of implants. J Prosthet Dent, 2016, 115 (6): 703-711.
+
+96 ] Alghazzawi TF. Advancements in CAD/CAM technology: Options for practical implementation. J Prosthodont Res, 2016, 60(2): 72-84.
+
+[ 97 ] Mormann WH, Brandestini M, Lutz F, et al. CAD-CAM ceramic inlays and onlays: a case report after 3 years in place. J Am Dent Assoc, 1990, 120 (5) : 517-520.
+
+[ 98 ] Fritzsche G. Treatment of a single-tooth gap with a Cerec 3D crown on an implant: A case report. Int J Comput Dent, 2004, 7 (2): 199-206.
+
+[ 99 ] Kurbad A. Final restoration of implants with a hybrid ceramic superstructure. Int J Comput Dent, 2016, 19 ( 3 ): 257-279.
+
+[ 100 ] Joda T, Zarone F, Ferrari M. The complete digital workflow in fixed prosthodontics: a systematic review. BMC Oral Health, 2017, 17 (1): 124.
+
+[ 101 ] Joda T, Bragger U. Patient-centered outcomes comparing digital and conventional implant impression procedures: a randomized crossover trial. Clin Oral Implants Res, 2016, 27 (12): e185-e189.
+
+[ 102 ] Zhang Y, Tian J, Wei D, et al. Quantitative clinical adjustment analysis of posterior single implant crown in a chairside digital workflow: A randomized controlled trial. Clin Oral Implants Res, 2019, 30 (11) : 1059-1066.
+
+[103] Miyoshi K, Tanaka S, Yokoyama S, et al. Effects of different types of intraoral scanners and scanning ranges on the precision of digital implant impressions in edentulous maxilla: An in vitro study. Clin Oral Implants Res, 2020, 31 (1): 74-83.
+
+[ 104 ] Sawase T, Kuroshima S. The current clinical relevancy of intraoral scanners in implant dentistry. Dent Mater J, 2020, 39(1): 57-61.
+
+[ 105 ] Wiedhahn K. From blue to white: new high-strength material for Cerec--IPS e.max CAD LT. Int J Comput Dent, 2007, 10 (1): 79-91.
+
+[ 106 ] Joda T, Bragger U, Zitzmann NU. CAD/CAM implant crowns in a digital workflow: Five-year follow-up of a prospective clinical trial. Clin Implant Dent Relat Res, 2019, 21 ( 1 ) : 169-174.
+
+[ 107 ] Ruggiero SL, Dodson TB, Fantasia J, et al. American Association of Oral and Maxillofacial Surgeons position paper on medication-related osteonecrosis of the jaw-2014 update. J Oral Maxillofac Surg, 2014, ${72}\left( {10}\right)  : {1938} - {1956}$ .
+
+[ 107 ] Jensen OT, Shulman LB, Block MS, et al. Report of the Sinus Consensus Conference of 1996. Int J Oral Maxillofac Implants, 1998, 13 Suppl: 11-45.
+
+责任编辑:张李娜封面设计: 锋尚设计口腔种植学 第 2 版 Oral Implantology
+
+口腔医学导论(第 3 版) 口腔颌面外科学(第 3 版)
+
+口腔颌面部解剖学(第 3 版) 临床牙周病学(第 3 版)
+
+牙体解剖与口腔生理学(第 3 版) 口腔正畸学(第 3 版)
+
+口腔生物学(第 3 版) 儿童口腔医学(第 3 版)
+
+口腔组织学与病理学(第 3 版) 预防口腔医学(第 3 版)
+
+口腔材料学(第 3 版) 口腔种植学(第 2 版)
+
+临床龋病学(第 3 版) 口腔黏膜病学(第 2 版)
+
+牙体牙髓病学(第 3 版) 口腔药物学
+
+口腔修复学(第 3 版) 口腔设备学
+
+口腔颌面医学影像学(第 3 版) 口腔修复工艺学(第 2 版)
+
+在使用本书增值服务之前, 请您刮开右侧二维码, 使用 微信扫码激活。 * 温馨提示:每个激活二维码只能绑定一个微信号。 本教材激活二维码每种教材的增值服务类型略有不同。
+
+更多优质服务请微信扫码关注“北京大学医学出版社” 公众号。

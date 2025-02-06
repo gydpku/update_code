@@ -1,0 +1,5 @@
+
+附表 1-0-1 上颌中切牙各部位尺寸
+
+<table><thead><tr><th>上颌中切牙</th><th>平均值 /mm</th><th>放大 3 倍值/mm</th></tr></thead><tr><td>冠长</td><td>10.5</td><td>31.5</td></tr><tr><td>根长</td><td>13.0</td><td>39.0</td></tr><tr><td>冠宽</td><td>8.5</td><td>25.5</td></tr><tr><td>颈宽</td><td>7.0</td><td>21.0</td></tr><tr><td>冠厚</td><td>7.0</td><td>21.0</td></tr><tr><td>颈厚</td><td>6.0</td><td>18.0</td></tr><tr><td>近中颈曲度</td><td>3.5</td><td>10.5</td></tr><tr><td>远中颈曲度</td><td>2.5</td><td>7.5</td></tr></table>
+

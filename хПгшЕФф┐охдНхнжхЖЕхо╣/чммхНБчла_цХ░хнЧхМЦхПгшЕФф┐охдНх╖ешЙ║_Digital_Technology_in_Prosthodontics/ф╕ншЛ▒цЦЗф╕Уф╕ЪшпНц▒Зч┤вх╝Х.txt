@@ -1,0 +1,404 @@
+
+B被动就位(passive fit) 281 半解剖式牙(semi-anatomic teeth) 212 半精密附着体(semi-precision attachment) 247 被动固位式附着体(passive attachment) 248 鼻缺损(nasal defect) 312 鼻赝复体(nasal prosthesis) 313 边缘封闭区(border seal area) 201 边缘伸展(border extension of denture base) 192 边缘整塑(border molding) 195$\mathbf{C}$重衬(relining) 237 侧方髁导斜度(inclination of lateral condylar guidance)210侧方𬌗平衡(lateral balanced occlusion) 227 长正中𬌗(long-centric occlusion)226 衬垫 (ring liner) 82 杵臼𬌗(pestle-mortar occlusion) 226 储金库(reservoir) 66 穿龈轮廓(emergence profile) 68 唇低线(low lip line) 206 唇高线(high lip line) 206 唇颊系带(labial and buccal frenum) 190 瓷牙(porcelain tooth) 210 磁体 (magnet) 247 磁性附着体(magnetic attachment) 248D
+
+代型 (die) 54
+
+代型可卸式工作模型(working cast with a removable
+
+die) 55
+
+带状卡环(bracing unit, bracing arm) 264E腭护板(palatal stent) 296 二次灌注法(secondary pouring method) 198 二硅酸锂(lithium disilicate) 106 耳缺损(ear defect, auricular defect) 312 耳赝复体(ear prosthesis, auricular prosthesis) 312$\mathbf{F}$非正中𬌗平衡(eccentric balanced occlusion) 226 附着体(attachment) 246 附着体辅助装置(auxiliary parts) 264 复制义齿(duplicate dentures) 240 副承托区(secondary stress-bearing area) 201 覆盖义齿(overdenture) 244$\mathbf{G}$骨结合(osseointegration) 268 改良𬌗型(modified occlusal scheme) 212 杆卡式附着体(bar attachment) 254 刚性附着体(ridge attachment) 248 个别代型(separate die) 55 根帽(root coping) 246 根面附着体(root attachment) 248 工作模型(working cast) 54 功能性咬合蜡型成形法(functional waxing) 71 固定-活动联合修复 (fixed-removable prostheses)245
+
+固位卡(clip) 254
+
+冠内附着体(intracoronal attachment) 248
+
+冠外附着体(extracoronal attachment) 248
+
+硅橡胶指示阴模(silicon index) 107$\mathbf{H}$
+
+焊接(soldering) 110
+
+焊料(solder) 112
+
+𬌗面形态(occlusal morphology) 68
+
+颌面缺损(maxillofacial defect) 292
+
+𬌗型(occlusal pattern) 68
+
+颌位关系 (maxillomandibular relationship or jaw relation)
+
+204
+
+缓冲区(relief area) 201
+
+获得性缺损(acquired defects) 294
+
+$\mathbf{J}$
+
+肌静力线 (myostatic outline) 194
+
+机械式附着体(mechanic attachment) 248
+
+基台(abutment) 277
+
+基台代型(abutment analog) 277
+
+基于个别代型技术的工作模型 (working cast with a
+
+separate die ) 55
+
+激光焊接(laser welding) 114
+
+计算机辅助设计与计算机辅助制作 (computer-aided
+
+design & computer-aided manufacturing ) 318
+
+记存模型(recording cast) 54
+
+加蜡法(wax-added technique) 71
+
+颊棚区(buccal shelf area) 190
+
+尖-边缘嵴𬌗型(cusp-marginal ridge occlusion) 69
+
+尖-窝型(cusp-fossa occlusion) 68
+
+尖对嵴加蜡法 (cusp-marginal ridge waxing technique)
+
+71
+
+尖对窝加蜡法(cusp-fossa waxing technique) 71
+
+角度基台(angled abutment)273
+
+解剖式牙(anatomical teeth) 212
+
+金属杆(bar) 254
+
+精密附着体(precision attachment) 247
+
+局部模型(sectional cast) 55
+
+$\mathbf{K}$
+
+可摘局部义齿(removable partial denture, RPD) 117
+
+克里斯坦森现象(Christensen phenomenon) 209
+
+口角线 (line of angulus oris) 206
+
+口腔技师(dental technician) 2
+
+口腔修复工艺学(prosthodontic technology) 1
+
+宽容度(freedom) 193
+
+$\mathbf{L}$
+
+蜡型(wax pattern) 63
+
+蜡锥 (cone) 72
+
+冷弯卡环(wrought wire clasp) 153
+
+螺钉(screw) 265
+
+螺丝松动(screw loosening) 287
+
+螺丝折断 (screw fracture) 287
+
+$\mathbf{M}$
+
+面部缺损(facial defect) 310
+
+面部赝复体(facial prosthesis) 310
+
+面弓转移(face bow transfer) 208
+
+模型 (cast) 54
+
+模型观测(cast surveying) 121
+
+模型修整(cast trimming) 199
+
+磨牙后垫(retromolar pad) 190
+
+$\mathbf{N}$
+
+耐火模型(refractory cast) 188
+
+0
+
+“O”型圈(“O” ring) 264
+
+$\mathbf{P}$
+
+排牙(tooth arrangement, tooth setup) 159
+
+排牙指示模板(index) 284
+
+平衡𬌗(balanced occlusion) 226
+
+平面𬌗(monoplane occlusion) 226
+
+$\mathbf{Q}$
+
+前伸𬌗平衡(protrusive balanced occlusion) 226
+
+切导斜度(inclination of incisal guidance) 210
+
+切牙乳突(incisive papilla) 191
+
+$\mathbf{R}$
+
+热压铸 (heat-pressed) 106
+
+人工牙(artificial teeth) 210
+
+熔模(fired mold) 63
+
+乳光效应(opalescence) 102
+
+润湿性(wettability) 112
+
+$\mathbf{S}$
+
+三点等高定位法(tripodding) 121
+
+三点接触状态 (tripod contact) 73
+
+三角嵴(triangular ridge)72
+
+上颌结节(maxillary tuberosity) 190
+
+上𬌗架(mounting the casts on the articulator) 208
+
+上釉(glaze firing) 104
+
+舌向集中𬌗(lingualized occlusion) 226
+
+生物相容性(biocompatibility) 268
+
+失蜡铸造法( lost-wax casting)63 树脂牙(acrylic resin tooth) 211 栓钉式附着体(stud attachment) 249 水平研磨仪(paralleling milling machine) 266$\mathbf{T}$
+
+套筒冠(telescopic crown) 261
+
+弹性附着体(resilient attachment) 248W
+
+外展隙(embrasure) 68
+
+围模灌注法 (boxing and pouring the final impression)198
+
+无尖牙(cuspless teeth) 212$\mathbf{X}$
+
+先天性缺损(congenital defects) 294
+
+衔铁 (keeper) 247
+
+线性𬌗(linear occlusion) 226$\mathbf{Y}$
+
+眼缺损(eye defect, ocular defect) 311
+
+牙尖嵴(cusp ridges) 72
+
+牙列缺损(partial edentulism) 117
+
+牙周夹板(periodontal splint) 185
+
+眼眶缺损(orbital defect) 313
+
+眼眶赝复体(orbital prosthesis) 313
+
+眼赝复体(ocular prosthesis) 311
+
+赝复体(maxillofacial prosthesis) 292
+
+阳型(patrix) 247 咬合指示粉(occlusion indicating powder) 65 医院感染(nosocomial infection) 341 翼上颌切迹(pterygomaxillary notch) 190 翼下颌韧带(pterygomandibular raphae) 190 阴型(matrix) 247 应力中断(stress breaking) 248 硬性程度(rigidity) 248 预加载(preload) 287 远中颊角区(distal buccal angles area) 191$\mathbf{Z}$撞针(plunger) 265 诊断模型(diagnostic cast) 54 正中𬌗平衡(centric balanced occlusion) 226 种植体折断 (implant fracture) 286 种植体周软组织沟(peri-implant sulcus) 268 轴面外形(axial contours) 66 珠状边缘封闭线 (beading line) 131 主承托区(primary stress-bearing area) 201 主动固位式附着体(active attachment) 248 注射成形玻璃陶瓷(injection-molded glass ceramics)106
+
+铸道(sprue) 140
+
+铸件 (castings) 63
+
+铸造工艺(cast) 63
+
+锥形套筒冠(conical crown) 261
+
+终止线(finish line)62
+
+组织倒凹(tissue undercut) 295 主要参考文献
+
+[ 1 ] 周永胜. 口腔修复学. 3 版. 北京: 北京大学医学出版社, 2020.
+
+[2] 赵信义. 口腔材料学. 6 版. 北京: 人民卫生出版社, 2020.
+
+[ 3 ] 赵铱民. 口腔修复学. 8 版. 北京: 人民卫生出版社, 2020.
+
+[4] 孙玉春,王勇,邓珂慧,等. 功能易适数字化全口义齿的自主创新研发. 北京大学学报 (医学版), 2020, 52 (2): 390-394.
+
+[5]王冠博,叶红强,陈虎,等. 无牙颌印模用个别托盘椅旁计算机辅助设计和三维打印系统建立与临床初步评价. 北京大学学报 (医学版), 2019, 51 (2): 349-355.
+
+[6] 孙玉春,孙儒,邓珂慧,等. 全口义齿数字化修复技术的研发和应用进展. 中华口腔医学杂志,2018, ${53}\left( 1\right)  : {60} - {65}$ .
+
+[7] 冯海兰. 全口义齿修复学. 北京: 人民卫生出版社, 2018.
+
+[8] 王兴. 第四次全国口腔健康流行病学调查报告. 北京: 人民卫生出版社, 2018.
+
+[9] 孙玉春, 李榕, 周永胜, 等. 三维打印在口腔修复领域中的应用. 中华口腔医学杂志, 2017, 52 (6):381-385.
+
+[10] 于海洋. 口腔固定修复学. 北京: 人民卫生出版社, 2016.
+
+[ 11 ] 张震康, 俞光岩, 徐韬. 实用口腔科学. 4 版. 北京: 人民卫生出版社, 2016.
+
+[12] 周永胜, 佟岱. 口腔修复工艺学. 北京: 北京大学医学出版社, 2014.
+
+[ 13 ] 曾旗, 胡延松. 管理学原理. 武汉: 武汉理工大学出版社, 2014.
+
+[14] 冯海兰, 徐军. 口腔修复学. 2 版. 北京: 北京大学医学出版社, 2013.
+
+[ 15 ] 林红. 口腔材料学. 2 版. 北京: 北京大学医学出版社, 2013.
+
+[16] 姜真. 现代企业管理. 北京: 清华大学出版社, 2013.
+
+[17] 吕培军, 王勇. 口腔数字化医疗技术相关问题的思考. 中华口腔医学杂志, 2012, 47 (8): 449-452.
+
+[18] 吴菎. 管理学基础. 北京: 高等教育出版社, 2012.
+
+[19] 赵一姣, 王勇. 口腔医学与数字化制造技术. 中国实用口腔科杂志, 2012, 5 (5): 257-260.
+
+[ 20 ] 杨坚, 冯海兰, 魏秀霞, 等. CEREC 3D 全瓷冠在前牙修复中的美学效果观察. 中华医学杂志, 2012, ${92}\left( {12}\right)  : {845} - {847}$ .
+
+[21] Rahn AO, IvanhoeJR, Plummer KD. 全口义齿教科书 .6 版. 冯海兰, 译. 北京: 人民卫生出版社, 2011.
+
+[22] 姚江武. 冠内冠外精密附着体. 北京: 人民卫生出版社, 2011.
+
+[23]孙玉春,赵一姣,王勇,等. 上颌中切牙种植体全瓷基台的计算机辅助设计. 中华口腔医学杂志,2010, ${45}\left( {10}\right)  : {631} - {634}$ .
+
+[24] 韩科, 彭东. 口腔修复工艺学. 北京: 北京大学医学出版社, 2009.
+
+[25] 徐军. 总义齿的𬌗接触——五种不同𬌗型的设计要点. 北京: 人民卫生出版社, 2008.
+
+[26] 张志君. 口腔设备学. 3 版. 成都:四川大学出版社, 2008.
+
+[27] 于海洋. 现代牙科技师手册. 北京: 科学技术文献出版社, 2007.
+
+[28] Carr AB, McGivney GP, Brown DT. 可摘局部义齿修复学. 11 版. 张富强, 译. 北京: 人民军医出版社,2007.
+
+[29] 王羽. 医院感染管理办法. 北京: 中国法制出版社, 2006.
+
+[30] 姚江武. 口腔技工工艺学. 北京: 北京科学技术出版社, 2006.
+
+[31] 于海洋. 口腔固定修复工艺学. 北京: 人民卫生出版社, 2006.
+
+[32]孙玉春,吕培军,王勇 . 基于逆向工程技术的烤瓷固定义齿基底支架计算机辅助设计. 中华口腔医学杂志, 2006, 41 (3): 175-177.
+
+[ 33 ] Caesar HH. 牙科技术工艺学. 林文元, 译. 北京: 北京大学医学出版社, 2005.
+
+[34] 徐军. 总义齿与可摘局部义齿的设计. 北京: 大百科全书出版社, 2005.
+
+[35] 张富强. 附着体义齿. 上海: 上海科学技术文献出版社, 2005.
+
+[36] McGivney GP, Carr AB. 可摘局部义齿修复学. 10 版. 杨亚东, 姜婷, 译. 北京: 科学出版社, 2003.
+
+[37] (日) 全国齿科技工士教育协会. 可摘局部义齿学. 赵军, 张宁宁, 钟伟, 译. 上海: 上海教育出版社, 2002.
+
+[38] 张文福. 医学消毒学. 北京: 军事医学科学出版社, 2002.
+
+[39] 吕培军. 数学与计算机技术在口腔医学中的应用. 北京: 中国科学技术出版社, 2001.
+
+[ 40 ] 周永胜, 周书敏, 徐军, 等. 无牙颌剩余牙槽嵴丰满组与非丰满组间下颌骨和髋部骨密度的比较. 北京医科大学学报, 2000, 32 (1): 57-60.
+
+[41] 周永胜, 周书敏. 有牙颌与无牙颌老年人颌及髋部骨密度的比较研究. 中华口腔医学杂志, 1999,34 (6): 361-363.
+
+[42] 周永胜, 周书敏, 薛延, 等. 老年正常人与老年骨质疏松症患者下颌角骨密度的比较研究. 北京医科大学学报, 1998, 30 (5): 433-434, 442.
+
+[43] 久野富雄,佐佐木雅史,陆诚,等. 技工に强〈なる本. 东京: クイン アッセン ス出版株式会社,2012.
+
+[44] 山本真. 力 ラ_ア卜ラスサ・メタルセラミックス. 东京:クインテッセンス出版株式会社,1982.
+
+[45] Ye H, Wang Z, Sun Y, et al. Fully digital workflow for the design and manufacture of prostheses formaxillectomy defects. J Prosthet Dent. 2020. DOI: 10.1016/j.prosdent.2020.05.026.
+
+[46] Deng K, Wang Y, Zhou Y, et al. Functionally suitable digital removable complete dentures: A dental technique. J Prosthet Dent, 2020, 123 ( 6 ) : 795-799.
+
+[47] Ye H, Wang KP, Liu Y, et al. Four-dimensional digital prediction of the esthetic outcome and digital implementation for rehabilitation in the esthetic zone. J Prosthet Dent, 2020, 123 ( 4 ) : 557-563.
+
+[48] Chen H, Li H, Zhao Y, et al. Adaptation of removable partial denture frameworks fabricated by selective laser melting. J Prosthet Dent, 2019, 122 (3): 316-324.
+
+[49] Ye H, Li X, Wang K, et al. A novel computer-aided design/computer-assisted manufacture method for one-piece removable partial denture and evaluation of fit. Int J Prosthodont, 2018, 31 (2) : 149-151.
+
+[ 50 ] The glossary of prosthodontic terms. 9th ed. J Prosthet Dent, 2017, 117 (5s): e1-e105.
+
+[51] Ye H, Ma Q, Hou Y, et al. Generation and evaluation of 3D digital casts of maxillary defects based on multisource data registration: A pilot clinical study. J Prosthet Dent, 2017, 118 ( 6 ) : 790-795.
+
+[52] Rosenstiel SF, Land MF, Fujimoto J, et al. Contemporary fixed prosthodontics. 5th ed. St. Louis: Elsever, 2016.
+
+[53] Huang Z, Wang X, Hou Y. Novel method of fabricating individual trays for maxillectomy patients by computer-aided design and rapid prototyping. J Prosthodont, 2015, 24 (2) : 115-120.
+
+[ 54 ] Gildo Coelho Santos Jr, Maria Jacinta Moraes Coelho Santos Jr, Amin S Rizkalla, et al. Overview of CEREC CAD/CAM chairside system. Gen Dent, 2013, 61 ( 1 ) : 36-40.
+
+[55] Shillingburg HT, Sather DA, Wilson EL, et al. Fundamentals of fixed prosthodontics. 4th ed. Chicago: Quintessence Publising Co., 2012.
+
+[56] Hou Y, Huang Z, Ye H, et al. Inflatable hollow obturator prostheses for patients undergoing an extensive maxillectomy: a case report. Int J Oral Sci, 2012, 4 (2): 114-118.
+
+[ 57 ] Miyazaki T, Hotta Y. CAD/CAM systems available for the fabrication of crown and bridge restorations. Aust
+
+Dent J, 2011, 56 ( Suppl 1 ) : 97-106.
+
+[58] Mosby's Medical Dictionary. 8th ed. St. Louis: Elsevier, 2009.
+
+[59] Sun Y, Lyu P, Wang Y. Study on CAD&RP for removable complete denture. Comput Methods Programs Biomed, 2009, 93 (3): 266-272.
+
+[ 60 ] Beuer F, Schweiger J, Edelhoff D. Digital dentistry: an overview of recent developments for CAD/CAM generated restorations. Br Dent J, 2008, 204 ( 9 ) : 505-11.
+
+[ 61 ] Allen KL, Schenkel AB, Estafan D. An overview of the CEREC 3D CAD/CAM system. Gen Dent, 2004, ${52}\left( 3\right)  : {234} - {235}$ .
+
+[ 62 ] Zarb GA, Bolender CL, Eckert SE, et al. Prosthodontic treatment for edentulous patients. 12th ed. St. Louis: Elseiver, 2004.
+
+[ 63 ] Ender A, Wiedhahn K, Mormann WH. Chairside multi-unit restoration of a quadrant using the new Cerec 3D software. Int J Comput Dent, 2003, 6 (1): 89-94.
+
+[64] Goodacre CJ, Bernal G, Rungcharassaeng K, et al. Clinical complications with implants and implant prostheses. J Prosthet Dent, 2003, 90 (2): 121-132.
+
+[ 65 ] Hehn S. The evolution of a chairside CAD/CAM system for dental restorations. Compend Contin Educ Dent, 2001, 22 ( 6 Suppl ) : 4-6.
+
+[ 66 ] Wirz J, Hoffmann A. Electroforming in Restorative Dentistry. Chicago: Quintessence Publishing Co., 2000.
+
+[ 67 ] Renouard F, Rangert B. Risk factors in implant dentistry. Chicago: Quintessence Publishing Co., 1999.
+
+[ 68 ] Gunne J, Rangert B, GlantzPO, et al. Functional loads on freestanding and connected implants in three-unit mandibular prostheses opposing complete dentures: an in vivo study. Int J Oral Maxillofac Implants, 1997, ${12}\left( 3\right)  : {335} - {341}$ .
+
+[ 69 ] Rangert B, Gunne J, Glantz PO, et al. Vertical load distribution on a three-unit prosthesis supported by a natural tooth and a single Brânemark implant. An in vivo study. Clin Oral Implants Res, 1995, 6 (1) : 40- 46.
+
+[ 70 ] Naylor WP, Kessler JC, King AH. Introduction to metal ceramic technology. Chicago: Quintessence Publising Co., 1992.
+
+[ 71 ] Gregory M, MurphyWM, Scott J, et al. A clinical study of the Brånemark dental implant system. Br Dent J, ${1990},{168}\left( 1\right)  : {18} - {23}$ .
+
+[ 72 ] Johansson G, Palmqvist S. Complications, supplementary treatment, and maintenance in edentulous arches with implant-supported fixed prostheses. Int J Prosthodont, 1990, 3 ( 1 ) : 89-92.
+
+[ 73 ] Albrektsson T. A multicenter report on osseointegrated oral implants. J Prosthet Dent, 1988, 60 ( 1 ) : 75-84.
+
+[ 74 ] Cox JF, ZarbGA. The longitudinal clinical efficacy of osseointegrated dental implants: a 3-year report. Int J Oral Maxillofac Implants, 1987, 2 (2): 91-100.
+
+[ 75 ] Lindquist LW, Carlsson GE, Glantz PO. Rehabilitation of the edentulous mandible with a tissue-integrated fixed prosthesis: a six-year longitudinal study. Quintessence Int, 1987, 18 (2): 89-96.
+
+[ 76 ] Adell R, Lekholm U, Rockler B, et al. A 15-year study of osseointegrated implants in the treatment of the edentulous jaw. Int J Oral Surg, 1981, 10 (6) : 387-416.
+
+[ 77 ] Johnson DL, Stratton RJ. Fundamentals of removable prosthodontics. Chicago: Quintessence Publishing Co., 1980.
+
+
+
+责任编辑:法振鹏封面设计: 锋尚设计口腔修复 第 2 版工艺学
+
+Prosthodontic Technology 口腔医学导论(第 3 版) 口腔颌面外科学(第 3 版) 口腔颌面部解剖学(第 3 版) 临床牙周病学(第 3 版) 牙体解剖与口腔生理学(第 3 版) 口腔正畸学(第 3 版) 口腔生物学(第 3 版) 儿童口腔医学(第 3 版) 口腔组织学与病理学(第 3 版) 预防口腔医学(第 3 版) 口腔材料学(第 3 版) 口腔种植学(第 2 版) 临床龋病学(第 3 版) 口腔黏膜病学(第 2 版)
+
+牙体牙髓病学(第 3 版) 口腔药物学
+
+口腔修复学(第 3 版) 口腔设备学口腔颌面医学影像学(第 3 版) 口腔修复工艺学(第 2 版)
+
+在使用本书增值服务之前,请您刮开右侧二维码, 使用 微信扫码激活。
+
+* 温馨提示:每个激活二维码只能绑定一个微信号。
+
+每种教材的增值服务类型略有不同。
+
+1 更多优质服务请微信扫码关注 “北京大学医学出版社”公众号。 定价: 96.00 元
